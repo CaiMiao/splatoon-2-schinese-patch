@@ -70,7 +70,7 @@
 		</entry>
 		<entry name="MsgS_08" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x11;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;インクも ぐんぐん&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;回復&#xE;&#x0;&#x3;&#x2;ÿÿだ！</original>
-			<edited>&#xE;&#x2;&#x11;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;墨水也能 呼呼地&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;恢复&#xE;&#x0;&#x3;&#x2;ÿÿ哦！</edited>
+			<edited>&#xE;&#x2;&#x11;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;墨水也能 嗖嗖地&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;恢复&#xE;&#x0;&#x3;&#x2;ÿÿ哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_09" offset="00" relocatable="true" max_length="0">
@@ -125,7 +125,7 @@
 		</entry>
 		<entry name="MsgS_15" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;イカで &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;スーパージャンプ&#xE;&#x0;&#x3;&#x2;ÿÿだ！</original>
-			<edited>用 &#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;乌贼来&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;超级跳跃&#xE;&#x0;&#x3;&#x2;ÿÿ吧！</edited>
+			<edited>用&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;乌贼来&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;超级跳跃&#xE;&#x0;&#x3;&#x2;ÿÿ吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MsgS_15_2" offset="00" relocatable="true" max_length="0">

@@ -5,27 +5,27 @@
 	<entries>
 		<entry name="L_Info_01-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>ブキチェンジ</original>
-			<edited>ブキチェンジ</edited>
+			<edited>更换武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Info_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>ポーズ</original>
-			<edited>ポーズ</edited>
+			<edited>暂停</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_SuperGauge_00-T_Press_00" offset="00" relocatable="true" max_length="0">
 			<original>押しこみ</original>
-			<edited>押しこみ</edited>
+			<edited>按压</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_SuperGauge_00-T_Max_01" offset="00" relocatable="true" max_length="0">
 			<original>フルチャージ!</original>
-			<edited>フルチャージ!</edited>
+			<edited>完全充能!</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_SuperGauge_00-T_Max_00" offset="00" relocatable="true" max_length="0">
 			<original>フルチャージ!</original>
-			<edited>フルチャージ!</edited>
+			<edited>完全充能!</edited>
 			<subEntries />
 		</entry>
 	</entries>

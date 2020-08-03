@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="L_SuperGauge_00-T_Press_00" offset="00" relocatable="true" max_length="0">
 			<original>押しこみ</original>
-			<edited>强行塞进</edited>
+			<edited>按压</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_SuperGauge_00-T_Max_01" offset="00" relocatable="true" max_length="0">

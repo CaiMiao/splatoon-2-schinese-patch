@@ -83,7 +83,7 @@
 			<original>あっ！ 臨時ニュースだって！
 イイダ！ 読んで読んで！</original>
 			<edited>啊！ 有临时新闻哦！
-好啦！ 快念快念！</edited>
+イイダ（蚝菈）！ 快念快念！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstTime_0001" offset="00" relocatable="true" max_length="0">
@@ -93,7 +93,7 @@
 		</entry>
 		<entry name="FirstTime_0002" offset="00" relocatable="true" max_length="0">
 			<original>ええっ、オオデンチナマズが ナゾのシッソウ？</original>
-			<edited>诶诶，オオデンチナマズ 神秘失踪？</edited>
+			<edited>诶诶，オオデンチナマズ（大电池鲶） 神秘失踪？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstTime_0003" offset="00" relocatable="true" max_length="0">
@@ -107,14 +107,14 @@
 			<original>えええっ！ スーパーアイドルの
 アオリちゃんも行方不明？</original>
 			<edited>诶诶诶！ 超级偶像
-小アオリ也下落不明？</edited>
+アオリちゃん（小扇）也下落不明？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstTime_0005" offset="00" relocatable="true" max_length="0">
 			<original>マジ！ それ ちょーヤバくね？！
 イイダ なんとかしなよ！</original>
 			<edited>真的！ 这个 超不得了了啊？！
-好啦 想想办法嘛！</edited>
+イイダ 想想办法嘛！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstTime_0006" offset="00" relocatable="true" max_length="0">
