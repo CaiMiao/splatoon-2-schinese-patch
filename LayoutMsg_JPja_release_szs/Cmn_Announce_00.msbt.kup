@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>カウントリードした！</original>
+			<edited>倒数领先！</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>カウントリードされた！</original>
+			<edited>倒数落后！</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>ガチエリア確保した！</original>
+			<edited>ガチエリア確保した！</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>ガチエリア確保された！</original>
+			<edited>认真守地区域已被占领！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>カウントストップした！</original>
+			<edited>倒数停止了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>カウントストップされた！</original>
+			<edited>倒数被停住了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>ガチヤグラを うばった！</original>
+			<edited>抢到认真高塔了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>ガチヤグラを うばわれた！</original>
+			<edited>认真高塔被抢走了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>ガチヤグラを もどした！</original>
+			<edited>认真高塔送到了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>ガチヤグラを もどされた！</original>
+			<edited>认真高塔被送回去了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>第&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Íカンモンに到着した！</original>
+			<edited>已抵达第&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í关口！</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>第&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Íカンモンに到着された！</original>
+			<edited>对方抵达第&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í关口了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>第&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Íカンモンを突破した！</original>
+			<edited>已突破第&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í关口！</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>第&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Íカンモンを突破された！</original>
+			<edited>第&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í关口被突破了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコを うばった！</original>
+			<edited>抢到认真鱼虎了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコを うばわれた！</original>
+			<edited>认真鱼虎被抢走了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコを防いだ！</original>
+			<edited>守住了认真鱼虎！</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコを失った！</original>
+			<edited>失去了认真鱼虎！</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコが中央にもどった！</original>
+			<edited>认真鱼虎被送回中央了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>バリアをこわした！</original>
+			<edited>打破护罩了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>バリアをこわされた！</original>
+			<edited>护罩被打破了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>バリアをもどした！</original>
+			<edited>护罩送回去了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>バリアをもどされた！</original>
+			<edited>护罩被送回来了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>水門が閉まる！</original>
+			<edited>水闸门要关闭了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>左右のカクリがはじまる！</original>
+			<edited>左右的隔离开始了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>左右のカクリを開始！</original>
+			<edited>开始左右的隔离！</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>中央のカクリがはじまる！</original>
+			<edited>中央的隔离开始了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>中央のカクリを開始！</original>
+			<edited>开始中央的隔离！</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>全エリアのカクリ完了！</original>
+			<edited>全区域隔离完成！</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコが最初の位置にもどった！</original>
+			<edited>认真鱼虎回到最初的位置了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original>第&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Íゲートがひらく！</original>
+			<edited>第&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í大门打开了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>第&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Íゲートがひらかれる！</original>
+			<edited>第&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í大门被打开了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>水面が下がる！</original>
+			<edited>水面在下降！</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>終末の歌声がきこえる！</original>
+			<edited>听到终结的歌声了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="106" offset="00" relocatable="true" max_length="0">
+			<original>ガチヤグラを うばった！</original>
+			<edited>抢到认真高塔了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="107" offset="00" relocatable="true" max_length="0">
+			<original>ガチヤグラを うばわれた！</original>
+			<edited>认真高塔被抢走了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="108" offset="00" relocatable="true" max_length="0">
+			<original>ガチヤグラを もどした！</original>
+			<edited>认真高塔送到了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="109" offset="00" relocatable="true" max_length="0">
+			<original>ガチヤグラを もどされた！</original>
+			<edited>认真高塔被送回去了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="110" offset="00" relocatable="true" max_length="0">
+			<original>第&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Íカンモンに到着した！</original>
+			<edited>已抵达第&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í关口！</edited>
+			<subEntries />
+		</entry>
+		<entry name="112" offset="00" relocatable="true" max_length="0">
+			<original>第&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Íカンモンを突破した！</original>
+			<edited>已突破第&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í关口！</edited>
+			<subEntries />
+		</entry>
+		<entry name="114" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコを うばった！</original>
+			<edited>抢到认真鱼虎了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="117" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコを失った！</original>
+			<edited>失去认真鱼虎了！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

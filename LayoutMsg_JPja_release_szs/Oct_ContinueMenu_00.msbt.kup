@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_Button_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>駅のホームからやり直す</original>
+			<edited>駅のホームからやり直す</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Button_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>電車へもどる</original>
+			<edited>電車へもどる</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_text_00" offset="00" relocatable="true" max_length="0">
+			<original>NAMACOポイントが足りません</original>
+			<edited>NAMACOポイントが足りません</edited>
+			<subEntries />
+		</entry>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>CONTINUE?</original>
+			<edited>CONTINUE?</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>GAMEOVER</original>
+			<edited>GAMEOVER</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>チェックポイントからやり直す</original>
+			<edited>チェックポイントからやり直す</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>クリアしたことにする</original>
+			<edited>クリアしたことにする</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>ヘルプを求める</original>
+			<edited>ヘルプを求める</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>やっぱ自力で
+がんばる</original>
+			<edited>やっぱ自力で
+がんばる</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Button_00-T_Text_06" offset="00" relocatable="true" max_length="0">
+			<original>min</original>
+			<edited>min</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_00-T_Info_01" offset="00" relocatable="true" max_length="0">
+			<original>訓練データ集積中</original>
+			<edited>訓練データ集積中</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Button_01-T_Btn_01" offset="00" relocatable="true" max_length="0">
+			<original>駅のホームからやり直す</original>
+			<edited>駅のホームからやり直す</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

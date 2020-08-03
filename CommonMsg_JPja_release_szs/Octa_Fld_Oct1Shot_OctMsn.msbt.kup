@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>１発で 全て壊しましょウ</original>
+			<edited>１発で 全て壊しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>タイミングが 命でス</original>
+			<edited>タイミングが 命でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>運も実力の内でス</original>
+			<edited>運も実力の内でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="1Shot_0000" offset="00" relocatable="true" max_length="0">
+			<original>あの木箱、全部壊せばいーのか？</original>
+			<edited>あの木箱、全部壊せばいーのか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="1Shot_0001" offset="00" relocatable="true" max_length="0">
+			<original>８号、気合じゃ！</original>
+			<edited>８号、気合じゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="1Shot_0002" offset="00" relocatable="true" max_length="0">
+			<original>おしかったですね…</original>
+			<edited>おしかったですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="1Shot_0003" offset="00" relocatable="true" max_length="0">
+			<original>下のボム風船をねらってみては どうでしょうか？</original>
+			<edited>下のボム風船をねらってみては どうでしょうか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="1Shot_0004" offset="00" relocatable="true" max_length="0">
+			<original>一番下のヤツをねらうと いけそうだな！</original>
+			<edited>一番下のヤツをねらうと いけそうだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="1Shot_0005" offset="00" relocatable="true" max_length="0">
+			<original>ボム風船は おくれて爆発するみたいじゃのゥ</original>
+			<edited>ボム風船は おくれて爆発するみたいじゃのゥ</edited>
+			<subEntries />
+		</entry>
+		<entry name="1Shot_0006" offset="00" relocatable="true" max_length="0">
+			<original>ちょうど真ん中で爆発させねーとな…</original>
+			<edited>ちょうど真ん中で爆発させねーとな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="1Shot_0007" offset="00" relocatable="true" max_length="0">
+			<original>木箱半コ分だけ、横にねらいをズラしてみましょうか？</original>
+			<edited>木箱半コ分だけ、横にねらいをズラしてみましょうか？</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

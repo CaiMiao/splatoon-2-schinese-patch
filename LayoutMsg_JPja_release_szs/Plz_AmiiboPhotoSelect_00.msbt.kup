@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>他のamiiboに変える</original>
+			<edited>他のamiiboに変える</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>いまのamiiboと写真をとる</original>
+			<edited>いまのamiiboと写真をとる</edited>
+			<subEntries />
+		</entry>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>覚えてもらったギアで写真をとる</original>
+			<edited>覚えてもらったギアで写真をとる</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>私服のamiiboと写真をとる</original>
+			<edited>私服のamiiboと写真をとる</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_InputIconBtn_00-T_Category_00" offset="00" relocatable="true" max_length="0">
+			<original>ブキ</original>
+			<edited>ブキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_InputIconBtn_01-T_Category_00" offset="00" relocatable="true" max_length="0">
+			<original>アタマ</original>
+			<edited>アタマ</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_InputIconBtn_02-T_Category_00" offset="00" relocatable="true" max_length="0">
+			<original>フク</original>
+			<edited>フク</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_InputIconBtn_03-T_Category_00" offset="00" relocatable="true" max_length="0">
+			<original>クツ</original>
+			<edited>クツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_InputTitle_00" offset="00" relocatable="true" max_length="0">
+			<original>覚えてもらっているギア</original>
+			<edited>覚えてもらっているギア</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_InputMsg_00" offset="00" relocatable="true" max_length="0">
+			<original>覚えてもらっている
+ギアはありません</original>
+			<edited>覚えてもらっている
+ギアはありません</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

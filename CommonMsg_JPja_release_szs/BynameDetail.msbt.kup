@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Template1" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;</original>
+			<edited>&#xE;&#x3;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Template2" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x8;&#x4;&#x0;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;</original>
+			<edited>&#xE;&#x3;&#x8;&#x4;&#x0;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Template3" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x8;&#x4;&#x0;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x8;&#x4;&#x1;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;</original>
+			<edited>&#xE;&#x3;&#x8;&#x4;&#x0;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x8;&#x4;&#x1;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Template4" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x8;&#x4;&#x0;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x8;&#x4;&#x1;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x8;&#x4;&#x2;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;</original>
+			<edited>&#xE;&#x3;&#x8;&#x4;&#x0;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x8;&#x4;&#x1;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x8;&#x4;&#x2;&#x0;&#x0;&#x0;&#xE;&#x3;	&#x0;&#xE;&#x3;&#x7;&#x0;&#xE;&#x3;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Group_00" offset="00" relocatable="true" max_length="0">
+			<original>軍団</original>
+			<edited>軍団</edited>
+			<subEntries />
+		</entry>
+		<entry name="Group_01" offset="00" relocatable="true" max_length="0">
+			<original>のつどい</original>
+			<edited>のつどい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Group_02" offset="00" relocatable="true" max_length="0">
+			<original>チーム</original>
+			<edited>チーム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Group_03" offset="00" relocatable="true" max_length="0">
+			<original>ズ</original>
+			<edited>ズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Group_04" offset="00" relocatable="true" max_length="0">
+			<original>同好会</original>
+			<edited>同好会</edited>
+			<subEntries />
+		</entry>
+		<entry name="Group_05" offset="00" relocatable="true" max_length="0">
+			<original>集団</original>
+			<edited>集団</edited>
+			<subEntries />
+		</entry>
+		<entry name="Group_06" offset="00" relocatable="true" max_length="0">
+			<original>グループ</original>
+			<edited>グループ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Group_07" offset="00" relocatable="true" max_length="0">
+			<original>会</original>
+			<edited>会</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertySquid" offset="00" relocatable="true" max_length="0">
+			<original>イカ</original>
+			<edited>イカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyOctopus" offset="00" relocatable="true" max_length="0">
+			<original>タコ</original>
+			<edited>タコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyMale" offset="00" relocatable="true" max_length="0">
+			<original>ボーイ</original>
+			<edited>ボーイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyFemale" offset="00" relocatable="true" max_length="0">
+			<original>ガール</original>
+			<edited>ガール</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyHair00" offset="00" relocatable="true" max_length="0">
+			<original>ロングヘア</original>
+			<edited>ロングヘア</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyHair01" offset="00" relocatable="true" max_length="0">
+			<original>ショートカット</original>
+			<edited>ショートカット</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyHair02" offset="00" relocatable="true" max_length="0">
+			<original>ちょんまげ</original>
+			<edited>ちょんまげ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyHair03" offset="00" relocatable="true" max_length="0">
+			<original>オールバック</original>
+			<edited>オールバック</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyHair04" offset="00" relocatable="true" max_length="0">
+			<original>おだんご</original>
+			<edited>おだんご</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyHair05" offset="00" relocatable="true" max_length="0">
+			<original>ボウズ</original>
+			<edited>ボウズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyHair06" offset="00" relocatable="true" max_length="0">
+			<original>ウェービー</original>
+			<edited>ウェービー</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyHair07" offset="00" relocatable="true" max_length="0">
+			<original>アシメ</original>
+			<edited>アシメ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyHair08" offset="00" relocatable="true" max_length="0">
+			<original>ツインテ</original>
+			<edited>ツインテ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyHair09" offset="00" relocatable="true" max_length="0">
+			<original>ツンツン</original>
+			<edited>ツンツン</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyHair10" offset="00" relocatable="true" max_length="0">
+			<original>ぱっつん</original>
+			<edited>ぱっつん</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyHair11" offset="00" relocatable="true" max_length="0">
+			<original>マッシュ</original>
+			<edited>マッシュ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyHair50" offset="00" relocatable="true" max_length="0">
+			<original>カーリーヘア</original>
+			<edited>カーリーヘア</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyHair52" offset="00" relocatable="true" max_length="0">
+			<original>ポニテ</original>
+			<edited>ポニテ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyHair51" offset="00" relocatable="true" max_length="0">
+			<original>モヒカン</original>
+			<edited>モヒカン</edited>
+			<subEntries />
+		</entry>
+		<entry name="PropertyHair53" offset="00" relocatable="true" max_length="0">
+			<original>アフロ</original>
+			<edited>アフロ</edited>
+			<subEntries />
+		</entry>
+		<entry name="WmnShooter" offset="00" relocatable="true" max_length="0">
+			<original>シューター</original>
+			<edited>シューター</edited>
+			<subEntries />
+		</entry>
+		<entry name="WmnRoller" offset="00" relocatable="true" max_length="0">
+			<original>ローラー</original>
+			<edited>ローラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="WmnTwins" offset="00" relocatable="true" max_length="0">
+			<original>マニューバー</original>
+			<edited>マニューバー</edited>
+			<subEntries />
+		</entry>
+		<entry name="WmnBlaster" offset="00" relocatable="true" max_length="0">
+			<original>ブラスター</original>
+			<edited>ブラスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="WmnCharger" offset="00" relocatable="true" max_length="0">
+			<original>チャージャー</original>
+			<edited>チャージャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="WmnSlosher" offset="00" relocatable="true" max_length="0">
+			<original>スロッシャー</original>
+			<edited>スロッシャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="WmnUmbrella" offset="00" relocatable="true" max_length="0">
+			<original>シェルター</original>
+			<edited>シェルター</edited>
+			<subEntries />
+		</entry>
+		<entry name="WmnBrush" offset="00" relocatable="true" max_length="0">
+			<original>ブラシ</original>
+			<edited>ブラシ</edited>
+			<subEntries />
+		</entry>
+		<entry name="WmnSpinner" offset="00" relocatable="true" max_length="0">
+			<original>スピナー</original>
+			<edited>スピナー</edited>
+			<subEntries />
+		</entry>
+		<entry name="WmnVariety" offset="00" relocatable="true" max_length="0">
+			<original>バラエティーブキ</original>
+			<edited>バラエティーブキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Head_Cap" offset="00" relocatable="true" max_length="0">
+			<original>キャップ</original>
+			<edited>キャップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Head_KnitCap" offset="00" relocatable="true" max_length="0">
+			<original>ニット</original>
+			<edited>ニット</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Head_Hat" offset="00" relocatable="true" max_length="0">
+			<original>ハット</original>
+			<edited>ハット</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Head_Beret" offset="00" relocatable="true" max_length="0">
+			<original>ベレー</original>
+			<edited>ベレー</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Head_Band" offset="00" relocatable="true" max_length="0">
+			<original>ヘッドバンド</original>
+			<edited>ヘッドバンド</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Head_Bandana" offset="00" relocatable="true" max_length="0">
+			<original>バンダナ</original>
+			<edited>バンダナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Head_Glasses" offset="00" relocatable="true" max_length="0">
+			<original>メガネ</original>
+			<edited>メガネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Head_Visor" offset="00" relocatable="true" max_length="0">
+			<original>バイザー</original>
+			<edited>バイザー</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Head_Mask" offset="00" relocatable="true" max_length="0">
+			<original>マスク</original>
+			<edited>マスク</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Head_Goggle" offset="00" relocatable="true" max_length="0">
+			<original>ゴーグル</original>
+			<edited>ゴーグル</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Head_Headphone" offset="00" relocatable="true" max_length="0">
+			<original>ヘッドホン</original>
+			<edited>ヘッドホン</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Head_Helmet" offset="00" relocatable="true" max_length="0">
+			<original>ヘルメット</original>
+			<edited>ヘルメット</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Head_Accessory" offset="00" relocatable="true" max_length="0">
+			<original>アクセサリー</original>
+			<edited>アクセサリー</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Head_Party" offset="00" relocatable="true" max_length="0">
+			<original>パーティーヘッド</original>
+			<edited>パーティーヘッド</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Head_Spring" offset="00" relocatable="true" max_length="0">
+			<original>ハルバイザー</original>
+			<edited>ハルバイザー</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Head_Chaos" offset="00" relocatable="true" max_length="0">
+			<original>混沌</original>
+			<edited>混沌</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Head_Order" offset="00" relocatable="true" max_length="0">
+			<original>秩序</original>
+			<edited>秩序</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Head_Final" offset="00" relocatable="true" max_length="0">
+			<original>終宴</original>
+			<edited>終宴</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Shoes_Hicut" offset="00" relocatable="true" max_length="0">
+			<original>ハイカットスニーカー</original>
+			<edited>ハイカットスニーカー</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Shoes_Lowcut" offset="00" relocatable="true" max_length="0">
+			<original>スニーカー</original>
+			<edited>スニーカー</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Shoes_Leather" offset="00" relocatable="true" max_length="0">
+			<original>カワグツ</original>
+			<edited>カワグツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Shoes_Comfort" offset="00" relocatable="true" max_length="0">
+			<original>コンフォート</original>
+			<edited>コンフォート</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Shoes_RubberSole" offset="00" relocatable="true" max_length="0">
+			<original>ラバーソール</original>
+			<edited>ラバーソール</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Shoes_Moccasin" offset="00" relocatable="true" max_length="0">
+			<original>モカシン</original>
+			<edited>モカシン</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Shoes_Boots" offset="00" relocatable="true" max_length="0">
+			<original>ブーツ</original>
+			<edited>ブーツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Shoes_Sandal" offset="00" relocatable="true" max_length="0">
+			<original>サンダル</original>
+			<edited>サンダル</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Shoes_Slippon" offset="00" relocatable="true" max_length="0">
+			<original>スリッポン</original>
+			<edited>スリッポン</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Shoes_Spike" offset="00" relocatable="true" max_length="0">
+			<original>スパイク</original>
+			<edited>スパイク</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Shoes_RainBoots" offset="00" relocatable="true" max_length="0">
+			<original>ナガグツ</original>
+			<edited>ナガグツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Shoes_BigFoot" offset="00" relocatable="true" max_length="0">
+			<original>ビッグフット</original>
+			<edited>ビッグフット</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Shoes_Barefoot" offset="00" relocatable="true" max_length="0">
+			<original>ハダシ</original>
+			<edited>ハダシ</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Shoes_Bouldering" offset="00" relocatable="true" max_length="0">
+			<original>ボルダリング</original>
+			<edited>ボルダリング</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGenre_Shoes_Spring" offset="00" relocatable="true" max_length="0">
+			<original>ハルクツ</original>
+			<edited>ハルクツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB008" offset="00" relocatable="true" max_length="0">
+			<original>エンチャントな夜会</original>
+			<edited>エンチャントな夜会</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB009" offset="00" relocatable="true" max_length="0">
+			<original>タコティカル騎士団</original>
+			<edited>タコティカル騎士団</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB010" offset="00" relocatable="true" max_length="0">
+			<original>ひれおくん</original>
+			<edited>ひれおくん</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

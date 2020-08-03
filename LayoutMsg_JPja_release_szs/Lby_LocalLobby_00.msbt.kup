@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;プライベートマッチ &#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;SALMON RUN&#xE;&#x0;&#x3;&#x2;ÿÿ で
+遊ぶ仲間を募集している 近くの人をさがします</original>
+			<edited>寻找身边正招募 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;私人比赛 &#xE;&#x0;&#x3;&#x2;ÿÿ或
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;SALMON RUN&#xE;&#x0;&#x3;&#x2;ÿÿ 游玩同伴的人</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>近くにいる人と &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;プライベートマッチ &#xE;&#x0;&#x3;&#x2;ÿÿを
+遊ぶための部屋をつくります</original>
+			<edited>创建房间与身边的人
+游玩 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;私人比赛 &#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>近くにいる人と &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;SALMON RUN &#xE;&#x0;&#x3;&#x2;ÿÿを
+遊ぶための部屋をつくります</original>
+			<edited>创建房间与身边的人
+游玩 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;SALMON RUN &#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_localBtn_01-T_Name_00" offset="00" relocatable="true" max_length="0">
+			<original>プライベートマッチをつくる</original>
+			<edited>举办私人比赛</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_localBtn_00-T_Name_00" offset="00" relocatable="true" max_length="0">
+			<original>部屋をさがす</original>
+			<edited>寻找房间</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_localBtn_02-T_Name_00" offset="00" relocatable="true" max_length="0">
+			<original>SALMON RUN
+仲間を募集する</original>
+			<edited>SALMON RUN
+招募同伴</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_BackBtn_00-T_Back_00" offset="00" relocatable="true" max_length="0">
+			<original>広場へ</original>
+			<edited>前往广场</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Page_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í</original>
+			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Menu_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>メニュー</original>
+			<edited>菜单</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_PageTitle_00" offset="00" relocatable="true" max_length="0">
+			<original>Page</original>
+			<edited>Page</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Page_02" offset="00" relocatable="true" max_length="0">
+			<original>/8</original>
+			<edited>/8</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Version_00" offset="00" relocatable="true" max_length="0">
+			<original>ver.&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>ver.&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_LocalTitle_00" offset="00" relocatable="true" max_length="0">
+			<original>イカッチャ</original>
+			<edited>贼能行</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Manual_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>あそびかた説明</original>
+			<edited>游玩方法说明</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

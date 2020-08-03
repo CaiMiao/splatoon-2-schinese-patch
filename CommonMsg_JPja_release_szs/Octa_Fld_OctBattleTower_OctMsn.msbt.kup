@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>敵をゼンメツさせると 先に進めまス</original>
+			<edited>敵をゼンメツさせると 先に進めまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>高いところから敵にインクをかけても あまり効きませン</original>
+			<edited>高いところから敵にインクをかけても あまり効きませン</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>ダッシュ板は カーリングボムなどもダッシュさせまス</original>
+			<edited>ダッシュ板は カーリングボムなどもダッシュさせまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleTower_0000" offset="00" relocatable="true" max_length="0">
+			<original>カベの裏で深呼吸！ 戦場の鉄則ゥ！</original>
+			<edited>カベの裏で深呼吸！ 戦場の鉄則ゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleTower_0001" offset="00" relocatable="true" max_length="0">
+			<original>ナイスゼンメツじゃ！</original>
+			<edited>ナイスゼンメツじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleTower_0002" offset="00" relocatable="true" max_length="0">
+			<original>敵の位置を確認じゃ！  どこから破るかよく考えィ！</original>
+			<edited>敵の位置を確認じゃ！  どこから破るかよく考えィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleTower_0003" offset="00" relocatable="true" max_length="0">
+			<original>ヨッシ！ 次だ！！</original>
+			<edited>ヨッシ！ 次だ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleTower_0004" offset="00" relocatable="true" max_length="0">
+			<original>残りは上にいるヤツらだな！</original>
+			<edited>残りは上にいるヤツらだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleTower_0005" offset="00" relocatable="true" max_length="0">
+			<original>下にまだ 敵がおるぞィ！！</original>
+			<edited>下にまだ 敵がおるぞィ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleTower_0006" offset="00" relocatable="true" max_length="0">
+			<original>うおー！ デカい！ 高い！</original>
+			<edited>うおー！ デカい！ 高い！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleTower_0007" offset="00" relocatable="true" max_length="0">
+			<original>グッジョブじゃ！</original>
+			<edited>グッジョブじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleTower_0008" offset="00" relocatable="true" max_length="0">
+			<original>上の敵は片付きました！</original>
+			<edited>上の敵は片付きました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleTower_0009" offset="00" relocatable="true" max_length="0">
+			<original>よーし、後は上のヤツらだけだな！</original>
+			<edited>よーし、後は上のヤツらだけだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleTower_0010" offset="00" relocatable="true" max_length="0">
+			<original>ドッカーン！</original>
+			<edited>ドッカーン！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleTower_0011" offset="00" relocatable="true" max_length="0">
+			<original>あと１体です！</original>
+			<edited>あと１体です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleTower_0012" offset="00" relocatable="true" max_length="0">
+			<original>後はスタコラーだけです！</original>
+			<edited>後はスタコラーだけです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleTower_0013" offset="00" relocatable="true" max_length="0">
+			<original>無限にカンヅメ出るマシンが ありますよ！</original>
+			<edited>無限にカンヅメ出るマシンが ありますよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleTower_0014" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプポイント、出てんゾ！</original>
+			<edited>ジャンプポイント、出てんゾ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

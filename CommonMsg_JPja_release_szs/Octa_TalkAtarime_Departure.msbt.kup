@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Free_0000" offset="00" relocatable="true" max_length="0">
+			<original>無人駅のようじゃし、
+とりあえず &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;改札 &#xE;&#x0;&#x3;&#x2;ÿÿの向こうを見に行ってくれィ！</original>
+			<edited>無人駅のようじゃし、
+とりあえず &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;改札 &#xE;&#x0;&#x3;&#x2;ÿÿの向こうを見に行ってくれィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Free_0001" offset="00" relocatable="true" max_length="0">
+			<original>それにしても、サビれた駅じゃ…</original>
+			<edited>それにしても、サビれた駅じゃ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Free_0002" offset="00" relocatable="true" max_length="0">
+			<original>３号とワシは タコツボバレーの見張り役だったんじゃ</original>
+			<edited>３号とワシは タコツボバレーの見張り役だったんじゃ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Free_0003" offset="00" relocatable="true" max_length="0">
+			<original>３号は どこへ消えたんじゃろう…</original>
+			<edited>３号は どこへ消えたんじゃろう…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Free_0004" offset="00" relocatable="true" max_length="0">
+			<original>はて… つかれた…</original>
+			<edited>はて… つかれた…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Free_0005" offset="00" relocatable="true" max_length="0">
+			<original>こしが 痛い…</original>
+			<edited>こしが 痛い…</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

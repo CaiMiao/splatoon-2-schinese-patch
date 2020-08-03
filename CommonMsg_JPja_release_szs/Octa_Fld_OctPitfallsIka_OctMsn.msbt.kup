@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>壊れる足場から落ちずに 戦うのでス</original>
+			<edited>壊れる足場から落ちずに 戦うのでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ムダ撃ちは 大変キケンでス</original>
+			<edited>ムダ撃ちは 大変キケンでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>固い木箱の位置を確認しましょウ</original>
+			<edited>固い木箱の位置を確認しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsIka_0000" offset="00" relocatable="true" max_length="0">
+			<original>なんだ ありゃあ…</original>
+			<edited>なんだ ありゃあ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsIka_0001" offset="00" relocatable="true" max_length="0">
+			<original>あそこが 戦いの場になるようですね</original>
+			<edited>あそこが 戦いの場になるようですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsIka_0002" offset="00" relocatable="true" max_length="0">
+			<original>ファッ？！ これじゃと足場がインクで壊れるのゥ！</original>
+			<edited>ファッ？！ これじゃと足場がインクで壊れるのゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsIka_0003" offset="00" relocatable="true" max_length="0">
+			<original>ヒッセンは射程が短いんだよ！ もっと距離をつめろ</original>
+			<edited>ヒッセンは射程が短いんだよ！ もっと距離をつめろ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsIka_0004" offset="00" relocatable="true" max_length="0">
+			<original>遠くへにげられたら いったんはなれて、おびき出しましょう</original>
+			<edited>遠くへにげられたら いったんはなれて、おびき出しましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsIka_0005" offset="00" relocatable="true" max_length="0">
+			<original>敵が増えたゾ！</original>
+			<edited>敵が増えたゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsIka_0006" offset="00" relocatable="true" max_length="0">
+			<original>バイソクタコプターは 移動したあとをねらいましょう！</original>
+			<edited>バイソクタコプターは 移動したあとをねらいましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsIka_0007" offset="00" relocatable="true" max_length="0">
+			<original>ゲッ！ ヤベェの出てきた！</original>
+			<edited>ゲッ！ ヤベェの出てきた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsIka_0008" offset="00" relocatable="true" max_length="0">
+			<original>バイソクボムタコプターは、ブースト移動後に攻撃で！</original>
+			<edited>バイソクボムタコプターは、ブースト移動後に攻撃で！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsIka_0009" offset="00" relocatable="true" max_length="0">
+			<original>近づけないなら クイックボム！ 戦場の鉄則ゥ！</original>
+			<edited>近づけないなら クイックボム！ 戦場の鉄則ゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsIka_0010" offset="00" relocatable="true" max_length="0">
+			<original>インク撃ったら どんどん足場を変えてけよ！</original>
+			<edited>インク撃ったら どんどん足場を変えてけよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsIka_0011" offset="00" relocatable="true" max_length="0">
+			<original>イクラ入りの木箱は 敵のインクでは 壊れないようです！</original>
+			<edited>イクラ入りの木箱は 敵のインクでは 壊れないようです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsIka_0012" offset="00" relocatable="true" max_length="0">
+			<original>ハチ！ ロゴ入り木箱の上で戦え！</original>
+			<edited>ハチ！ ロゴ入り木箱の上で戦え！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsIka_0013" offset="00" relocatable="true" max_length="0">
+			<original>近くの敵は、ヨコ振りで木箱を温存しましょ～</original>
+			<edited>近くの敵は、ヨコ振りで木箱を温存しましょ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsIka_0014" offset="00" relocatable="true" max_length="0">
+			<original>遠くの敵は、かたい木箱の上でタテ振りドンッだ！</original>
+			<edited>遠くの敵は、かたい木箱の上でタテ振りドンッだ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

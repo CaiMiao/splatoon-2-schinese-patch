@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_Btn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>フェス投稿する</original>
+			<edited>フェス投稿する</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>投稿する</original>
+			<edited>投稿する</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>投稿について</original>
+			<edited>投稿について</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

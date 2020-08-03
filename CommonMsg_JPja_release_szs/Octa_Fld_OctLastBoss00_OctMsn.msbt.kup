@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="LastBoss00_0000" offset="00" relocatable="true" max_length="0">
+			<original>しまったッ！ ８号は、ブキを持っとらんぞィ！</original>
+			<edited>しまったッ！ ８号は、ブキを持っとらんぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss00_0001" offset="00" relocatable="true" max_length="0">
+			<original>８号さん！ 敵に見つからないように進んでください！</original>
+			<edited>８号さん！ 敵に見つからないように進んでください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss00_0002" offset="00" relocatable="true" max_length="0">
+			<original>ゲッ、敵！ センプクで行くしかねーな…</original>
+			<edited>ゲッ、敵！ センプクで行くしかねーな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss00_0004" offset="00" relocatable="true" max_length="0">
+			<original>速く移動すると しぶきが立って、見つかりますよ！</original>
+			<edited>速く移動すると しぶきが立って、見つかりますよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss00_0006" offset="00" relocatable="true" max_length="0">
+			<original>ゔぇぇ… 息がつまりそうだゾ…</original>
+			<edited>ゔぇぇ… 息がつまりそうだゾ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss00_0008" offset="00" relocatable="true" max_length="0">
+			<original>敵出現ポイントがあります！ 見つかると 敵が増えます！</original>
+			<edited>敵出現ポイントがあります！ 見つかると 敵が増えます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss00_0009" offset="00" relocatable="true" max_length="0">
+			<original>インクの道、切れてんゾ！ 敵が背を向けた時に 行け！</original>
+			<edited>インクの道、切れてんゾ！ 敵が背を向けた時に 行け！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss00_0011" offset="00" relocatable="true" max_length="0">
+			<original>敵のインクがジャマだなー…</original>
+			<edited>敵のインクがジャマだなー…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss00_0015" offset="00" relocatable="true" max_length="0">
+			<original>ふぅ… そー言えばジジィ、そっちの様子はどうよ？</original>
+			<edited>ふぅ… そー言えばジジィ、そっちの様子はどうよ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss00_0016" offset="00" relocatable="true" max_length="0">
+			<original>３号なら、まだノビとるぞィ！</original>
+			<edited>３号なら、まだノビとるぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss00_0017" offset="00" relocatable="true" max_length="0">
+			<original>しかし、ブキが無いと 話になんねーな…</original>
+			<edited>しかし、ブキが無いと 話になんねーな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss00_0018" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプポイントの先に ブキの反応がありますよ！</original>
+			<edited>ジャンプポイントの先に ブキの反応がありますよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss00_0022" offset="00" relocatable="true" max_length="0">
+			<original>ッシャー！ ナイス！</original>
+			<edited>ッシャー！ ナイス！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss00_0023" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプポイントです！ あの先で ブキをゲットしましょう！</original>
+			<edited>ジャンプポイントです！ あの先で ブキをゲットしましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss00_0026" offset="00" relocatable="true" max_length="0">
+			<original>あぶなかった… 地上まで 気を引きしめてけよ！</original>
+			<edited>あぶなかった… 地上まで 気を引きしめてけよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss00_0027" offset="00" relocatable="true" max_length="0">
+			<original>全然見つかんなかったな！ この調子で地上を目指せ！</original>
+			<edited>全然見つかんなかったな！ この調子で地上を目指せ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

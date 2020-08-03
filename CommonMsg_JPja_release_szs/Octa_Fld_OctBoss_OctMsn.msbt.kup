@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Boss_0000" offset="00" relocatable="true" max_length="0">
+			<original>最初のイイダボムです！ 胸に５コ、投下！</original>
+			<edited>最初のイイダボムです！ 胸に５コ、投下！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0001" offset="00" relocatable="true" max_length="0">
+			<original>３０秒経過！ イイダボム、首の回りに５コ、投下！</original>
+			<edited>３０秒経過！ イイダボム、首の回りに５コ、投下！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0002" offset="00" relocatable="true" max_length="0">
+			<original>６０秒経過！ イイダボム、背中に５コ、投下！</original>
+			<edited>６０秒経過！ イイダボム、背中に５コ、投下！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0003" offset="00" relocatable="true" max_length="0">
+			<original>９０秒経過！ イイダボム 右ウデに５コ、投下！</original>
+			<edited>９０秒経過！ イイダボム 右ウデに５コ、投下！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0004" offset="00" relocatable="true" max_length="0">
+			<original>１２０秒経過！ 最後です！ 頭に１０コ、投下！</original>
+			<edited>１２０秒経過！ 最後です！ 頭に１０コ、投下！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0005" offset="00" relocatable="true" max_length="0">
+			<original>世界をネリ返すエネルギー 発射まで、残り３０秒！</original>
+			<edited>世界をネリ返すエネルギー 発射まで、残り３０秒！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0006" offset="00" relocatable="true" max_length="0">
+			<original>ィよーし！！ 撃って壊して塗りたくるんじゃーッ！</original>
+			<edited>ィよーし！！ 撃って壊して塗りたくるんじゃーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0007" offset="00" relocatable="true" max_length="0">
+			<original>８号！ 首にあるポイント近くで 待機じゃ！</original>
+			<edited>８号！ 首にあるポイント近くで 待機じゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0008" offset="00" relocatable="true" max_length="0">
+			<original>ナイスです！ 次は首に投げます！ 少々お待ちを…</original>
+			<edited>ナイスです！ 次は首に投げます！ 少々お待ちを…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0009" offset="00" relocatable="true" max_length="0">
+			<original>８号、聞こえたか？！ 背中側に先回りするんじゃ！</original>
+			<edited>８号、聞こえたか？！ 背中側に先回りするんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0010" offset="00" relocatable="true" max_length="0">
+			<original>OK！ 次は背中側に投げます！ 少々お待ちを…</original>
+			<edited>OK！ 次は背中側に投げます！ 少々お待ちを…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0011" offset="00" relocatable="true" max_length="0">
+			<original>ハチ！ まちがうなよ！ 像の右ウデに、急げ！</original>
+			<edited>ハチ！ まちがうなよ！ 像の右ウデに、急げ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0012" offset="00" relocatable="true" max_length="0">
+			<original>次は右ウデの方に投下します！ 少々お待ちを…</original>
+			<edited>次は右ウデの方に投下します！ 少々お待ちを…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0013" offset="00" relocatable="true" max_length="0">
+			<original>ライドレールを使って、頭に向かえィ！</original>
+			<edited>ライドレールを使って、頭に向かえィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0014" offset="00" relocatable="true" max_length="0">
+			<original>ナイスです！ 最後は頭です！ 少々お待ちを…</original>
+			<edited>ナイスです！ 最後は頭です！ 少々お待ちを…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0015" offset="00" relocatable="true" max_length="0">
+			<original>８号さん！ 移動用に　この子達を使ってください！</original>
+			<edited>８号さん！ 移動用に　この子達を使ってください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0016" offset="00" relocatable="true" max_length="0">
+			<original>最初は 胸の辺りに５コ</original>
+			<edited>最初は 胸の辺りに５コ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0017" offset="00" relocatable="true" max_length="0">
+			<original>その３０秒後に、首の回りに５コ</original>
+			<edited>その３０秒後に、首の回りに５コ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0018" offset="00" relocatable="true" max_length="0">
+			<original>６０秒後に、背中に５コ</original>
+			<edited>６０秒後に、背中に５コ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0019" offset="00" relocatable="true" max_length="0">
+			<original>９０秒後に、右ウデに５コ</original>
+			<edited>９０秒後に、右ウデに５コ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0020" offset="00" relocatable="true" max_length="0">
+			<original>最後 １２０秒後に、頭に１０コ</original>
+			<edited>最後 １２０秒後に、頭に１０コ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0021" offset="00" relocatable="true" max_length="0">
+			<original>このイイダボムを&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;３分以内&#xE;&#x0;&#x3;&#x2;ÿÿに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;全部&#xE;&#x0;&#x3;&#x2;ÿÿ壊してください</original>
+			<edited>このイイダボムを&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;３分以内&#xE;&#x0;&#x3;&#x2;ÿÿに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;全部&#xE;&#x0;&#x3;&#x2;ÿÿ壊してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0023" offset="00" relocatable="true" max_length="0">
+			<original>イイダボムは これらのポイントに投下します！ </original>
+			<edited>イイダボムは これらのポイントに投下します！ </edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0025" offset="00" relocatable="true" max_length="0">
+			<original>まだ 胸にイイダボムが あるぞィ！</original>
+			<edited>まだ 胸にイイダボムが あるぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0026" offset="00" relocatable="true" max_length="0">
+			<original>胸にイイダボム、残ってんゾ！</original>
+			<edited>胸にイイダボム、残ってんゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0027" offset="00" relocatable="true" max_length="0">
+			<original>ん？ 胸のイイダボム、忘とらんか？</original>
+			<edited>ん？ 胸のイイダボム、忘とらんか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0028" offset="00" relocatable="true" max_length="0">
+			<original>首のイイダボム、壊したほうがいーんじゃねーか？</original>
+			<edited>首のイイダボム、壊したほうがいーんじゃねーか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0029" offset="00" relocatable="true" max_length="0">
+			<original>８号！ 首にイイダボム、残っとるぞィ！</original>
+			<edited>８号！ 首にイイダボム、残っとるぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0030" offset="00" relocatable="true" max_length="0">
+			<original>ハチ！ 胸に壊してないイイダボムが あんゾ！</original>
+			<edited>ハチ！ 胸に壊してないイイダボムが あんゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0031" offset="00" relocatable="true" max_length="0">
+			<original>背中のイイダボム、とっとと壊そーぜ！</original>
+			<edited>背中のイイダボム、とっとと壊そーぜ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0032" offset="00" relocatable="true" max_length="0">
+			<original>ホレ！ 背中のイイダボム、見のがしとるぞィ！</original>
+			<edited>ホレ！ 背中のイイダボム、見のがしとるぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0033" offset="00" relocatable="true" max_length="0">
+			<original>首のイイダボム、放置されてんゾ！</original>
+			<edited>首のイイダボム、放置されてんゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0034" offset="00" relocatable="true" max_length="0">
+			<original>おい！ 胸のイイダボム、見のがしてんゾ！</original>
+			<edited>おい！ 胸のイイダボム、見のがしてんゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0035" offset="00" relocatable="true" max_length="0">
+			<original>ハチ！ 右ウデのイイダボム、忘れんなよ！</original>
+			<edited>ハチ！ 右ウデのイイダボム、忘れんなよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0036" offset="00" relocatable="true" max_length="0">
+			<original>ネルス像のチャージが止まりました！</original>
+			<edited>ネルス像のチャージが止まりました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0037" offset="00" relocatable="true" max_length="0">
+			<original>８号！ こっちの準備ができるまで、そこで待っとれィ！</original>
+			<edited>８号！ こっちの準備ができるまで、そこで待っとれィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0038" offset="00" relocatable="true" max_length="0">
+			<original>テンション、そろそろ いいゾ！</original>
+			<edited>テンション、そろそろ いいゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0039" offset="00" relocatable="true" max_length="0">
+			<original>てかさー… 『イイダボム』って名前、そのまんますぎね？</original>
+			<edited>てかさー… 『イイダボム』って名前、そのまんますぎね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0040" offset="00" relocatable="true" max_length="0">
+			<original>Elegantで Dramatic、かつ Amazingなボム…</original>
+			<edited>Elegantで Dramatic、かつ Amazingなボム…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0041" offset="00" relocatable="true" max_length="0">
+			<original>略したら『E-DA』ボムに なっちゃったんですよ～</original>
+			<edited>略したら『E-DA』ボムに なっちゃったんですよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0042" offset="00" relocatable="true" max_length="0">
+			<original>フォーッ！！ 名は体を表しとるのゥ！！</original>
+			<edited>フォーッ！！ 名は体を表しとるのゥ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0043" offset="00" relocatable="true" max_length="0">
+			<original>イイダボム、 ラスト１コだけ残ってんゾ！</original>
+			<edited>イイダボム、 ラスト１コだけ残ってんゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0044" offset="00" relocatable="true" max_length="0">
+			<original>ガ… 魚介類よ、このまま大人しく ネリ返されるがヨイ</original>
+			<edited>ガ… 魚介類よ、このまま大人しく ネリ返されるがヨイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0045" offset="00" relocatable="true" max_length="0">
+			<original>ガッ！ 貴様らはネリ返され、新世界の一部となるノダ！</original>
+			<edited>ガッ！ 貴様らはネリ返され、新世界の一部となるノダ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0046" offset="00" relocatable="true" max_length="0">
+			<original>ガガ… この世界をネリ返し、博士の求めた世界ヲ…</original>
+			<edited>ガガ… この世界をネリ返し、博士の求めた世界ヲ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0047" offset="00" relocatable="true" max_length="0">
+			<original>ガガッ… ムダだ、No.10008！ ネルス像は止めらレン！</original>
+			<edited>ガガッ… ムダだ、No.10008！ ネルス像は止めらレン！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Boss_0048" offset="00" relocatable="true" max_length="0">
+			<original>ガガッ！ ネルス像！ ネリ返す時が近づいて来タゾ！！</original>
+			<edited>ガガッ！ ネルス像！ ネリ返す時が近づいて来タゾ！！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

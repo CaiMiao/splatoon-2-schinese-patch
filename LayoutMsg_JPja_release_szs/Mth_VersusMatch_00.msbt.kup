@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_PlayerName_00-T_Wait_00" offset="00" relocatable="true" max_length="0">
+			<original>募集中…</original>
+			<edited>募集中…</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_00-T_Rank_00" offset="00" relocatable="true" max_length="0">
+			<original>ランク</original>
+			<edited>ランク</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_00-T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_00-P_Item_00" offset="00" relocatable="true" max_length="0">
+			<original>?</original>
+			<edited>?</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_01-T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_01-P_Item_00" offset="00" relocatable="true" max_length="0">
+			<original>?</original>
+			<edited>?</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_02-T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_02-P_Item_00" offset="00" relocatable="true" max_length="0">
+			<original>?</original>
+			<edited>?</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_03-T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_03-P_Item_00" offset="00" relocatable="true" max_length="0">
+			<original>?</original>
+			<edited>?</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_04-T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_04-P_Item_00" offset="00" relocatable="true" max_length="0">
+			<original>?</original>
+			<edited>?</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_05-T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_05-P_Item_00" offset="00" relocatable="true" max_length="0">
+			<original>?</original>
+			<edited>?</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_07-T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_07-P_Item_00" offset="00" relocatable="true" max_length="0">
+			<original>?</original>
+			<edited>?</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_06-T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_06-P_Item_00" offset="00" relocatable="true" max_length="0">
+			<original>?</original>
+			<edited>?</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Progress_00" offset="00" relocatable="true" max_length="0">
+			<original>対戦相手を待っています</original>
+			<edited>対戦相手を待っています</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Start_00" offset="00" relocatable="true" max_length="0">
+			<original>バトルを開始します！</original>
+			<edited>バトルを開始します！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_Rank_00-T_Max_00" offset="00" relocatable="true" max_length="0">
+			<original>MAX</original>
+			<edited>MAX</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_Rank_00-T_RankNum_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x6;&#x4;&#x0;&#x0;&#x0;Í/&#xE;ú&#x6;&#x4;&#x1;&#x0;&#x0;Í</original>
+			<edited>&#xE;ú&#x6;&#x4;&#x0;&#x0;&#x0;Í/&#xE;ú&#x6;&#x4;&#x1;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_Rank_00-T_RankHeader_00" offset="00" relocatable="true" max_length="0">
+			<original>ランク</original>
+			<edited>ランク</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_Udemae_00-T_UdemaeHeader_00" offset="00" relocatable="true" max_length="0">
+			<original>ウデマエ</original>
+			<edited>ウデマエ</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_FesRank_00-T_Max_00" offset="00" relocatable="true" max_length="0">
+			<original>MAX</original>
+			<edited>MAX</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_Choushi_00-T_WinPoint_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í</original>
+			<edited>&#xE;û&#x1;&#x4;&#x0;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_RuleHeader_00" offset="00" relocatable="true" max_length="0">
+			<original>ルール</original>
+			<edited>ルール</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_StageHeader_00" offset="00" relocatable="true" max_length="0">
+			<original>ステージ</original>
+			<edited>ステージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_HowTo_00" offset="00" relocatable="true" max_length="0">
+			<original>マップの使い方</original>
+			<edited>マップの使い方</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_First_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x2;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でマップを開く／閉じる</original>
+			<edited>&#xE;&#x2;&#x2;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でマップを開く／閉じる</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Second_00" offset="00" relocatable="true" max_length="0">
+			<original>スーパージャンプするときは
+&#xE;&#x2;&#x8;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押しながら&#xE;&#x2;&#x0;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;！</original>
+			<edited>スーパージャンプするときは
+&#xE;&#x2;&#x8;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押しながら&#xE;&#x2;&#x0;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Respawn_00" offset="00" relocatable="true" max_length="0">
+			<original>スタート地点</original>
+			<edited>スタート地点</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Name_00" offset="00" relocatable="true" max_length="0">
+			<original>Player1</original>
+			<edited>Player1</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_FesRank_00-T_PointNum_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x3;&#x4;&#x0;&#x0;&#x0;Í/&#xE;ú&#x3;&#x4;&#x1;&#x0;&#x0;Í</original>
+			<edited>&#xE;ú&#x3;&#x4;&#x0;&#x0;&#x0;Í/&#xE;ú&#x3;&#x4;&#x1;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_FesRank_00-T_FesNum_01" offset="00" relocatable="true" max_length="0">
+			<original>最高：&#xE;û&#x3;&#x4;&#x0;&#x0;&#x0;Í</original>
+			<edited>最高：&#xE;û&#x3;&#x4;&#x0;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_FesRank_00-T_FesNum_00" offset="00" relocatable="true" max_length="0">
+			<original>現在：&#xE;û&#x3;&#x4;&#x0;&#x0;&#x0;Í</original>
+			<edited>現在：&#xE;û&#x3;&#x4;&#x0;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_FesRank_00-T_FesCount_01" offset="00" relocatable="true" max_length="0">
+			<original>計測中…</original>
+			<edited>計測中…</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_FesRank_00-T_FesCount_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í/&#xE;ú&#x0;&#x4;&#x1;&#x0;&#x0;Í</original>
+			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í/&#xE;ú&#x0;&#x4;&#x1;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x2;Íチームの準備OK！</original>
+			<edited>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x2;Íチームの準備OK！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Start_01" offset="00" relocatable="true" max_length="0">
+			<original>バトルを開始します！</original>
+			<edited>バトルを開始します！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Fes_01" offset="00" relocatable="true" max_length="0">
+			<original>対戦相手を待っています</original>
+			<edited>対戦相手を待っています</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Start_02" offset="00" relocatable="true" max_length="0">
+			<original>バトルを開始します！</original>
+			<edited>バトルを開始します！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_FesRank_00-T_FesPow_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x2;Íパワー</original>
+			<edited>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x2;Íパワー</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Wait_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x2;Íチームを待っています</original>
+			<edited>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x2;Íチームを待っています</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_Udemae_00-T_XPowerTitle_00" offset="00" relocatable="true" max_length="0">
+			<original>計測中…</original>
+			<edited>計測中…</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_Udemae_00-T_XPowerTitle_01" offset="00" relocatable="true" max_length="0">
+			<original>Ｘパワー</original>
+			<edited>Ｘパワー</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_FesRank_00-T_FesPow_01" offset="00" relocatable="true" max_length="0">
+			<original>こうけん度</original>
+			<edited>こうけん度</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_News_00-T_News_02" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

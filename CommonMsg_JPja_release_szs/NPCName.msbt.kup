@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="WeaponShop" offset="00" relocatable="true" max_length="0">
+			<original>ブキチ</original>
+			<edited>ブキチ</edited>
+			<subEntries />
+		</entry>
+		<entry name="AccessoryShop" offset="00" relocatable="true" max_length="0">
+			<original>ミウラ</original>
+			<edited>ミウラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shiroebi" offset="00" relocatable="true" max_length="0">
+			<original>エビィ</original>
+			<edited>エビィ</edited>
+			<subEntries />
+		</entry>
+		<entry name="ClothesShop" offset="00" relocatable="true" max_length="0">
+			<original>ビゼン</original>
+			<edited>ビゼン</edited>
+			<subEntries />
+		</entry>
+		<entry name="ShoesShop" offset="00" relocatable="true" max_length="0">
+			<original>シガニー</original>
+			<edited>シガニー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Lob" offset="00" relocatable="true" max_length="0">
+			<original>ロブ</original>
+			<edited>ロブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Vender" offset="00" relocatable="true" max_length="0">
+			<original>スパイキー</original>
+			<edited>スパイキー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Atarime" offset="00" relocatable="true" max_length="0">
+			<original>アタリメ司令</original>
+			<edited>アタリメ司令</edited>
+			<subEntries />
+		</entry>
+		<entry name="WamonA" offset="00" relocatable="true" max_length="0">
+			<original>？？？</original>
+			<edited>？？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="WamonB" offset="00" relocatable="true" max_length="0">
+			<original>DJタコワサ将軍</original>
+			<edited>DJタコワサ将軍</edited>
+			<subEntries />
+		</entry>
+		<entry name="Aori" offset="00" relocatable="true" max_length="0">
+			<original>アオリ</original>
+			<edited>アオリ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Aori_S" offset="00" relocatable="true" max_length="0">
+			<original>？？？</original>
+			<edited>？？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Hotaru" offset="00" relocatable="true" max_length="0">
+			<original>ホタル</original>
+			<edited>ホタル</edited>
+			<subEntries />
+		</entry>
+		<entry name="Hime" offset="00" relocatable="true" max_length="0">
+			<original>ヒメ</original>
+			<edited>ヒメ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Iida" offset="00" relocatable="true" max_length="0">
+			<original>イイダ</original>
+			<edited>イイダ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shiso" offset="00" relocatable="true" max_length="0">
+			<original>１号</original>
+			<edited>１号</edited>
+			<subEntries />
+		</entry>
+		<entry name="Lemon" offset="00" relocatable="true" max_length="0">
+			<original>２号</original>
+			<edited>２号</edited>
+			<subEntries />
+		</entry>
+		<entry name="Rival" offset="00" relocatable="true" max_length="0">
+			<original>タコゾネス</original>
+			<edited>タコゾネス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kuma" offset="00" relocatable="true" max_length="0">
+			<original>クマサン</original>
+			<edited>クマサン</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unknown" offset="00" relocatable="true" max_length="0">
+			<original>ナゾの声</original>
+			<edited>ナゾの声</edited>
+			<subEntries />
+		</entry>
+		<entry name="Namaco" offset="00" relocatable="true" max_length="0">
+			<original>ナマコ車掌</original>
+			<edited>ナマコ車掌</edited>
+			<subEntries />
+		</entry>
+		<entry name="OctaBoss" offset="00" relocatable="true" max_length="0">
+			<original>タルタル総帥</original>
+			<edited>タルタル総帥</edited>
+			<subEntries />
+		</entry>
+		<entry name="Receiver" offset="00" relocatable="true" max_length="0">
+			<original>デンワ</original>
+			<edited>デンワ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kamaboko" offset="00" relocatable="true" max_length="0">
+			<original>グソクさん</original>
+			<edited>グソクさん</edited>
+			<subEntries />
+		</entry>
+		<entry name="BrokenPhone" offset="00" relocatable="true" max_length="0">
+			<original>こわれたデンワ</original>
+			<edited>こわれたデンワ</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

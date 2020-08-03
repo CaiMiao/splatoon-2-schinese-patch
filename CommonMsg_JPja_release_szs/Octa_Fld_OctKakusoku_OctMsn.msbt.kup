@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>でんでんスイッチは、１発ずつ撃ちましょウ</original>
+			<edited>でんでんスイッチは、１発ずつ撃ちましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>タコミサイルは 使いようでス</original>
+			<edited>タコミサイルは 使いようでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>リールガンの射程を利用しましょウ</original>
+			<edited>リールガンの射程を利用しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kakusoku_0002" offset="00" relocatable="true" max_length="0">
+			<original>でんでんスイッチだ！ 撃っちゃえ！</original>
+			<edited>でんでんスイッチだ！ 撃っちゃえ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kakusoku_0003" offset="00" relocatable="true" max_length="0">
+			<original>これでタコミサイルの通り道を 変えられそうですね！</original>
+			<edited>これでタコミサイルの通り道を 変えられそうですね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kakusoku_0004" offset="00" relocatable="true" max_length="0">
+			<original>ゴールポイントが見えました！</original>
+			<edited>ゴールポイントが見えました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kakusoku_0005" offset="00" relocatable="true" max_length="0">
+			<original>シャオラー！！</original>
+			<edited>シャオラー！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kakusoku_0006" offset="00" relocatable="true" max_length="0">
+			<original>これでタコミサイルが 通れるようになるはずです</original>
+			<edited>これでタコミサイルが 通れるようになるはずです</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kakusoku_0007" offset="00" relocatable="true" max_length="0">
+			<original>リフトびゅーん！</original>
+			<edited>リフトびゅーん！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kakusoku_0008" offset="00" relocatable="true" max_length="0">
+			<original>リフトびゅーん、パート２！</original>
+			<edited>リフトびゅーん、パート２！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kakusoku_0009" offset="00" relocatable="true" max_length="0">
+			<original>でんでんスイッチ、発見したゾ！</original>
+			<edited>でんでんスイッチ、発見したゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kakusoku_0010" offset="00" relocatable="true" max_length="0">
+			<original>敵さん、バイバイだ！</original>
+			<edited>敵さん、バイバイだ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

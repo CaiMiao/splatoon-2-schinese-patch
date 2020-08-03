@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Bomb_Splash" offset="00" relocatable="true" max_length="0">
+			<original>スプラッシュボム</original>
+			<edited>スプラッシュボム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_Suction" offset="00" relocatable="true" max_length="0">
+			<original>キューバンボム</original>
+			<edited>キューバンボム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_Quick" offset="00" relocatable="true" max_length="0">
+			<original>クイックボム</original>
+			<edited>クイックボム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_Curling" offset="00" relocatable="true" max_length="0">
+			<original>カーリングボム</original>
+			<edited>カーリングボム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_Robo" offset="00" relocatable="true" max_length="0">
+			<original>ロボットボム</original>
+			<edited>ロボットボム</edited>
+			<subEntries />
+		</entry>
+		<entry name="TimerTrap" offset="00" relocatable="true" max_length="0">
+			<original>トラップ</original>
+			<edited>トラップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Sprinkler" offset="00" relocatable="true" max_length="0">
+			<original>スプリンクラー</original>
+			<edited>スプリンクラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="PointSensor" offset="00" relocatable="true" max_length="0">
+			<original>ポイントセンサー</original>
+			<edited>ポイントセンサー</edited>
+			<subEntries />
+		</entry>
+		<entry name="PoisonFog" offset="00" relocatable="true" max_length="0">
+			<original>ポイズンミスト</original>
+			<edited>ポイズンミスト</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shield" offset="00" relocatable="true" max_length="0">
+			<original>スプラッシュシールド</original>
+			<edited>スプラッシュシールド</edited>
+			<subEntries />
+		</entry>
+		<entry name="Flag" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプビーコン</original>
+			<edited>ジャンプビーコン</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_Piyo" offset="00" relocatable="true" max_length="0">
+			<original>タンサンボム</original>
+			<edited>タンサンボム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_Tako" offset="00" relocatable="true" max_length="0">
+			<original>トーピード</original>
+			<edited>トーピード</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_MissionSplash" offset="00" relocatable="true" max_length="0">
+			<original>スプラッシュボム</original>
+			<edited>スプラッシュボム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_MissionCurling" offset="00" relocatable="true" max_length="0">
+			<original>カーリングボム</original>
+			<edited>カーリングボム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_MissionRobo" offset="00" relocatable="true" max_length="0">
+			<original>ロボットボム</original>
+			<edited>ロボットボム</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="101_Name" offset="00" relocatable="true" max_length="0">
+			<original>タコツボベーカリー</original>
+			<edited>タコツボベーカリー</edited>
+			<subEntries />
+		</entry>
+		<entry name="101_Sub" offset="00" relocatable="true" max_length="0">
+			<original>焼き立てのおいしさ</original>
+			<edited>焼き立てのおいしさ</edited>
+			<subEntries />
+		</entry>
+		<entry name="102_Name" offset="00" relocatable="true" max_length="0">
+			<original>タコツボザムライ</original>
+			<edited>タコツボザムライ</edited>
+			<subEntries />
+		</entry>
+		<entry name="102_Sub" offset="00" relocatable="true" max_length="0">
+			<original>いざ尋常に</original>
+			<edited>いざ尋常に</edited>
+			<subEntries />
+		</entry>
+		<entry name="103_Name" offset="00" relocatable="true" max_length="0">
+			<original>タコツボックス</original>
+			<edited>タコツボックス</edited>
+			<subEntries />
+		</entry>
+		<entry name="103_ExtraName" offset="00" relocatable="true" max_length="0">
+			<original>タコツボックス・クール</original>
+			<edited>タコツボックス・クール</edited>
+			<subEntries />
+		</entry>
+		<entry name="103_Sub" offset="00" relocatable="true" max_length="0">
+			<original>帰ってきた</original>
+			<edited>帰ってきた</edited>
+			<subEntries />
+		</entry>
+		<entry name="103_ExtraSub" offset="00" relocatable="true" max_length="0">
+			<original>鮮度長持ち</original>
+			<edited>鮮度長持ち</edited>
+			<subEntries />
+		</entry>
+		<entry name="104_Name" offset="00" relocatable="true" max_length="0">
+			<original>タコツボビバノン</original>
+			<edited>タコツボビバノン</edited>
+			<subEntries />
+		</entry>
+		<entry name="104_Sub" offset="00" relocatable="true" max_length="0">
+			<original>源泉かけ流し</original>
+			<edited>源泉かけ流し</edited>
+			<subEntries />
+		</entry>
+		<entry name="105_Name" offset="00" relocatable="true" max_length="0">
+			<original>タコツボキング A-MIX</original>
+			<edited>タコツボキング A-MIX</edited>
+			<subEntries />
+		</entry>
+		<entry name="105_Sub" offset="00" relocatable="true" max_length="0">
+			<original>DJ Octavio feat. AORI  </original>
+			<edited>DJ Octavio feat. AORI  </edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

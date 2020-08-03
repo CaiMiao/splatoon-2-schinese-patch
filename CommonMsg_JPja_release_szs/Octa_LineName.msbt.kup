@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>A</original>
+			<edited>A</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>B</original>
+			<edited>B</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>C</original>
+			<edited>C</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>D</original>
+			<edited>D</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>E</original>
+			<edited>E</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>F</original>
+			<edited>F</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>G</original>
+			<edited>G</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>H</original>
+			<edited>H</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>I</original>
+			<edited>I</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>J</original>
+			<edited>J</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

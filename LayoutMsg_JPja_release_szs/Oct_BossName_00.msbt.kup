@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Enm_BakeryKingOcta_Name" offset="00" relocatable="true" max_length="0">
+			<original>タコツボベーカリー・８０％増量</original>
+			<edited>タコツボベーカリー・８０％増量</edited>
+			<subEntries />
+		</entry>
+		<entry name="Enm_BakeryKingOcta_Sub" offset="00" relocatable="true" max_length="0">
+			<original>おいしさマシマシ</original>
+			<edited>おいしさマシマシ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Enm_RollerKingOcta_Name" offset="00" relocatable="true" max_length="0">
+			<original>タコツボザムライ・おかわり</original>
+			<edited>タコツボザムライ・おかわり</edited>
+			<subEntries />
+		</entry>
+		<entry name="Enm_RollerKingOcta_Sub" offset="00" relocatable="true" max_length="0">
+			<original>夏巡業 深海メトロ場所</original>
+			<edited>夏巡業 深海メトロ場所</edited>
+			<subEntries />
+		</entry>
+		<entry name="Enm_StampKingDecoOcta_Name" offset="00" relocatable="true" max_length="0">
+			<original>タコツボックス・再配達</original>
+			<edited>タコツボックス・再配達</edited>
+			<subEntries />
+		</entry>
+		<entry name="Enm_StampKingDecoOcta_Sub" offset="00" relocatable="true" max_length="0">
+			<original>また帰ってきた</original>
+			<edited>また帰ってきた</edited>
+			<subEntries />
+		</entry>
+		<entry name="Enm_HangedKingOcta_Name" offset="00" relocatable="true" max_length="0">
+			<original>タコツボビバノン・除菌プラス</original>
+			<edited>タコツボビバノン・除菌プラス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Enm_HangedKingOcta_Sub" offset="00" relocatable="true" max_length="0">
+			<original>驚きの洗浄力</original>
+			<edited>驚きの洗浄力</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

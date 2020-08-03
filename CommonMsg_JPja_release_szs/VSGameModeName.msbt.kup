@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="cRegular" offset="00" relocatable="true" max_length="0">
+			<original>レギュラーマッチ</original>
+			<edited>通常比赛</edited>
+			<subEntries />
+		</entry>
+		<entry name="cRegular_2L" offset="00" relocatable="true" max_length="0">
+			<original>レギュラー
+マッチ</original>
+			<edited>通常
+比赛</edited>
+			<subEntries />
+		</entry>
+		<entry name="cGachi" offset="00" relocatable="true" max_length="0">
+			<original>ガチマッチ</original>
+			<edited>认真比赛</edited>
+			<subEntries />
+		</entry>
+		<entry name="cGachi_2L" offset="00" relocatable="true" max_length="0">
+			<original>ガチ
+マッチ</original>
+			<edited>认真
+比赛</edited>
+			<subEntries />
+		</entry>
+		<entry name="cFest" offset="00" relocatable="true" max_length="0">
+			<original>フェスマッチ</original>
+			<edited>FES比赛</edited>
+			<subEntries />
+		</entry>
+		<entry name="cFest_2L" offset="00" relocatable="true" max_length="0">
+			<original>フェス
+マッチ</original>
+			<edited>FES
+比赛</edited>
+			<subEntries />
+		</entry>
+		<entry name="cPrivate" offset="00" relocatable="true" max_length="0">
+			<original>プライベートマッチ</original>
+			<edited>私人比赛</edited>
+			<subEntries />
+		</entry>
+		<entry name="cPrivate_2L" offset="00" relocatable="true" max_length="0">
+			<original>プライベート
+マッチ</original>
+			<edited>私人
+比赛</edited>
+			<subEntries />
+		</entry>
+		<entry name="cLeague" offset="00" relocatable="true" max_length="0">
+			<original>リーグマッチ</original>
+			<edited>联盟比赛</edited>
+			<subEntries />
+		</entry>
+		<entry name="cLeague_2L" offset="00" relocatable="true" max_length="0">
+			<original>リーグ
+マッチ</original>
+			<edited>联盟
+比赛</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

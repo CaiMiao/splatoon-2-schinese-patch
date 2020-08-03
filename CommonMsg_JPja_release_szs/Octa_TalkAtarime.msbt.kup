@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Talk_Greet_00" offset="00" relocatable="true" max_length="0">
+			<original>ワシの老後のしゅみ、なにか知っとるか？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+……そう、ラップじゃ</original>
+			<edited>ワシの老後のしゅみ、なにか知っとるか？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+……そう、ラップじゃ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Greet_01" offset="00" relocatable="true" max_length="0">
+			<original>８号や、ご苦労さんじゃのゥ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+気休めに、ワシのラップでも聞いとくれ！</original>
+			<edited>８号や、ご苦労さんじゃのゥ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+気休めに、ワシのラップでも聞いとくれ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Greet_02" offset="00" relocatable="true" max_length="0">
+			<original>お、なんじゃなんじゃ？？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ワシのえもいリリックが　聞きたくなったんか？？</original>
+			<edited>お、なんじゃなんじゃ？？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ワシのえもいリリックが　聞きたくなったんか？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Greet_03" offset="00" relocatable="true" max_length="0">
+			<original>ワシ イン・ダ・ハウス！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;  HIP-HOPの お時間じゃ！</original>
+			<edited>ワシ イン・ダ・ハウス！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;  HIP-HOPの お時間じゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Greet_04" offset="00" relocatable="true" max_length="0">
+			<original>車内のマイメンが ワシのパンチラインに プチャヘンザ
+しとったから ８号のバイブスも ゆさぶったるぞィ！！</original>
+			<edited>車内のマイメンが ワシのパンチラインに プチャヘンザ
+しとったから ８号のバイブスも ゆさぶったるぞィ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Greet_05" offset="00" relocatable="true" max_length="0">
+			<original>ワッツアップ８号？？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+つかれた時は、 ワシのラップが一番じゃ</original>
+			<edited>ワッツアップ８号？？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+つかれた時は、 ワシのラップが一番じゃ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Greet_06" offset="00" relocatable="true" max_length="0">
+			<original>Yo～深海メトロのニュージャック！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ワシの ドープなフロウの波に 乗せてってやるぞィ！</original>
+			<edited>Yo～深海メトロのニュージャック！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ワシの ドープなフロウの波に 乗せてってやるぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Greet_07" offset="00" relocatable="true" max_length="0">
+			<original>チェケチェケ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+そろそろ ワシのライムが 恋しくなってきた ころじゃろ？</original>
+			<edited>チェケチェケ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+そろそろ ワシのライムが 恋しくなってきた ころじゃろ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Greet_08" offset="00" relocatable="true" max_length="0">
+			<original>ワシのホーミー グソクちゃんとは 仲良くなったんか？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+あやつもなかなか スワッグな男よのゥ～</original>
+			<edited>ワシのホーミー グソクちゃんとは 仲良くなったんか？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+あやつもなかなか スワッグな男よのゥ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_00" offset="00" relocatable="true" max_length="0">
+			<original>Yo～！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;　ワシは　レペゼン　ハイカラスクエア！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+キミは　近づく　前にくらべれば！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; チェケ！</original>
+			<edited>Yo～！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;　ワシは　レペゼン　ハイカラスクエア！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+キミは　近づく　前にくらべれば！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; チェケ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_01" offset="00" relocatable="true" max_length="0">
+			<original>レトロなワシらの　新世界！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+救いはあるのか？ on my mind</original>
+			<edited>レトロなワシらの　新世界！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+救いはあるのか？ on my mind</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_02" offset="00" relocatable="true" max_length="0">
+			<original>取れると嬉しい　ネリメモリー！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+もれなく流れる　駅メロディ！</original>
+			<edited>取れると嬉しい　ネリメモリー！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+もれなく流れる　駅メロディ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_03" offset="00" relocatable="true" max_length="0">
+			<original>アレとは何か　教えてよ　you say？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+アレさえ集めりゃ　ワシらは　優勢？</original>
+			<edited>アレとは何か　教えてよ　you say？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+アレさえ集めりゃ　ワシらは　優勢？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_04" offset="00" relocatable="true" max_length="0">
+			<original>この旅が終われば　いけるよ銭湯！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+そのためにワシらは　あくなき戦闘！</original>
+			<edited>この旅が終われば　いけるよ銭湯！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+そのためにワシらは　あくなき戦闘！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_05" offset="00" relocatable="true" max_length="0">
+			<original>今夜もあいつはダンディ&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;　でも心のなかではファンシー&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+それは誰？&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;　グソクのおじさん！</original>
+			<edited>今夜もあいつはダンディ&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;　でも心のなかではファンシー&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+それは誰？&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;　グソクのおじさん！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_06" offset="00" relocatable="true" max_length="0">
+			<original>せがまれたお金は　貸すから for you！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+えらばれたお主は　さしずめ so cute！</original>
+			<edited>せがまれたお金は　貸すから for you！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+えらばれたお主は　さしずめ so cute！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_07" offset="00" relocatable="true" max_length="0">
+			<original>地下世界は暗い…&#xE;&#x1;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; soとても暗い…&#xE;&#x1;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+イカ世界おもうと　ワシと言えどcry！</original>
+			<edited>地下世界は暗い…&#xE;&#x1;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0; soとても暗い…&#xE;&#x1;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+イカ世界おもうと　ワシと言えどcry！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_08" offset="00" relocatable="true" max_length="0">
+			<original>スカしたメガネで参上！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;　ネリモノ欲しがる番長！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+誰のこと？&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;　グソクのおじさん！</original>
+			<edited>スカしたメガネで参上！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;　ネリモノ欲しがる番長！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+誰のこと？&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;　グソクのおじさん！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_09" offset="00" relocatable="true" max_length="0">
+			<original>アヴァンギャルドでゆかいな　乗客！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ワシらとしゃべれば　合格！&#xE;&#x0;&#x4;&#x0;けれど車内をとりまく　静寂！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+いろんな思いが　交錯！</original>
+			<edited>アヴァンギャルドでゆかいな　乗客！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ワシらとしゃべれば　合格！&#xE;&#x0;&#x4;&#x0;けれど車内をとりまく　静寂！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+いろんな思いが　交錯！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_10" offset="00" relocatable="true" max_length="0">
+			<original>小刻みにゆれる　ワシのこのビート！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+「歳だね」といわれ　ワシの顔ヒート！</original>
+			<edited>小刻みにゆれる　ワシのこのビート！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+「歳だね」といわれ　ワシの顔ヒート！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_11" offset="00" relocatable="true" max_length="0">
+			<original>メトロに乗って　仕留めるよエモノ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+寝言のスキに　スられるよ手元！</original>
+			<edited>メトロに乗って　仕留めるよエモノ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+寝言のスキに　スられるよ手元！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_12" offset="00" relocatable="true" max_length="0">
+			<original>ワシらが向かう 約束の地！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+光浴びるの 早い者勝ち！</original>
+			<edited>ワシらが向かう 約束の地！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+光浴びるの 早い者勝ち！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_13" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x1;&#x4;ÍÌL?各駅のチャレンジ しらみつぶし！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+いまだ鳴り止まない シオカラ節！</original>
+			<edited>&#xE;&#x1;&#x1;&#x4;ÍÌL?各駅のチャレンジ しらみつぶし！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+いまだ鳴り止まない シオカラ節！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_14" offset="00" relocatable="true" max_length="0">
+			<original>干からびたジジィに　なるのはイージー！&#xE;&#x1;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+だからまだ捨てずに　いだくドリーミー！</original>
+			<edited>干からびたジジィに　なるのはイージー！&#xE;&#x1;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+だからまだ捨てずに　いだくドリーミー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_15" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x1;&#x4;ÍÌL?シオカラ生まれで　戦場育ち！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+イカしたヤツらは　だいたい友達！</original>
+			<edited>&#xE;&#x1;&#x1;&#x4;ÍÌL?シオカラ生まれで　戦場育ち！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+イカしたヤツらは　だいたい友達！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_16" offset="00" relocatable="true" max_length="0">
+			<original>イカしたメモリー大好き！&#xE;&#x1;&#x0;&#x4;-&#x0;&#x0;&#x0;　旅する人生なりゆき？&#xE;&#x1;&#x0;&#x4;-&#x0;&#x0;&#x0;
+誰おじさん？&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;　グソクのおじさん！</original>
+			<edited>イカしたメモリー大好き！&#xE;&#x1;&#x0;&#x4;-&#x0;&#x0;&#x0;　旅する人生なりゆき？&#xE;&#x1;&#x0;&#x4;-&#x0;&#x0;&#x0;
+誰おじさん？&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;　グソクのおじさん！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_17" offset="00" relocatable="true" max_length="0">
+			<original>やがて哀しき　タルタル総帥！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ヤツのチャレンジ　しばしばso sweet？</original>
+			<edited>やがて哀しき　タルタル総帥！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ヤツのチャレンジ　しばしばso sweet？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_18" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x1;&#x4;333?ネル社の親分を　タコ殴り！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+泣き言いってても　あと祭り！</original>
+			<edited>&#xE;&#x1;&#x1;&#x4;333?ネル社の親分を　タコ殴り！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+泣き言いってても　あと祭り！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_19" offset="00" relocatable="true" max_length="0">
+			<original>ワシらを練ろうとした　ネル社！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+そこへ来た３号は　影武者！</original>
+			<edited>ワシらを練ろうとした　ネル社！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+そこへ来た３号は　影武者！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_20" offset="00" relocatable="true" max_length="0">
+			<original>あいつナマコ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 寝ぼけマナコ？&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+じゃが 意外とテキパキ ガイドする子！</original>
+			<edited>あいつナマコ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 寝ぼけマナコ？&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+じゃが 意外とテキパキ ガイドする子！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_21" offset="00" relocatable="true" max_length="0">
+			<original>ワシの心に　浮かぶよ　桃源郷！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+イカとタコが　暮らすよ　go&#xE;&#x1;&#x1;&#x4;ffæ? hand-in-hand！</original>
+			<edited>ワシの心に　浮かぶよ　桃源郷！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+イカとタコが　暮らすよ　go&#xE;&#x1;&#x1;&#x4;ffæ? hand-in-hand！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_22" offset="00" relocatable="true" max_length="0">
+			<original>地下のクラゲ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;　首が長め！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+いつかやりたいゾ　イカとのウタゲ！</original>
+			<edited>地下のクラゲ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;　首が長め！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+いつかやりたいゾ　イカとのウタゲ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_23" offset="00" relocatable="true" max_length="0">
+			<original>クラゲちゃんって どんな世界にもおるんじゃな…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+まじリスペクトじゃ…</original>
+			<edited>クラゲちゃんって どんな世界にもおるんじゃな…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+まじリスペクトじゃ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_24" offset="00" relocatable="true" max_length="0">
+			<original>Fat boy！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 
+おヌシの Hip-Hopの 音モレは少しデカめ！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;Fight back！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 
+寝てたワシ wake upしたから 機嫌が少し悪め！</original>
+			<edited>Fat boy！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 
+おヌシの Hip-Hopの 音モレは少しデカめ！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;Fight back！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 
+寝てたワシ wake upしたから 機嫌が少し悪め！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_25" offset="00" relocatable="true" max_length="0">
+			<original>音楽きいとる デカいお魚ちゃん…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+バイブス あげ↑あげ↑ じゃのゥ……</original>
+			<edited>音楽きいとる デカいお魚ちゃん…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+バイブス あげ↑あげ↑ じゃのゥ……</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_26" offset="00" relocatable="true" max_length="0">
+			<original>お仕事 おつかれ！　&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;(suitが クタクタ！)&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ
+おうちに 着くまえ！　&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;(tubeで スヤスヤ！)&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>お仕事 おつかれ！　&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;(suitが クタクタ！)&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ
+おうちに 着くまえ！　&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;(tubeで スヤスヤ！)&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_27" offset="00" relocatable="true" max_length="0">
+			<original>ネル社は 残業とか 多いのかのゥ…</original>
+			<edited>ネル社は 残業とか 多いのかのゥ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_28" offset="00" relocatable="true" max_length="0">
+			<original>おくち パクパクさせてる 集団！&#xE;&#x1;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+おうち まだまだ帰れん 痛感…</original>
+			<edited>おくち パクパクさせてる 集団！&#xE;&#x1;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+おうち まだまだ帰れん 痛感…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_29" offset="00" relocatable="true" max_length="0">
+			<original>む、むゥ…… &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+グソクちゃんの耳から、なんか生えとるぞィ………</original>
+			<edited>む、むゥ…… &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+グソクちゃんの耳から、なんか生えとるぞィ………</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_30" offset="00" relocatable="true" max_length="0">
+			<original>うしろ姿がキレイな　ピンポン姉さん！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+たぶんまだ先　新婚生活！</original>
+			<edited>うしろ姿がキレイな　ピンポン姉さん！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+たぶんまだ先　新婚生活！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_31" offset="00" relocatable="true" max_length="0">
+			<original>神秘的な レディが たたずんでおるのゥ…</original>
+			<edited>神秘的な レディが たたずんでおるのゥ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_32" offset="00" relocatable="true" max_length="0">
+			<original>顔が多くて仲良しな あのクラゲ！&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x1;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;ÿÿケンカしたメンバーは 後腐れ？！</original>
+			<edited>顔が多くて仲良しな あのクラゲ！&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x1;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;ÿÿケンカしたメンバーは 後腐れ？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_33" offset="00" relocatable="true" max_length="0">
+			<original>１人はみんなのため　みんなは１人のため…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+これ　チームワークの鉄則じゃ！</original>
+			<edited>１人はみんなのため　みんなは１人のため…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+これ　チームワークの鉄則じゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_34" offset="00" relocatable="true" max_length="0">
+			<original>スマホ見とる！ &#xE;&#x1;&#x1;&#x4;333?&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（JK！）&#xE;&#x0;&#x3;&#x2;ÿÿ　&#xE;&#x1;&#x1;&#x4;&#x0;&#x0;?ワシに見せて？！ &#xE;&#x1;&#x1;&#x4;333?&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（Hey Say！）&#xE;&#x0;&#x3;&#x2;ÿÿ
+&#xE;&#x1;&#x1;&#x4;&#x0;&#x0;?ナウなヤングに　追いつくのじゃ！ &#xE;&#x1;&#x1;&#x4;333?&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（声明？！）&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>スマホ見とる！ &#xE;&#x1;&#x1;&#x4;333?&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（JK！）&#xE;&#x0;&#x3;&#x2;ÿÿ　&#xE;&#x1;&#x1;&#x4;&#x0;&#x0;?ワシに見せて？！ &#xE;&#x1;&#x1;&#x4;333?&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（Hey Say！）&#xE;&#x0;&#x3;&#x2;ÿÿ
+&#xE;&#x1;&#x1;&#x4;&#x0;&#x0;?ナウなヤングに　追いつくのじゃ！ &#xE;&#x1;&#x1;&#x4;333?&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（声明？！）&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_35" offset="00" relocatable="true" max_length="0">
+			<original>深海にも 女学舎が あるのじゃろうか…</original>
+			<edited>深海にも 女学舎が あるのじゃろうか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_36" offset="00" relocatable="true" max_length="0">
+			<original>肩はばが広めな　クリオネ！&#xE;&#x1;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+たぶん似合うよ　振りそで！</original>
+			<edited>肩はばが広めな　クリオネ！&#xE;&#x1;&#x0;&#x4;&#x14;&#x0;&#x0;&#x0;
+たぶん似合うよ　振りそで！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_37" offset="00" relocatable="true" max_length="0">
+			<original>３人組の 大きな若者が おるのゥ…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+ワシも昔は あのくらい たくましかったもんじゃ……</original>
+			<edited>３人組の 大きな若者が おるのゥ…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+ワシも昔は あのくらい たくましかったもんじゃ……</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_38" offset="00" relocatable="true" max_length="0">
+			<original>ビッグマウスなあいつは　フクロウナギ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+くちだけは達者な　竜頭蛇尾！</original>
+			<edited>ビッグマウスなあいつは　フクロウナギ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+くちだけは達者な　竜頭蛇尾！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_39" offset="00" relocatable="true" max_length="0">
+			<original>深海には おくち パクパクさせてるヤツ 多めじゃな</original>
+			<edited>深海には おくち パクパクさせてるヤツ 多めじゃな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Boke_00" offset="00" relocatable="true" max_length="0">
+			<original>ふぅ……</original>
+			<edited>ふぅ……</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Boke_01" offset="00" relocatable="true" max_length="0">
+			<original>つかれたわィ…</original>
+			<edited>つかれたわィ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Boke_02" offset="00" relocatable="true" max_length="0">
+			<original>ラップは 体力を使うんじゃよ…</original>
+			<edited>ラップは 体力を使うんじゃよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Boke_03" offset="00" relocatable="true" max_length="0">
+			<original>おヌシも すこし休んだほうがいいぞィ</original>
+			<edited>おヌシも すこし休んだほうがいいぞィ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Boke_04" offset="00" relocatable="true" max_length="0">
+			<original>ワシはもう おねむじゃ……</original>
+			<edited>ワシはもう おねむじゃ……</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Debt_00" offset="00" relocatable="true" max_length="0">
+			<original>ところで おヌシは今…</original>
+			<edited>ところで おヌシは今…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Debt_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ　の借金をしておるようじゃが…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ　の借金をしておるようじゃが…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Debt_02" offset="00" relocatable="true" max_length="0">
+			<original>今後 必要そうな&#xE;&#x0;&#x3;&#x2;&#x0;&#x0; &#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ をのこした
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x1;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í　&#xE;&#x0;&#x3;&#x2;ÿÿを返すのはどうじゃ？</original>
+			<edited>今後 必要そうな&#xE;&#x0;&#x3;&#x2;&#x0;&#x0; &#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ をのこした
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x1;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í　&#xE;&#x0;&#x3;&#x2;ÿÿを返すのはどうじゃ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Debt_03" offset="00" relocatable="true" max_length="0">
+			<original>ぜんぶ返すんか？</original>
+			<edited>ぜんぶ返すんか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Debt_04" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ　の借金をしておるようじゃが…
+もっとポイントたまってるときに　返しに来るんじゃな！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ　の借金をしておるようじゃが…
+もっとポイントたまってるときに　返しに来るんじゃな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Debt_05" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;ご苦労さん&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+「借りたものは　返す」&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;　…これ人生の鉄則じゃ！</original>
+			<edited>&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;ご苦労さん&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+「借りたものは　返す」&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;　…これ人生の鉄則じゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Debt_06" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;ご苦労さん&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+あと　&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ　も　いずれ返すんじゃぞ</original>
+			<edited>&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;ご苦労さん&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+あと　&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ　も　いずれ返すんじゃぞ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Debt_07" offset="00" relocatable="true" max_length="0">
+			<original>なん…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;　じゃと……？！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+借りたものは　返さないと　ダメじゃぞ？！</original>
+			<edited>なん…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;　じゃと……？！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+借りたものは　返さないと　ダメじゃぞ？！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

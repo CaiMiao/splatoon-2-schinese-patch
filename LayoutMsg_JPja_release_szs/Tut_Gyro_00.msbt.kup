@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Gyro_00" offset="00" relocatable="true" max_length="0">
+			<original>ゆっくり下を向こう</original>
+			<edited>慢慢往下移吧</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Gyro_01" offset="00" relocatable="true" max_length="0">
+			<original>ゆっくり上を向こう</original>
+			<edited>慢慢往上移吧</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

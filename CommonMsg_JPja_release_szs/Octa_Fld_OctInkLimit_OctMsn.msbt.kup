@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>インクが無くなるとアウトでス</original>
+			<edited>インクが無くなるとアウトでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>カベを登るのにインクが必要か、よく考えましょウ</original>
+			<edited>カベを登るのにインクが必要か、よく考えましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>落ち着いて 塗るべき場所を塗るのでス</original>
+			<edited>落ち着いて 塗るべき場所を塗るのでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkLimit_0000" offset="00" relocatable="true" max_length="0">
+			<original>インクを使い切ったらアウトだゾ！</original>
+			<edited>インクを使い切ったらアウトだゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkLimit_0001" offset="00" relocatable="true" max_length="0">
+			<original>インクの使用は最小限にしましょう</original>
+			<edited>インクの使用は最小限にしましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkLimit_0002" offset="00" relocatable="true" max_length="0">
+			<original>グッドじゃった！</original>
+			<edited>グッドじゃった！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkLimit_0003" offset="00" relocatable="true" max_length="0">
+			<original>…さーて、どーしたもんかな？</original>
+			<edited>…さーて、どーしたもんかな？</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkLimit_0004" offset="00" relocatable="true" max_length="0">
+			<original>あめぃじん！</original>
+			<edited>あめぃじん！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkLimit_0005" offset="00" relocatable="true" max_length="0">
+			<original>ジャマなザコだな… ブッ倒したいけど…</original>
+			<edited>ジャマなザコだな… ブッ倒したいけど…</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkLimit_0006" offset="00" relocatable="true" max_length="0">
+			<original>８号さん、インク残量に注意です！</original>
+			<edited>８号さん、インク残量に注意です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkLimit_0007" offset="00" relocatable="true" max_length="0">
+			<original>インクが もうほとんど無いぞィ！</original>
+			<edited>インクが もうほとんど無いぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkLimit_0008" offset="00" relocatable="true" max_length="0">
+			<original>前方にゴールポイントを発見しました！</original>
+			<edited>前方にゴールポイントを発見しました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkLimit_0009" offset="00" relocatable="true" max_length="0">
+			<original>ゴールは高台の上だ！</original>
+			<edited>ゴールは高台の上だ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

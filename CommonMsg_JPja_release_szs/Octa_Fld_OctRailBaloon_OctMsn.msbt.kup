@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>風船マト３０コ、全て壊してくださイ</original>
+			<edited>風船マト３０コ、全て壊してくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>風船マトを１つでも見のがすと 先に進めなくなりまス</original>
+			<edited>風船マトを１つでも見のがすと 先に進めなくなりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプで着いたら 始まりまス</original>
+			<edited>ジャンプで着いたら 始まりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
+			<original>ダメージをくらうと アウトとなりまス</original>
+			<edited>ダメージをくらうと アウトとなりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailBaloon_0001" offset="00" relocatable="true" max_length="0">
+			<original>あーあ、マト外した…</original>
+			<edited>あーあ、マト外した…</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailBaloon_0002" offset="00" relocatable="true" max_length="0">
+			<original>あ～…</original>
+			<edited>あ～…</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailBaloon_0003" offset="00" relocatable="true" max_length="0">
+			<original>ここで半分です！</original>
+			<edited>ここで半分です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailBaloon_0004" offset="00" relocatable="true" max_length="0">
+			<original>残りわずかじゃ！ 気をゆるめること 無かれィ！</original>
+			<edited>残りわずかじゃ！ 気をゆるめること 無かれィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailBaloon_0005" offset="00" relocatable="true" max_length="0">
+			<original>撃ち方、用意じゃ！</original>
+			<edited>撃ち方、用意じゃ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

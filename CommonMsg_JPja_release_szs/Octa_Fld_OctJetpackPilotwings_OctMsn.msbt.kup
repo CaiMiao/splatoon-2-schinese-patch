@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>ジェットパック中&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押すと 少しうきまス</original>
+			<edited>ジェットパック中&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押すと 少しうきまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ジェットパックは カナアミの上では飛べませン</original>
+			<edited>ジェットパックは カナアミの上では飛べませン</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>イカフライは 無理に取る必要は無いでス</original>
+			<edited>イカフライは 無理に取る必要は無いでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="PilotWings_0000" offset="00" relocatable="true" max_length="0">
+			<original>フォー！ 気持ちよさそうじゃのゥ！</original>
+			<edited>フォー！ 気持ちよさそうじゃのゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PilotWings_0001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で、ちょっとだけうくゾ！</original>
+			<edited>&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で、ちょっとだけうくゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PilotWings_0002" offset="00" relocatable="true" max_length="0">
+			<original>タココマンダーを発見しました！</original>
+			<edited>タココマンダーを発見しました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PilotWings_0004" offset="00" relocatable="true" max_length="0">
+			<original>ジェットパック中でも、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でセンプクできます！</original>
+			<edited>ジェットパック中でも、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でセンプクできます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PilotWings_0005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で ショーーット！！</original>
+			<edited>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で ショーーット！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PilotWings_0006" offset="00" relocatable="true" max_length="0">
+			<original>空中で&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;、何度でもできますよ！</original>
+			<edited>空中で&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;、何度でもできますよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PilotWings_0007" offset="00" relocatable="true" max_length="0">
+			<original>落ちそうなら、とにかく&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;しまくれば よさそうじゃな！</original>
+			<edited>落ちそうなら、とにかく&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;しまくれば よさそうじゃな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PilotWings_0008" offset="00" relocatable="true" max_length="0">
+			<original>シャー！ さっさとゴールすんゾ！</original>
+			<edited>シャー！ さっさとゴールすんゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PilotWings_0010" offset="00" relocatable="true" max_length="0">
+			<original>フォー！ 上手いもんじゃ！</original>
+			<edited>フォー！ 上手いもんじゃ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

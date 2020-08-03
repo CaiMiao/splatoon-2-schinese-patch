@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="DamageSuddenDeathObjOcta" offset="00" relocatable="true" max_length="0">
+			<original>ダメージを受けたので チャレンジ失敗でス</original>
+			<edited>ダメージを受けたので チャレンジ失敗でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="DamageSuddenDeathObjFootPaintOcta" offset="00" relocatable="true" max_length="0">
+			<original>敵のインクにふれたので チャレンジ失敗でス</original>
+			<edited>敵のインクにふれたので チャレンジ失敗でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkLimitSetterOcta" offset="00" relocatable="true" max_length="0">
+			<original>インクが無くなったので チャレンジ失敗でス</original>
+			<edited>インクが無くなったので チャレンジ失敗でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="TimeLimitSetter" offset="00" relocatable="true" max_length="0">
+			<original>時間切れなので チャレンジ失敗でス</original>
+			<edited>時間切れなので チャレンジ失敗でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="TimeLimitGachiSetterOcta" offset="00" relocatable="true" max_length="0">
+			<original>時間切れなので チャレンジ失敗でス</original>
+			<edited>時間切れなので チャレンジ失敗でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Obj_VictoryBallOcta" offset="00" relocatable="true" max_length="0">
+			<original>エイトボールを落としたので チャレンジ失敗でス</original>
+			<edited>エイトボールを落としたので チャレンジ失敗でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Obj_DefenceGoalOcta" offset="00" relocatable="true" max_length="0">
+			<original>エイトカプセルが壊れたので チャレンジ失敗でス</original>
+			<edited>エイトカプセルが壊れたので チャレンジ失敗でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Obj_DefenceGoalBigOcta" offset="00" relocatable="true" max_length="0">
+			<original>エイトカプセルが壊れたので チャレンジ失敗でス</original>
+			<edited>エイトカプセルが壊れたので チャレンジ失敗でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="ActorScheduleFailureDieObjOcta" offset="00" relocatable="true" max_length="0">
+			<original>風船をのがしたので チャレンジ失敗でス</original>
+			<edited>風船をのがしたので チャレンジ失敗でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Obj_ShootingNGAirBallOcta" offset="00" relocatable="true" max_length="0">
+			<original>ダメ風船を壊したので チャレンジ失敗でス</original>
+			<edited>ダメ風船を壊したので チャレンジ失敗でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Obj_NGBox00SOcta" offset="00" relocatable="true" max_length="0">
+			<original>まちがった木箱を壊したので チャレンジ失敗でス</original>
+			<edited>まちがった木箱を壊したので チャレンジ失敗でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Obj_NGBox00LOcta" offset="00" relocatable="true" max_length="0">
+			<original>まちがった木箱を壊したので チャレンジ失敗でス</original>
+			<edited>まちがった木箱を壊したので チャレンジ失敗でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="OneShotMissDieObjOcta" offset="00" relocatable="true" max_length="0">
+			<original>全部壊れていないので チャレンジ失敗でス</original>
+			<edited>全部壊れていないので チャレンジ失敗でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="BingoMissDieObjOcta" offset="00" relocatable="true" max_length="0">
+			<original>一列そろわなかったので チャレンジ失敗でス</original>
+			<edited>一列そろわなかったので チャレンジ失敗でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Obj_DefenceGoalLastBossOcta_00" offset="00" relocatable="true" max_length="0">
+			<original>ああっ……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; エネルギーコア、限界です…！！</original>
+			<edited>ああっ……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; エネルギーコア、限界です…！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Obj_DefenceGoalLastBossOcta_01" offset="00" relocatable="true" max_length="0">
+			<original>ハチーーーーーッ&#xE;&#x6;&#x0;&#x0;！&#xF;&#x6;&#x0;&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; エネルギーコアがぁーーーーーーー&#xE;&#x6;&#x0;&#x0;！！&#xF;&#x6;&#x0;</original>
+			<edited>ハチーーーーーッ&#xE;&#x6;&#x0;&#x0;！&#xF;&#x6;&#x0;&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; エネルギーコアがぁーーーーーーー&#xE;&#x6;&#x0;&#x0;！！&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBossApproachStageDie_00" offset="00" relocatable="true" max_length="0">
+			<original>８号、応答されたし？！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 応答されたしーーーーーーーッ&#xE;&#x6;&#x0;&#x0;！！！&#xF;&#x6;&#x0;</original>
+			<edited>８号、応答されたし？！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 応答されたしーーーーーーーッ&#xE;&#x6;&#x0;&#x0;！！！&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBossApproachStageDie_01" offset="00" relocatable="true" max_length="0">
+			<original>ハチーーーーーーーーッ&#xE;&#x6;&#x0;&#x0;！！&#xF;&#x6;&#x0;</original>
+			<edited>ハチーーーーーーーーッ&#xE;&#x6;&#x0;&#x0;！！&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBossApproachStageDie_02" offset="00" relocatable="true" max_length="0">
+			<original>そんな……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ８号さん……？！ </original>
+			<edited>そんな……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ８号さん……？！ </edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

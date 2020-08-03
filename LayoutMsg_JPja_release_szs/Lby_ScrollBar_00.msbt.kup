@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_Btn_00-T_Join_00" offset="00" relocatable="true" max_length="0">
+			<original>合流可能</original>
+			<edited>可合流</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_00-T_Full_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;満員&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;人满&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_BackBtn_00-T_B_00" offset="00" relocatable="true" max_length="0">
+			<original></original>
+			<edited></edited>
+			<subEntries />
+		</entry>
+		<entry name="L_UpdateBtn_00-T_Seach_00" offset="00" relocatable="true" max_length="0">
+			<original>再検索</original>
+			<edited>重新搜索</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

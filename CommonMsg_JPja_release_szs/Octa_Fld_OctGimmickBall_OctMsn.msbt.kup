@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>エイトボールの動きは、自然の法則に従いまス</original>
+			<edited>エイトボールの動きは、自然の法則に従いまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>アナタは、エイトボールのレールには乗れませン</original>
+			<edited>アナタは、エイトボールのレールには乗れませン</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>エイトボールの真ん中を撃ちましょウ</original>
+			<edited>エイトボールの真ん中を撃ちましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="GimmickBall_0000" offset="00" relocatable="true" max_length="0">
+			<original>ィヤッハー！</original>
+			<edited>ィヤッハー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GimmickBall_0001" offset="00" relocatable="true" max_length="0">
+			<original>あ、ボールがあんゾ！</original>
+			<edited>あ、ボールがあんゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GimmickBall_0002" offset="00" relocatable="true" max_length="0">
+			<original>ウレタンが エイトボールの速度を吸収してますね</original>
+			<edited>ウレタンが エイトボールの速度を吸収してますね</edited>
+			<subEntries />
+		</entry>
+		<entry name="GimmickBall_0003" offset="00" relocatable="true" max_length="0">
+			<original>コロコロ～♪</original>
+			<edited>コロコロ～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="GimmickBall_0004" offset="00" relocatable="true" max_length="0">
+			<original>ここは、ボム風船の力を借りて…</original>
+			<edited>ここは、ボム風船の力を借りて…</edited>
+			<subEntries />
+		</entry>
+		<entry name="GimmickBall_0005" offset="00" relocatable="true" max_length="0">
+			<original>敵じゃ！ タマコロちゃんにかくれながら 進むんじゃ！</original>
+			<edited>敵じゃ！ タマコロちゃんにかくれながら 進むんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GimmickBall_0006" offset="00" relocatable="true" max_length="0">
+			<original>右にゴールを発見！ 確認されたしーッ！</original>
+			<edited>右にゴールを発見！ 確認されたしーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GimmickBall_0007" offset="00" relocatable="true" max_length="0">
+			<original>向こうに見えるボールランチャーに 入れましょ～</original>
+			<edited>向こうに見えるボールランチャーに 入れましょ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="GimmickBall_0008" offset="00" relocatable="true" max_length="0">
+			<original>インクレール、来たー！</original>
+			<edited>インクレール、来たー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GimmickBall_0009" offset="00" relocatable="true" max_length="0">
+			<original>あ！ おくにもボールバンパーがあります！</original>
+			<edited>あ！ おくにもボールバンパーがあります！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GimmickBall_0010" offset="00" relocatable="true" max_length="0">
+			<original>センプクして進みましょう！</original>
+			<edited>センプクして進みましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GimmickBall_0012" offset="00" relocatable="true" max_length="0">
+			<original>ボールバンパーには、まっすぐ当てましょ～</original>
+			<edited>ボールバンパーには、まっすぐ当てましょ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="GimmickBall_0013" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプポイント発見！ 飛べィ、８号！</original>
+			<edited>ジャンプポイント発見！ 飛べィ、８号！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GimmickBall_0014" offset="00" relocatable="true" max_length="0">
+			<original>エイトボールは 専用のレールに乗せて運べそうですね♪</original>
+			<edited>エイトボールは 専用のレールに乗せて運べそうですね♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="GimmickBall_0015" offset="00" relocatable="true" max_length="0">
+			<original>このインクレールは、もどるためのもんじゃの</original>
+			<edited>このインクレールは、もどるためのもんじゃの</edited>
+			<subEntries />
+		</entry>
+		<entry name="GimmickBall_0016" offset="00" relocatable="true" max_length="0">
+			<original>フォー！ タマだけに、たまらんのゥ！</original>
+			<edited>フォー！ タマだけに、たまらんのゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GimmickBall_0017" offset="00" relocatable="true" max_length="0">
+			<original>ッシャー！ いい動きだ！</original>
+			<edited>ッシャー！ いい動きだ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

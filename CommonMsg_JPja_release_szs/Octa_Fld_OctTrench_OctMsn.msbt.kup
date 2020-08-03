@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>敵が多めのチャレンジとなりまス</original>
+			<edited>敵が多めのチャレンジとなりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>スロッシャーはタテの上をこえて 攻撃ができまス</original>
+			<edited>スロッシャーはタテの上をこえて 攻撃ができまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>ブラスターは爆風で タテをカワして攻撃できまス</original>
+			<edited>ブラスターは爆風で タテをカワして攻撃できまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Trench_0000" offset="00" relocatable="true" max_length="0">
+			<original>この先は敵が大量っぽいな！ 気合入れてけ！</original>
+			<edited>この先は敵が大量っぽいな！ 気合入れてけ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Trench_0001" offset="00" relocatable="true" max_length="0">
+			<original>迷路みたいですね… 死角に注意です！</original>
+			<edited>迷路みたいですね… 死角に注意です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Trench_0002" offset="00" relocatable="true" max_length="0">
+			<original>タテ持ちは 上とか横からインクかけてけ！</original>
+			<edited>タテ持ちは 上とか横からインクかけてけ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Trench_0003" offset="00" relocatable="true" max_length="0">
+			<original>よく切りぬけたのゥ！ グッドじゃ！</original>
+			<edited>よく切りぬけたのゥ！ グッドじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Trench_0004" offset="00" relocatable="true" max_length="0">
+			<original>集合住宅…？ 上にゴール見えたし登ればよさそーだな</original>
+			<edited>集合住宅…？ 上にゴール見えたし登ればよさそーだな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Trench_0005" offset="00" relocatable="true" max_length="0">
+			<original>よーしッ！ 屋上に とうちゃくじゃ！</original>
+			<edited>よーしッ！ 屋上に とうちゃくじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Trench_0006" offset="00" relocatable="true" max_length="0">
+			<original>タココマンダーがいます！ 気をつけてください！</original>
+			<edited>タココマンダーがいます！ 気をつけてください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Trench_0007" offset="00" relocatable="true" max_length="0">
+			<original>敵に気をつけろよ！！</original>
+			<edited>敵に気をつけろよ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Trench_0008" offset="00" relocatable="true" max_length="0">
+			<original>こんなところに インクレールが！</original>
+			<edited>こんなところに インクレールが！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Trench_0009" offset="00" relocatable="true" max_length="0">
+			<original>建設中… てゆっか、ただのハリボテだったな！</original>
+			<edited>建設中… てゆっか、ただのハリボテだったな！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

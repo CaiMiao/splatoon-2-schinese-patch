@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>エイトカプセルを守ってくださイ</original>
+			<edited>エイトカプセルを守ってくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>エイトカプセルが壊れるとアウトでス</original>
+			<edited>エイトカプセルが壊れるとアウトでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>エイトカプセルを撃つと 少し回復できまス</original>
+			<edited>エイトカプセルを撃つと 少し回復できまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseCanon_00" offset="00" relocatable="true" max_length="0">
+			<original>エイトカプセルを 敵から守ってください！</original>
+			<edited>エイトカプセルを 敵から守ってください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseCanon_01" offset="00" relocatable="true" max_length="0">
+			<original>前方右手からタコミサイル、来ます！</original>
+			<edited>前方右手からタコミサイル、来ます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseCanon_02" offset="00" relocatable="true" max_length="0">
+			<original>左手からもミサイル、来るゾ！</original>
+			<edited>左手からもミサイル、来るゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseCanon_03" offset="00" relocatable="true" max_length="0">
+			<original>左右からタコッペリン号、来ます！</original>
+			<edited>左右からタコッペリン号、来ます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseCanon_04" offset="00" relocatable="true" max_length="0">
+			<original>後方からもタコッペリン号、来ます！</original>
+			<edited>後方からもタコッペリン号、来ます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseCanon_05" offset="00" relocatable="true" max_length="0">
+			<original>前方右手からのタコミサイル、増えました！</original>
+			<edited>前方右手からのタコミサイル、増えました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseCanon_06" offset="00" relocatable="true" max_length="0">
+			<original>左からのミサイル、増えた！</original>
+			<edited>左からのミサイル、増えた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseCanon_07" offset="00" relocatable="true" max_length="0">
+			<original>タコミサイルは ちょい手前の地面に撃つんじゃ！</original>
+			<edited>タコミサイルは ちょい手前の地面に撃つんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseCanon_08" offset="00" relocatable="true" max_length="0">
+			<original>タコッペリン号は タコ足の先を予測してねらえィ！</original>
+			<edited>タコッペリン号は タコ足の先を予測してねらえィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseCanon_09" offset="00" relocatable="true" max_length="0">
+			<original>エイトカプセルは、撃つと 体力回復します♪</original>
+			<edited>エイトカプセルは、撃つと 体力回復します♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseCanon_10" offset="00" relocatable="true" max_length="0">
+			<original>おい！ ダメージたまってっゾ！</original>
+			<edited>おい！ ダメージたまってっゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseCanon_11" offset="00" relocatable="true" max_length="0">
+			<original>あ…！ エイトカプセル撃って回復させてください！</original>
+			<edited>あ…！ エイトカプセル撃って回復させてください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseCanon_13" offset="00" relocatable="true" max_length="0">
+			<original>あと３０秒！まだいけるよな？</original>
+			<edited>あと３０秒！まだいけるよな？</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseCanon_14" offset="00" relocatable="true" max_length="0">
+			<original>あと１０秒！ ふんばれ、ハチ！</original>
+			<edited>あと１０秒！ ふんばれ、ハチ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

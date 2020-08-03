@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>カーリングボムは&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで 距離が調整できまス</original>
+			<edited>カーリングボムは&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで 距離が調整できまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>メインウェポンは無いので、かわして進みましょウ</original>
+			<edited>メインウェポンは無いので、かわして進みましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>と言いつつ、カーリングボムで 敵をやっつけてもいいでス</original>
+			<edited>と言いつつ、カーリングボムで 敵をやっつけてもいいでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="TakoppelinCurling_0000" offset="00" relocatable="true" max_length="0">
+			<original>なんかいっぱい、飛んでるゾー！</original>
+			<edited>なんかいっぱい、飛んでるゾー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="TakoppelinCurling_0001" offset="00" relocatable="true" max_length="0">
+			<original>タコッペリン号です！ センパイ、好きそうですね～♪</original>
+			<edited>タコッペリン号です！ センパイ、好きそうですね～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="TakoppelinCurling_0002" offset="00" relocatable="true" max_length="0">
+			<original>あそこに見えるスイッチ、なんとかできねーか？</original>
+			<edited>あそこに見えるスイッチ、なんとかできねーか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="TakoppelinCurling_0003" offset="00" relocatable="true" max_length="0">
+			<original>ワシも そうすると思っとったぞィ！</original>
+			<edited>ワシも そうすると思っとったぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="TakoppelinCurling_0004" offset="00" relocatable="true" max_length="0">
+			<original>正面にゴールポイントを発見！</original>
+			<edited>正面にゴールポイントを発見！</edited>
+			<subEntries />
+		</entry>
+		<entry name="TakoppelinCurling_0005" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプ用意！</original>
+			<edited>ジャンプ用意！</edited>
+			<subEntries />
+		</entry>
+		<entry name="TakoppelinCurling_0006" offset="00" relocatable="true" max_length="0">
+			<original>ふぁびゅらすゲットじゃッ！</original>
+			<edited>ふぁびゅらすゲットじゃッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="TakoppelinCurling_0007" offset="00" relocatable="true" max_length="0">
+			<original>ジジィ、ちょいちょい出てくんなー…</original>
+			<edited>ジジィ、ちょいちょい出てくんなー…</edited>
+			<subEntries />
+		</entry>
+		<entry name="TakoppelinCurling_0008" offset="00" relocatable="true" max_length="0">
+			<original>カーリングボムは&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで 近くに投げられます！</original>
+			<edited>カーリングボムは&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで 近くに投げられます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="TakoppelinCurling_0009" offset="00" relocatable="true" max_length="0">
+			<original>カーリング一発で 全部取っちゃえ</original>
+			<edited>カーリング一発で 全部取っちゃえ</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

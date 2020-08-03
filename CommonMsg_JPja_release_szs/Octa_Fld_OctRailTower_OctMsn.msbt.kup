@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>ひきよせポイントを使って 頂上を目指しましょウ</original>
+			<edited>ひきよせポイントを使って 頂上を目指しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプ後 落ち着いてショットしましょウ</original>
+			<edited>ジャンプ後 落ち着いてショットしましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>前に飛びながらショットすれば 遠くまでとどきまス</original>
+			<edited>前に飛びながらショットすれば 遠くまでとどきまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
+			<original>最初のひきよせポイントで 練習するとよいでしょウ</original>
+			<edited>最初のひきよせポイントで 練習するとよいでしょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0000" offset="00" relocatable="true" max_length="0">
+			<original>ひきよせポイント、ねらってけー！</original>
+			<edited>ひきよせポイント、ねらってけー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0001" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプマット上で&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしで、大ジャンプです！</original>
+			<edited>ジャンプマット上で&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしで、大ジャンプです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0002" offset="00" relocatable="true" max_length="0">
+			<original>あー… そこのジャンプポイントで さっきんトコにもどろー</original>
+			<edited>あー… そこのジャンプポイントで さっきんトコにもどろー</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0003" offset="00" relocatable="true" max_length="0">
+			<original>前進ジャンプしながらショットで 遠くをねらえィ！</original>
+			<edited>前進ジャンプしながらショットで 遠くをねらえィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0004" offset="00" relocatable="true" max_length="0">
+			<original>あらら… もどるための ひきよせポイント、無いですか？</original>
+			<edited>あらら… もどるための ひきよせポイント、無いですか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0005" offset="00" relocatable="true" max_length="0">
+			<original>上手く先回りできないですかね…</original>
+			<edited>上手く先回りできないですかね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0006" offset="00" relocatable="true" max_length="0">
+			<original>イヤな感じで回るスイッチだな…</original>
+			<edited>イヤな感じで回るスイッチだな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0007" offset="00" relocatable="true" max_length="0">
+			<original>フォォ… もっとよく見てジャンプじゃ！</original>
+			<edited>フォォ… もっとよく見てジャンプじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0008" offset="00" relocatable="true" max_length="0">
+			<original>上までもどって もう一度ですね…</original>
+			<edited>上までもどって もう一度ですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0009" offset="00" relocatable="true" max_length="0">
+			<original>ナイスジャンプ！</original>
+			<edited>ナイスジャンプ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0013" offset="00" relocatable="true" max_length="0">
+			<original>やるなー、ハチ！</original>
+			<edited>やるなー、ハチ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0014" offset="00" relocatable="true" max_length="0">
+			<original>では、飛び移りましょ～</original>
+			<edited>では、飛び移りましょ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0015" offset="00" relocatable="true" max_length="0">
+			<original>初手は順調のようじゃな</original>
+			<edited>初手は順調のようじゃな</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0016" offset="00" relocatable="true" max_length="0">
+			<original>やった！　その調子です♪</original>
+			<edited>やった！　その調子です♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0017" offset="00" relocatable="true" max_length="0">
+			<original>次はあの往復してるヤツだ</original>
+			<edited>次はあの往復してるヤツだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0018" offset="00" relocatable="true" max_length="0">
+			<original>ナイスです！ そのまま上のをねらいましょう！</original>
+			<edited>ナイスです！ そのまま上のをねらいましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0019" offset="00" relocatable="true" max_length="0">
+			<original>フォー！ イカしておる！</original>
+			<edited>フォー！ イカしておる！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0020" offset="00" relocatable="true" max_length="0">
+			<original>空をまう姿、まるで全盛期のワシのようじゃ！</original>
+			<edited>空をまう姿、まるで全盛期のワシのようじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0021" offset="00" relocatable="true" max_length="0">
+			<original>ゴールポイント、発見しました！</original>
+			<edited>ゴールポイント、発見しました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RailTower_0022" offset="00" relocatable="true" max_length="0">
+			<original>シャオラー！</original>
+			<edited>シャオラー！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

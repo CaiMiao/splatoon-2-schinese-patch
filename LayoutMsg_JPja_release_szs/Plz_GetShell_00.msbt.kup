@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>×&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>×&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_SubMsg_00" offset="00" relocatable="true" max_length="0">
+			<original>フェスTは 返却されたぞ！</original>
+			<edited>フェスTは 返却されたぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Msg_00" offset="00" relocatable="true" max_length="0">
+			<original>今回の称号</original>
+			<edited>今回の称号</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Get_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿをゲット！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿをゲット！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

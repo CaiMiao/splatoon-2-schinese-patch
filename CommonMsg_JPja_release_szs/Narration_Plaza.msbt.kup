@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Plaza_00" offset="00" relocatable="true" max_length="0">
+			<original>ようこそ ハイカラスクエアへ！&#xE;&#x0;&#x4;&#x0;ここは、今いちばんイカしたヤツらが集まる&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大通り&#xE;&#x0;&#x3;&#x2;ÿÿだ！</original>
+			<edited>欢迎来到 ハイカラスクエア！&#xE;&#x0;&#x4;&#x0;这里是聚集了如今最贼精神的家伙们的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;大通り（大街）&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Plaza_01" offset="00" relocatable="true" max_length="0">
+			<original>目の前にそびえ立つのが &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デカ・タワー&#xE;&#x0;&#x3;&#x2;ÿÿ！
+ハイカラスクエア名物の超高層ビルだ！&#xE;&#x0;&#x4;&#x0;デカ・タワーの１階には
+バトルに参加するための&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿがある！</original>
+			<edited>在眼前耸立的是 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デカ・タワー（巨塔）&#xE;&#x0;&#x3;&#x2;ÿÿ！
+是广场名产的超高层大厦！&#xE;&#x0;&#x4;&#x0;デカ・タワー的１层
+有为参加战斗而设的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー（大厅）&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Plaza_02" offset="00" relocatable="true" max_length="0">
+			<original>こっちらへんは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;エスカベース&#xE;&#x0;&#x3;&#x2;ÿÿと呼ばれる
+イカした&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;お店&#xE;&#x0;&#x3;&#x2;ÿÿが並んでいるエリアだ！&#xE;&#x0;&#x4;&#x0;バトルでかつやくするための
+イカした&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ブキ&#xE;&#x0;&#x3;&#x2;ÿÿや&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿは ここでそろえよう！&#xE;&#x0;&#x4;&#x0;ただ、ショップの店員は イカしてないヤツを
+全く相手にしないから 気をつけろ！</original>
+			<edited>这一片是称作 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;エスカベース（炸鱼基地）&#xE;&#x0;&#x3;&#x2;ÿÿ 的
+贼新潮的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;店铺（お店）&#xE;&#x0;&#x3;&#x2;ÿÿ林立的区域！&#xE;&#x0;&#x4;&#x0;在这把能在战斗活跃一番的
+贼好使的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;武器&#xE;&#x0;&#x3;&#x2;ÿÿ和&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;装备&#xE;&#x0;&#x3;&#x2;ÿÿ都给凑齐吧！&#xE;&#x0;&#x4;&#x0;不过，商店的员工 可完全懒得搭理
+贼没价值的家伙 要留意！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Plaza_03" offset="00" relocatable="true" max_length="0">
+			<original>奥にも ナゾの建物があるが、
+なにやらアヤしいバイトを 紹介されるってウワサだ！&#xE;&#x0;&#x4;&#x0;おいしい話にはウラがある！ いろいろ気をつけろ！</original>
+			<edited>在里面虽然还有迷之建筑物，
+传言说 会给你介绍些 总有点奇怪的打工！&#xE;&#x0;&#x4;&#x0;空穴易来风！ 多多留心吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Plaza_04" offset="00" relocatable="true" max_length="0">
+			<original>こっちにあるのが
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカッチャ&#xE;&#x0;&#x3;&#x2;ÿÿと呼ばれる総合アミューズメントしせつだ！&#xE;&#x0;&#x4;&#x0;近くにいる友達と バトルで、協力で、
+ワイワイ遊ぶことができるぞ！ イカなきゃソンっちゃ！&#xE;&#x0;&#x4;&#x0;じゃあ、次は…</original>
+			<edited>在这里的是被称作
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカッチャ（贼能行）&#xE;&#x0;&#x3;&#x2;ÿÿ的综合娱乐设施！&#xE;&#x0;&#x4;&#x0;可以和身边的朋友 通过战斗或协力
+热热闹闹地一起游玩！ 不去亏得贼不行！&#xE;&#x0;&#x4;&#x0;那么，接下来是…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Plaza_05" offset="00" relocatable="true" max_length="0">
+			<original>ん？！！！！！&#xE;&#x0;&#x4;&#x0;あれは、どっかでみたことあるような…？！&#xE;&#x0;&#x4;&#x0;いや、こんなとこに立ってるワケないよな…
+うん、フクもちがうし、見まちがいだな！ きっと！</original>
+			<edited>嗯？！！！！！&#xE;&#x0;&#x4;&#x0;那个是，总感觉在哪里见过…？！&#xE;&#x0;&#x4;&#x0;不对，不可能在这种地方站着啦…
+嗯，衣服也不一样，是看错了吧！ 一定是的！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Plaza_06" offset="00" relocatable="true" max_length="0">
+			<original>改めて… さっそく、バトルに参加してみよう！
+デカ・タワーの &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿに向かってくれ！</original>
+			<edited>一圈之后… 事不宜迟，试试参加战斗吧！
+快前往デカ・タワー的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿ吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Plaza_FirstTurbunShell" offset="00" relocatable="true" max_length="0">
+			<original>スーパーサザエは 持っているギアを
+さらにイカしたギアにできるアイテムだ！&#xE;&#x0;&#x4;&#x0;ただ、スーパーサザエを使ってギアをいじってくれるやつに
+たのまないと いけないけどな！&#xE;&#x0;&#x4;&#x0;そのサザエを持って デカ・タワーの入口あたりに
+向かってみるんだ！&#xE;&#x0;&#x4;&#x0;貴重なモノだから 大事に使うように！</original>
+			<edited>スーパーサザエは 持っているギアを
+さらにイカしたギアにできるアイテムだ！&#xE;&#x0;&#x4;&#x0;ただ、スーパーサザエを使ってギアをいじってくれるやつに
+たのまないと いけないけどな！&#xE;&#x0;&#x4;&#x0;そのサザエを持って デカ・タワーの入口あたりに
+向かってみるんだ！&#xE;&#x0;&#x4;&#x0;貴重なモノだから 大事に使うように！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Plaza_FirstTurbunShell_Judge" offset="00" relocatable="true" max_length="0">
+			<original>に゛っ（スーパーサザエは 持っているギアを
+さらにイカしたギアにできるアイテムだ！&#xE;&#x0;&#x4;&#x0;ただ、スーパーサザエを使ってギアをいじってくれるやつに
+たのまないと いけないけどな！&#xE;&#x0;&#x4;&#x0;そのサザエを持って デカ・タワーの入口あたりに
+向かってみるんだ！&#xE;&#x0;&#x4;&#x0;貴重なモノだから 大事に使うように！）</original>
+			<edited>に゛っ（スーパーサザエは 持っているギアを
+さらにイカしたギアにできるアイテムだ！&#xE;&#x0;&#x4;&#x0;ただ、スーパーサザエを使ってギアをいじってくれるやつに
+たのまないと いけないけどな！&#xE;&#x0;&#x4;&#x0;そのサザエを持って デカ・タワーの入口あたりに
+向かってみるんだ！&#xE;&#x0;&#x4;&#x0;貴重なモノだから 大事に使うように！）</edited>
+			<subEntries />
+		</entry>
+		<entry name="Plaza_FirstOcta" offset="00" relocatable="true" max_length="0">
+			<original>むむっ…？！ おくのほうから何か聞こえてくるぞ…？&#xE;&#x0;&#x4;&#x0;アヤシイ…アヤシすぎるな…
+とりあえず見なかったことにしよう</original>
+			<edited>唔唔…？！ 能听见在里面传来了什么声音…？&#xE;&#x0;&#x4;&#x0;可疑…太可疑了…
+总之就当作没看过吧</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

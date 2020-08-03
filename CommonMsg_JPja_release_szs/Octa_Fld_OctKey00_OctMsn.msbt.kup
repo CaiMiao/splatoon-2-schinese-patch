@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Key00_0000" offset="00" relocatable="true" max_length="0">
+			<original>だれもいないみたいだゾ！ 進めー！</original>
+			<edited>だれもいないみたいだゾ！ 進めー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Key00_0001" offset="00" relocatable="true" max_length="0">
+			<original>一応、周囲に気をつけてくださいね♪</original>
+			<edited>一応、周囲に気をつけてくださいね♪</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

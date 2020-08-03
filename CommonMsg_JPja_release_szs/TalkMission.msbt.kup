@@ -1,0 +1,3889 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="SheldonRequest_NotInHand" offset="00" relocatable="true" max_length="0">
+			<original>さあ、これを持っていくでし！
+使いまくって、データを集めて欲しいでし！！</original>
+			<edited>さあ、これを持っていくでし！
+使いまくって、データを集めて欲しいでし！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SheldonRequest_InHand" offset="00" relocatable="true" max_length="0">
+			<original>まいどありがとでし！
+またこのブキ使って、データを集めて欲しいでし！</original>
+			<edited>まいどありがとでし！
+またこのブキ使って、データを集めて欲しいでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NewWeaponTalk_Roller_MissionNormal" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーローローラー&#xE;&#x0;&#x3;&#x2;ÿÿでし！
+地上では、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で ヨコ振り攻撃するでし！&#xE;&#x0;&#x4;&#x0;空中だと、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でタテ振りするので
+遠くまで インクを飛ばせるようになるでし！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしでコロコロ塗り進むこともできるでし！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーローローラー&#xE;&#x0;&#x3;&#x2;ÿÿでし！
+地上では、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で ヨコ振り攻撃するでし！&#xE;&#x0;&#x4;&#x0;空中だと、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でタテ振りするので
+遠くまで インクを飛ばせるようになるでし！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしでコロコロ塗り進むこともできるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NewWeaponTalk_Charger_MissionNormal" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーローチャージャー&#xE;&#x0;&#x3;&#x2;ÿÿでし！ &#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押しつづけて
+フルチャージ！ 遠くの敵をねらいうつでし！&#xE;&#x0;&#x4;&#x0;フルチャージしたら その状態で
+ちょっとだけ イカダッシュできるでし！&#xE;&#x0;&#x4;&#x0;名付けて &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;チャージキープ&#xE;&#x0;&#x3;&#x2;ÿÿ！！
+使いこなして クールにキメるでし！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーローチャージャー&#xE;&#x0;&#x3;&#x2;ÿÿでし！ &#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押しつづけて
+フルチャージ！ 遠くの敵をねらいうつでし！&#xE;&#x0;&#x4;&#x0;フルチャージしたら その状態で
+ちょっとだけ イカダッシュできるでし！&#xE;&#x0;&#x4;&#x0;名付けて &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;チャージキープ&#xE;&#x0;&#x3;&#x2;ÿÿ！！
+使いこなして クールにキメるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NewWeaponTalk_Twins_MissionNormal" offset="00" relocatable="true" max_length="0">
+			<original>最新ヒット商品の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーローマニューバー&#xE;&#x0;&#x3;&#x2;ÿÿでし！&#xE;&#x0;&#x4;&#x0;ショットをうちながら 移動しつつ
+&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で、イカした&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スライド&#xE;&#x0;&#x3;&#x2;ÿÿをキメるでし！&#xE;&#x0;&#x4;&#x0;前後左右に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スライド&#xE;&#x0;&#x3;&#x2;ÿÿできるから
+ぜひぜひ 使いこなすでし！</original>
+			<edited>最新ヒット商品の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーローマニューバー&#xE;&#x0;&#x3;&#x2;ÿÿでし！&#xE;&#x0;&#x4;&#x0;ショットをうちながら 移動しつつ
+&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で、イカした&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スライド&#xE;&#x0;&#x3;&#x2;ÿÿをキメるでし！&#xE;&#x0;&#x4;&#x0;前後左右に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スライド&#xE;&#x0;&#x3;&#x2;ÿÿできるから
+ぜひぜひ 使いこなすでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NewWeaponTalk_Umbrella_MissionNormal" offset="00" relocatable="true" max_length="0">
+			<original>オシャレな イカ達のココロに ささりまくり！！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーローシェルター&#xE;&#x0;&#x3;&#x2;ÿÿでし！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でインクを発射！ 押し続けて カサで防御！
+さらに&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押し続けると カサを&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;パージ&#xE;&#x0;&#x3;&#x2;ÿÿするでしよ！&#xE;&#x0;&#x4;&#x0;使い方に ちょっとクセがあるでしが
+うまく使いこなせば カッコイイでし！</original>
+			<edited>オシャレな イカ達のココロに ささりまくり！！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーローシェルター&#xE;&#x0;&#x3;&#x2;ÿÿでし！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でインクを発射！ 押し続けて カサで防御！
+さらに&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押し続けると カサを&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;パージ&#xE;&#x0;&#x3;&#x2;ÿÿするでしよ！&#xE;&#x0;&#x4;&#x0;使い方に ちょっとクセがあるでしが
+うまく使いこなせば カッコイイでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NewWeaponTalk_Spinner_MissionStandard" offset="00" relocatable="true" max_length="0">
+			<original>圧倒的連射力！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーロースピナー&#xE;&#x0;&#x3;&#x2;ÿÿでし！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しでチャージして
+ドトウの攻めを ブチかますでし！&#xE;&#x0;&#x4;&#x0;その分 チャージ中は、スキだらけでしが…
+足を取られないよう注意して 立ち回るでし！</original>
+			<edited>圧倒的連射力！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーロースピナー&#xE;&#x0;&#x3;&#x2;ÿÿでし！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しでチャージして
+ドトウの攻めを ブチかますでし！&#xE;&#x0;&#x4;&#x0;その分 チャージ中は、スキだらけでしが…
+足を取られないよう注意して 立ち回るでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NewWeaponTalk_Shooter_BlasterMissionMiddle" offset="00" relocatable="true" max_length="0">
+			<original>うって ボン！ はじけて パン！ で おなじみの
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーローブラスター&#xE;&#x0;&#x3;&#x2;ÿÿでし！&#xE;&#x0;&#x4;&#x0;カベの後ろにいる 敵を
+ブラスターの爆風で、仕留めるでし！&#xE;&#x0;&#x4;&#x0;連射は期待できないので、一発うった後のスキには
+気を付けて、かわいがって欲しいでし！</original>
+			<edited>うって ボン！ はじけて パン！ で おなじみの
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーローブラスター&#xE;&#x0;&#x3;&#x2;ÿÿでし！&#xE;&#x0;&#x4;&#x0;カベの後ろにいる 敵を
+ブラスターの爆風で、仕留めるでし！&#xE;&#x0;&#x4;&#x0;連射は期待できないので、一発うった後のスキには
+気を付けて、かわいがって欲しいでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NewWeaponTalk_Slosher_MissionStrong" offset="00" relocatable="true" max_length="0">
+			<original>インクが 放物線をえがく
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーロースロッシャー&#xE;&#x0;&#x3;&#x2;ÿÿでし！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でバシャバシャ！ インクのキドウをイカして
+カベの向こうの敵を やっつけるでし！&#xE;&#x0;&#x4;&#x0;ねらった場所にうつには、慣れがいるでしが…
+きっと 期待にこたえてくれるでし！</original>
+			<edited>インクが 放物線をえがく
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーロースロッシャー&#xE;&#x0;&#x3;&#x2;ÿÿでし！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でバシャバシャ！ インクのキドウをイカして
+カベの向こうの敵を やっつけるでし！&#xE;&#x0;&#x4;&#x0;ねらった場所にうつには、慣れがいるでしが…
+きっと 期待にこたえてくれるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NewWeaponTalk_Roller_MissionBrushNormal" offset="00" relocatable="true" max_length="0">
+			<original>あなどれない 近接攻撃！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーローブラシ&#xE;&#x0;&#x3;&#x2;ÿÿでし！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしの一筆書きで、敵をかき回し
+高いとこからの&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打で 塗り広げるでし！&#xE;&#x0;&#x4;&#x0;遠くの敵にも 一気に近づいて
+シュババっと やっつけるでしよ！！</original>
+			<edited>あなどれない 近接攻撃！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーローブラシ&#xE;&#x0;&#x3;&#x2;ÿÿでし！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしの一筆書きで、敵をかき回し
+高いとこからの&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打で 塗り広げるでし！&#xE;&#x0;&#x4;&#x0;遠くの敵にも 一気に近づいて
+シュババっと やっつけるでしよ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="00_Common_R001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント &#xE;&#x0;&#x3;&#x2;ÿÿ発見！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント &#xE;&#x0;&#x3;&#x2;ÿÿ発見！</edited>
+			<subEntries />
+		</entry>
+		<entry name="00_Common_R002" offset="00" relocatable="true" max_length="0">
+			<original>グッドグッド♪</original>
+			<edited>グッドグッド♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="00_Common_R003" offset="00" relocatable="true" max_length="0">
+			<original>ナイスナイス♪</original>
+			<edited>ナイスナイス♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="00_Common_R005" offset="00" relocatable="true" max_length="0">
+			<original>バッチグ～！</original>
+			<edited>バッチグ～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="00_Common_R006" offset="00" relocatable="true" max_length="0">
+			<original>アメ～ジング♪</original>
+			<edited>アメ～ジング♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="00_Common_R008" offset="00" relocatable="true" max_length="0">
+			<original>うんうん、お見事！</original>
+			<edited>うんうん、お見事！</edited>
+			<subEntries />
+		</entry>
+		<entry name="00_Common_R009" offset="00" relocatable="true" max_length="0">
+			<original>イイネ！</original>
+			<edited>イイネ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="00_Common_R012" offset="00" relocatable="true" max_length="0">
+			<original>オッケ！</original>
+			<edited>オッケ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="00_Common_R013" offset="00" relocatable="true" max_length="0">
+			<original>うんうん、イカしてる</original>
+			<edited>うんうん、イカしてる</edited>
+			<subEntries />
+		</entry>
+		<entry name="00_Common_R014" offset="00" relocatable="true" max_length="0">
+			<original>オケオケ♪</original>
+			<edited>オケオケ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="00_Common_R016" offset="00" relocatable="true" max_length="0">
+			<original>やるねぇ～</original>
+			<edited>やるねぇ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="00_Common_R017" offset="00" relocatable="true" max_length="0">
+			<original>ヒーロースーツこわれた！ 直るまで無理せんよ！</original>
+			<edited>ヒーロースーツこわれた！ 直るまで無理せんよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="00_Common_R018" offset="00" relocatable="true" max_length="0">
+			<original>ふ～… スーツ 直ったよ～</original>
+			<edited>ふ～… スーツ 直ったよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿになって、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インクの中&#xE;&#x0;&#x3;&#x2;ÿÿを泳げるよ</original>
+			<edited>&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿになって、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インクの中&#xE;&#x0;&#x3;&#x2;ÿÿを泳げるよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>周囲を見わたして、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でうつ！</original>
+			<edited>周囲を見わたして、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でうつ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボム風船&#xE;&#x0;&#x3;&#x2;ÿÿ、割ってド～ンね</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボム風船&#xE;&#x0;&#x3;&#x2;ÿÿ、割ってド～ンね</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ取ったら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿに向かって</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ取ったら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿに向かって</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カナアミ&#xE;&#x0;&#x3;&#x2;ÿÿは、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;イカで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;くぐる&#xE;&#x0;&#x3;&#x2;ÿÿんよ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カナアミ&#xE;&#x0;&#x3;&#x2;ÿÿは、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;イカで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;くぐる&#xE;&#x0;&#x3;&#x2;ÿÿんよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラ正面&#xE;&#x0;&#x3;&#x2;ÿÿは、&#xE;&#x2;&#x1A;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;リセット&#xE;&#x0;&#x3;&#x2;ÿÿできるかんね</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラ正面&#xE;&#x0;&#x3;&#x2;ÿÿは、&#xE;&#x2;&#x1A;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;リセット&#xE;&#x0;&#x3;&#x2;ÿÿできるかんね</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アーマー&#xE;&#x0;&#x3;&#x2;ÿÿだ、取っちゃえ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アーマー&#xE;&#x0;&#x3;&#x2;ÿÿだ、取っちゃえ</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>うちながら下がって！ これぞ、退きうち！</original>
+			<edited>うちながら下がって！ これぞ、退きうち！</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>ふ～、危ない危ない…</original>
+			<edited>ふ～、危ない危ない…</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボム&#xE;&#x0;&#x3;&#x2;ÿÿで注意をそらしてから、背中をうつ！</original>
+			<edited>&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボム&#xE;&#x0;&#x3;&#x2;ÿÿで注意をそらしてから、背中をうつ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>あ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカフライ&#xE;&#x0;&#x3;&#x2;ÿÿ！ &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプで くぐってみよ～</original>
+			<edited>あ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカフライ&#xE;&#x0;&#x3;&#x2;ÿÿ！ &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプで くぐってみよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>落ちないように足元、注意ね</original>
+			<edited>落ちないように足元、注意ね</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn013" offset="00" relocatable="true" max_length="0">
+			<original>カベの向こうは注意だな～</original>
+			<edited>カベの向こうは注意だな～</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>お見事！</original>
+			<edited>お見事！</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マルチミサイル&#xE;&#x0;&#x3;&#x2;ÿÿだ！ &#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して発動、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で発射ね！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マルチミサイル&#xE;&#x0;&#x3;&#x2;ÿÿだ！ &#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して発動、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で発射ね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>ナイスナイス～、この調子で よろ～</original>
+			<edited>ナイスナイス～、この調子で よろ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿは、割ってゲットね</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿは、割ってゲットね</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でかくれて、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インク&#xE;&#x0;&#x3;&#x2;ÿÿ回復ね</original>
+			<edited>&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でかくれて、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インク&#xE;&#x0;&#x3;&#x2;ÿÿ回復ね</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿ、はっけ～ん</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿ、はっけ～ん</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn020" offset="00" relocatable="true" max_length="0">
+			<original>カベにかくれて深呼吸！ 戦場の鉄則ゥ</original>
+			<edited>カベにかくれて深呼吸！ 戦場の鉄則ゥ</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn021" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ちがう色のインク&#xE;&#x0;&#x3;&#x2;ÿÿは、塗り返して</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ちがう色のインク&#xE;&#x0;&#x3;&#x2;ÿÿは、塗り返して</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;かたむけ 左右を見回す！ 戦場の鉄則ゥ</original>
+			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;かたむけ 左右を見回す！ 戦場の鉄則ゥ</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn023" offset="00" relocatable="true" max_length="0">
+			<original>イイネ！ …からの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿ！</original>
+			<edited>イイネ！ …からの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn024" offset="00" relocatable="true" max_length="0">
+			<original>見てて ヒヤヒヤするし</original>
+			<edited>見てて ヒヤヒヤするし</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn025" offset="00" relocatable="true" max_length="0">
+			<original>ワナか？！ 落ち着いて対処ね！</original>
+			<edited>ワナか？！ 落ち着いて対処ね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カナアミ&#xE;&#x0;&#x3;&#x2;ÿÿは、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;くぐる&#xE;&#x0;&#x3;&#x2;ÿÿんよ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カナアミ&#xE;&#x0;&#x3;&#x2;ÿÿは、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;くぐる&#xE;&#x0;&#x3;&#x2;ÿÿんよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn027" offset="00" relocatable="true" max_length="0">
+			<original>やるねぇ、 んじゃ次</original>
+			<edited>やるねぇ、 んじゃ次</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn028" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿだ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ探そ～</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿだ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ探そ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn029" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ発見！ 確認されたし！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ発見！ 確認されたし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn030" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カナアミ&#xE;&#x0;&#x3;&#x2;ÿÿは、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿで ぬけられるっしょ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カナアミ&#xE;&#x0;&#x3;&#x2;ÿÿは、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿで ぬけられるっしょ</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn031" offset="00" relocatable="true" max_length="0">
+			<original>やるね～、４号</original>
+			<edited>やるね～、４号</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn032" offset="00" relocatable="true" max_length="0">
+			<original>エクセレント♪</original>
+			<edited>エクセレント♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn033" offset="00" relocatable="true" max_length="0">
+			<original>カベが無いな…&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でかくれて、ゆっくり近づこっか</original>
+			<edited>カベが無いな…&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でかくれて、ゆっくり近づこっか</edited>
+			<subEntries />
+		</entry>
+		<entry name="001_EasyHide00_A1_Msn034" offset="00" relocatable="true" max_length="0">
+			<original>タテ持ちは &#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボム&#xE;&#x0;&#x3;&#x2;ÿÿで気を引き 背中うつ！</original>
+			<edited>タテ持ちは &#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボム&#xE;&#x0;&#x3;&#x2;ÿÿで気を引き 背中うつ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="002_EasyClimb00_A1_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>カベは塗って&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿで登って</original>
+			<edited>カベは塗って&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿで登って</edited>
+			<subEntries />
+		</entry>
+		<entry name="002_EasyClimb00_A1_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>前方に敵を確認！ 注意されたし！</original>
+			<edited>前方に敵を確認！ 注意されたし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="002_EasyClimb00_A1_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スポンジ&#xE;&#x0;&#x3;&#x2;ÿÿはうって、上手く使お～</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スポンジ&#xE;&#x0;&#x3;&#x2;ÿÿはうって、上手く使お～</edited>
+			<subEntries />
+		</entry>
+		<entry name="002_EasyClimb00_A1_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>このコは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インクリーナー&#xE;&#x0;&#x3;&#x2;ÿÿ、インクを吸い取るよ</original>
+			<edited>このコは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インクリーナー&#xE;&#x0;&#x3;&#x2;ÿÿ、インクを吸い取るよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="002_EasyClimb00_A1_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>正面遠方… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カナアミ&#xE;&#x0;&#x3;&#x2;ÿÿの上に、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコトルーパー&#xE;&#x0;&#x3;&#x2;ÿÿを確認！</original>
+			<edited>正面遠方… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カナアミ&#xE;&#x0;&#x3;&#x2;ÿÿの上に、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコトルーパー&#xE;&#x0;&#x3;&#x2;ÿÿを確認！</edited>
+			<subEntries />
+		</entry>
+		<entry name="002_EasyClimb00_A1_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>登れそうなトコ 探さんとね</original>
+			<edited>登れそうなトコ 探さんとね</edited>
+			<subEntries />
+		</entry>
+		<entry name="002_EasyClimb00_A1_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>敵 来るよ！ 落ち着いて対処！</original>
+			<edited>敵 来るよ！ 落ち着いて対処！</edited>
+			<subEntries />
+		</entry>
+		<entry name="002_EasyClimb00_A1_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>敵がおらん…</original>
+			<edited>敵がおらん…</edited>
+			<subEntries />
+		</entry>
+		<entry name="002_EasyClimb00_A1_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>こんなトコ よ～見つけたね</original>
+			<edited>こんなトコ よ～見つけたね</edited>
+			<subEntries />
+		</entry>
+		<entry name="002_EasyClimb00_A1_Msn013" offset="00" relocatable="true" max_length="0">
+			<original>上方に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿを確認！</original>
+			<edited>上方に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿを確認！</edited>
+			<subEntries />
+		</entry>
+		<entry name="002_EasyClimb00_A1_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿで&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で、速く登れるかんね～</original>
+			<edited>&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿで&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で、速く登れるかんね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="002_EasyClimb00_A1_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーチャクチ&#xE;&#x0;&#x3;&#x2;ÿÿだ！ 敵を引き付けて&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で発動してみ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーチャクチ&#xE;&#x0;&#x3;&#x2;ÿÿだ！ 敵を引き付けて&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で発動してみ</edited>
+			<subEntries />
+		</entry>
+		<entry name="002_EasyClimb00_A1_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>敵が、また 下りてきた！</original>
+			<edited>敵が、また 下りてきた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="002_EasyClimb00_A1_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボムタコプター&#xE;&#x0;&#x3;&#x2;ÿÿ発見！ ヤバそ…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボムタコプター&#xE;&#x0;&#x3;&#x2;ÿÿ発見！ ヤバそ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="002_EasyClimb00_A1_Msn018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スポンジ&#xE;&#x0;&#x3;&#x2;ÿÿも &#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;イカ&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打で、速く登れるかんね</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スポンジ&#xE;&#x0;&#x3;&#x2;ÿÿも &#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;イカ&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打で、速く登れるかんね</edited>
+			<subEntries />
+		</entry>
+		<entry name="002_EasyClimb00_A1_Msn019" offset="00" relocatable="true" max_length="0">
+			<original>あとちょっと！ 進め～</original>
+			<edited>あとちょっと！ 進め～</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ダッシュ板&#xE;&#x0;&#x3;&#x2;ÿÿは、乗ったらバビュ～ンとダッシュ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ダッシュ板&#xE;&#x0;&#x3;&#x2;ÿÿは、乗ったらバビュ～ンとダッシュ</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>低い段差は &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプで、登ろう</original>
+			<edited>低い段差は &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプで、登ろう</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ライドレール&#xE;&#x0;&#x3;&#x2;ÿÿは&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ショットで起動&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプで乗って</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ライドレール&#xE;&#x0;&#x3;&#x2;ÿÿは&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ショットで起動&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプで乗って</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>ナイスライド♪</original>
+			<edited>ナイスライド♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;イカで泳いで、遠くまで&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプ</original>
+			<edited>&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;イカで泳いで、遠くまで&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプ</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>敵発見！ カベの後ろで 深呼吸～</original>
+			<edited>敵発見！ カベの後ろで 深呼吸～</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>遠くにとぶなら、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;イカで泳いで &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプだよ</original>
+			<edited>遠くにとぶなら、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;イカで泳いで &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプだよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヌリヌリ棒&#xE;&#x0;&#x3;&#x2;ÿÿか… 当たると痛いかんね</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヌリヌリ棒&#xE;&#x0;&#x3;&#x2;ÿÿか… 当たると痛いかんね</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>タイミング見てこ～</original>
+			<edited>タイミング見てこ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>タコプターを目視にて確認、注意されたし！</original>
+			<edited>タコプターを目視にて確認、注意されたし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>タイミングが、大切だかんね</original>
+			<edited>タイミングが、大切だかんね</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn013" offset="00" relocatable="true" max_length="0">
+			<original>お見事！</original>
+			<edited>お見事！</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>ナイスクライム♪</original>
+			<edited>ナイスクライム♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイパープレッサー&#xE;&#x0;&#x3;&#x2;ÿÿ発見！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイパープレッサー&#xE;&#x0;&#x3;&#x2;ÿÿ発見！</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;の後、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしで 遠くまで届け～</original>
+			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;の後、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしで 遠くまで届け～</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;バイタコトルーパー&#xE;&#x0;&#x3;&#x2;ÿÿを確認！ 落ち着いてトツゲキ～！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;バイタコトルーパー&#xE;&#x0;&#x3;&#x2;ÿÿを確認！ 落ち着いてトツゲキ～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn019" offset="00" relocatable="true" max_length="0">
+			<original>ナイスジャ～ンプ♪</original>
+			<edited>ナイスジャ～ンプ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn020" offset="00" relocatable="true" max_length="0">
+			<original>タイミング よ～く見て行こ～</original>
+			<edited>タイミング よ～く見て行こ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn021" offset="00" relocatable="true" max_length="0">
+			<original>ほほ～… やるね、４号</original>
+			<edited>ほほ～… やるね、４号</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn022" offset="00" relocatable="true" max_length="0">
+			<original>ナイスフライト♪</original>
+			<edited>ナイスフライト♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn023" offset="00" relocatable="true" max_length="0">
+			<original>ナイスダッシュ♪</original>
+			<edited>ナイスダッシュ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn024" offset="00" relocatable="true" max_length="0">
+			<original>カベなら&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打で 素早く登る！ 戦場の鉄則ゥ</original>
+			<edited>カベなら&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打で 素早く登る！ 戦場の鉄則ゥ</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn025" offset="00" relocatable="true" max_length="0">
+			<original>エクセレント♪</original>
+			<edited>エクセレント♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn026" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ライドレール&#xE;&#x0;&#x3;&#x2;ÿÿあって よかったね…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ライドレール&#xE;&#x0;&#x3;&#x2;ÿÿあって よかったね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn027" offset="00" relocatable="true" max_length="0">
+			<original>ィよし！ 一気にとっちめたったね</original>
+			<edited>ィよし！ 一気にとっちめたったね</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn028" offset="00" relocatable="true" max_length="0">
+			<original>ぎゃふん！ …４号って案外 ムチャすんね</original>
+			<edited>ぎゃふん！ …４号って案外 ムチャすんね</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn029" offset="00" relocatable="true" max_length="0">
+			<original>よっ</original>
+			<edited>よっ</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn030" offset="00" relocatable="true" max_length="0">
+			<original>はっ</original>
+			<edited>はっ</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn031" offset="00" relocatable="true" max_length="0">
+			<original>とぉっ</original>
+			<edited>とぉっ</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn032" offset="00" relocatable="true" max_length="0">
+			<original>わっ！</original>
+			<edited>わっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn033" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカフライ&#xE;&#x0;&#x3;&#x2;ÿÿ！ とんで 真ん中くぐって</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカフライ&#xE;&#x0;&#x3;&#x2;ÿÿ！ とんで 真ん中くぐって</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn034" offset="00" relocatable="true" max_length="0">
+			<original>ゲットゲット～♪</original>
+			<edited>ゲットゲット～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="003_EasyJump00_A1_Msn035" offset="00" relocatable="true" max_length="0">
+			<original>ぅわっ！</original>
+			<edited>ぅわっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>コロコロ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;コロガリウム&#xE;&#x0;&#x3;&#x2;ÿÿ はっけ～ん</original>
+			<edited>コロコロ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;コロガリウム&#xE;&#x0;&#x3;&#x2;ÿÿ はっけ～ん</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>ここは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;コロガリウム&#xE;&#x0;&#x3;&#x2;ÿÿ転がして、自分色に染めるでし！</original>
+			<edited>ここは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;コロガリウム&#xE;&#x0;&#x3;&#x2;ÿÿ転がして、自分色に染めるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>お見事！</original>
+			<edited>お見事！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコポッド&#xE;&#x0;&#x3;&#x2;ÿÿを確認！ つっこんで来るよ～！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコポッド&#xE;&#x0;&#x3;&#x2;ÿÿを確認！ つっこんで来るよ～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボムタコプター&#xE;&#x0;&#x3;&#x2;ÿÿか… やっかいだな</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボムタコプター&#xE;&#x0;&#x3;&#x2;ÿÿか… やっかいだな</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>ま～た &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコポッド&#xE;&#x0;&#x3;&#x2;ÿÿね！ さっきより多い！</original>
+			<edited>ま～た &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコポッド&#xE;&#x0;&#x3;&#x2;ÿÿね！ さっきより多い！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>やるね～！</original>
+			<edited>やるね～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>あれが&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコリバーサー&#xE;&#x0;&#x3;&#x2;ÿÿ… どこから&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;コロガリウム&#xE;&#x0;&#x3;&#x2;ÿÿ出しとるね</original>
+			<edited>あれが&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコリバーサー&#xE;&#x0;&#x3;&#x2;ÿÿ… どこから&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;コロガリウム&#xE;&#x0;&#x3;&#x2;ÿÿ出しとるね</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>ナイス、４号♪</original>
+			<edited>ナイス、４号♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>おくに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿ… だけど、タコリバーサー多過ぎ…</original>
+			<edited>おくに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿ… だけど、タコリバーサー多過ぎ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイパープレッサー&#xE;&#x0;&#x3;&#x2;ÿÿは&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;後、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押し続けるでし！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイパープレッサー&#xE;&#x0;&#x3;&#x2;ÿÿは&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;後、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押し続けるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>敵がいない？ ４号、気をつけて…</original>
+			<edited>敵がいない？ ４号、気をつけて…</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn013" offset="00" relocatable="true" max_length="0">
+			<original>ひゅ～ アブなかった…</original>
+			<edited>ひゅ～ アブなかった…</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>ほらね！</original>
+			<edited>ほらね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>ほ～ら、やっぱり出た！</original>
+			<edited>ほ～ら、やっぱり出た！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>ィよし！ デンチナマズが近いよ！</original>
+			<edited>ィよし！ デンチナマズが近いよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>まだまだ ユダンタイテキ！</original>
+			<edited>まだまだ ユダンタイテキ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn018" offset="00" relocatable="true" max_length="0">
+			<original>４号、なかなかのキュウカク…</original>
+			<edited>４号、なかなかのキュウカク…</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn019" offset="00" relocatable="true" max_length="0">
+			<original>ここは ジャンプしてローラーを振るでし！</original>
+			<edited>ここは ジャンプしてローラーを振るでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn020" offset="00" relocatable="true" max_length="0">
+			<original>そうでし！ タテ振りで 一気に塗れたでし？</original>
+			<edited>そうでし！ タテ振りで 一気に塗れたでし？</edited>
+			<subEntries />
+		</entry>
+		<entry name="004_Gabon00_A2_Msn021" offset="00" relocatable="true" max_length="0">
+			<original>さ～て、行ってみよ～</original>
+			<edited>さ～て、行ってみよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>あっ イカフライ、乗ってるだけで 取れそじゃね？</original>
+			<edited>あっ イカフライ、乗ってるだけで 取れそじゃね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>平行ライドレールは横に&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;！ となりのに移れる？</original>
+			<edited>平行ライドレールは横に&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;！ となりのに移れる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>オクタリアン達とっちめるよ</original>
+			<edited>オクタリアン達とっちめるよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>…４号って けっこうムチャするタイプ？</original>
+			<edited>…４号って けっこうムチャするタイプ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>敵 多いよ！ 注意！</original>
+			<edited>敵 多いよ！ 注意！</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>レールの行き先に 注意して進も</original>
+			<edited>レールの行き先に 注意して進も</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>デンチナマズ 近くなってきた！</original>
+			<edited>デンチナマズ 近くなってきた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>上へ まいりま～す</original>
+			<edited>上へ まいりま～す</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿ発見！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿ発見！</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>風を感じるね♪ エアリ～</original>
+			<edited>風を感じるね♪ エアリ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>ライドレールの上で&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプも できるかんね</original>
+			<edited>ライドレールの上で&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプも できるかんね</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>ライドレールは立てるよ &#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でショットをうってみよ</original>
+			<edited>ライドレールは立てるよ &#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でショットをうってみよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>曲がったライドレール上では、無理にジャンプせんよ！</original>
+			<edited>曲がったライドレール上では、無理にジャンプせんよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して ジャンプ♪ ね</original>
+			<edited>&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して ジャンプ♪ ね</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn018" offset="00" relocatable="true" max_length="0">
+			<original>うんうん、次いってみよ～</original>
+			<edited>うんうん、次いってみよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn019" offset="00" relocatable="true" max_length="0">
+			<original>カレイな身のこなし、お見事！</original>
+			<edited>カレイな身のこなし、お見事！</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn020" offset="00" relocatable="true" max_length="0">
+			<original>もどって、もう一度チャレンジしてみよっか</original>
+			<edited>もどって、もう一度チャレンジしてみよっか</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn022" offset="00" relocatable="true" max_length="0">
+			<original>かくされたライドレールでしね！ 乗ってみるでし！</original>
+			<edited>かくされたライドレールでしね！ 乗ってみるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn023" offset="00" relocatable="true" max_length="0">
+			<original>乗ったら、&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で ジャ～ンプ！</original>
+			<edited>乗ったら、&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で ジャ～ンプ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn025" offset="00" relocatable="true" max_length="0">
+			<original>敵を確認！ 注意されたし！</original>
+			<edited>敵を確認！ 注意されたし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn026" offset="00" relocatable="true" max_length="0">
+			<original>移動ショットしながら &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スライド&#xE;&#x0;&#x3;&#x2;ÿÿ！ 思い出すでし！</original>
+			<edited>移動ショットしながら &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スライド&#xE;&#x0;&#x3;&#x2;ÿÿ！ 思い出すでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn027" offset="00" relocatable="true" max_length="0">
+			<original>移動ショットしつつ、&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スライド&#xE;&#x0;&#x3;&#x2;ÿÿでし！</original>
+			<edited>移動ショットしつつ、&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スライド&#xE;&#x0;&#x3;&#x2;ÿÿでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn028" offset="00" relocatable="true" max_length="0">
+			<original>スライドしても ライドレールに乗れるよ</original>
+			<edited>スライドしても ライドレールに乗れるよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn029" offset="00" relocatable="true" max_length="0">
+			<original>アーマー はっけ～ん</original>
+			<edited>アーマー はっけ～ん</edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn030" offset="00" relocatable="true" max_length="0">
+			<original>４号、ナ～イス </original>
+			<edited>４号、ナ～イス </edited>
+			<subEntries />
+		</entry>
+		<entry name="005_Grind00_A2_Msn031" offset="00" relocatable="true" max_length="0">
+			<original>ちょっぱや～、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スライド&#xE;&#x0;&#x3;&#x2;ÿÿは連続で２回できるよ</original>
+			<edited>ちょっぱや～、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スライド&#xE;&#x0;&#x3;&#x2;ÿÿは連続で２回できるよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;プロペラリフト&#xE;&#x0;&#x3;&#x2;ÿÿを発見！ 届く？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;プロペラリフト&#xE;&#x0;&#x3;&#x2;ÿÿを発見！ 届く？</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコッペリン号&#xE;&#x0;&#x3;&#x2;ÿÿジャマだな… どっかに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;弱点&#xE;&#x0;&#x3;&#x2;ÿÿ、無い？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコッペリン号&#xE;&#x0;&#x3;&#x2;ÿÿジャマだな… どっかに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;弱点&#xE;&#x0;&#x3;&#x2;ÿÿ、無い？</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>行き止まりなら よ～く見わたす &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;上&#xE;&#x0;&#x3;&#x2;ÿÿとかもね</original>
+			<edited>行き止まりなら よ～く見わたす &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;上&#xE;&#x0;&#x3;&#x2;ÿÿとかもね</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>いい感じ♪</original>
+			<edited>いい感じ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>ナイスナイス♪</original>
+			<edited>ナイスナイス♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>上にいる敵、ジャマやね…</original>
+			<edited>上にいる敵、ジャマやね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>困ったら 周囲を確認！</original>
+			<edited>困ったら 周囲を確認！</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>なんか 遠くで ヤバい音してる…</original>
+			<edited>なんか 遠くで ヤバい音してる…</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>ヤバい音の原因は コイツらか…</original>
+			<edited>ヤバい音の原因は コイツらか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>さっさと 次、行っちゃえ</original>
+			<edited>さっさと 次、行っちゃえ</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn013" offset="00" relocatable="true" max_length="0">
+			<original>また&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;上&#xE;&#x0;&#x3;&#x2;ÿÿに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ひきよせポイント&#xE;&#x0;&#x3;&#x2;ÿÿがあるね</original>
+			<edited>また&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;上&#xE;&#x0;&#x3;&#x2;ÿÿに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ひきよせポイント&#xE;&#x0;&#x3;&#x2;ÿÿがあるね</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>ふ～… ハラハラするわ～</original>
+			<edited>ふ～… ハラハラするわ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿを確認！ もうすぐゴールだ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿを確認！ もうすぐゴールだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>しかし、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿまで どうやって近づこ～かね？</original>
+			<edited>しかし、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿまで どうやって近づこ～かね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>ん… 道が分かれとるね</original>
+			<edited>ん… 道が分かれとるね</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn018" offset="00" relocatable="true" max_length="0">
+			<original>イイネイイネ～</original>
+			<edited>イイネイイネ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しつづけてフルチャージしたら、遠くをねらうでし！</original>
+			<edited>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しつづけてフルチャージしたら、遠くをねらうでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn020" offset="00" relocatable="true" max_length="0">
+			<original>ナイスシュートでし！</original>
+			<edited>ナイスシュートでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="006_Magnum00_A2_Msn021" offset="00" relocatable="true" max_length="0">
+			<original>メインだと届きにくいでしか？ だったら、ボムはどうでし？</original>
+			<edited>メインだと届きにくいでしか？ だったら、ボムはどうでし？</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>ぅわっ！ あのインクリーナー、デカッ…</original>
+			<edited>ぅわっ！ あのインクリーナー、デカッ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>業務用インクリーナーでし！ なんでもソウジするでし！</original>
+			<edited>業務用インクリーナーでし！ なんでもソウジするでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>道がふさがれてる… なんとかして 乗りこえんと…</original>
+			<edited>道がふさがれてる… なんとかして 乗りこえんと…</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>やられる！ チョ～にげて、今スグ！</original>
+			<edited>やられる！ チョ～にげて、今スグ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>背中に乗っても 気づかれんみたいね</original>
+			<edited>背中に乗っても 気づかれんみたいね</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>業務用インクリーナー… カワイイ…</original>
+			<edited>業務用インクリーナー… カワイイ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>道せまし、注意されたし！</original>
+			<edited>道せまし、注意されたし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>タテ持ちは スマートに対処したいトコやね</original>
+			<edited>タテ持ちは スマートに対処したいトコやね</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>ヤバい！</original>
+			<edited>ヤバい！</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>また業務用インクリーナー、はっけ～ん</original>
+			<edited>また業務用インクリーナー、はっけ～ん</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>よしよし、４号はできるコだね～</original>
+			<edited>よしよし、４号はできるコだね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>おくに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿ、はっけ～ん</original>
+			<edited>おくに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿ、はっけ～ん</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>業務用インクリーナー… 来るッ！</original>
+			<edited>業務用インクリーナー… 来るッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>ドアの向こうに 何か… 見えた！</original>
+			<edited>ドアの向こうに 何か… 見えた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>よし、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿ開けに行こ</original>
+			<edited>よし、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿ開けに行こ</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>この&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ… 目の前のドアを開けろ、と？</original>
+			<edited>この&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ… 目の前のドアを開けろ、と？</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn018" offset="00" relocatable="true" max_length="0">
+			<original>業務用インクリーナー、今 、トキハナツ！</original>
+			<edited>業務用インクリーナー、今 、トキハナツ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ見えたよ、あとちょっと！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ見えたよ、あとちょっと！</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn020" offset="00" relocatable="true" max_length="0">
+			<original>業務用インクリーナーは 倒せないし、スルーしよ</original>
+			<edited>業務用インクリーナーは 倒せないし、スルーしよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn021" offset="00" relocatable="true" max_length="0">
+			<original>業務用インクリーナーは、インクに反応するでし！</original>
+			<edited>業務用インクリーナーは、インクに反応するでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn022" offset="00" relocatable="true" max_length="0">
+			<original>登れた！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ &#xE;&#x0;&#x3;&#x2;ÿÿ近いよ！</original>
+			<edited>登れた！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ &#xE;&#x0;&#x3;&#x2;ÿÿ近いよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ、はっけ～ん</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ、はっけ～ん</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn024" offset="00" relocatable="true" max_length="0">
+			<original>このままインクで みちびこうね</original>
+			<edited>このままインクで みちびこうね</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn025" offset="00" relocatable="true" max_length="0">
+			<original>ヤツは特に、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボムのインク&#xE;&#x0;&#x3;&#x2;ÿÿが 大好物なはずでし</original>
+			<edited>ヤツは特に、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボムのインク&#xE;&#x0;&#x3;&#x2;ÿÿが 大好物なはずでし</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn026" offset="00" relocatable="true" max_length="0">
+			<original>このカベは、塗れないから登れんね</original>
+			<edited>このカベは、塗れないから登れんね</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn027" offset="00" relocatable="true" max_length="0">
+			<original>高いトコに にげて！</original>
+			<edited>高いトコに にげて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn028" offset="00" relocatable="true" max_length="0">
+			<original>なにやら あやしい気配… 気をつけて</original>
+			<edited>なにやら あやしい気配… 気をつけて</edited>
+			<subEntries />
+		</entry>
+		<entry name="007_Mega00_A2_Msn029" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ探そっか</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ探そっか</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>よし、行こっか！</original>
+			<edited>よし、行こっか！</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ピロピロ&#xE;&#x0;&#x3;&#x2;ÿÿは塗ったら クルクルのびてくよ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ピロピロ&#xE;&#x0;&#x3;&#x2;ÿÿは塗ったら クルクルのびてくよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>足元に敵を確認！ 注意されたし！</original>
+			<edited>足元に敵を確認！ 注意されたし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>あ、しばらくすると巻きもどるから、そん時は 気をつけて</original>
+			<edited>あ、しばらくすると巻きもどるから、そん時は 気をつけて</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>ちなみに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ピロピロ&#xE;&#x0;&#x3;&#x2;ÿÿは、敵のインクでも もどってくるでし！</original>
+			<edited>ちなみに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ピロピロ&#xE;&#x0;&#x3;&#x2;ÿÿは、敵のインクでも もどってくるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>ここは つっこまないで クールに対処</original>
+			<edited>ここは つっこまないで クールに対処</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>ナイス、縦ピロピロ♪</original>
+			<edited>ナイス、縦ピロピロ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>落ち着いていけば ダイジョブダイジョブ</original>
+			<edited>落ち着いていけば ダイジョブダイジョブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（お仕事の休みも、これくらいのびないかな…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（お仕事の休みも、これくらいのびないかな…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>いいね～、４号</original>
+			<edited>いいね～、４号</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>敵も&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ピロピロ&#xE;&#x0;&#x3;&#x2;ÿÿも ならんどるね</original>
+			<edited>敵も&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ピロピロ&#xE;&#x0;&#x3;&#x2;ÿÿも ならんどるね</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>なんだかんだで ラクショ―じゃね？</original>
+			<edited>なんだかんだで ラクショ―じゃね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn013" offset="00" relocatable="true" max_length="0">
+			<original>タテ持ちがイッパイ… 正面からはキツそ…</original>
+			<edited>タテ持ちがイッパイ… 正面からはキツそ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>あ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ！ チラっと見えたでし！</original>
+			<edited>あ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ！ チラっと見えたでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>遠方に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ピロピロ&#xE;&#x0;&#x3;&#x2;ÿÿ発見！</original>
+			<edited>遠方に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ピロピロ&#xE;&#x0;&#x3;&#x2;ÿÿ発見！</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>ここは、イッキに行こ！</original>
+			<edited>ここは、イッキに行こ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>やるね～ あと少し…</original>
+			<edited>やるね～ あと少し…</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn018" offset="00" relocatable="true" max_length="0">
+			<original>うは！ のびすぎっしょ…</original>
+			<edited>うは！ のびすぎっしょ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="008_Blowouts_A2_Msn019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;キャノン&#xE;&#x0;&#x3;&#x2;ÿÿでし！ 乗って&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しながら&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でし！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;キャノン&#xE;&#x0;&#x3;&#x2;ÿÿでし！ 乗って&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しながら&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="009_Ditch00_A2_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>グッド～、この調子で ８コ全部取り返すよ～</original>
+			<edited>グッド～、この調子で ８コ全部取り返すよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="009_Ditch00_A2_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>ナ～イス、２コめ ゲット</original>
+			<edited>ナ～イス、２コめ ゲット</edited>
+			<subEntries />
+		</entry>
+		<entry name="009_Ditch00_A2_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>３コめゲット～♪</original>
+			<edited>３コめゲット～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="009_Ditch00_A2_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>よ～し ４コめゲット、これで半分</original>
+			<edited>よ～し ４コめゲット、これで半分</edited>
+			<subEntries />
+		</entry>
+		<entry name="009_Ditch00_A2_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>スミズミまでさがして、８コ 全部取り返そうね</original>
+			<edited>スミズミまでさがして、８コ 全部取り返そうね</edited>
+			<subEntries />
+		</entry>
+		<entry name="009_Ditch00_A2_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>６コめゲットでし！ 順調に取り返してるでしね！</original>
+			<edited>６コめゲットでし！ 順調に取り返してるでしね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="009_Ditch00_A2_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>７コめゲット♪ もうちょいだ</original>
+			<edited>７コめゲット♪ もうちょいだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="009_Ditch00_A2_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>出た！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコゾネス&#xE;&#x0;&#x3;&#x2;ÿÿ！</original>
+			<edited>出た！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコゾネス&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="009_Ditch00_A2_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>あれは… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マメデンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ！</original>
+			<edited>あれは… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マメデンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="009_Ditch00_A2_Msn013" offset="00" relocatable="true" max_length="0">
+			<original>マメデンチナマズは８コ集めて、デンチナマズ１コ分ね</original>
+			<edited>マメデンチナマズは８コ集めて、デンチナマズ１コ分ね</edited>
+			<subEntries />
+		</entry>
+		<entry name="009_Ditch00_A2_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;光の柱&#xE;&#x0;&#x3;&#x2;ÿÿをたよりに、マメデンチナマズ 取り返してね</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;光の柱&#xE;&#x0;&#x3;&#x2;ÿÿをたよりに、マメデンチナマズ 取り返してね</edited>
+			<subEntries />
+		</entry>
+		<entry name="009_Ditch00_A2_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>うわ… イカにもなんか出てきそ…</original>
+			<edited>うわ… イカにもなんか出てきそ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="009_Ditch00_A2_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>インクにかくれているヤツいるよ！ 注意よろ</original>
+			<edited>インクにかくれているヤツいるよ！ 注意よろ</edited>
+			<subEntries />
+		</entry>
+		<entry name="009_Ditch00_A2_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>ワカメ頭の黒いヤツは、強いよ！ 注意！</original>
+			<edited>ワカメ頭の黒いヤツは、強いよ！ 注意！</edited>
+			<subEntries />
+		</entry>
+		<entry name="009_Ditch00_A2_Msn018" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スプラッシュシールド&#xE;&#x0;&#x3;&#x2;ÿÿは破壊できるでし！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スプラッシュシールド&#xE;&#x0;&#x3;&#x2;ÿÿは破壊できるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="009_Ditch00_A2_Msn019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボムピッチャー&#xE;&#x0;&#x3;&#x2;ÿÿは&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;後、&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で投げまくるでし！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボムピッチャー&#xE;&#x0;&#x3;&#x2;ÿÿは&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;後、&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で投げまくるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="010_Flyer00_A3_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>うわ、また&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコパトローラー&#xE;&#x0;&#x3;&#x2;ÿÿ…</original>
+			<edited>うわ、また&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコパトローラー&#xE;&#x0;&#x3;&#x2;ÿÿ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="010_Flyer00_A3_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿ開いてないね…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿ開いてないね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="010_Flyer00_A3_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>ふ～… ここまで来ればダイジョブっしょ</original>
+			<edited>ふ～… ここまで来ればダイジョブっしょ</edited>
+			<subEntries />
+		</entry>
+		<entry name="010_Flyer00_A3_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>う～ん なんだか 不気味なフンイキ…</original>
+			<edited>う～ん なんだか 不気味なフンイキ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="010_Flyer00_A3_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコパトローラー&#xE;&#x0;&#x3;&#x2;ÿÿが &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿを守っとるね…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコパトローラー&#xE;&#x0;&#x3;&#x2;ÿÿが &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿを守っとるね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="010_Flyer00_A3_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>気をつけて進も</original>
+			<edited>気をつけて進も</edited>
+			<subEntries />
+		</entry>
+		<entry name="010_Flyer00_A3_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボム風船 &#xE;&#x0;&#x3;&#x2;ÿÿ見えとるね</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボム風船 &#xE;&#x0;&#x3;&#x2;ÿÿ見えとるね</edited>
+			<subEntries />
+		</entry>
+		<entry name="010_Flyer00_A3_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>タテ持ち敵… クールに倒せる？</original>
+			<edited>タテ持ち敵… クールに倒せる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="010_Flyer00_A3_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>また&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコパトローラー&#xE;&#x0;&#x3;&#x2;ÿÿ… しつこいでしね～…</original>
+			<edited>また&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコパトローラー&#xE;&#x0;&#x3;&#x2;ÿÿ… しつこいでしね～…</edited>
+			<subEntries />
+		</entry>
+		<entry name="010_Flyer00_A3_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコパトローラー&#xE;&#x0;&#x3;&#x2;ÿÿを確認！ 見つかるとめんどうくさいよ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコパトローラー&#xE;&#x0;&#x3;&#x2;ÿÿを確認！ 見つかるとめんどうくさいよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>いっぱいいる… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ持ってんの どいつだ？</original>
+			<edited>いっぱいいる… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ持ってんの どいつだ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>あ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スタコラー&#xE;&#x0;&#x3;&#x2;ÿÿ、追いかけて！</original>
+			<edited>あ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スタコラー&#xE;&#x0;&#x3;&#x2;ÿÿ、追いかけて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出た！ 取ったら&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿに向お</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出た！ 取ったら&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿに向お</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>なんか道、せまくね？ 足元注意で</original>
+			<edited>なんか道、せまくね？ 足元注意で</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>ん～… とにかく気をつけてトツゲキ～！</original>
+			<edited>ん～… とにかく気をつけてトツゲキ～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>にげられると 追いかけたくなるよね</original>
+			<edited>にげられると 追いかけたくなるよね</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>ナイス♪ 次、行ってみよ～</original>
+			<edited>ナイス♪ 次、行ってみよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>ィよし、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ！</original>
+			<edited>ィよし、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出たよ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出たよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>オッケ♪ また&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出たね～</original>
+			<edited>オッケ♪ また&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出たね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>ま～た &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スタコラー&#xE;&#x0;&#x3;&#x2;ÿÿ！ ボムに気をつけて</original>
+			<edited>ま～た &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スタコラー&#xE;&#x0;&#x3;&#x2;ÿÿ！ ボムに気をつけて</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マルチミサイル&#xE;&#x0;&#x3;&#x2;ÿÿでし！ &#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;後、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でうちまくるでし！！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マルチミサイル&#xE;&#x0;&#x3;&#x2;ÿÿでし！ &#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;後、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でうちまくるでし！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>左にも敵、注意されたし！</original>
+			<edited>左にも敵、注意されたし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>カベの後ろで深呼吸！ 背中ねらって</original>
+			<edited>カベの後ろで深呼吸！ 背中ねらって</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ライドレール&#xE;&#x0;&#x3;&#x2;ÿÿ発動！ 進むよ～</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ライドレール&#xE;&#x0;&#x3;&#x2;ÿÿ発動！ 進むよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>敵多し！ カレイなスライドで よけて！</original>
+			<edited>敵多し！ カレイなスライドで よけて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn018" offset="00" relocatable="true" max_length="0">
+			<original>よしよし♪</original>
+			<edited>よしよし♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn019" offset="00" relocatable="true" max_length="0">
+			<original>すばやい敵は、移動先を うつくらいがいいかな</original>
+			<edited>すばやい敵は、移動先を うつくらいがいいかな</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn020" offset="00" relocatable="true" max_length="0">
+			<original>見えないトコの ボム注意！ 戦場の鉄則ゥ♪</original>
+			<edited>見えないトコの ボム注意！ 戦場の鉄則ゥ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn021" offset="00" relocatable="true" max_length="0">
+			<original>ここはボムで 追いこみたいところでしね！</original>
+			<edited>ここはボムで 追いこみたいところでしね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出たね 回収よろぴく～</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出たね 回収よろぴく～</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn023" offset="00" relocatable="true" max_length="0">
+			<original>もいっちょ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ、取っちゃう？</original>
+			<edited>もいっちょ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ、取っちゃう？</edited>
+			<subEntries />
+		</entry>
+		<entry name="011_Rundown00_A3_Msn025" offset="00" relocatable="true" max_length="0">
+			<original>一気に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出たね</original>
+			<edited>一気に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出たね</edited>
+			<subEntries />
+		</entry>
+		<entry name="012_Jump00_A3_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプマット&#xE;&#x0;&#x3;&#x2;ÿÿだ！ &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしで、たか～くジャンプ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプマット&#xE;&#x0;&#x3;&#x2;ÿÿだ！ &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしで、たか～くジャンプ</edited>
+			<subEntries />
+		</entry>
+		<entry name="012_Jump00_A3_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプマット&#xE;&#x0;&#x3;&#x2;ÿÿ使えば たか～いトコから攻撃できるっしょ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプマット&#xE;&#x0;&#x3;&#x2;ÿÿ使えば たか～いトコから攻撃できるっしょ</edited>
+			<subEntries />
+		</entry>
+		<entry name="012_Jump00_A3_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>それにしても なんだか楽しそうでしね…</original>
+			<edited>それにしても なんだか楽しそうでしね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="012_Jump00_A3_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>カベにつき落とされないように、大ジャンプしよ</original>
+			<edited>カベにつき落とされないように、大ジャンプしよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="012_Jump00_A3_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>なが～く&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して、大ジャ～～ンプ</original>
+			<edited>なが～く&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して、大ジャ～～ンプ</edited>
+			<subEntries />
+		</entry>
+		<entry name="012_Jump00_A3_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>ナイス～♪</original>
+			<edited>ナイス～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="012_Jump00_A3_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>お、風船</original>
+			<edited>お、風船</edited>
+			<subEntries />
+		</entry>
+		<entry name="013_Spinner00_A3_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>高いトコ… チャージャーにうってつけやね</original>
+			<edited>高いトコ… チャージャーにうってつけやね</edited>
+			<subEntries />
+		</entry>
+		<entry name="013_Spinner00_A3_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>あれは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;でんでんスイッチ&#xE;&#x0;&#x3;&#x2;ÿÿ！ うって、でんでん！</original>
+			<edited>あれは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;でんでんスイッチ&#xE;&#x0;&#x3;&#x2;ÿÿ！ うって、でんでん！</edited>
+			<subEntries />
+		</entry>
+		<entry name="013_Spinner00_A3_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿ発見！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿが どっかにあるんやろね</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿ発見！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿが どっかにあるんやろね</edited>
+			<subEntries />
+		</entry>
+		<entry name="013_Spinner00_A3_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>あ、正面に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ見っけ</original>
+			<edited>あ、正面に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ見っけ</edited>
+			<subEntries />
+		</entry>
+		<entry name="013_Spinner00_A3_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>ナ～イス♪ よく見つけたね</original>
+			<edited>ナ～イス♪ よく見つけたね</edited>
+			<subEntries />
+		</entry>
+		<entry name="013_Spinner00_A3_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿゲットしたら もどろ～</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿゲットしたら もどろ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="013_Spinner00_A3_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>上の方に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿの光が見えるでし！</original>
+			<edited>上の方に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿの光が見えるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="013_Spinner00_A3_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>足元 気をつけて！</original>
+			<edited>足元 気をつけて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="013_Spinner00_A3_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>ここまで来たのはいいけど… この後どうする？</original>
+			<edited>ここまで来たのはいいけど… この後どうする？</edited>
+			<subEntries />
+		</entry>
+		<entry name="013_Spinner00_A3_Msn013" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ、見えた！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ、見えた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>スプリンクラー、ジャマじゃね…</original>
+			<edited>スプリンクラー、ジャマじゃね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>よ～し、これで登れるっしょ</original>
+			<edited>よ～し、これで登れるっしょ</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>安全なトコから、ねらいを付ける！ 戦場の鉄則ゥ！ </original>
+			<edited>安全なトコから、ねらいを付ける！ 戦場の鉄則ゥ！ </edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>洗車というより、染車でしね！！</original>
+			<edited>洗車というより、染車でしね！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>ふぃ～… なんとか くぐれたね</original>
+			<edited>ふぃ～… なんとか くぐれたね</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>チャージキープ、決まった？！</original>
+			<edited>チャージキープ、決まった？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>タコゾネス！ 気をつけて</original>
+			<edited>タコゾネス！ 気をつけて</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>ナ～イス、やるじゃん ４号</original>
+			<edited>ナ～イス、やるじゃん ４号</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコスナイパー&#xE;&#x0;&#x3;&#x2;ÿÿか… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿ守ってるな</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコスナイパー&#xE;&#x0;&#x3;&#x2;ÿÿか… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿ守ってるな</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>ここは、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコスナイパー&#xE;&#x0;&#x3;&#x2;ÿÿの間合いでし！ 早くかくれるでし！</original>
+			<edited>ここは、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコスナイパー&#xE;&#x0;&#x3;&#x2;ÿÿの間合いでし！ 早くかくれるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn013" offset="00" relocatable="true" max_length="0">
+			<original>アイツが見てない間に 先進んじゃえ</original>
+			<edited>アイツが見てない間に 先進んじゃえ</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>上から ジャンプうちするのもアリかもね</original>
+			<edited>上から ジャンプうちするのもアリかもね</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>チョ～ナイス♪</original>
+			<edited>チョ～ナイス♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>イッキに かけ上がろ</original>
+			<edited>イッキに かけ上がろ</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>ふ～、ちょっと一休み…</original>
+			<edited>ふ～、ちょっと一休み…</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn018" offset="00" relocatable="true" max_length="0">
+			<original>ほ～、あ、気づいとったよ もちろん</original>
+			<edited>ほ～、あ、気づいとったよ もちろん</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn019" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコスナイパー &#xE;&#x0;&#x3;&#x2;ÿÿこっち見んな…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコスナイパー &#xE;&#x0;&#x3;&#x2;ÿÿこっち見んな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn020" offset="00" relocatable="true" max_length="0">
+			<original>チャージしたまま &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ダッシュ板&#xE;&#x0;&#x3;&#x2;ÿÿでジャンプ、できる？</original>
+			<edited>チャージしたまま &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ダッシュ板&#xE;&#x0;&#x3;&#x2;ÿÿでジャンプ、できる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn021" offset="00" relocatable="true" max_length="0">
+			<original>うつべし！</original>
+			<edited>うつべし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn021_b" offset="00" relocatable="true" max_length="0">
+			<original>トツゲキ～！</original>
+			<edited>トツゲキ～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn022" offset="00" relocatable="true" max_length="0">
+			<original>ィよし！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出たよ</original>
+			<edited>ィよし！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出たよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn023" offset="00" relocatable="true" max_length="0">
+			<original>さあ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿに急げ～</original>
+			<edited>さあ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿに急げ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn024" offset="00" relocatable="true" max_length="0">
+			<original>あ、れ… 行き止まり？</original>
+			<edited>あ、れ… 行き止まり？</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn025" offset="00" relocatable="true" max_length="0">
+			<original>おっ 橋になるのか</original>
+			<edited>おっ 橋になるのか</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn029" offset="00" relocatable="true" max_length="0">
+			<original>びっくりしたわ～…</original>
+			<edited>びっくりしたわ～…</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn030" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スイッチ&#xE;&#x0;&#x3;&#x2;ÿÿか… どこやろ？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スイッチ&#xE;&#x0;&#x3;&#x2;ÿÿか… どこやろ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn031" offset="00" relocatable="true" max_length="0">
+			<original>こんなトコ よく見つけたね…</original>
+			<edited>こんなトコ よく見つけたね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn033" offset="00" relocatable="true" max_length="0">
+			<original>まるで ニンジャやしきだな</original>
+			<edited>まるで ニンジャやしきだな</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn034" offset="00" relocatable="true" max_length="0">
+			<original>なかなか骨が折れるな… さ、上 目指そ</original>
+			<edited>なかなか骨が折れるな… さ、上 目指そ</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn036" offset="00" relocatable="true" max_length="0">
+			<original>とにかく上じゃね？</original>
+			<edited>とにかく上じゃね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn037" offset="00" relocatable="true" max_length="0">
+			<original>…よく見たら ここに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿあるじゃん</original>
+			<edited>…よく見たら ここに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿあるじゃん</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn038" offset="00" relocatable="true" max_length="0">
+			<original>屋上だ～！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿも見えるね</original>
+			<edited>屋上だ～！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿも見えるね</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn039" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコゾネス &#xE;&#x0;&#x3;&#x2;ÿÿ２体確認！ 注意されたし！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコゾネス &#xE;&#x0;&#x3;&#x2;ÿÿ２体確認！ 注意されたし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn040" offset="00" relocatable="true" max_length="0">
+			<original>ナイス～！ あと１体</original>
+			<edited>ナイス～！ あと１体</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn042" offset="00" relocatable="true" max_length="0">
+			<original>おっ、アイツらが&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ持ってたのか</original>
+			<edited>おっ、アイツらが&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ持ってたのか</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn043" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿゲット～！ って&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿどこにあったっけ？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿゲット～！ って&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿどこにあったっけ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn045" offset="00" relocatable="true" max_length="0">
+			<original>そう、ここ ここ</original>
+			<edited>そう、ここ ここ</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn046" offset="00" relocatable="true" max_length="0">
+			<original>エクセレント♪</original>
+			<edited>エクセレント♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn047" offset="00" relocatable="true" max_length="0">
+			<original>と～ちゃ～く！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿよろしくね</original>
+			<edited>と～ちゃ～く！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿよろしくね</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn049" offset="00" relocatable="true" max_length="0">
+			<original>ブリリアント♪</original>
+			<edited>ブリリアント♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="014_Unit01_Ambush00_A3_Msn050" offset="00" relocatable="true" max_length="0">
+			<original>おくの照準が最大射程 手前のが当たる場所でし</original>
+			<edited>おくの照準が最大射程 手前のが当たる場所でし</edited>
+			<subEntries />
+		</entry>
+		<entry name="015_Wave00_A3_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>ま～た &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコゾネス&#xE;&#x0;&#x3;&#x2;ÿÿか！</original>
+			<edited>ま～た &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコゾネス&#xE;&#x0;&#x3;&#x2;ÿÿか！</edited>
+			<subEntries />
+		</entry>
+		<entry name="015_Wave00_A3_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>でも… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マメデンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ８コ 全部取り返すよ</original>
+			<edited>でも… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マメデンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ８コ 全部取り返すよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="015_Wave00_A3_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>ハイ、１コめゲット♪</original>
+			<edited>ハイ、１コめゲット♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="015_Wave00_A3_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>ナイスゲット、２コめ～ </original>
+			<edited>ナイスゲット、２コめ～ </edited>
+			<subEntries />
+		</entry>
+		<entry name="015_Wave00_A3_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>３コめ～、どんどんいこっか</original>
+			<edited>３コめ～、どんどんいこっか</edited>
+			<subEntries />
+		</entry>
+		<entry name="015_Wave00_A3_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>４コめゲット～、これで半分…</original>
+			<edited>４コめゲット～、これで半分…</edited>
+			<subEntries />
+		</entry>
+		<entry name="015_Wave00_A3_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>５コめゲットでし、早く全部集めるでし！！</original>
+			<edited>５コめゲットでし、早く全部集めるでし！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="015_Wave00_A3_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>６コめゲット～！ グッドグッド～</original>
+			<edited>６コめゲット～！ グッドグッド～</edited>
+			<subEntries />
+		</entry>
+		<entry name="015_Wave00_A3_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>７コめゲット… あと１コ！</original>
+			<edited>７コめゲット… あと１コ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="015_Wave00_A3_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ポイズンミスト&#xE;&#x0;&#x3;&#x2;ÿÿでし！ さわるとインクが減るでし！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ポイズンミスト&#xE;&#x0;&#x3;&#x2;ÿÿでし！ さわるとインクが減るでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="015_Wave00_A3_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボムピッチャー&#xE;&#x0;&#x3;&#x2;ÿÿは&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で起動、&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で投げまくるでし！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボムピッチャー&#xE;&#x0;&#x3;&#x2;ÿÿは&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で起動、&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で投げまくるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="015_Wave00_A3_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーチャクチ&#xE;&#x0;&#x3;&#x2;ÿÿでし！ 敵の近くで&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で、イチコロでし！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーチャクチ&#xE;&#x0;&#x3;&#x2;ÿÿでし！ 敵の近くで&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で、イチコロでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="016_Rock01_A4_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>あれは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコストライク&#xE;&#x0;&#x3;&#x2;ÿÿ！ よけながら進も</original>
+			<edited>あれは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコストライク&#xE;&#x0;&#x3;&#x2;ÿÿ！ よけながら進も</edited>
+			<subEntries />
+		</entry>
+		<entry name="016_Rock01_A4_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>まだまだ来るね…</original>
+			<edited>まだまだ来るね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="016_Rock01_A4_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>おくに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコスナイパー&#xE;&#x0;&#x3;&#x2;ÿÿを発見！ ねらわれ注意で</original>
+			<edited>おくに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコスナイパー&#xE;&#x0;&#x3;&#x2;ÿÿを発見！ ねらわれ注意で</edited>
+			<subEntries />
+		</entry>
+		<entry name="016_Rock01_A4_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>どんどん おくから来るね… 気をつけて</original>
+			<edited>どんどん おくから来るね… 気をつけて</edited>
+			<subEntries />
+		</entry>
+		<entry name="016_Rock01_A4_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>その調子♪</original>
+			<edited>その調子♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="016_Rock01_A4_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ確認！ 行くよ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ確認！ 行くよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="016_Rock01_A4_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>登った先でも 気を抜かな～い</original>
+			<edited>登った先でも 気を抜かな～い</edited>
+			<subEntries />
+		</entry>
+		<entry name="016_Rock01_A4_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>４号さん！ タコストライクを &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シャヘイ&#xE;&#x0;&#x3;&#x2;ÿÿにできないでしか？</original>
+			<edited>４号さん！ タコストライクを &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シャヘイ&#xE;&#x0;&#x3;&#x2;ÿÿにできないでしか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="016_Rock01_A4_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>うは！ デカッ！</original>
+			<edited>うは！ デカッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="017_Rotation_A4_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>グルングルンしてる… 楽しそ～</original>
+			<edited>グルングルンしてる… 楽しそ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="017_Rotation_A4_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>足元注意！ しっかり塗らんとね</original>
+			<edited>足元注意！ しっかり塗らんとね</edited>
+			<subEntries />
+		</entry>
+		<entry name="017_Rotation_A4_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>クルマの後ろで深呼吸！ 戦場の鉄則ゥ♪</original>
+			<edited>クルマの後ろで深呼吸！ 戦場の鉄則ゥ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="017_Rotation_A4_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>ナイスナイス♪</original>
+			<edited>ナイスナイス♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="017_Rotation_A4_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>遠方に タココマンダー発見！ 注意されたし！</original>
+			<edited>遠方に タココマンダー発見！ 注意されたし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="017_Rotation_A4_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>タココマンダーがいるけど、ここは降りなきゃね…</original>
+			<edited>タココマンダーがいるけど、ここは降りなきゃね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="017_Rotation_A4_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>登るには きちんと塗るしかないな</original>
+			<edited>登るには きちんと塗るしかないな</edited>
+			<subEntries />
+		</entry>
+		<entry name="017_Rotation_A4_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>タコスタンプがおるね、４号 まかせたよ</original>
+			<edited>タコスタンプがおるね、４号 まかせたよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="017_Rotation_A4_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>上方に オオバンタコスタンプを確認！</original>
+			<edited>上方に オオバンタコスタンプを確認！</edited>
+			<subEntries />
+		</entry>
+		<entry name="017_Rotation_A4_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>オオバンタコスタンプは無敵よ！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ取ったらにげて！</original>
+			<edited>オオバンタコスタンプは無敵よ！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ取ったらにげて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="017_Rotation_A4_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>遠くに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ見えたでし、 あとちょっとでし！</original>
+			<edited>遠くに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ見えたでし、 あとちょっとでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="017_Rotation_A4_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>最後まで 気を抜かんようにね</original>
+			<edited>最後まで 気を抜かんようにね</edited>
+			<subEntries />
+		</entry>
+		<entry name="017_Rotation_A4_Msn013" offset="00" relocatable="true" max_length="0">
+			<original>さっすが ４号！</original>
+			<edited>さっすが ４号！</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>IKSMバンドを乱すデブリだらけでし！ これだけ多いと…</original>
+			<edited>IKSMバンドを乱すデブリだらけでし！ これだけ多いと…</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>ハイハイ ４号、気にせず はりきってこ～</original>
+			<edited>ハイハイ ４号、気にせず はりきってこ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>うんうん バッチリ♪</original>
+			<edited>うんうん バッチリ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>今 デンチナマズ飛びこえなかった？ ま、イッカ</original>
+			<edited>今 デンチナマズ飛びこえなかった？ ま、イッカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>こんな階段って なんて言うんだっけ？</original>
+			<edited>こんな階段って なんて言うんだっけ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>四角らせん階段でし！</original>
+			<edited>四角らせん階段でし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>ふ～ん、ブキチせんせ 物知り～</original>
+			<edited>ふ～ん、ブキチせんせ 物知り～</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>当然でし！！</original>
+			<edited>当然でし！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>チャージ オッケ～？</original>
+			<edited>チャージ オッケ～？</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>ナイスナイス♪</original>
+			<edited>ナイスナイス♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>敵いるね チャージ用意…</original>
+			<edited>敵いるね チャージ用意…</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn014_b" offset="00" relocatable="true" max_length="0">
+			<original>ここは、ボムなら届きそうでし！！</original>
+			<edited>ここは、ボムなら届きそうでし！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>ナイスナイス♪</original>
+			<edited>ナイスナイス♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>やるね～</original>
+			<edited>やるね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>お見事～、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカフライ&#xE;&#x0;&#x3;&#x2;ÿÿど～ぞ</original>
+			<edited>お見事～、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカフライ&#xE;&#x0;&#x3;&#x2;ÿÿど～ぞ</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn018" offset="00" relocatable="true" max_length="0">
+			<original>あ、下ってく？</original>
+			<edited>あ、下ってく？</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn019" offset="00" relocatable="true" max_length="0">
+			<original>あそこ、登れそうじゃね？</original>
+			<edited>あそこ、登れそうじゃね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn020" offset="00" relocatable="true" max_length="0">
+			<original>ィよし 次行こうね</original>
+			<edited>ィよし 次行こうね</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn022" offset="00" relocatable="true" max_length="0">
+			<original>まずは１体！</original>
+			<edited>まずは１体！</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn025" offset="00" relocatable="true" max_length="0">
+			<original>チョ～イカす</original>
+			<edited>チョ～イカす</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn026" offset="00" relocatable="true" max_length="0">
+			<original>お、見つけたな</original>
+			<edited>お、見つけたな</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn027" offset="00" relocatable="true" max_length="0">
+			<original>子供ん時、よく アオリちゃんと星 数えてたな～</original>
+			<edited>子供ん時、よく アオリちゃんと星 数えてたな～</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn028" offset="00" relocatable="true" max_length="0">
+			<original>… … …</original>
+			<edited>… … …</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn029" offset="00" relocatable="true" max_length="0">
+			<original>…思い出にひたってるヒマは 無いみたいね</original>
+			<edited>…思い出にひたってるヒマは 無いみたいね</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn030" offset="00" relocatable="true" max_length="0">
+			<original>上から来たよ！</original>
+			<edited>上から来たよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn031" offset="00" relocatable="true" max_length="0">
+			<original>バイタコトルーパー！</original>
+			<edited>バイタコトルーパー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn033" offset="00" relocatable="true" max_length="0">
+			<original>今度は タコスナイパー！</original>
+			<edited>今度は タコスナイパー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn034" offset="00" relocatable="true" max_length="0">
+			<original>オケオケ♪</original>
+			<edited>オケオケ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="018_Unit02_Charger02_A4_Msn035" offset="00" relocatable="true" max_length="0">
+			<original>ひゅ～… おつかれおつかれ</original>
+			<edited>ひゅ～… おつかれおつかれ</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn000" offset="00" relocatable="true" max_length="0">
+			<original>ブラスターは、爆発の範囲を利用するんよ</original>
+			<edited>ブラスターは、爆発の範囲を利用するんよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ひきよせポイント&#xE;&#x0;&#x3;&#x2;ÿÿは ブラスターの爆風でも行けそうでし</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ひきよせポイント&#xE;&#x0;&#x3;&#x2;ÿÿは ブラスターの爆風でも行けそうでし</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿゲット！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿでもどろ～</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿゲット！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿでもどろ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿゲットしたなら、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿでもどろ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿゲットしたなら、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿでもどろ</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿゲット～、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿで もどろっか</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿゲット～、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿで もどろっか</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>３つの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿと ３つの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿか</original>
+			<edited>３つの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿと ３つの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿか</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>タテ持ちは ブラスターの爆風を横から当てるでし！</original>
+			<edited>タテ持ちは ブラスターの爆風を横から当てるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>あっちに、カギが見えとるね</original>
+			<edited>あっちに、カギが見えとるね</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>タチ持ちの敵、スマートに倒せる？</original>
+			<edited>タチ持ちの敵、スマートに倒せる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>これは下へ 降りるしか…</original>
+			<edited>これは下へ 降りるしか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>上へまいりま～す</original>
+			<edited>上へまいりま～す</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>またまた 地面が動いとるよ～</original>
+			<edited>またまた 地面が動いとるよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn013" offset="00" relocatable="true" max_length="0">
+			<original>今度は 遠くでクルクルしだした！</original>
+			<edited>今度は 遠くでクルクルしだした！</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>左 スイッチオン！</original>
+			<edited>左 スイッチオン！</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>真ん中スイッチオ～ン！</original>
+			<edited>真ん中スイッチオ～ン！</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>右スイッチオ～ン！</original>
+			<edited>右スイッチオ～ン！</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>ん？ ここどこ？</original>
+			<edited>ん？ ここどこ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn018" offset="00" relocatable="true" max_length="0">
+			<original>なんか 南の島っぽいね</original>
+			<edited>なんか 南の島っぽいね</edited>
+			<subEntries />
+		</entry>
+		<entry name="019_Unit03_Blaster00_A4_Msn019" offset="00" relocatable="true" max_length="0">
+			<original>アオリちゃん 海好きだったなぁ…</original>
+			<edited>アオリちゃん 海好きだったなぁ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ &#xE;&#x0;&#x3;&#x2;ÿÿ出たよ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ &#xE;&#x0;&#x3;&#x2;ÿÿ出たよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>プロペラで上げて～下げて～</original>
+			<edited>プロペラで上げて～下げて～</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>つっこんでくる敵は カサでガード！</original>
+			<edited>つっこんでくる敵は カサでガード！</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しでカサが開くよ</original>
+			<edited>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しでカサが開くよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;パージ&#xE;&#x0;&#x3;&#x2;ÿÿ後、イカで追う！ これポイント</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;パージ&#xE;&#x0;&#x3;&#x2;ÿÿ後、イカで追う！ これポイント</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>カサなら タコスナイパーの攻撃もガードできるっしょ</original>
+			<edited>カサなら タコスナイパーの攻撃もガードできるっしょ</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>ガードしたい そんな時ほど カサが無い</original>
+			<edited>ガードしたい そんな時ほど カサが無い</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>急に敵が出たら まずカサでガード！</original>
+			<edited>急に敵が出たら まずカサでガード！</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>タコドーザーの頭に 乗れる？</original>
+			<edited>タコドーザーの頭に 乗れる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>ここは… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;パージ&#xE;&#x0;&#x3;&#x2;ÿÿでしかね？</original>
+			<edited>ここは… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;パージ&#xE;&#x0;&#x3;&#x2;ÿÿでしかね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>ぅわ… あぶな…</original>
+			<edited>ぅわ… あぶな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>頭上注意やね…</original>
+			<edited>頭上注意やね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn013" offset="00" relocatable="true" max_length="0">
+			<original>足元注意で</original>
+			<edited>足元注意で</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>あ、タコゾネス！ ブラスター持ってる！</original>
+			<edited>あ、タコゾネス！ ブラスター持ってる！</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>ぅわ… どうするね？ とりま 塗る？</original>
+			<edited>ぅわ… どうするね？ とりま 塗る？</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>そのまま&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしで &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;パージ&#xE;&#x0;&#x3;&#x2;ÿÿするかんね</original>
+			<edited>そのまま&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしで &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;パージ&#xE;&#x0;&#x3;&#x2;ÿÿするかんね</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿ発見！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿ発見！</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn018" offset="00" relocatable="true" max_length="0">
+			<original>ナイスダッシュ♪</original>
+			<edited>ナイスダッシュ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn019" offset="00" relocatable="true" max_length="0">
+			<original>ここは 遠くから&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;パージ&#xE;&#x0;&#x3;&#x2;ÿÿじゃね？</original>
+			<edited>ここは 遠くから&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;パージ&#xE;&#x0;&#x3;&#x2;ÿÿじゃね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn020" offset="00" relocatable="true" max_length="0">
+			<original>こんなトコまで来るとか… さすが４号</original>
+			<edited>こんなトコまで来るとか… さすが４号</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn021" offset="00" relocatable="true" max_length="0">
+			<original>敵が下りてきてる！</original>
+			<edited>敵が下りてきてる！</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn022" offset="00" relocatable="true" max_length="0">
+			<original>第２波 接近中！</original>
+			<edited>第２波 接近中！</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn023" offset="00" relocatable="true" max_length="0">
+			<original>第３波！</original>
+			<edited>第３波！</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn024" offset="00" relocatable="true" max_length="0">
+			<original>さすが４号 やるじゃん</original>
+			<edited>さすが４号 やるじゃん</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn025" offset="00" relocatable="true" max_length="0">
+			<original>ィよし！ 先を急ごう</original>
+			<edited>ィよし！ 先を急ごう</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn026" offset="00" relocatable="true" max_length="0">
+			<original>後ろで何か音がしたような…</original>
+			<edited>後ろで何か音がしたような…</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn027" offset="00" relocatable="true" max_length="0">
+			<original>なんか投げて あっちのプロペラ 動かせない？</original>
+			<edited>なんか投げて あっちのプロペラ 動かせない？</edited>
+			<subEntries />
+		</entry>
+		<entry name="020_Unit04_Umbrella_A4_Msn028" offset="00" relocatable="true" max_length="0">
+			<original>ボム飛ばしてる間に 急げば間に合うかな…</original>
+			<edited>ボム飛ばしてる間に 急げば間に合うかな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>タコゾネス… とっちめるしかないっしょ</original>
+			<edited>タコゾネス… とっちめるしかないっしょ</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>ん、迷子？</original>
+			<edited>ん、迷子？</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>４号って 意外と… キチョ～メン？</original>
+			<edited>４号って 意外と… キチョ～メン？</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>よく 見つけたね…</original>
+			<edited>よく 見つけたね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>こ～ゆ～のこわすと スッキリするよね</original>
+			<edited>こ～ゆ～のこわすと スッキリするよね</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>４号、油断せんよ！</original>
+			<edited>４号、油断せんよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マメデンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ どこだ～？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マメデンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ どこだ～？</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>タコゾネス… またジャマしてくるか～</original>
+			<edited>タコゾネス… またジャマしてくるか～</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn008_2" offset="00" relocatable="true" max_length="0">
+			<original>タコスナイパーも いるでし！</original>
+			<edited>タコスナイパーも いるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>１コめゲット～、次いこ 次～</original>
+			<edited>１コめゲット～、次いこ 次～</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>２コめゲット～、いいね～</original>
+			<edited>２コめゲット～、いいね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>グッドグッド、３コめ～♪</original>
+			<edited>グッドグッド、３コめ～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>４コめ～ あと半分！</original>
+			<edited>４コめ～ あと半分！</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn013" offset="00" relocatable="true" max_length="0">
+			<original>５コめゲット～♪</original>
+			<edited>５コめゲット～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>６コめゲットでし！ 気を抜かずに次行くでし！</original>
+			<edited>６コめゲットでし！ 気を抜かずに次行くでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>７コめゲット、あと１コだ</original>
+			<edited>７コめゲット、あと１コだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>さぁ、今日も元気に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マメデンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ 取り返すよ！</original>
+			<edited>さぁ、今日も元気に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マメデンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ 取り返すよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>４号！ ねらわれてる！</original>
+			<edited>４号！ ねらわれてる！</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn018" offset="00" relocatable="true" max_length="0">
+			<original>まずは一体！</original>
+			<edited>まずは一体！</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn019" offset="00" relocatable="true" max_length="0">
+			<original>ィよし！ これで少しは楽になる？</original>
+			<edited>ィよし！ これで少しは楽になる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn020" offset="00" relocatable="true" max_length="0">
+			<original>ライドレール！ これで向こうに わたっちゃえ</original>
+			<edited>ライドレール！ これで向こうに わたっちゃえ</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn021" offset="00" relocatable="true" max_length="0">
+			<original>４号、前！ 前！</original>
+			<edited>４号、前！ 前！</edited>
+			<subEntries />
+		</entry>
+		<entry name="021_Tuzura00_A4_Msn022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイパープレッサー&#xE;&#x0;&#x3;&#x2;ÿÿ！ 遠くからねらいうつでし！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイパープレッサー&#xE;&#x0;&#x3;&#x2;ÿÿ！ 遠くからねらいうつでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしで 塗って進も～</original>
+			<edited>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしで 塗って進も～</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>あ、あんまり遠くまでインク届かんし、注意ね</original>
+			<edited>あ、あんまり遠くまでインク届かんし、注意ね</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>トウメイな道か… きちんと塗ればヨユ～っしょ</original>
+			<edited>トウメイな道か… きちんと塗ればヨユ～っしょ</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カーリングボムピッチャー&#xE;&#x0;&#x3;&#x2;ÿÿは&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して、&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打でし！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カーリングボムピッチャー&#xE;&#x0;&#x3;&#x2;ÿÿは&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して、&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打でし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>オッケ♪ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿ出たよ～</original>
+			<edited>オッケ♪ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿ出たよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>…アイツら 何しとるね？</original>
+			<edited>…アイツら 何しとるね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>ここもトウメイだな… シンチョ～に行こか</original>
+			<edited>ここもトウメイだな… シンチョ～に行こか</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>よしよし、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出たよ</original>
+			<edited>よしよし、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ出たよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>わかってても、ヒヤッとするね～</original>
+			<edited>わかってても、ヒヤッとするね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>うんうん、いい感じ♪</original>
+			<edited>うんうん、いい感じ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>ナ～イス♪</original>
+			<edited>ナ～イス♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>ここは… 押しでダメなら退いてみよ！ 戦場の鉄則ゥ</original>
+			<edited>ここは… 押しでダメなら退いてみよ！ 戦場の鉄則ゥ</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>ィよし！</original>
+			<edited>ィよし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーチャクチ&#xE;&#x0;&#x3;&#x2;ÿÿでし！ &#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して敵を巻きこむでし！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーチャクチ&#xE;&#x0;&#x3;&#x2;ÿÿでし！ &#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して敵を巻きこむでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn018" offset="00" relocatable="true" max_length="0">
+			<original>ぅわ… タココマンダーの二重奏やね…</original>
+			<edited>ぅわ… タココマンダーの二重奏やね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn019" offset="00" relocatable="true" max_length="0">
+			<original>あと少し！</original>
+			<edited>あと少し！</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スタコラー&#xE;&#x0;&#x3;&#x2;ÿÿおるね、追いかけよ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スタコラー&#xE;&#x0;&#x3;&#x2;ÿÿおるね、追いかけよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn021" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローブラシは&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打、連打でし！！</original>
+			<edited>ヒーローブラシは&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打、連打でし！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn022" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーチャクチ&#xE;&#x0;&#x3;&#x2;ÿÿでし！ 早く使うでし！！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーチャクチ&#xE;&#x0;&#x3;&#x2;ÿÿでし！ 早く使うでし！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn023" offset="00" relocatable="true" max_length="0">
+			<original>タテ持ち敵いるけど、背中ねらえばヨユーっしょ</original>
+			<edited>タテ持ち敵いるけど、背中ねらえばヨユーっしょ</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn024" offset="00" relocatable="true" max_length="0">
+			<original>業務用インクリーナーは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インクやボムで導く&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>業務用インクリーナーは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インクやボムで導く&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn025" offset="00" relocatable="true" max_length="0">
+			<original>うかつに 飛びこまんよ！</original>
+			<edited>うかつに 飛びこまんよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn026" offset="00" relocatable="true" max_length="0">
+			<original>ヒュ～！ やるね、４号</original>
+			<edited>ヒュ～！ やるね、４号</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn027" offset="00" relocatable="true" max_length="0">
+			<original>アメィジングな ヌリヌリやね♪</original>
+			<edited>アメィジングな ヌリヌリやね♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn028" offset="00" relocatable="true" max_length="0">
+			<original>行こう、４号！</original>
+			<edited>行こう、４号！</edited>
+			<subEntries />
+		</entry>
+		<entry name="022_Unit05_Invisible_A5_Msn029" offset="00" relocatable="true" max_length="0">
+			<original>ブリリアントな フリフリやね♪</original>
+			<edited>ブリリアントな フリフリやね♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>どんどん行こ！</original>
+			<edited>どんどん行こ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>大ジャンプ かまえ～</original>
+			<edited>大ジャンプ かまえ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>ファビュラス♪</original>
+			<edited>ファビュラス♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>もいっちょ、いってみよ～</original>
+			<edited>もいっちょ、いってみよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>ふぅ… 足元が いそがしいな</original>
+			<edited>ふぅ… 足元が いそがしいな</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>ここは 並んでるライドレール、とび移ろう</original>
+			<edited>ここは 並んでるライドレール、とび移ろう</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>当たると痛いよ～</original>
+			<edited>当たると痛いよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>キャノンでし！ 何かに使えそうでしか？</original>
+			<edited>キャノンでし！ 何かに使えそうでしか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>ここは レールを乗りついで、進むでし！！</original>
+			<edited>ここは レールを乗りついで、進むでし！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>ナイスライド♪ いや～、ヒヤヒヤするわ～</original>
+			<edited>ナイスライド♪ いや～、ヒヤヒヤするわ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>どんどん行くよ！</original>
+			<edited>どんどん行くよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>ハイ、ジャンプ</original>
+			<edited>ハイ、ジャンプ</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn013" offset="00" relocatable="true" max_length="0">
+			<original>ハイ、タコちゃん</original>
+			<edited>ハイ、タコちゃん</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>ハイ、イカジャ～ンプ</original>
+			<edited>ハイ、イカジャ～ンプ</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>サクサク行こね！</original>
+			<edited>サクサク行こね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>このまま&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿにつっこめ～</original>
+			<edited>このまま&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿにつっこめ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>もうチョイ</original>
+			<edited>もうチョイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn018" offset="00" relocatable="true" max_length="0">
+			<original>今っ！</original>
+			<edited>今っ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn019" offset="00" relocatable="true" max_length="0">
+			<original>チョ～ ク～ル♪</original>
+			<edited>チョ～ ク～ル♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿ発見！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿ発見！</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn021" offset="00" relocatable="true" max_length="0">
+			<original>ピロピロ天国やね…</original>
+			<edited>ピロピロ天国やね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="023_Unit06_Grind03_A5_Msn022" offset="00" relocatable="true" max_length="0">
+			<original>４号！ ここは 一気に行くよ</original>
+			<edited>４号！ ここは 一気に行くよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="024_Unit07_SlideLift_A5_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>足を ふみ外さんようにね</original>
+			<edited>足を ふみ外さんようにね</edited>
+			<subEntries />
+		</entry>
+		<entry name="024_Unit07_SlideLift_A5_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>ここは構造上、まだまだ上に行けるみたいでし！</original>
+			<edited>ここは構造上、まだまだ上に行けるみたいでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="024_Unit07_SlideLift_A5_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>高い… チャージャーでねらうには うってつけやね</original>
+			<edited>高い… チャージャーでねらうには うってつけやね</edited>
+			<subEntries />
+		</entry>
+		<entry name="024_Unit07_SlideLift_A5_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>うって変わってブキミな静けさ… スイッチ入ってない？</original>
+			<edited>うって変わってブキミな静けさ… スイッチ入ってない？</edited>
+			<subEntries />
+		</entry>
+		<entry name="024_Unit07_SlideLift_A5_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>おっ サイコロっぽいのが動き出したね</original>
+			<edited>おっ サイコロっぽいのが動き出したね</edited>
+			<subEntries />
+		</entry>
+		<entry name="024_Unit07_SlideLift_A5_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ、出たよ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿ、出たよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="024_Unit07_SlideLift_A5_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>サイコロのスイッチ 塗り残し、無い？</original>
+			<edited>サイコロのスイッチ 塗り残し、無い？</edited>
+			<subEntries />
+		</entry>
+		<entry name="024_Unit07_SlideLift_A5_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>気をつけて！ まだいる！</original>
+			<edited>気をつけて！ まだいる！</edited>
+			<subEntries />
+		</entry>
+		<entry name="024_Unit07_SlideLift_A5_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>うわっ また出た！</original>
+			<edited>うわっ また出た！</edited>
+			<subEntries />
+		</entry>
+		<entry name="024_Unit07_SlideLift_A5_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>ふ～ ここはもうダイジョブ</original>
+			<edited>ふ～ ここはもうダイジョブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="024_Unit07_SlideLift_A5_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>ここはこれで オッケ～っしょ</original>
+			<edited>ここはこれで オッケ～っしょ</edited>
+			<subEntries />
+		</entry>
+		<entry name="024_Unit07_SlideLift_A5_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>よく見つけるなぁ…</original>
+			<edited>よく見つけるなぁ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="024_Unit07_SlideLift_A5_Msn013" offset="00" relocatable="true" max_length="0">
+			<original>ピョンピョンピョンっとね</original>
+			<edited>ピョンピョンピョンっとね</edited>
+			<subEntries />
+		</entry>
+		<entry name="024_Unit07_SlideLift_A5_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>ふふ… ラクショ～じゃね？</original>
+			<edited>ふふ… ラクショ～じゃね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="024_Unit07_SlideLift_A5_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>もうチョイ行ったら、ひと休みね</original>
+			<edited>もうチョイ行ったら、ひと休みね</edited>
+			<subEntries />
+		</entry>
+		<entry name="024_Unit07_SlideLift_A5_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>この動き… オクタリアンの技術 おそるべしでしね…</original>
+			<edited>この動き… オクタリアンの技術 おそるべしでしね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="024_Unit07_SlideLift_A5_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>おつかれ～、ナマズくん ゲットしよ</original>
+			<edited>おつかれ～、ナマズくん ゲットしよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="025_Unit08_BelCon00_A5_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>ん～と、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿどこだろ？</original>
+			<edited>ん～と、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿどこだろ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="025_Unit08_BelCon00_A5_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>あ！ 敵出とるよ</original>
+			<edited>あ！ 敵出とるよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="025_Unit08_BelCon00_A5_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>う～ん、ブリリアント♪</original>
+			<edited>う～ん、ブリリアント♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="025_Unit08_BelCon00_A5_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>ファビュラス♪</original>
+			<edited>ファビュラス♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="025_Unit08_BelCon00_A5_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>４号、ここはセミになったつもりで はりつくよ～</original>
+			<edited>４号、ここはセミになったつもりで はりつくよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="025_Unit08_BelCon00_A5_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>ここは カベの後ろで深呼吸っしょ</original>
+			<edited>ここは カベの後ろで深呼吸っしょ</edited>
+			<subEntries />
+		</entry>
+		<entry name="025_Unit08_BelCon00_A5_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>こ… ここは… 忘れ去られた島でしか？！</original>
+			<edited>こ… ここは… 忘れ去られた島でしか？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="025_Unit08_BelCon00_A5_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>正面にスイッチを発見！</original>
+			<edited>正面にスイッチを発見！</edited>
+			<subEntries />
+		</entry>
+		<entry name="025_Unit08_BelCon00_A5_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>来るよ来るよ～</original>
+			<edited>来るよ来るよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="025_Unit08_BelCon00_A5_Msn013" offset="00" relocatable="true" max_length="0">
+			<original>ベルトコンベヤーに 流されんよう、気をつけて</original>
+			<edited>ベルトコンベヤーに 流されんよう、気をつけて</edited>
+			<subEntries />
+		</entry>
+		<entry name="025_Unit08_BelCon00_A5_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>いつでも死角は注意やね</original>
+			<edited>いつでも死角は注意やね</edited>
+			<subEntries />
+		</entry>
+		<entry name="025_Unit08_BelCon00_A5_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>でんでんスイッチ 発見！</original>
+			<edited>でんでんスイッチ 発見！</edited>
+			<subEntries />
+		</entry>
+		<entry name="025_Unit08_BelCon00_A5_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿ はっけ～ん</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ジャンプポイント&#xE;&#x0;&#x3;&#x2;ÿÿ はっけ～ん</edited>
+			<subEntries />
+		</entry>
+		<entry name="025_Unit08_BelCon00_A5_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>ふ～… おつおつ～</original>
+			<edited>ふ～… おつおつ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="026_Unit09_TakoStrike2_A5_Msn001" offset="00" relocatable="true" max_length="0">
+			<original>タコストライク… ゴロゴロ来とるね</original>
+			<edited>タコストライク… ゴロゴロ来とるね</edited>
+			<subEntries />
+		</entry>
+		<entry name="026_Unit09_TakoStrike2_A5_Msn002" offset="00" relocatable="true" max_length="0">
+			<original>ゴロゴロの次は、クルンクルンか…</original>
+			<edited>ゴロゴロの次は、クルンクルンか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="026_Unit09_TakoStrike2_A5_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>ここは カベにはりついて待つ！</original>
+			<edited>ここは カベにはりついて待つ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="026_Unit09_TakoStrike2_A5_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>足元注意ね</original>
+			<edited>足元注意ね</edited>
+			<subEntries />
+		</entry>
+		<entry name="026_Unit09_TakoStrike2_A5_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>まずは、足場の確保！</original>
+			<edited>まずは、足場の確保！</edited>
+			<subEntries />
+		</entry>
+		<entry name="026_Unit09_TakoStrike2_A5_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプで進んで クールに決めよ</original>
+			<edited>ジャンプで進んで クールに決めよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="026_Unit09_TakoStrike2_A5_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>向こう見てみ… ありゃ やり過ぎっしょ…</original>
+			<edited>向こう見てみ… ありゃ やり過ぎっしょ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="026_Unit09_TakoStrike2_A5_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（アオリちゃんは高いトコ 苦手だったな～…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（アオリちゃんは高いトコ 苦手だったな～…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="026_Unit09_TakoStrike2_A5_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>あれっ？ 行き止まり… もどろっか</original>
+			<edited>あれっ？ 行き止まり… もどろっか</edited>
+			<subEntries />
+		</entry>
+		<entry name="026_Unit09_TakoStrike2_A5_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>正面遠方に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿを確認！ もうちょっとでし！</original>
+			<edited>正面遠方に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;デンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿを確認！ もうちょっとでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="026_Unit09_TakoStrike2_A5_Msn011" offset="00" relocatable="true" max_length="0">
+			<original>登ったら すぐよけて！</original>
+			<edited>登ったら すぐよけて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="026_Unit09_TakoStrike2_A5_Msn012" offset="00" relocatable="true" max_length="0">
+			<original>強引に進むと やられそ…</original>
+			<edited>強引に進むと やられそ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="026_Unit09_TakoStrike2_A5_Msn013" offset="00" relocatable="true" max_length="0">
+			<original>ふ～… こわかった</original>
+			<edited>ふ～… こわかった</edited>
+			<subEntries />
+		</entry>
+		<entry name="026_Unit09_TakoStrike2_A5_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>あ、次 行ってみよ～</original>
+			<edited>あ、次 行ってみよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="026_Unit09_TakoStrike2_A5_Msn015" offset="00" relocatable="true" max_length="0">
+			<original>あのデカイの… いつ見ても ウケるわ～</original>
+			<edited>あのデカイの… いつ見ても ウケるわ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="026_Unit09_TakoStrike2_A5_Msn016" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アメフラシ&#xE;&#x0;&#x3;&#x2;ÿÿでし！ 投げて塗り返すでし！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アメフラシ&#xE;&#x0;&#x3;&#x2;ÿÿでし！ 投げて塗り返すでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="026_Unit09_TakoStrike2_A5_Msn017" offset="00" relocatable="true" max_length="0">
+			<original>おっしゃ～ おつかれ♪</original>
+			<edited>おっしゃ～ おつかれ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="027_Unduck00_A5_Msn003" offset="00" relocatable="true" max_length="0">
+			<original>タコゾネス しつこ…</original>
+			<edited>タコゾネス しつこ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="027_Unduck00_A5_Msn003_2" offset="00" relocatable="true" max_length="0">
+			<original>全部 取り返すよ～！</original>
+			<edited>全部 取り返すよ～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="027_Unduck00_A5_Msn004" offset="00" relocatable="true" max_length="0">
+			<original>まずは、１コめ～</original>
+			<edited>まずは、１コめ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="027_Unduck00_A5_Msn005" offset="00" relocatable="true" max_length="0">
+			<original>２コめゲット～</original>
+			<edited>２コめゲット～</edited>
+			<subEntries />
+		</entry>
+		<entry name="027_Unduck00_A5_Msn006" offset="00" relocatable="true" max_length="0">
+			<original>ナイスナイス♪ ３コめ</original>
+			<edited>ナイスナイス♪ ３コめ</edited>
+			<subEntries />
+		</entry>
+		<entry name="027_Unduck00_A5_Msn007" offset="00" relocatable="true" max_length="0">
+			<original>オケオケ♪ 早く全部集めて 次行こね</original>
+			<edited>オケオケ♪ 早く全部集めて 次行こね</edited>
+			<subEntries />
+		</entry>
+		<entry name="027_Unduck00_A5_Msn008" offset="00" relocatable="true" max_length="0">
+			<original>マメデンチナマズは ８コ集めてデンチナマズ１コ分でし！</original>
+			<edited>マメデンチナマズは ８コ集めてデンチナマズ１コ分でし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="027_Unduck00_A5_Msn008_2" offset="00" relocatable="true" max_length="0">
+			<original>いや まぁ… 知ってるし</original>
+			<edited>いや まぁ… 知ってるし</edited>
+			<subEntries />
+		</entry>
+		<entry name="027_Unduck00_A5_Msn009" offset="00" relocatable="true" max_length="0">
+			<original>６コめ～！</original>
+			<edited>６コめ～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="027_Unduck00_A5_Msn010" offset="00" relocatable="true" max_length="0">
+			<original>７コめ！ ラスイチよろ～</original>
+			<edited>７コめ！ ラスイチよろ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="027_Unduck00_A5_Msn014" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マルチミサイル&#xE;&#x0;&#x3;&#x2;ÿÿで 一気にやっつけるでし！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マルチミサイル&#xE;&#x0;&#x3;&#x2;ÿÿで 一気にやっつけるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B1_GelidiumKing_A1001" offset="00" relocatable="true" max_length="0">
+			<original>パン… 塗って登れん？</original>
+			<edited>パン… 塗って登れん？</edited>
+			<subEntries />
+		</entry>
+		<entry name="B1_GelidiumKing_A1002" offset="00" relocatable="true" max_length="0">
+			<original>パンの正面はキケンかもね…</original>
+			<edited>パンの正面はキケンかもね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B1_GelidiumKing_A1003" offset="00" relocatable="true" max_length="0">
+			<original>ナイス♪ この調子でパンパンにしちゃえ</original>
+			<edited>ナイス♪ この調子でパンパンにしちゃえ</edited>
+			<subEntries />
+		</entry>
+		<entry name="B1_GelidiumKing_A1004" offset="00" relocatable="true" max_length="0">
+			<original>チュロス降ってきた！ …と思ったらヌリヌリ棒か</original>
+			<edited>チュロス降ってきた！ …と思ったらヌリヌリ棒か</edited>
+			<subEntries />
+		</entry>
+		<entry name="B1_GelidiumKing_A1005" offset="00" relocatable="true" max_length="0">
+			<original>２段目のパンに 乗り移らんと…</original>
+			<edited>２段目のパンに 乗り移らんと…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B1_GelidiumKing_A1006" offset="00" relocatable="true" max_length="0">
+			<original>グッドグッド♪</original>
+			<edited>グッドグッド♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="B1_GelidiumKing_A1007" offset="00" relocatable="true" max_length="0">
+			<original>パンに ヨロイ？！ あそこは塗れんと？</original>
+			<edited>パンに ヨロイ？！ あそこは塗れんと？</edited>
+			<subEntries />
+		</entry>
+		<entry name="B1_GelidiumKing_A1008" offset="00" relocatable="true" max_length="0">
+			<original>なんか、コーティングの機械 出て来た！</original>
+			<edited>なんか、コーティングの機械 出て来た！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B1_GelidiumKing_A1009" offset="00" relocatable="true" max_length="0">
+			<original>ファビュラス♪ これがホントの コテンパン…</original>
+			<edited>ファビュラス♪ これがホントの コテンパン…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B1_GelidiumKing_A1010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;上のタコ足&#xE;&#x0;&#x3;&#x2;ÿÿが 悪さしてるっぽいね…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;上のタコ足&#xE;&#x0;&#x3;&#x2;ÿÿが 悪さしてるっぽいね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B1_GelidiumKing_A1011" offset="00" relocatable="true" max_length="0">
+			<original>パンのワンパン速ッ！ パンの正面は危ないね</original>
+			<edited>パンのワンパン速ッ！ パンの正面は危ないね</edited>
+			<subEntries />
+		</entry>
+		<entry name="B1_GelidiumKing_A1012" offset="00" relocatable="true" max_length="0">
+			<original>カベのタイル部分は 塗れるんじゃね？</original>
+			<edited>カベのタイル部分は 塗れるんじゃね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="B1_GelidiumKing_A1013" offset="00" relocatable="true" max_length="0">
+			<original>…にしても、本体の塗れるカベ 少なくなったような</original>
+			<edited>…にしても、本体の塗れるカベ 少なくなったような</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2001" offset="00" relocatable="true" max_length="0">
+			<original>制限時間イッパイ… はっけよ～い</original>
+			<edited>制限時間イッパイ… はっけよ～い</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2002" offset="00" relocatable="true" max_length="0">
+			<original>４号、アイツ 後ろがガラ空き！</original>
+			<edited>４号、アイツ 後ろがガラ空き！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2003" offset="00" relocatable="true" max_length="0">
+			<original>キツいなら、センプクするのもアリやね</original>
+			<edited>キツいなら、センプクするのもアリやね</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2004" offset="00" relocatable="true" max_length="0">
+			<original>そ～れ はっけよ～い</original>
+			<edited>そ～れ はっけよ～い</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコ足&#xE;&#x0;&#x3;&#x2;ÿÿ出た！ ４号、やっちゃって！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコ足&#xE;&#x0;&#x3;&#x2;ÿÿ出た！ ４号、やっちゃって！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2006" offset="00" relocatable="true" max_length="0">
+			<original>スモウなら、ひっくり返したら勝ちだけどな～…</original>
+			<edited>スモウなら、ひっくり返したら勝ちだけどな～…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2007" offset="00" relocatable="true" max_length="0">
+			<original>今だ、４号！ とっちめて！</original>
+			<edited>今だ、４号！ とっちめて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2008" offset="00" relocatable="true" max_length="0">
+			<original>あれは… 最新兵器、タコツボ・バイクでし！</original>
+			<edited>あれは… 最新兵器、タコツボ・バイクでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2008_2" offset="00" relocatable="true" max_length="0">
+			<original>ムダにイスが シャレオツじゃね？</original>
+			<edited>ムダにイスが シャレオツじゃね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2009" offset="00" relocatable="true" max_length="0">
+			<original>サムライとかバイクとか、いろいろ 盛りすぎっしょ…</original>
+			<edited>サムライとかバイクとか、いろいろ 盛りすぎっしょ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2010" offset="00" relocatable="true" max_length="0">
+			<original>バイク攻撃、来るよ！ よける準備、よ～い</original>
+			<edited>バイク攻撃、来るよ！ よける準備、よ～い</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2011" offset="00" relocatable="true" max_length="0">
+			<original>バイク、しつこいな～</original>
+			<edited>バイク、しつこいな～</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2012" offset="00" relocatable="true" max_length="0">
+			<original>…む、殺気！</original>
+			<edited>…む、殺気！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2013" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプ攻撃、来るよ！</original>
+			<edited>ジャンプ攻撃、来るよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2014" offset="00" relocatable="true" max_length="0">
+			<original>あの構え… 絶対ヤバイやつが 来るでし！</original>
+			<edited>あの構え… 絶対ヤバイやつが 来るでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2014_2" offset="00" relocatable="true" max_length="0">
+			<original>タテ振り、来る！</original>
+			<edited>タテ振り、来る！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2015" offset="00" relocatable="true" max_length="0">
+			<original>回転ぎり？！ 来る時、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;目が光った&#xE;&#x0;&#x3;&#x2;ÿÿし</original>
+			<edited>回転ぎり？！ 来る時、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;目が光った&#xE;&#x0;&#x3;&#x2;ÿÿし</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2016" offset="00" relocatable="true" max_length="0">
+			<original>４号！ よけて～！</original>
+			<edited>４号！ よけて～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B2_RollerKing_A2017" offset="00" relocatable="true" max_length="0">
+			<original>この構えは… 回転ぎり！</original>
+			<edited>この構えは… 回転ぎり！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B3_StampKingDeco_A3001" offset="00" relocatable="true" max_length="0">
+			<original>あれは… 保冷効果バツグンの &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;塗れない&#xE;&#x0;&#x3;&#x2;ÿÿヨロイでし！</original>
+			<edited>あれは… 保冷効果バツグンの &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;塗れない&#xE;&#x0;&#x3;&#x2;ÿÿヨロイでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B3_StampKingDeco_A3001_2" offset="00" relocatable="true" max_length="0">
+			<original>ほ～ オクタリアン達も考えたな…</original>
+			<edited>ほ～ オクタリアン達も考えたな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B3_StampKingDeco_A3002" offset="00" relocatable="true" max_length="0">
+			<original>顔 広ッ！ あれでスタンプ攻撃は ヤバイ…</original>
+			<edited>顔 広ッ！ あれでスタンプ攻撃は ヤバイ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B3_StampKingDeco_A3003" offset="00" relocatable="true" max_length="0">
+			<original>アイツ知ってる！ タコツボックス！</original>
+			<edited>アイツ知ってる！ タコツボックス！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B3_StampKingDeco_A3003_2" offset="00" relocatable="true" max_length="0">
+			<original>でし！ でも 昔、３号さんが破壊したはずでしが…</original>
+			<edited>でし！ でも 昔、３号さんが破壊したはずでしが…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B3_StampKingDeco_A3003_3" offset="00" relocatable="true" max_length="0">
+			<original>何度来ても 結果は同じ！ ４号も、とっちめちゃって</original>
+			<edited>何度来ても 結果は同じ！ ４号も、とっちめちゃって</edited>
+			<subEntries />
+		</entry>
+		<entry name="B3_StampKingDeco_A3004" offset="00" relocatable="true" max_length="0">
+			<original>スタンプ攻撃は、すばやく横によけるよ</original>
+			<edited>スタンプ攻撃は、すばやく横によけるよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="B3_StampKingDeco_A3005" offset="00" relocatable="true" max_length="0">
+			<original>横がダメなら、後ろににげる！</original>
+			<edited>横がダメなら、後ろににげる！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B3_StampKingDeco_A3006" offset="00" relocatable="true" max_length="0">
+			<original>アイツの体、塗って登れる？</original>
+			<edited>アイツの体、塗って登れる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="B3_StampKingDeco_A3007" offset="00" relocatable="true" max_length="0">
+			<original>スタンプの後がチャンス！ 塗って登れ～</original>
+			<edited>スタンプの後がチャンス！ 塗って登れ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="B3_StampKingDeco_A3008" offset="00" relocatable="true" max_length="0">
+			<original>移動ショット中に&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でスライド！ カレイによけて！</original>
+			<edited>移動ショット中に&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でスライド！ カレイによけて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B3_StampKingDeco_A3009" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鼻のシール&#xE;&#x0;&#x3;&#x2;ÿÿで オシャレを演出… してるつもり？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;鼻のシール&#xE;&#x0;&#x3;&#x2;ÿÿで オシャレを演出… してるつもり？</edited>
+			<subEntries />
+		</entry>
+		<entry name="B3_StampKingDeco_A3010" offset="00" relocatable="true" max_length="0">
+			<original>スピナー攻撃っ！ スライドでよけて～！</original>
+			<edited>スピナー攻撃っ！ スライドでよけて～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B3_StampKingDeco_A3010_b" offset="00" relocatable="true" max_length="0">
+			<original>スピナー攻撃っ！ うかつに近づくとヤバいよ！</original>
+			<edited>スピナー攻撃っ！ うかつに近づくとヤバいよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B3_StampKingDeco_A3011" offset="00" relocatable="true" max_length="0">
+			<original>小破～！ これで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;体&#xE;&#x0;&#x3;&#x2;ÿÿ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;塗れる&#xE;&#x0;&#x3;&#x2;ÿÿっしょ</original>
+			<edited>小破～！ これで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;体&#xE;&#x0;&#x3;&#x2;ÿÿ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;塗れる&#xE;&#x0;&#x3;&#x2;ÿÿっしょ</edited>
+			<subEntries />
+		</entry>
+		<entry name="B3_StampKingDeco_A3012" offset="00" relocatable="true" max_length="0">
+			<original>中破～！ ヤツの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;体&#xE;&#x0;&#x3;&#x2;ÿÿ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;塗れる&#xE;&#x0;&#x3;&#x2;ÿÿよ！</original>
+			<edited>中破～！ ヤツの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;体&#xE;&#x0;&#x3;&#x2;ÿÿ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;塗れる&#xE;&#x0;&#x3;&#x2;ÿÿよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B4_HangedKing_A4001" offset="00" relocatable="true" max_length="0">
+			<original>真下にいると シャワーのエジキやね…</original>
+			<edited>真下にいると シャワーのエジキやね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B4_HangedKing_A4002" offset="00" relocatable="true" max_length="0">
+			<original>４号、よくやった！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコ足&#xE;&#x0;&#x3;&#x2;ÿÿねらって！</original>
+			<edited>４号、よくやった！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコ足&#xE;&#x0;&#x3;&#x2;ÿÿねらって！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B4_HangedKing_A4003" offset="00" relocatable="true" max_length="0">
+			<original>タコプターには悪いけど、やられてもらうよ… ４号に！</original>
+			<edited>タコプターには悪いけど、やられてもらうよ… ４号に！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B4_HangedKing_A4004" offset="00" relocatable="true" max_length="0">
+			<original>タコプターがバイソクになった！ 本気出してきたね</original>
+			<edited>タコプターがバイソクになった！ 本気出してきたね</edited>
+			<subEntries />
+		</entry>
+		<entry name="B4_HangedKing_A4005" offset="00" relocatable="true" max_length="0">
+			<original>あれは… デハイドレーション・スピニング・ドライヤーでし！</original>
+			<edited>あれは… デハイドレーション・スピニング・ドライヤーでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B4_HangedKing_A4006" offset="00" relocatable="true" max_length="0">
+			<original>ハイパープレッサー？！ カベ通過してくるでし！ 注意！！</original>
+			<edited>ハイパープレッサー？！ カベ通過してくるでし！ 注意！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B4_HangedKing_A4007" offset="00" relocatable="true" max_length="0">
+			<original>ミサイルでし！ うち落とせないなら カベ後ろに移動！</original>
+			<edited>ミサイルでし！ うち落とせないなら カベ後ろに移動！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B4_HangedKing_A4008" offset="00" relocatable="true" max_length="0">
+			<original>シャワー攻撃！ 横によけて！</original>
+			<edited>シャワー攻撃！ 横によけて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B4_HangedKing_A4009" offset="00" relocatable="true" max_length="0">
+			<original>センプクだけじゃ場所がバレる！ 少し移動するでし！</original>
+			<edited>センプクだけじゃ場所がバレる！ 少し移動するでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B4_HangedKing_A4010" offset="00" relocatable="true" max_length="0">
+			<original>あのサイト…！ チャージャー攻撃に気をつけるでし！</original>
+			<edited>あのサイト…！ チャージャー攻撃に気をつけるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B4_HangedKing_A4011" offset="00" relocatable="true" max_length="0">
+			<original>にげててもラチがあかない、何とか距離をつめて！</original>
+			<edited>にげててもラチがあかない、何とか距離をつめて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B4_HangedKing_A4012" offset="00" relocatable="true" max_length="0">
+			<original>本体には攻撃が効かない… いい方法無い？</original>
+			<edited>本体には攻撃が効かない… いい方法無い？</edited>
+			<subEntries />
+		</entry>
+		<entry name="B4_HangedKing_A4013" offset="00" relocatable="true" max_length="0">
+			<original>上空に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコプター&#xE;&#x0;&#x3;&#x2;ÿÿ発見！ 本体をつってる アイツらは？</original>
+			<edited>上空に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコプター&#xE;&#x0;&#x3;&#x2;ÿÿ発見！ 本体をつってる アイツらは？</edited>
+			<subEntries />
+		</entry>
+		<entry name="B4_HangedKing_A4014" offset="00" relocatable="true" max_length="0">
+			<original>いろいろ置かれとるね… コイツらを利用して…</original>
+			<edited>いろいろ置かれとるね… コイツらを利用して…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B4_HangedKing_A4015" offset="00" relocatable="true" max_length="0">
+			<original>４号さん！ コロガリウムを&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;上向き&#xE;&#x0;&#x3;&#x2;ÿÿに うってみるでし！</original>
+			<edited>４号さん！ コロガリウムを&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;上向き&#xE;&#x0;&#x3;&#x2;ÿÿに うってみるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B4_HangedKing_A4016" offset="00" relocatable="true" max_length="0">
+			<original>出たよ！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコ足&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>出たよ！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タコ足&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="B4_HangedKing_A4017" offset="00" relocatable="true" max_length="0">
+			<original>４号、今だ！ キメちゃって！</original>
+			<edited>４号、今だ！ キメちゃって！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B4_HangedKing_A4018" offset="00" relocatable="true" max_length="0">
+			<original>…要するに、ダッスイ機じゃね？ とりま、よけて</original>
+			<edited>…要するに、ダッスイ機じゃね？ とりま、よけて</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_00" offset="00" relocatable="true" max_length="0">
+			<original>４号… 行くよッ！</original>
+			<edited>４号… 行くよッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_01" offset="00" relocatable="true" max_length="0">
+			<original>グルグルパンチ！ あれは打ち返せないでし！</original>
+			<edited>グルグルパンチ！ あれは打ち返せないでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_02" offset="00" relocatable="true" max_length="0">
+			<original>シャワー攻撃、来るよ！ 横によけて！</original>
+			<edited>シャワー攻撃、来るよ！ 横によけて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_03" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコは&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしで、ためて ドーンでし！</original>
+			<edited>ガチホコは&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしで、ためて ドーンでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_04" offset="00" relocatable="true" max_length="0">
+			<original>ギギ… シオカラブシ！ カラダガ イウコト キカナイ…</original>
+			<edited>ギギ… シオカラブシ！ カラダガ イウコト キカナイ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_05" offset="00" relocatable="true" max_length="0">
+			<original>４号！ うち返せないパンチは ジャンプでよけて！</original>
+			<edited>４号！ うち返せないパンチは ジャンプでよけて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_07" offset="00" relocatable="true" max_length="0">
+			<original>アハハ！ ヤッチャエ、ショーグン！</original>
+			<edited>アハハ！ ヤッチャエ、ショーグン！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_08" offset="00" relocatable="true" max_length="0">
+			<original>アオリちゃん！ こらっ！</original>
+			<edited>アオリちゃん！ こらっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_11" offset="00" relocatable="true" max_length="0">
+			<original>４号！ アタシもそっちに行くから、ちょっとがんばっといて！</original>
+			<edited>４号！ アタシもそっちに行くから、ちょっとがんばっといて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_12" offset="00" relocatable="true" max_length="0">
+			<original>アオリちゃん！ 正気にもどって！</original>
+			<edited>アオリちゃん！ 正気にもどって！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_13" offset="00" relocatable="true" max_length="0">
+			<original>ウうう…！！</original>
+			<edited>ウうう…！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_14" offset="00" relocatable="true" max_length="0">
+			<original>４号、がんばって！ アタシはここで 歌っとくしね！</original>
+			<edited>４号、がんばって！ アタシはここで 歌っとくしね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_21" offset="00" relocatable="true" max_length="0">
+			<original>上から 来るっ！</original>
+			<edited>上から 来るっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_22" offset="00" relocatable="true" max_length="0">
+			<original>速っ… ダッシュパンチ 気をつけて！</original>
+			<edited>速っ… ダッシュパンチ 気をつけて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_23" offset="00" relocatable="true" max_length="0">
+			<original>トドケ、 トキメキ♪ トドロケ、ボムラッシュ☆</original>
+			<edited>トドケ、 トキメキ♪ トドロケ、ボムラッシュ☆</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_24" offset="00" relocatable="true" max_length="0">
+			<original>またボムラッシュ… よけて！</original>
+			<edited>またボムラッシュ… よけて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_25" offset="00" relocatable="true" max_length="0">
+			<original>なんか来るよ！ うち落とせる？</original>
+			<edited>なんか来るよ！ うち落とせる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_26" offset="00" relocatable="true" max_length="0">
+			<original>タコワサ出て来た！ ４号、とっちめて！</original>
+			<edited>タコワサ出て来た！ ４号、とっちめて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_27" offset="00" relocatable="true" max_length="0">
+			<original>タコワサ、落ちた！ キメちゃって、４号！</original>
+			<edited>タコワサ、落ちた！ キメちゃって、４号！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_28" offset="00" relocatable="true" max_length="0">
+			<original>タコワサ来たよ！ ４号、やっちゃえ！</original>
+			<edited>タコワサ来たよ！ ４号、やっちゃえ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_29" offset="00" relocatable="true" max_length="0">
+			<original>４号！ ライドレール中央から タコワサに向かって！</original>
+			<edited>４号！ ライドレール中央から タコワサに向かって！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_30" offset="00" relocatable="true" max_length="0">
+			<original>今だ！ &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプしてガチホコを…！</original>
+			<edited>今だ！ &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプしてガチホコを…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_31" offset="00" relocatable="true" max_length="0">
+			<original>４号… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリボックス&#xE;&#x0;&#x3;&#x2;ÿÿで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ブキ強化&#xE;&#x0;&#x3;&#x2;ÿÿしたほうが よくね？</original>
+			<edited>４号… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリボックス&#xE;&#x0;&#x3;&#x2;ÿÿで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ブキ強化&#xE;&#x0;&#x3;&#x2;ÿÿしたほうが よくね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_32" offset="00" relocatable="true" max_length="0">
+			<original>４号さん！ バトルで使う&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ガチホコ&#xE;&#x0;&#x3;&#x2;ÿÿを
+バッキバキに改造して 持って来たでし！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押し続けてブースト圧を高めて、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;はなす！
+そうすれば かなり遠くまで インクをブッぱなせるでし！&#xE;&#x0;&#x4;&#x0;さぁ ４号さん、改造&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ガチホコ&#xE;&#x0;&#x3;&#x2;ÿÿの晴れ姿を
+ボクに見せて欲しいでし！</original>
+			<edited>４号さん！ バトルで使う&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ガチホコ&#xE;&#x0;&#x3;&#x2;ÿÿを
+バッキバキに改造して 持って来たでし！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押し続けてブースト圧を高めて、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;はなす！
+そうすれば かなり遠くまで インクをブッぱなせるでし！&#xE;&#x0;&#x4;&#x0;さぁ ４号さん、改造&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ガチホコ&#xE;&#x0;&#x3;&#x2;ÿÿの晴れ姿を
+ボクに見せて欲しいでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_33" offset="00" relocatable="true" max_length="0">
+			<original>効いてるよ ４号！ いい感じ！</original>
+			<edited>効いてるよ ４号！ いい感じ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_34" offset="00" relocatable="true" max_length="0">
+			<original>ゴーゴー、DJ！</original>
+			<edited>ゴーゴー、DJ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_35" offset="00" relocatable="true" max_length="0">
+			<original>４号、きばるんよ！</original>
+			<edited>４号、きばるんよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_36" offset="00" relocatable="true" max_length="0">
+			<original>ギギ、コシャクナ！ バイソクモード！</original>
+			<edited>ギギ、コシャクナ！ バイソクモード！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_37" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ガチホコ&#xE;&#x0;&#x3;&#x2;ÿÿ…！ キケン…！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ガチホコ&#xE;&#x0;&#x3;&#x2;ÿÿ…！ キケン…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_38" offset="00" relocatable="true" max_length="0">
+			<original>４号、追って！ 決着をつけるよ！</original>
+			<edited>４号、追って！ 決着をつけるよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_40" offset="00" relocatable="true" max_length="0">
+			<original>ギッ…！</original>
+			<edited>ギッ…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_00_HT" offset="00" relocatable="true" max_length="0">
+			<original>あ、あれは…</original>
+			<edited>あ、あれは…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_00b_HT" offset="00" relocatable="true" max_length="0">
+			<original>アオリちゃん？！</original>
+			<edited>アオリちゃん？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_01_AOB" offset="00" relocatable="true" max_length="0">
+			<original>コナイデッテ イッタノニ！</original>
+			<edited>コナイデッテ イッタノニ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_02_HT" offset="00" relocatable="true" max_length="0">
+			<original>アオリちゃん、どうして…</original>
+			<edited>アオリちゃん、どうして…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_03_AOB" offset="00" relocatable="true" max_length="0">
+			<original>コーナッタラ…</original>
+			<edited>コーナッタラ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_03b_AOB" offset="00" relocatable="true" max_length="0">
+			<original>チカラヅクデモ カエッテモラウヨ！</original>
+			<edited>チカラヅクデモ カエッテモラウヨ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_04_AOB" offset="00" relocatable="true" max_length="0">
+			<original>ヘイ、DJ！</original>
+			<edited>ヘイ、DJ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_05_WA" offset="00" relocatable="true" max_length="0">
+			<original>HEY ワサ！ ワサ！</original>
+			<edited>HEY ワサ！ ワサ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_05b_WA" offset="00" relocatable="true" max_length="0">
+			<original>ギギ… アオリチャン チョロイ！
+カンタンニ センノウ デキタ！</original>
+			<edited>ギギ… アオリチャン チョロイ！
+カンタンニ センノウ デキタ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_06_AOB" offset="00" relocatable="true" max_length="0">
+			<original>Hey ヤッチャッテ！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;トキメキ☆ボムラッシュ！&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>Hey ヤッチャッテ！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;トキメキ☆ボムラッシュ！&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_07_WA" offset="00" relocatable="true" max_length="0">
+			<original>ギギ… ステイチューン！</original>
+			<edited>ギギ… ステイチューン！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv1_00_AOB" offset="00" relocatable="true" max_length="0">
+			<original>ウググ…！</original>
+			<edited>ウググ…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv1_01_HT" offset="00" relocatable="true" max_length="0">
+			<original>アオリちゃん！ アタシだよ… 思い出して！</original>
+			<edited>アオリちゃん！ アタシだよ… 思い出して！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv1_02_AOB" offset="00" relocatable="true" max_length="0">
+			<original>DJ！</original>
+			<edited>DJ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv1_02b_AOB" offset="00" relocatable="true" max_length="0">
+			<original>キープ・オン・ミュージック！！</original>
+			<edited>キープ・オン・ミュージック！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv1_03_WA" offset="00" relocatable="true" max_length="0">
+			<original>ギギ… ＯＫ！</original>
+			<edited>ギギ… ＯＫ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv2_01_HI" offset="00" relocatable="true" max_length="0">
+			<original>着いた！ じっとして…</original>
+			<edited>着いた！ じっとして…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv2_01b_AO" offset="00" relocatable="true" max_length="0">
+			<original>あイタ！</original>
+			<edited>あイタ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv2_02_WA" offset="00" relocatable="true" max_length="0">
+			<original>ギ… シマッタ！
+サイミン サングラス ガ！</original>
+			<edited>ギ… シマッタ！
+サイミン サングラス ガ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv2_03_HI" offset="00" relocatable="true" max_length="0">
+			<original>よし！ 特製スミソインク 当たった！</original>
+			<edited>よし！ 特製スミソインク 当たった！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv2_04_AO" offset="00" relocatable="true" max_length="0">
+			<original>ウうう…！！</original>
+			<edited>ウうう…！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv2_05_HI" offset="00" relocatable="true" max_length="0">
+			<original>４号、今だ！ アオリちゃんがピヨってる間に…</original>
+			<edited>４号、今だ！ アオリちゃんがピヨってる間に…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv2_05b_HI" offset="00" relocatable="true" max_length="0">
+			<original>DJタコワサ将軍を… たのんだよ！</original>
+			<edited>DJタコワサ将軍を… たのんだよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv3_00_AO" offset="00" relocatable="true" max_length="0">
+			<original>アぅ… アタマが… スっぱい…</original>
+			<edited>アぅ… アタマが… スっぱい…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv3_01_HI" offset="00" relocatable="true" max_length="0">
+			<original>スミソ 効いてる！ 今がチャンス…！</original>
+			<edited>スミソ 効いてる！ 今がチャンス…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv3_02_HI" offset="00" relocatable="true" max_length="0">
+			<original>アオリちゃん！ 思い出して！</original>
+			<edited>アオリちゃん！ 思い出して！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv3_03_HI" offset="00" relocatable="true" max_length="0">
+			<original>きけば天国！</original>
+			<edited>きけば天国！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv3_04_AO" offset="00" relocatable="true" max_length="0">
+			<original>うたえば… ごくらく…？</original>
+			<edited>うたえば… ごくらく…？</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv3_04b_AO" offset="00" relocatable="true" max_length="0">
+			<original>ア… アタシの イばしょ ココジャない…！</original>
+			<edited>ア… アタシの イばしょ ココジャない…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv3_04c_AO" offset="00" relocatable="true" max_length="0">
+			<original>えいっ！</original>
+			<edited>えいっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv3_05_BK" offset="00" relocatable="true" max_length="0">
+			<original>待ってました！ みなさん ご存知、シオカラ節でし！！</original>
+			<edited>待ってました！ みなさん ご存知、シオカラ節でし！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv4_00_WA_R" offset="00" relocatable="true" max_length="0">
+			<original>ギギ…</original>
+			<edited>ギギ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv4_01_WA_R" offset="00" relocatable="true" max_length="0">
+			<original>ソンナ…</original>
+			<edited>ソンナ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv4_01b_WA_R" offset="00" relocatable="true" max_length="0">
+			<original>セ… ツ… ナ… イ</original>
+			<edited>セ… ツ… ナ… イ</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_00_2nd" offset="00" relocatable="true" max_length="0">
+			<original>４号、お願いね～</original>
+			<edited>４号、お願いね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_01_2nd" offset="00" relocatable="true" max_length="0">
+			<original>グルグルパンチは よけるしかないでし！</original>
+			<edited>グルグルパンチは よけるしかないでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_02_2nd" offset="00" relocatable="true" max_length="0">
+			<original>シャワー攻撃は 横によける！</original>
+			<edited>シャワー攻撃は 横によける！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_03_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコは&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしで、ためて ドーンでし！</original>
+			<edited>ガチホコは&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しっぱなしで、ためて ドーンでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_04_2nd" offset="00" relocatable="true" max_length="0">
+			<original>マタモヤ シオカラブシ！ オドラズニハ イラレナイ…</original>
+			<edited>マタモヤ シオカラブシ！ オドラズニハ イラレナイ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_05_2nd" offset="00" relocatable="true" max_length="0">
+			<original>打ち返せないパンチは ジャンプ！</original>
+			<edited>打ち返せないパンチは ジャンプ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_07_2nd" offset="00" relocatable="true" max_length="0">
+			<original>イケイケ、ショーグン！ オセオセ、ショーグン！</original>
+			<edited>イケイケ、ショーグン！ オセオセ、ショーグン！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_08_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ちょ、アオリちゃん… </original>
+			<edited>ちょ、アオリちゃん… </edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_11_2nd" offset="00" relocatable="true" max_length="0">
+			<original>４号、またそっち行くわ～… ちょっとがんばっといて</original>
+			<edited>４号、またそっち行くわ～… ちょっとがんばっといて</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_12_2nd" offset="00" relocatable="true" max_length="0">
+			<original>アオリちゃん！ いい加減にせんね！</original>
+			<edited>アオリちゃん！ いい加減にせんね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_13_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ウうう…！！</original>
+			<edited>ウうう…！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_14_2nd" offset="00" relocatable="true" max_length="0">
+			<original>４号、イカよろしく～ アタシは歌っとくし</original>
+			<edited>４号、イカよろしく～ アタシは歌っとくし</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_21_2nd" offset="00" relocatable="true" max_length="0">
+			<original>はいはい、上から～</original>
+			<edited>はいはい、上から～</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_22_2nd" offset="00" relocatable="true" max_length="0">
+			<original>はいはい ダッシュパンチ、読み読み～</original>
+			<edited>はいはい ダッシュパンチ、読み読み～</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_23_2nd" offset="00" relocatable="true" max_length="0">
+			<original>マジデ、トキメキ♪ ハジケテ、ボムラッシュ☆</original>
+			<edited>マジデ、トキメキ♪ ハジケテ、ボムラッシュ☆</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_24_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ピッチャー ビビッてる、ヘイヘイヘイ♪</original>
+			<edited>ピッチャー ビビッてる、ヘイヘイヘイ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_25_2nd" offset="00" relocatable="true" max_length="0">
+			<original>タコヤキボム！ …正しい名前は知らん</original>
+			<edited>タコヤキボム！ …正しい名前は知らん</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_26_2nd" offset="00" relocatable="true" max_length="0">
+			<original>タコワサ、ら～い！</original>
+			<edited>タコワサ、ら～い！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_27_2nd" offset="00" relocatable="true" max_length="0">
+			<original>タコワサ、らいら～い！</original>
+			<edited>タコワサ、らいら～い！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_28_2nd" offset="00" relocatable="true" max_length="0">
+			<original>タコワサ、らいらいの ら～い！</original>
+			<edited>タコワサ、らいらいの ら～い！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_29_2nd" offset="00" relocatable="true" max_length="0">
+			<original>中央のライドレールに 移動ね！</original>
+			<edited>中央のライドレールに 移動ね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_30_2nd" offset="00" relocatable="true" max_length="0">
+			<original>今だ！ &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプ！</original>
+			<edited>今だ！ &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ジャンプ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_31_2nd" offset="00" relocatable="true" max_length="0">
+			<original>４号、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリボックス&#xE;&#x0;&#x3;&#x2;ÿÿで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ブキ強化&#xE;&#x0;&#x3;&#x2;ÿÿしよっか…</original>
+			<edited>４号、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリボックス&#xE;&#x0;&#x3;&#x2;ÿÿで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ブキ強化&#xE;&#x0;&#x3;&#x2;ÿÿしよっか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_32_2nd" offset="00" relocatable="true" max_length="0">
+			<original>４号さん！ 例のバキバキ改造の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ガチホコ&#xE;&#x0;&#x3;&#x2;ÿÿでし！&#xE;&#x0;&#x4;&#x0;使い方は わかるでしね？
+&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押し続けてブースト圧を高めて、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;はなす！&#xE;&#x0;&#x4;&#x0;さぁさぁ！ 改造&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ガチホコ&#xE;&#x0;&#x3;&#x2;ÿÿのカッコイイ姿を
+ボクに見せつけて欲しいでし！</original>
+			<edited>４号さん！ 例のバキバキ改造の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ガチホコ&#xE;&#x0;&#x3;&#x2;ÿÿでし！&#xE;&#x0;&#x4;&#x0;使い方は わかるでしね？
+&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押し続けてブースト圧を高めて、&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;はなす！&#xE;&#x0;&#x4;&#x0;さぁさぁ！ 改造&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ガチホコ&#xE;&#x0;&#x3;&#x2;ÿÿのカッコイイ姿を
+ボクに見せつけて欲しいでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_33_2nd" offset="00" relocatable="true" max_length="0">
+			<original>４号、イイワ～♪</original>
+			<edited>４号、イイワ～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_34_2nd" offset="00" relocatable="true" max_length="0">
+			<original>サングラス… ワタサナイ…</original>
+			<edited>サングラス… ワタサナイ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_35_2nd" offset="00" relocatable="true" max_length="0">
+			<original>４号、まいど メンゴね～</original>
+			<edited>４号、まいど メンゴね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_36_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ギギ… コシャクナ… バイソクモード、オン！</original>
+			<edited>ギギ… コシャクナ… バイソクモード、オン！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_37_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ギィ！ コウナッタラ イカソーメンニ シテヤル！</original>
+			<edited>ギィ！ コウナッタラ イカソーメンニ シテヤル！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_38_2nd" offset="00" relocatable="true" max_length="0">
+			<original>こっちこそ カルパッチョにしてやんよ… ４号が！</original>
+			<edited>こっちこそ カルパッチョにしてやんよ… ４号が！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_40_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ギッ…！</original>
+			<edited>ギッ…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_00_HT_2nd" offset="00" relocatable="true" max_length="0">
+			<original>あ、あれは…！</original>
+			<edited>あ、あれは…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_00b_HT_2nd" offset="00" relocatable="true" max_length="0">
+			<original>って、わかってるよね、アオリちゃんで～す</original>
+			<edited>って、わかってるよね、アオリちゃんで～す</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_01_AOB_2nd" offset="00" relocatable="true" max_length="0">
+			<original>モウ！ ナンカイモ コナイデヨ！</original>
+			<edited>モウ！ ナンカイモ コナイデヨ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_02_HT_2nd" offset="00" relocatable="true" max_length="0">
+			<original>アオリちゃん、そのサングラス…</original>
+			<edited>アオリちゃん、そのサングラス…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_03_AOB_2nd" offset="00" relocatable="true" max_length="0">
+			<original>コーナッタラ…</original>
+			<edited>コーナッタラ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_03b_AOB_2nd" offset="00" relocatable="true" max_length="0">
+			<original>チカラヅクデモ カエッテモラウカラ！</original>
+			<edited>チカラヅクデモ カエッテモラウカラ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_04_AOB_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ヘイDJ！</original>
+			<edited>ヘイDJ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_05_WA_2nd" offset="00" relocatable="true" max_length="0">
+			<original>HEY ワサ！ ワサ！</original>
+			<edited>HEY ワサ！ ワサ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_05b_WA_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ギギ… アオリチャン チョロイ！
+ガクヤノ サングラス スリカエタ！</original>
+			<edited>ギギ… アオリチャン チョロイ！
+ガクヤノ サングラス スリカエタ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_06_AOB_2nd" offset="00" relocatable="true" max_length="0">
+			<original>リピート・アフター・ミー！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;トキメキ☆ボムラッシュ！&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>リピート・アフター・ミー！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;トキメキ☆ボムラッシュ！&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv0_07_WA_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ギギ… ステイチューン・アゲイン！</original>
+			<edited>ギギ… ステイチューン・アゲイン！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv1_00_AOB_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ウググ！ ズッ ズルイヨッ！</original>
+			<edited>ウググ！ ズッ ズルイヨッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv1_01_HT_2nd" offset="00" relocatable="true" max_length="0">
+			<original>…アオリちゃん
+そのサングラス 見えてないっしょ</original>
+			<edited>…アオリちゃん
+そのサングラス 見えてないっしょ</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv1_02_AOB_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ヌヌ～ッ！ ウルサイウルサイ！ </original>
+			<edited>ヌヌ～ッ！ ウルサイウルサイ！ </edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv1_02b_AOB_2nd" offset="00" relocatable="true" max_length="0">
+			<original>マダマダツヅケルヨ！
+DJ！ キーポン・ダンシン！</original>
+			<edited>マダマダツヅケルヨ！
+DJ！ キーポン・ダンシン！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv1_03_WA_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ギギ… ＯＫ！</original>
+			<edited>ギギ… ＯＫ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv2_01_HI_2nd" offset="00" relocatable="true" max_length="0">
+			<original>と～ちゃく</original>
+			<edited>と～ちゃく</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv2_01b_AO_2nd" offset="00" relocatable="true" max_length="0">
+			<original>あデッ！</original>
+			<edited>あデッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv2_02_WA_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ギ… シマッタ！
+サイミン サングラス ガ！</original>
+			<edited>ギ… シマッタ！
+サイミン サングラス ガ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv2_03_HI_2nd" offset="00" relocatable="true" max_length="0">
+			<original>アオリちゃん… サングラスは もうやめて！</original>
+			<edited>アオリちゃん… サングラスは もうやめて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv2_04_AO_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ウうう……！！</original>
+			<edited>ウうう……！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv2_05_HI_2nd" offset="00" relocatable="true" max_length="0">
+			<original>４号！ アオリちゃんに 特製スミソが効いている間に</original>
+			<edited>４号！ アオリちゃんに 特製スミソが効いている間に</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv2_05b_HI_2nd" offset="00" relocatable="true" max_length="0">
+			<original>DJタコワサ将軍を とっちめちゃって！</original>
+			<edited>DJタコワサ将軍を とっちめちゃって！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv3_00_AO_2nd" offset="00" relocatable="true" max_length="0">
+			<original>アぅ…！ オメメが スっぱい…</original>
+			<edited>アぅ…！ オメメが スっぱい…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv3_01_HI_2nd" offset="00" relocatable="true" max_length="0">
+			<original>スミソ 効いてる！ 今がチャンス…！</original>
+			<edited>スミソ 効いてる！ 今がチャンス…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv3_02_HI_2nd" offset="00" relocatable="true" max_length="0">
+			<original>アオリちゃん、思い出して！</original>
+			<edited>アオリちゃん、思い出して！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv3_03_HI_2nd" offset="00" relocatable="true" max_length="0">
+			<original>歌は 世につれ！</original>
+			<edited>歌は 世につれ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv3_04_AO_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ヨは ウタに ツれ…？</original>
+			<edited>ヨは ウタに ツれ…？</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv3_04b_AO_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ヤ… やっぱりアタシ、カエらなきゃ…！</original>
+			<edited>ヤ… やっぱりアタシ、カエらなきゃ…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv3_04c_AO_2nd" offset="00" relocatable="true" max_length="0">
+			<original>やぁっ！</original>
+			<edited>やぁっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv3_05_BK_2nd" offset="00" relocatable="true" max_length="0">
+			<original>それじゃ いってみよー！ シオカラーズで、シオカラ節でし！</original>
+			<edited>それじゃ いってみよー！ シオカラーズで、シオカラ節でし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv4_00_WA_R_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ギギ…</original>
+			<edited>ギギ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv4_01_WA_R_2nd" offset="00" relocatable="true" max_length="0">
+			<original>マタ… ヤラレタ…</original>
+			<edited>マタ… ヤラレタ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="B5_LastKing_Demo_Lv4_01b_WA_R_2nd" offset="00" relocatable="true" max_length="0">
+			<original>セ… ツ… ナ… イ</original>
+			<edited>セ… ツ… ナ… イ</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

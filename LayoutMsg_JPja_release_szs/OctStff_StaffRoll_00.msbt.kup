@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Director_00" offset="00" relocatable="true" max_length="0">
+			<original>DIRECTORS</original>
+			<edited>DIRECTORS</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_GameDesign_00" offset="00" relocatable="true" max_length="0">
+			<original>GAME DESIGN</original>
+			<edited>GAME DESIGN</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Sound_00" offset="00" relocatable="true" max_length="0">
+			<original>SOUND</original>
+			<edited>SOUND</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Programing_00" offset="00" relocatable="true" max_length="0">
+			<original>PROGRAMMING</original>
+			<edited>PROGRAMMING</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Art_00" offset="00" relocatable="true" max_length="0">
+			<original>ART</original>
+			<edited>ART</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_NoaLocalization_00" offset="00" relocatable="true" max_length="0">
+			<original>NOA LOCALIZATION</original>
+			<edited>NOA LOCALIZATION</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_NoeLocalisation_00" offset="00" relocatable="true" max_length="0">
+			<original>NOE LOCALISATION</original>
+			<edited>NOE LOCALISATION</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_SpecialThanks_00" offset="00" relocatable="true" max_length="0">
+			<original>SPECIAL THANKS</original>
+			<edited>SPECIAL THANKS</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Producer_00" offset="00" relocatable="true" max_length="0">
+			<original>PRODUCER</original>
+			<edited>PRODUCER</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_GeneralProducer_00" offset="00" relocatable="true" max_length="0">
+			<original>GENERAL PRODUCERS</original>
+			<edited>GENERAL PRODUCERS</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_ExecutiveProducer_00" offset="00" relocatable="true" max_length="0">
+			<original>EXECUTIVE PRODUCER</original>
+			<edited>EXECUTIVE PRODUCER</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_ThankYou_00" offset="00" relocatable="true" max_length="0">
+			<original>Thank you for playing!</original>
+			<edited>Thank you for playing!</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

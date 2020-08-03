@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Continue_00" offset="00" relocatable="true" max_length="0">
+			<original>８号さんの訓練データが 貯まりました！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+ネル社のネットワークシステムを ハッキングします！</original>
+			<edited>８号さんの訓練データが 貯まりました！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+ネル社のネットワークシステムを ハッキングします！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Continue_01" offset="00" relocatable="true" max_length="0">
+			<original>ハッキングプロセスを 停止します！</original>
+			<edited>ハッキングプロセスを 停止します！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Continue_First_00" offset="00" relocatable="true" max_length="0">
+			<original>再チャレンジするには、
+もう一度 チャレンジ料を 支払う必要がありまス…</original>
+			<edited>再チャレンジするには、
+もう一度 チャレンジ料を 支払う必要がありまス…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Continue_Free_00" offset="00" relocatable="true" max_length="0">
+			<original>でも今回は 初めてのチャレンジですのデ、
+再チャレンジのポイントは　いただきませン…</original>
+			<edited>でも今回は 初めてのチャレンジですのデ、
+再チャレンジのポイントは　いただきませン…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Hacking_First_00" offset="00" relocatable="true" max_length="0">
+			<original>８号さん… 苦戦しているみたいですね…！</original>
+			<edited>８号さん… 苦戦しているみたいですね…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Hacking_First_01" offset="00" relocatable="true" max_length="0">
+			<original>このチャレンジ ムズそうだな！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+イイダ、これ なんとかなんねーの？！</original>
+			<edited>このチャレンジ ムズそうだな！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+イイダ、これ なんとかなんねーの？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Hacking_First_02" offset="00" relocatable="true" max_length="0">
+			<original>実はさっき&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ネル社のネットワークシステムを
+カイセキしてみたのですが…&#xE;&#x0;&#x4;&#x0;８号さんが 何度もチャレンジして貯まった 訓練データを
+組み合わせて 流しこめば、&#xE;&#x0;&#x4;&#x0;クリアしたことに できそうです！</original>
+			<edited>実はさっき&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ネル社のネットワークシステムを
+カイセキしてみたのですが…&#xE;&#x0;&#x4;&#x0;８号さんが 何度もチャレンジして貯まった 訓練データを
+組み合わせて 流しこめば、&#xE;&#x0;&#x4;&#x0;クリアしたことに できそうです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Hacking_First_03" offset="00" relocatable="true" max_length="0">
+			<original>マジかよッ！ やるな、イイダ！</original>
+			<edited>マジかよッ！ やるな、イイダ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Hacking_First_04" offset="00" relocatable="true" max_length="0">
+			<original>８号さん！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; もし このチャレンジを
+クリアしたことにしたかったら、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押してみてください！</original>
+			<edited>８号さん！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; もし このチャレンジを
+クリアしたことにしたかったら、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押してみてください！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

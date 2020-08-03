@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Bomb_Splash" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_Suction" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_Quick" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_Curling" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_Robo" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="TimerTrap" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Sprinkler" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="PointSensor" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="PoisonFog" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shield" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Flag" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_Piyo" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_Tako" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Win_00" offset="00" relocatable="true" max_length="0">
+			<original>WIN!</original>
+			<edited>WIN!</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Lose_00" offset="00" relocatable="true" max_length="0">
+			<original>LOSE…</original>
+			<edited>LOSE…</edited>
+			<subEntries />
+		</entry>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x3;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x0;&#x2;&#x2;F&#x0;p&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>&#xE;ú&#x3;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x0;&#x2;&#x2;F&#x0;p&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>＋&#xE;ú&#x3;&#x4;&#x0;&#x0;&#x0;Í</original>
+			<edited>＋&#xE;ú&#x3;&#x4;&#x0;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í/&#xE;ú&#x4;&#x4;&#x1;&#x0;&#x1;Í</original>
+			<edited>&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í/&#xE;ú&#x4;&#x4;&#x1;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í/&#xE;ú&#x5;&#x4;&#x1;&#x0;&#x0;Í</original>
+			<edited>&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í/&#xE;ú&#x5;&#x4;&#x1;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x3;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x0;&#x2;&#x2;F&#x0;p&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>&#xE;ú&#x3;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x0;&#x2;&#x2;F&#x0;p&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x0;Íチーム</original>
+			<edited>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x0;Íチーム</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x1;Íチーム</original>
+			<edited>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x1;Íチーム</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>タイムボーナス
+&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Ímin</original>
+			<edited>タイムボーナス
+&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Ímin</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>塗り
+&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Ípクリア！</original>
+			<edited>塗り
+&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Ípクリア！</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>WIN
+ボーナス！</original>
+			<edited>WIN
+ボーナス！</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>チョーシ
+ボーナス！</original>
+			<edited>チョーシ
+ボーナス！</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>すすめたカウント
+&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í！</original>
+			<edited>すすめたカウント
+&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í！</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>ノックアウト
+ボーナス！</original>
+			<edited>ノックアウト
+ボーナス！</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>×1.5</original>
+			<edited>×1.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>×2</original>
+			<edited>×2</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>×2.5</original>
+			<edited>×2.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Ranking_00-T_Rank_00" offset="00" relocatable="true" max_length="0">
+			<original>ランク</original>
+			<edited>ランク</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Ranking_00-T_MSign_00" offset="00" relocatable="true" max_length="0">
+			<original>x</original>
+			<edited>x</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Ranking_00-T_MSign_01" offset="00" relocatable="true" max_length="0">
+			<original>x</original>
+			<edited>x</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Money_00" offset="00" relocatable="true" max_length="0">
+			<original>おカネ</original>
+			<edited>おカネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Rank_01" offset="00" relocatable="true" max_length="0">
+			<original>ランク</original>
+			<edited>ランク</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Max_00" offset="00" relocatable="true" max_length="0">
+			<original>MAX</original>
+			<edited>MAX</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_RankUp_00" offset="00" relocatable="true" max_length="0">
+			<original>ランクアップ!!</original>
+			<edited>ランクアップ!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Gear_00" offset="00" relocatable="true" max_length="0">
+			<original>ギア</original>
+			<edited>ギア</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>やめる</original>
+			<edited>やめる</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>つづける！</original>
+			<edited>つづける！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Again_00" offset="00" relocatable="true" max_length="0">
+			<original>バトルをつづけますか？</original>
+			<edited>バトルをつづけますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Anim_00-T_Text_00" offset="00" relocatable="true" max_length="0">
+			<original>ギアパワーアップ！</original>
+			<edited>ギアパワーアップ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>カスタマイズして
+つづける！</original>
+			<edited>カスタマイズして
+つづける！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

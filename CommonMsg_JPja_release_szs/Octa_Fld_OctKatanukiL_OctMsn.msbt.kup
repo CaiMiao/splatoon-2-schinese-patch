@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>左の見本と同じカタチに カタヌキするのでス</original>
+			<edited>左の見本と同じカタチに カタヌキするのでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>まちがった箱をケズると 失敗となりまス</original>
+			<edited>まちがった箱をケズると 失敗となりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>集中力を切らさないよう、注意してくださイ</original>
+			<edited>集中力を切らさないよう、注意してくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0000" offset="00" relocatable="true" max_length="0">
+			<original>見本と同じカタチになるように、木箱をケズりましょ～♪</original>
+			<edited>見本と同じカタチになるように、木箱をケズりましょ～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0001" offset="00" relocatable="true" max_length="0">
+			<original>マジかよ… デカすぎんだろ</original>
+			<edited>マジかよ… デカすぎんだろ</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0002" offset="00" relocatable="true" max_length="0">
+			<original>うぉ！ アタマがぱっかーんしたゾ？！</original>
+			<edited>うぉ！ アタマがぱっかーんしたゾ？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0003" offset="00" relocatable="true" max_length="0">
+			<original>ゴールです！ 見本の像の上まで登りましょう！</original>
+			<edited>ゴールです！ 見本の像の上まで登りましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0004" offset="00" relocatable="true" max_length="0">
+			<original>いったん息を整えて、落ち着いていきましょう！</original>
+			<edited>いったん息を整えて、落ち着いていきましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0005" offset="00" relocatable="true" max_length="0">
+			<original>あのカギ、何に使うんだろーな？</original>
+			<edited>あのカギ、何に使うんだろーな？</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0006" offset="00" relocatable="true" max_length="0">
+			<original>そういえば、ドアがありましたよね</original>
+			<edited>そういえば、ドアがありましたよね</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0007" offset="00" relocatable="true" max_length="0">
+			<original>ネル社のロゴ入り木箱だけ 壊したらいいみたいですね</original>
+			<edited>ネル社のロゴ入り木箱だけ 壊したらいいみたいですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0008" offset="00" relocatable="true" max_length="0">
+			<original>まるで 年末のススはらいみたいじゃのう </original>
+			<edited>まるで 年末のススはらいみたいじゃのう </edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0009" offset="00" relocatable="true" max_length="0">
+			<original>回るーー！</original>
+			<edited>回るーー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0010" offset="00" relocatable="true" max_length="0">
+			<original>カギ ゲットォ！</original>
+			<edited>カギ ゲットォ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0011" offset="00" relocatable="true" max_length="0">
+			<original>そういえば、中央にドアがありましたよね？</original>
+			<edited>そういえば、中央にドアがありましたよね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0012" offset="00" relocatable="true" max_length="0">
+			<original>ころあいを見て、ドアを開きに行きましょうか</original>
+			<edited>ころあいを見て、ドアを開きに行きましょうか</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0013" offset="00" relocatable="true" max_length="0">
+			<original>チェックポイントです！</original>
+			<edited>チェックポイントです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0014" offset="00" relocatable="true" max_length="0">
+			<original>ふぅ… また最初からとか マジかんべんだったぜ！</original>
+			<edited>ふぅ… また最初からとか マジかんべんだったぜ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0015" offset="00" relocatable="true" max_length="0">
+			<original>うーん、もう少しケズってからの方がよかったかもなー</original>
+			<edited>うーん、もう少しケズってからの方がよかったかもなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0016" offset="00" relocatable="true" max_length="0">
+			<original>上から ケズってみるか？</original>
+			<edited>上から ケズってみるか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0017" offset="00" relocatable="true" max_length="0">
+			<original>少しずつケズるときは、ちょん押しで撃ちましょ～</original>
+			<edited>少しずつケズるときは、ちょん押しで撃ちましょ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0018" offset="00" relocatable="true" max_length="0">
+			<original>フルチャージは 木箱をつきぬけるから注意な！</original>
+			<edited>フルチャージは 木箱をつきぬけるから注意な！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0019" offset="00" relocatable="true" max_length="0">
+			<original>しっかりインクを当てれば、爆風が広がりにくいゾ！</original>
+			<edited>しっかりインクを当てれば、爆風が広がりにくいゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0020" offset="00" relocatable="true" max_length="0">
+			<original>塗らしちゃった木箱は、爆風を当てないよう注意です！</original>
+			<edited>塗らしちゃった木箱は、爆風を当てないよう注意です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0021" offset="00" relocatable="true" max_length="0">
+			<original>ようやく 残り半分くらいかのゥ…</original>
+			<edited>ようやく 残り半分くらいかのゥ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0022" offset="00" relocatable="true" max_length="0">
+			<original>ゲ… まだ半分もあんのかよ</original>
+			<edited>ゲ… まだ半分もあんのかよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0023" offset="00" relocatable="true" max_length="0">
+			<original>そういえば、あのカギを使ってみてはどうでしょう？</original>
+			<edited>そういえば、あのカギを使ってみてはどうでしょう？</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0024" offset="00" relocatable="true" max_length="0">
+			<original>ヤバい… 集中力が切れてきた…</original>
+			<edited>ヤバい… 集中力が切れてきた…</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0025" offset="00" relocatable="true" max_length="0">
+			<original>そんな時は、シオカラ体操じゃ！</original>
+			<edited>そんな時は、シオカラ体操じゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0026" offset="00" relocatable="true" max_length="0">
+			<original>残り２０コを切りました！</original>
+			<edited>残り２０コを切りました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiL_0027" offset="00" relocatable="true" max_length="0">
+			<original>あと少しだーっ！ がんばれ、ハチ！</original>
+			<edited>あと少しだーっ！ がんばれ、ハチ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

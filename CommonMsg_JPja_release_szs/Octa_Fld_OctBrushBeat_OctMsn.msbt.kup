@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>時間内に木箱を全て壊してくださイ</original>
+			<edited>時間内に木箱を全て壊してくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>インク効率よく、壊しましょウ</original>
+			<edited>インク効率よく、壊しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>壊す順番も考えましょウ</original>
+			<edited>壊す順番も考えましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BrushBeat_00" offset="00" relocatable="true" max_length="0">
+			<original>とにかく連打！ だな！</original>
+			<edited>とにかく連打！ だな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BrushBeat_01" offset="00" relocatable="true" max_length="0">
+			<original>スーパーチャクチを使うタイミングが大事です！</original>
+			<edited>スーパーチャクチを使うタイミングが大事です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BrushBeat_02" offset="00" relocatable="true" max_length="0">
+			<original>急がば急げ！ 戦場の鉄則ゥ！</original>
+			<edited>急がば急げ！ 戦場の鉄則ゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BrushBeat_03" offset="00" relocatable="true" max_length="0">
+			<original>あと１０秒です！</original>
+			<edited>あと１０秒です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BrushBeat_04" offset="00" relocatable="true" max_length="0">
+			<original>フルチャージだと、木箱 つきぬけて壊せるゾ！</original>
+			<edited>フルチャージだと、木箱 つきぬけて壊せるゾ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

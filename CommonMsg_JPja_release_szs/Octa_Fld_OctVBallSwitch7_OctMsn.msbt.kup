@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>エイトボールで ７コのスイッチをＯNにしましょウ</original>
+			<edited>エイトボールで ７コのスイッチをＯNにしましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>インクが無くなると アウトでス</original>
+			<edited>インクが無くなると アウトでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>もちろん エイトボールを落としてもアウトでス</original>
+			<edited>もちろん エイトボールを落としてもアウトでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
+			<original>インク回復用に、補給インクを 1本だけ置いていまス</original>
+			<edited>インク回復用に、補給インクを 1本だけ置いていまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0010" offset="00" relocatable="true" max_length="0">
+			<original>センプクで チャージをキャンセルできまス</original>
+			<edited>センプクで チャージをキャンセルできまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallSwitch7_0000" offset="00" relocatable="true" max_length="0">
+			<original>限られたインクで、スイッチ７コONとか… いけンのか？</original>
+			<edited>限られたインクで、スイッチ７コONとか… いけンのか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallSwitch7_0001" offset="00" relocatable="true" max_length="0">
+			<original>転がる先を考えて撃つんじゃ！</original>
+			<edited>転がる先を考えて撃つんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallSwitch7_0002" offset="00" relocatable="true" max_length="0">
+			<original>中には入れそーにないな… やめとこーぜ</original>
+			<edited>中には入れそーにないな… やめとこーぜ</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallSwitch7_0003" offset="00" relocatable="true" max_length="0">
+			<original>エイトボールをカベにはね返すと いいかもですね！</original>
+			<edited>エイトボールをカベにはね返すと いいかもですね！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Key01_0000" offset="00" relocatable="true" max_length="0">
+			<original>おくに部屋があるようじゃ！ 進めィ！</original>
+			<edited>おくに部屋があるようじゃ！ 進めィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Key01_0001" offset="00" relocatable="true" max_length="0">
+			<original>戦場の鉄則ゥ！</original>
+			<edited>戦場の鉄則ゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Key01_0002" offset="00" relocatable="true" max_length="0">
+			<original>否ーーーッ！！</original>
+			<edited>否ーーーッ！！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

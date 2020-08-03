@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>一定時間 たえ続ければクリアとなりまス</original>
+			<edited>一定時間 たえ続ければクリアとなりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>敵の攻撃を 見極めましょウ</original>
+			<edited>敵の攻撃を 見極めましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
+			<original>ビンイクラは よゆうがあるなら 取りましょウ</original>
+			<edited>ビンイクラは よゆうがあるなら 取りましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tamayoke_0000" offset="00" relocatable="true" max_length="0">
+			<original>３０秒間、よけまくればいいみたいだな！</original>
+			<edited>３０秒間、よけまくればいいみたいだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tamayoke_0001" offset="00" relocatable="true" max_length="0">
+			<original>門の向こうに敵発見！ 確認されたしーッ！</original>
+			<edited>門の向こうに敵発見！ 確認されたしーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tamayoke_0003" offset="00" relocatable="true" max_length="0">
+			<original>ビンイクラを発見しました！</original>
+			<edited>ビンイクラを発見しました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tamayoke_0004" offset="00" relocatable="true" max_length="0">
+			<original>また ビンイクラが出ましたが、無理は禁物です！</original>
+			<edited>また ビンイクラが出ましたが、無理は禁物です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tamayoke_0005" offset="00" relocatable="true" max_length="0">
+			<original>もうちょっとだ！ たえろ！</original>
+			<edited>もうちょっとだ！ たえろ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

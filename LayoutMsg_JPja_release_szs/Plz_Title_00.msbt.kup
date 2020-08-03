@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Press_00" offset="00" relocatable="true" max_length="0">
+			<original>press</original>
+			<edited>press</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Key_00-T_ABtn_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;   &#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;   &#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Version_00" offset="00" relocatable="true" max_length="0">
+			<original>ver.&#xE;&#x3;&#x1;&#x0;</original>
+			<edited>ver.&#xE;&#x3;&#x1;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Copyright_00" offset="00" relocatable="true" max_length="0">
+			<original>©2017　Nintendo</original>
+			<edited>©2017　Nintendo</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Title_00" offset="00" relocatable="true" max_length="0">
+			<original>前夜祭</original>
+			<edited>前夜祭</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

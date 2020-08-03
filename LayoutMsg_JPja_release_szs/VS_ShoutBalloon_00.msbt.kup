@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>ナイス！</original>
+			<edited>ナイス！</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>カモン！</original>
+			<edited>カモン！</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>やられた！</original>
+			<edited>やられた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>ヘルプ！</original>
+			<edited>ヘルプ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

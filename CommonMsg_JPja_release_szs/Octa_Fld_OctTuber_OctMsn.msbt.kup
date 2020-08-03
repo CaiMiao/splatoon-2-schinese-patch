@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>フルチャージしたままタコダッシュ… それがチャージキープ</original>
+			<edited>フルチャージしたままタコダッシュ… それがチャージキープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ソイチューバーは チャージキープを使いこなしましょウ</original>
+			<edited>ソイチューバーは チャージキープを使いこなしましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>チャージキープは一定時間経つと 効果が無くなりまス</original>
+			<edited>チャージキープは一定時間経つと 効果が無くなりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
+			<original>１４式竹筒銃・甲は、空中チャージも利用しましょウ</original>
+			<edited>１４式竹筒銃・甲は、空中チャージも利用しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuber_0000" offset="00" relocatable="true" max_length="0">
+			<original>そう言えば最近、チャージキープ ちぅのがあるそうじゃの</original>
+			<edited>そう言えば最近、チャージキープ ちぅのがあるそうじゃの</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuber_0001" offset="00" relocatable="true" max_length="0">
+			<original>正面にスイッチを発見！</original>
+			<edited>正面にスイッチを発見！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuber_0002" offset="00" relocatable="true" max_length="0">
+			<original>フォーー！ それがチャージキープか！</original>
+			<edited>フォーー！ それがチャージキープか！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuber_0003" offset="00" relocatable="true" max_length="0">
+			<original>ここもチャージキープ、というヤツかのゥ？</original>
+			<edited>ここもチャージキープ、というヤツかのゥ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuber_0004" offset="00" relocatable="true" max_length="0">
+			<original>ナイッスゲー！</original>
+			<edited>ナイッスゲー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuber_0005" offset="00" relocatable="true" max_length="0">
+			<original>フルチャージしてからダッシュ板に乗りましょう</original>
+			<edited>フルチャージしてからダッシュ板に乗りましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuber_0006" offset="00" relocatable="true" max_length="0">
+			<original>ッシャーオラー！</original>
+			<edited>ッシャーオラー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuber_0007" offset="00" relocatable="true" max_length="0">
+			<original>ひきよせポイント、発見です！</original>
+			<edited>ひきよせポイント、発見です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuber_0008" offset="00" relocatable="true" max_length="0">
+			<original>最近のチャージャ－は、チャージを保ってタコダッシュできます</original>
+			<edited>最近のチャージャ－は、チャージを保ってタコダッシュできます</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuber_0009" offset="00" relocatable="true" max_length="0">
+			<original>最後は、あそこですね…</original>
+			<edited>最後は、あそこですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuber_0010" offset="00" relocatable="true" max_length="0">
+			<original>おー！ 今の動画サイトにアップしとこ！</original>
+			<edited>おー！ 今の動画サイトにアップしとこ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuber_0011" offset="00" relocatable="true" max_length="0">
+			<original>お！ ゴール発見！</original>
+			<edited>お！ ゴール発見！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuber_0012" offset="00" relocatable="true" max_length="0">
+			<original>竹筒銃なら 空中でのチャージも早いぞィ！</original>
+			<edited>竹筒銃なら 空中でのチャージも早いぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuber_0013" offset="00" relocatable="true" max_length="0">
+			<original>フォー！ その身のこなし、昔のワシにクリソツじゃ！</original>
+			<edited>フォー！ その身のこなし、昔のワシにクリソツじゃ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

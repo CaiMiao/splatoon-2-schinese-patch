@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Grade_00" offset="00" relocatable="true" max_length="0">
+			<original>チョーシあげていこう</original>
+			<edited>提高状态吧</edited>
+			<subEntries />
+		</entry>
+		<entry name="Grade_01" offset="00" relocatable="true" max_length="0">
+			<original>チョーシぼちぼち</original>
+			<edited>状态一般般</edited>
+			<subEntries />
+		</entry>
+		<entry name="Grade_02" offset="00" relocatable="true" max_length="0">
+			<original>チョーシいいね！</original>
+			<edited>状态不错！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Grade_03" offset="00" relocatable="true" max_length="0">
+			<original>チョーシサイコー！！</original>
+			<edited>状态超棒！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Grade_04" offset="00" relocatable="true" max_length="0">
+			<original>チョーシサイコー！！</original>
+			<edited>状态超棒！！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

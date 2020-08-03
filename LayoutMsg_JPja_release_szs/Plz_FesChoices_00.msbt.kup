@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>どっちのチームに参加する？</original>
+			<edited>どっちのチームに参加する？</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>このチームに参加する？
+（あとから 変更できないぞ！）</original>
+			<edited>このチームに参加する？
+（あとから 変更できないぞ！）</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>参加チームが決まった！ チームの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェスT&#xE;&#x0;&#x3;&#x2;ÿÿを レンタルしたぞ！
+(フェス終了後に フェスTは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;返しちゃう&#xE;&#x0;&#x3;&#x2;ÿÿから 気をつけろ！)</original>
+			<edited>参加チームが決まった！ チームの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェスT&#xE;&#x0;&#x3;&#x2;ÿÿを レンタルしたぞ！
+(フェス終了後に フェスTは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;返しちゃう&#xE;&#x0;&#x3;&#x2;ÿÿから 気をつけろ！)</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>このチームに参加してるぞ！</original>
+			<edited>このチームに参加してるぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_BtnC_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>OK！</original>
+			<edited>OK！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_BtnR_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>参加する！</original>
+			<edited>参加する！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_BtnL_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>やめとく</original>
+			<edited>不要了</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_ExpHeader_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェスの心得&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェスの心得&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Exp_00" offset="00" relocatable="true" max_length="0">
+			<original>一、 ２つのお題から 好きな方を選んで ナワバリバトルすべし！
+二、 バトルでたくさん塗ったり、勝利したら フェスポイントをあたえるべし！
+三、 フェスポイントをためたものには ふさわしい称号をあたえるべし！
+四、 フェスの結果で どっちのお題がイカしているか 決めるべし！
+五、 フェス終了後に 称号に応じて ごほうびをあたえるべし！
+六、 イカしたチームには より多くの ごほうびをあたえるべし！
+七、 フェスが終わったら フェスTは返却すべし！</original>
+			<edited>一、 ２つのお題から 好きな方を選んで ナワバリバトルすべし！
+二、 バトルでたくさん塗ったり、勝利したら フェスポイントをあたえるべし！
+三、 フェスポイントをためたものには ふさわしい称号をあたえるべし！
+四、 フェスの結果で どっちのお題がイカしているか 決めるべし！
+五、 フェス終了後に 称号に応じて ごほうびをあたえるべし！
+六、 イカしたチームには より多くの ごほうびをあたえるべし！
+七、 フェスが終わったら フェスTは返却すべし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>フェスの心得</original>
+			<edited>フェスの心得</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Back_00-T_Back_00" offset="00" relocatable="true" max_length="0">
+			<original>もどる</original>
+			<edited>もどる</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_Rstick_00-T_Rotation_00" offset="00" relocatable="true" max_length="0">
+			<original>回転</original>
+			<edited>旋转</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>試しうち</original>
+			<edited>试射</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Rstick_01-T_Press_00" offset="00" relocatable="true" max_length="0">
+			<original>試着</original>
+			<edited>试穿</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Item_00-T_New_00" offset="00" relocatable="true" max_length="0">
+			<original>NEW!</original>
+			<edited>NEW!</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Item_00-T_Lock_00" offset="00" relocatable="true" max_length="0">
+			<original>Lock</original>
+			<edited>Lock</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Item_00-T_SoldOut_00" offset="00" relocatable="true" max_length="0">
+			<original>持ってる</original>
+			<edited>已拥有</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Back_00-T_Back_00" offset="00" relocatable="true" max_length="0">
+			<original>広場へ</original>
+			<edited>前往广场</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ItemDetail_00-T_Sub_00" offset="00" relocatable="true" max_length="0">
+			<original>サブ</original>
+			<edited>副</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ItemDetail_00-T_Super_00" offset="00" relocatable="true" max_length="0">
+			<original>スペシャル</original>
+			<edited>特殊</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ItemDetail_00-T_TotalScoreName_00" offset="00" relocatable="true" max_length="0">
+			<original>今まで塗った面積</original>
+			<edited>至今涂地面积</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ItemDetail_00-T_SpecialPointName_00" offset="00" relocatable="true" max_length="0">
+			<original>スペシャル必要ポイント</original>
+			<edited>特殊必要点数</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Lstick_00-T_Sort_00" offset="00" relocatable="true" max_length="0">
+			<original>並べ替え</original>
+			<edited>排序</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>買わない</original>
+			<edited>不买</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>買う！</original>
+			<edited>买！</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>やめとく</original>
+			<edited>不要了</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>そうびする！</original>
+			<edited>装备！</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>やめとく</original>
+			<edited>不要了</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>試しうち！</original>
+			<edited>试射！</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>ブキ屋</original>
+			<edited>武器店</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>アタマ屋</original>
+			<edited>头饰店</edited>
+			<subEntries />
+		</entry>
+		<entry name="022" offset="00" relocatable="true" max_length="0">
+			<original>フク屋</original>
+			<edited>服装店</edited>
+			<subEntries />
+		</entry>
+		<entry name="023" offset="00" relocatable="true" max_length="0">
+			<original>クツ屋</original>
+			<edited>鞋店</edited>
+			<subEntries />
+		</entry>
+		<entry name="024" offset="00" relocatable="true" max_length="0">
+			<original>カンブリアームズ</original>
+			<edited>カンブリアームズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>エボシ・エボシ</original>
+			<edited>エボシ・エボシ</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>フエール・ボン・クレー</original>
+			<edited>フエール・ボン・クレー</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>ドゥーラック</original>
+			<edited>ドゥーラック</edited>
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original>持ってない</original>
+			<edited>未拥有</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>メイン</original>
+			<edited>主</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>サブ</original>
+			<edited>副</edited>
+			<subEntries />
+		</entry>
+		<entry name="033" offset="00" relocatable="true" max_length="0">
+			<original>スペシャル</original>
+			<edited>特殊</edited>
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original>ブキの説明</original>
+			<edited>武器的说明</edited>
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>表示切替</original>
+			<edited>切换显示</edited>
+			<subEntries />
+		</entry>
+		<entry name="042" offset="00" relocatable="true" max_length="0">
+			<original>もっと知りたい！</original>
+			<edited>想知道更多！</edited>
+			<subEntries />
+		</entry>
+		<entry name="043" offset="00" relocatable="true" max_length="0">
+			<original>ストップ！！</original>
+			<edited>停！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ItemDetail_01-T_New_00" offset="00" relocatable="true" max_length="0">
+			<original>NEW！</original>
+			<edited>NEW！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_BackBtn_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>もどる</original>
+			<edited>返回</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Rstick_01-T_Fit_01" offset="00" relocatable="true" max_length="0">
+			<original>試着中</original>
+			<edited>试穿中</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Text_00" offset="00" relocatable="true" max_length="0">
+			<original>持っているギア</original>
+			<edited>拥有的装备</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

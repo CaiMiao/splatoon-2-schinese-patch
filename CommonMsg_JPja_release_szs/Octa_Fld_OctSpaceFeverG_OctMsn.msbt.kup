@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>制限時間内に 敵を全て倒してくださイ</original>
+			<edited>制限時間内に 敵を全て倒してくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>コロガリウムは、上を向いて高く飛ばしましょウ</original>
+			<edited>コロガリウムは、上を向いて高く飛ばしましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>木箱にかくれて、敵の弾を防ぎましょウ</original>
+			<edited>木箱にかくれて、敵の弾を防ぎましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpaceFeverG_0000" offset="00" relocatable="true" max_length="0">
+			<original>コロガリウムで 敵さんを倒せ、とな？！</original>
+			<edited>コロガリウムで 敵さんを倒せ、とな？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpaceFeverG_0001" offset="00" relocatable="true" max_length="0">
+			<original>コロガリウムは 上を向いて撃てば高く飛ばせます！</original>
+			<edited>コロガリウムは 上を向いて撃てば高く飛ばせます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpaceFeverG_0002" offset="00" relocatable="true" max_length="0">
+			<original>あと半分！</original>
+			<edited>あと半分！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpaceFeverG_0003" offset="00" relocatable="true" max_length="0">
+			<original>あと１体！ どこだーっ？！</original>
+			<edited>あと１体！ どこだーっ？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpaceFeverG_0004" offset="00" relocatable="true" max_length="0">
+			<original>タコスナイパーじゃ！ 注意されたしーッ！</original>
+			<edited>タコスナイパーじゃ！ 注意されたしーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpaceFeverG_0005" offset="00" relocatable="true" max_length="0">
+			<original>ちょろちょろ ウザってーな！</original>
+			<edited>ちょろちょろ ウザってーな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpaceFeverG_0006" offset="00" relocatable="true" max_length="0">
+			<original>敵の行く先に コロガリウムを放ちましょう！</original>
+			<edited>敵の行く先に コロガリウムを放ちましょう！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

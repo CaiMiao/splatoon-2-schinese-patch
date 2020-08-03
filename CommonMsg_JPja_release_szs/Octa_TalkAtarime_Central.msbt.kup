@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="First_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここは どこなんじゃろ…</original>
+			<edited>ここは どこなんじゃろ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_0001" offset="00" relocatable="true" max_length="0">
+			<original>外国へ 来たみたいじゃ…</original>
+			<edited>外国へ 来たみたいじゃ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_0002" offset="00" relocatable="true" max_length="0">
+			<original>早く オハギが 食べたいのゥ…</original>
+			<edited>早く オハギが 食べたいのゥ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="KeyZero_0000" offset="00" relocatable="true" max_length="0">
+			<original>さぁ “アレ” をさがしに行くぞィ！</original>
+			<edited>さぁ “アレ” をさがしに行くぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KeyZero_0001" offset="00" relocatable="true" max_length="0">
+			<original>“４つのアレ” ってどんなんか 早く見てみたいのゥ！</original>
+			<edited>“４つのアレ” ってどんなんか 早く見てみたいのゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KeyOne_0000" offset="00" relocatable="true" max_length="0">
+			<original>“アレ”が まだ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;１コ &#xE;&#x0;&#x3;&#x2;ÿÿとは……</original>
+			<edited>“アレ”が まだ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;１コ &#xE;&#x0;&#x3;&#x2;ÿÿとは……</edited>
+			<subEntries />
+		</entry>
+		<entry name="KeyOne_0001" offset="00" relocatable="true" max_length="0">
+			<original>まだまだ 道のりは 長そうじゃ…</original>
+			<edited>まだまだ 道のりは 長そうじゃ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="KeyTwo_0000" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;２コ &#xE;&#x0;&#x3;&#x2;ÿÿの “アレ” を手に入れたものの…　何じゃコレは…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;２コ &#xE;&#x0;&#x3;&#x2;ÿÿの “アレ” を手に入れたものの…　何じゃコレは…</edited>
+			<subEntries />
+		</entry>
+		<entry name="KeyTwo_0001" offset="00" relocatable="true" max_length="0">
+			<original>おなか空いたのゥ…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; オハギ食べたいのゥ…</original>
+			<edited>おなか空いたのゥ…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; オハギ食べたいのゥ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="KeyThree_0000" offset="00" relocatable="true" max_length="0">
+			<original>“アレ”を &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;３コ&#xE;&#x0;&#x3;&#x2;ÿÿ ゲットしたが……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+全部そろうと 何かイイこと 起こるのかのゥ？</original>
+			<edited>“アレ”を &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;３コ&#xE;&#x0;&#x3;&#x2;ÿÿ ゲットしたが……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+全部そろうと 何かイイこと 起こるのかのゥ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="KeyThree_0001" offset="00" relocatable="true" max_length="0">
+			<original>そろそろ ひなたぼっこが したいのゥ…</original>
+			<edited>そろそろ ひなたぼっこが したいのゥ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="KeyAll_0000" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;約束の地 &#xE;&#x0;&#x3;&#x2;ÿÿまで もうすぐじゃ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;約束の地 &#xE;&#x0;&#x3;&#x2;ÿÿまで もうすぐじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KeyAll_0001" offset="00" relocatable="true" max_length="0">
+			<original>早く 外でオハギが 食べたいのゥ！</original>
+			<edited>早く 外でオハギが 食べたいのゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KeyAll_0002" offset="00" relocatable="true" max_length="0">
+			<original>さぁ 進むんじゃ ８号！</original>
+			<edited>さぁ 進むんじゃ ８号！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleared_0001" offset="00" relocatable="true" max_length="0">
+			<original>Yo～！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ワシはレペゼン ハイカラスクエア！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+タコが好きだよ 前に比べれば！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; チェケ！</original>
+			<edited>Yo～！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ワシはレペゼン ハイカラスクエア！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+タコが好きだよ 前に比べれば！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; チェケ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleared_0002" offset="00" relocatable="true" max_length="0">
+			<original>ワシ、この年になって
+すこし タコが好きになれた気がするんじゃ…</original>
+			<edited>ワシ、この年になって
+すこし タコが好きになれた気がするんじゃ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleared_0003" offset="00" relocatable="true" max_length="0">
+			<original>イカとタコの 平和のかけ橋になれれば うれしいのゥ！</original>
+			<edited>イカとタコの 平和のかけ橋になれれば うれしいのゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleared_0004" offset="00" relocatable="true" max_length="0">
+			<original>あそこにある 自販機をつかうと、
+お得なモノが ゲットできるらしいぞィ！</original>
+			<edited>あそこにある 自販機をつかうと、
+お得なモノが ゲットできるらしいぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VendingMachine_Debt" offset="00" relocatable="true" max_length="0">
+			<original>むむッ…！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+借金しとる身で 気ままにお買い物じゃと…？！&#xE;&#x0;&#x4;&#x0;おヌシには モラルっちゅうもんが ないんかッ！！</original>
+			<edited>むむッ…！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+借金しとる身で 気ままにお買い物じゃと…？！&#xE;&#x0;&#x4;&#x0;おヌシには モラルっちゅうもんが ないんかッ！！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

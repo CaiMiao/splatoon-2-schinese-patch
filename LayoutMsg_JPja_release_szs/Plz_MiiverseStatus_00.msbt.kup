@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>ギアの注文</original>
+			<edited>装备下单</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Status_00-T_Yeah_00" offset="00" relocatable="true" max_length="0">
+			<original>イカす！</original>
+			<edited>イカす！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Status_00-T_TotalScore_00" offset="00" relocatable="true" max_length="0">
+			<original>今まで塗った面積</original>
+			<edited>至今涂地面积</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Status_00-T_RankHeader_00" offset="00" relocatable="true" max_length="0">
+			<original>ウデマエ</original>
+			<edited>本事</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Status_00-T_Equip_00" offset="00" relocatable="true" max_length="0">
+			<original>そうび</original>
+			<edited>装备</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Status_00-L_Rank_00-T_RankHeader_00" offset="00" relocatable="true" max_length="0">
+			<original>ランク</original>
+			<edited>Rank</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Status_00-T_Report_00" offset="00" relocatable="true" max_length="0">
+			<original>通報</original>
+			<edited>举报</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Status_00-T_SPlusGrade_03" offset="00" relocatable="true" max_length="0">
+			<original>99</original>
+			<edited>99</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>オオバンタコスタンプは、見つかると 倒れてきまス</original>
+			<edited>オオバンタコスタンプは、見つかると 倒れてきまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>倒れるのは、目が光っている者だけでス</original>
+			<edited>倒れるのは、目が光っている者だけでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>倒れている間は 背中を歩けまス</original>
+			<edited>倒れている間は 背中を歩けまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
+			<original>ボールドマーカーと ベーグルメーカーは、似て非なるモノ…</original>
+			<edited>ボールドマーカーと ベーグルメーカーは、似て非なるモノ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kojima_0000" offset="00" relocatable="true" max_length="0">
+			<original>ベーグルメーカー！</original>
+			<edited>ベーグルメーカー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kojima_0001" offset="00" relocatable="true" max_length="0">
+			<original>…ボールドマーカーですね</original>
+			<edited>…ボールドマーカーですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kojima_0002" offset="00" relocatable="true" max_length="0">
+			<original>ベーグルメーカーだと、上まで塗れなくね？</original>
+			<edited>ベーグルメーカーだと、上まで塗れなくね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kojima_0003" offset="00" relocatable="true" max_length="0">
+			<original>かくれてこっそり、横から塗れないですか？</original>
+			<edited>かくれてこっそり、横から塗れないですか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kojima_0004" offset="00" relocatable="true" max_length="0">
+			<original>フォー！ ふぁんたすてぃっくじゃッ！</original>
+			<edited>フォー！ ふぁんたすてぃっくじゃッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kojima_0006" offset="00" relocatable="true" max_length="0">
+			<original>倒れれば上を歩けそうです</original>
+			<edited>倒れれば上を歩けそうです</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kojima_0007" offset="00" relocatable="true" max_length="0">
+			<original>オオバンタコスタンプは、ちょっかい出すと倒れます！</original>
+			<edited>オオバンタコスタンプは、ちょっかい出すと倒れます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kojima_0008" offset="00" relocatable="true" max_length="0">
+			<original>それは ワシのセリフじゃッ！</original>
+			<edited>それは ワシのセリフじゃッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kojima_0009" offset="00" relocatable="true" max_length="0">
+			<original>倒れっぞ！</original>
+			<edited>倒れっぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kojima_0010" offset="00" relocatable="true" max_length="0">
+			<original>ここは一気に！</original>
+			<edited>ここは一気に！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kojima_0011" offset="00" relocatable="true" max_length="0">
+			<original>ィよーし！ ゴール、いただきじゃッ！</original>
+			<edited>ィよーし！ ゴール、いただきじゃッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kojima_0012" offset="00" relocatable="true" max_length="0">
+			<original>ゴール発見、確認されたしーッ！</original>
+			<edited>ゴール発見、確認されたしーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kojima_0013" offset="00" relocatable="true" max_length="0">
+			<original>ヘイヘイ！ おつとめ、ご苦労さん！</original>
+			<edited>ヘイヘイ！ おつとめ、ご苦労さん！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kojima_0014" offset="00" relocatable="true" max_length="0">
+			<original>ハチ、なんとかして、ちょっかい出せないか？</original>
+			<edited>ハチ、なんとかして、ちょっかい出せないか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kojima_0015" offset="00" relocatable="true" max_length="0">
+			<original>ナイスですね～！</original>
+			<edited>ナイスですね～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kojima_0016" offset="00" relocatable="true" max_length="0">
+			<original>今じゃ！ 登るんじゃッ！</original>
+			<edited>今じゃ！ 登るんじゃッ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>グルグル回る絶望の先にこそ 希望はあるのでス</original>
+			<edited>グルグル回る絶望の先にこそ 希望はあるのでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>スイッチ、それハ… 希望へのかけ橋でス</original>
+			<edited>スイッチ、それハ… 希望へのかけ橋でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>あわてず かけぬけましょウ</original>
+			<edited>あわてず かけぬけましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="RollingBlocks_0000" offset="00" relocatable="true" max_length="0">
+			<original>おっ 止まった？！</original>
+			<edited>おっ 止まった？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RollingBlocks_0001" offset="00" relocatable="true" max_length="0">
+			<original>そろそろ動き始めます！</original>
+			<edited>そろそろ動き始めます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RollingBlocks_0002" offset="00" relocatable="true" max_length="0">
+			<original>一気に登れー！</original>
+			<edited>一気に登れー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RollingBlocks_0003" offset="00" relocatable="true" max_length="0">
+			<original>８号！ スイッチじゃ、スイッチを探すんじゃ！</original>
+			<edited>８号！ スイッチじゃ、スイッチを探すんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RollingBlocks_0004" offset="00" relocatable="true" max_length="0">
+			<original>時よ、止まれー！</original>
+			<edited>時よ、止まれー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RollingBlocks_0005" offset="00" relocatable="true" max_length="0">
+			<original>センパイ… 時間は止まってないですよ</original>
+			<edited>センパイ… 時間は止まってないですよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="RollingBlocks_0006" offset="00" relocatable="true" max_length="0">
+			<original>何度かクルクルさせたら 上に行けそうですね</original>
+			<edited>何度かクルクルさせたら 上に行けそうですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="RollingBlocks_0007" offset="00" relocatable="true" max_length="0">
+			<original>あれ… ここは橋がないぞ？</original>
+			<edited>あれ… ここは橋がないぞ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="RollingBlocks_0008" offset="00" relocatable="true" max_length="0">
+			<original>よっしゃ！ わたりきったー！</original>
+			<edited>よっしゃ！ わたりきったー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RollingBlocks_0009" offset="00" relocatable="true" max_length="0">
+			<original>スイッチ… スイッチはどこじゃ…</original>
+			<edited>スイッチ… スイッチはどこじゃ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="RollingBlocks_0010" offset="00" relocatable="true" max_length="0">
+			<original>ふりこが止まってるうちに ジャンプでわたりましょう！</original>
+			<edited>ふりこが止まってるうちに ジャンプでわたりましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="RollingBlocks_0011" offset="00" relocatable="true" max_length="0">
+			<original>いっけーーーっ！</original>
+			<edited>いっけーーーっ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

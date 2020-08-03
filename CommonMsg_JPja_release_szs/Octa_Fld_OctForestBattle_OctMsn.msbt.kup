@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>ゴールポイントを撃って起動、さわればチャレンジ完了でス</original>
+			<edited>ゴールポイントを撃って起動、さわればチャレンジ完了でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ルーガ森は 視界が悪いので、気をつけてくださイ</original>
+			<edited>ルーガ森は 視界が悪いので、気をつけてくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>むしろ、木を利用しましょウ</original>
+			<edited>むしろ、木を利用しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0000" offset="00" relocatable="true" max_length="0">
+			<original>改札をぬけたら森とは… &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;一体、どうなっとるんじゃ？</original>
+			<edited>改札をぬけたら森とは… &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;一体、どうなっとるんじゃ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0001" offset="00" relocatable="true" max_length="0">
+			<original>…タイショウ ヲ ハッケン</original>
+			<edited>…タイショウ ヲ ハッケン</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0002" offset="00" relocatable="true" max_length="0">
+			<original>タコゾネスは おヌシの仲間じゃろ？ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;話しかけてみんか？</original>
+			<edited>タコゾネスは おヌシの仲間じゃろ？ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;話しかけてみんか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0003" offset="00" relocatable="true" max_length="0">
+			<original>シマツセヨ</original>
+			<edited>シマツセヨ</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0004" offset="00" relocatable="true" max_length="0">
+			<original>どうやら 話が通じるフンイキでは なさそうじゃぞ！</original>
+			<edited>どうやら 話が通じるフンイキでは なさそうじゃぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0005" offset="00" relocatable="true" max_length="0">
+			<original>ファッ！ 道が開けた… 倒すのが正解のようじゃな</original>
+			<edited>ファッ！ 道が開けた… 倒すのが正解のようじゃな</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0006" offset="00" relocatable="true" max_length="0">
+			<original>タイショウヲ カクニン… シマツセヨ</original>
+			<edited>タイショウヲ カクニン… シマツセヨ</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0007" offset="00" relocatable="true" max_length="0">
+			<original>新手じゃ！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;今度は２体とな！</original>
+			<edited>新手じゃ！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;今度は２体とな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0008" offset="00" relocatable="true" max_length="0">
+			<original>きゃつら 魂がぬけとるようじゃ… &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;おヌシ、心当たりは？</original>
+			<edited>きゃつら 魂がぬけとるようじゃ… &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;おヌシ、心当たりは？</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0009" offset="00" relocatable="true" max_length="0">
+			<original>まぁよい… &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;次の道が開いたようじゃし、先に進むかの</original>
+			<edited>まぁよい… &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;次の道が開いたようじゃし、先に進むかの</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0010" offset="00" relocatable="true" max_length="0">
+			<original>タイショウヲ カクニン… シマツセヨ</original>
+			<edited>タイショウヲ カクニン… シマツセヨ</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0011" offset="00" relocatable="true" max_length="0">
+			<original>また来たぞィ！</original>
+			<edited>また来たぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0012" offset="00" relocatable="true" max_length="0">
+			<original>フォー！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;なんともハイカラなブキじゃのゥ！！</original>
+			<edited>フォー！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;なんともハイカラなブキじゃのゥ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0013" offset="00" relocatable="true" max_length="0">
+			<original>あわてるな！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;木にかくれて様子を見ィ！</original>
+			<edited>あわてるな！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;木にかくれて様子を見ィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0014" offset="00" relocatable="true" max_length="0">
+			<original>ふぅ… なんとか切りぬけたのゥ</original>
+			<edited>ふぅ… なんとか切りぬけたのゥ</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0015" offset="00" relocatable="true" max_length="0">
+			<original>門が開いたぞィ！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;ここから出られるかの？</original>
+			<edited>門が開いたぞィ！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;ここから出られるかの？</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0016" offset="00" relocatable="true" max_length="0">
+			<original>タコがタコをおそうとは… &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;一体どうなっとるんじゃ</original>
+			<edited>タコがタコをおそうとは… &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;一体どうなっとるんじゃ</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0017" offset="00" relocatable="true" max_length="0">
+			<original>ヌッ？！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;きゃつめ、仲間を攻撃するつもりか！</original>
+			<edited>ヌッ？！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;きゃつめ、仲間を攻撃するつもりか！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0018" offset="00" relocatable="true" max_length="0">
+			<original>むぅ… やられる前にやれィ！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;戦場の鉄則じゃ！</original>
+			<edited>むぅ… やられる前にやれィ！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;戦場の鉄則じゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForestBattle_0019" offset="00" relocatable="true" max_length="0">
+			<original>ゴールポイントが起動したら、さわってチャレンジクリアでス</original>
+			<edited>ゴールポイントが起動したら、さわってチャレンジクリアでス</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

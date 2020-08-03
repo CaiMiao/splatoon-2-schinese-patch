@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_Meter_00-T_NextReward_00" offset="00" relocatable="true" max_length="0">
+			<original>次のレアほうしゅうまで あと</original>
+			<edited>次のレアほうしゅうまで あと</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Reward_00" offset="00" relocatable="true" max_length="0">
+			<original>限定ほうしゅう</original>
+			<edited>限定ほうしゅう</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Meter_00" offset="00" relocatable="true" max_length="0">
+			<original>ほうしゅうメーター</original>
+			<edited>ほうしゅうメーター</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_limitedTime_00" offset="00" relocatable="true" max_length="0">
+			<original>今回のギア</original>
+			<edited>今回のギア</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_limitedTime_01" offset="00" relocatable="true" max_length="0">
+			<original>本日のレア</original>
+			<edited>本日のレア</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CoopRank_00-T_assessment_00" offset="00" relocatable="true" max_length="0">
+			<original>バイト評価</original>
+			<edited>バイト評価</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_pointCard_00" offset="00" relocatable="true" max_length="0">
+			<original>クマサンポイントカード</original>
+			<edited>熊先生积点卡</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Point_00" offset="00" relocatable="true" max_length="0">
+			<original>現在のポイント</original>
+			<edited>現在のポイント</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Job_00" offset="00" relocatable="true" max_length="0">
+			<original>バイト回数</original>
+			<edited>バイト回数</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_GoldIkura_00" offset="00" relocatable="true" max_length="0">
+			<original>集めた金イクラ</original>
+			<edited>集めた金イクラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Ikura_00" offset="00" relocatable="true" max_length="0">
+			<original>集めたイクラ</original>
+			<edited>集めたイクラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Help_00" offset="00" relocatable="true" max_length="0">
+			<original>助けた回数</original>
+			<edited>助けた回数</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Help_01" offset="00" relocatable="true" max_length="0">
+			<original>るいけいポイント</original>
+			<edited>るいけいポイント</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Meter_00-T_NextReward_01" offset="00" relocatable="true" max_length="0">
+			<original>次のレアほうしゅうまで あと</original>
+			<edited>次のレアほうしゅうまで あと</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CoopRank_00-T_Num_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x1;Í/&#xE;ú&#x2;&#x4;&#x1;&#x0;&#x1;Í</original>
+			<edited>&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x1;Í/&#xE;ú&#x2;&#x4;&#x1;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>x&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>x&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Íp</original>
+			<edited>&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Íp</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Íp</original>
+			<edited>&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Íp</edited>
+			<subEntries />
+		</entry>
+		<entry name="Money" offset="00" relocatable="true" max_length="0">
+			<original>おカネ</original>
+			<edited>おカネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Food" offset="00" relocatable="true" max_length="0">
+			<original>フードチケット</original>
+			<edited>フードチケット</edited>
+			<subEntries />
+		</entry>
+		<entry name="Drink" offset="00" relocatable="true" max_length="0">
+			<original>ドリンクチケット</original>
+			<edited>ドリンクチケット</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearSkillChip" offset="00" relocatable="true" max_length="0">
+			<original>ギアパワーのかけら</original>
+			<edited>ギアパワーのかけら</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

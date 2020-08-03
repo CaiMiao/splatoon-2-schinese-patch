@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Exp_00" offset="00" relocatable="true" max_length="0">
+			<original>ONにすると ギアの追加ギアパワーの効果が 無効になります</original>
+			<edited>切换至ON 装备的额外装备能力效果 将变为无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_00-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>追加ギアパワーなし</original>
+			<edited>无额外装备能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_00-T_BtnL_00" offset="00" relocatable="true" max_length="0">
+			<original>OFF</original>
+			<edited>OFF</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_00-T_BtnR_00" offset="00" relocatable="true" max_length="0">
+			<original>ON</original>
+			<edited>ON</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Exp_01" offset="00" relocatable="true" max_length="0">
+			<original>ONにすると amiiboに覚えさせた ギアとギアパワーが使用できます</original>
+			<edited>切换至ON 能够使用让amiibo记住的 装备与装备能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_01-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>amiibo のギア使用</original>
+			<edited>使用 amiibo 的装备</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Exp_02" offset="00" relocatable="true" max_length="0">
+			<original>ONにすると amiiboに覚えさせた プレイヤー名が使用できます</original>
+			<edited>切换至ON 能够使用让amiibo记住的 玩家名称</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_02-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>amiibo のプレイヤー名使用</original>
+			<edited>使用 amiibo 的玩家名称</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Exp_03" offset="00" relocatable="true" max_length="0">
+			<original>ONにすると １試合ごとに カメラオプション、プレイヤー設定をもどします</original>
+			<edited>切换至ON 每１场比赛 镜头选项与玩家设定都恢复默认</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_03-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>毎回オプションリセット</original>
+			<edited>每次选项重置</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_OptionBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>設定完了</original>
+			<edited>设定结束</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

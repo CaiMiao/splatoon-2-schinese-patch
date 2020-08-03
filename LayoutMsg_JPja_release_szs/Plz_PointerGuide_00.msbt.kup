@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>カーソルを消す</original>
+			<edited>カーソルを消す</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>カーソルを表示</original>
+			<edited>カーソルを表示</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

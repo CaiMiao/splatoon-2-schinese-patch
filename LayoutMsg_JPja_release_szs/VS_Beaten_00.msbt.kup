@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Timer_00" offset="00" relocatable="true" max_length="0">
+			<original>復活まであと&#xE;ú	&#x4;&#x0;&#x0;&#x1;Í秒</original>
+			<edited>復活まであと&#xE;ú	&#x4;&#x0;&#x0;&#x1;Í秒</edited>
+			<subEntries />
+		</entry>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>相手にやられた！</original>
+			<edited>相手にやられた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコの爆発で
+やられた！</original>
+			<edited>ガチホコの爆発で
+やられた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコショットで
+やられた！</original>
+			<edited>ガチホコショットで
+やられた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコの爆発で
+やられた！</original>
+			<edited>ガチホコの爆発で
+やられた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコの
+バリアでやられた！</original>
+			<edited>ガチホコの
+バリアでやられた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>プロペラから 飛び散ったインクで
+やられた！</original>
+			<edited>プロペラから 飛び散ったインクで
+やられた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>カンケツセンで
+やられた！</original>
+			<edited>カンケツセンで
+やられた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>タコドーザーに
+やられた！</original>
+			<edited>タコドーザーに
+やられた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>コロガリウムで
+やられた！</original>
+			<edited>コロガリウムで
+やられた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>ピロピロで
+やられた！</original>
+			<edited>ピロピロで
+やられた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>イイダボムで
+やられた！</original>
+			<edited>イイダボムで
+やられた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="100" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í で
+ひかれた！</original>
+			<edited>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í で
+ひかれた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="101" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í の
+ジェットでやられた！</original>
+			<edited>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í の
+ジェットでやられた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="102" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í に
+ひかれた！</original>
+			<edited>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í に
+ひかれた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="103" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í の
+爆発でやられた！</original>
+			<edited>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í の
+爆発でやられた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="999" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í で
+やられた！</original>
+			<edited>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í で
+やられた！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

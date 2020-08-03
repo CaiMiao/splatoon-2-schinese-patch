@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>風船マト５０コ、全て壊すのでス</original>
+			<edited>風船マト５０コ、全て壊すのでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>風船マトを１つでも のがすとアウトでス</original>
+			<edited>風船マトを１つでも のがすとアウトでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>風船マトは すぐににげるので 急ぎましょウ</original>
+			<edited>風船マトは すぐににげるので 急ぎましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプで 向こうに着いたら 始まりまス</original>
+			<edited>ジャンプで 向こうに着いたら 始まりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="BaloonIsland_0001" offset="00" relocatable="true" max_length="0">
+			<original>４０コ 壊しました！ あと１０コです！</original>
+			<edited>４０コ 壊しました！ あと１０コです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BaloonIsland_0002" offset="00" relocatable="true" max_length="0">
+			<original>あと半分だ！</original>
+			<edited>あと半分だ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BaloonIsland_0003" offset="00" relocatable="true" max_length="0">
+			<original>フォー！ あと１つじゃ！</original>
+			<edited>フォー！ あと１つじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BaloonIsland_0004" offset="00" relocatable="true" max_length="0">
+			<original>あと少しです！</original>
+			<edited>あと少しです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BaloonIsland_0005" offset="00" relocatable="true" max_length="0">
+			<original>風船マト にげる前に撃て！</original>
+			<edited>風船マト にげる前に撃て！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

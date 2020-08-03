@@ -1,0 +1,837 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="FST000" offset="00" relocatable="true" max_length="0">
+			<original>キャンバス ホワイト</original>
+			<edited>キャンバス ホワイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO000" offset="00" relocatable="true" max_length="0">
+			<original>グリッチョ ブルー</original>
+			<edited>グリッチョ ブルー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO001" offset="00" relocatable="true" max_length="0">
+			<original>キャンバス バナナ</original>
+			<edited>キャンバス バナナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO002" offset="00" relocatable="true" max_length="0">
+			<original>グリッチョ グリーン 限定版</original>
+			<edited>グリッチョ グリーン 限定版</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO003" offset="00" relocatable="true" max_length="0">
+			<original>シーホース ホワイト</original>
+			<edited>シーホース ホワイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO004" offset="00" relocatable="true" max_length="0">
+			<original>グリッチョ オレンジ</original>
+			<edited>グリッチョ オレンジ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO005" offset="00" relocatable="true" max_length="0">
+			<original>シーホース ブラックレザー</original>
+			<edited>シーホース ブラックレザー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO006" offset="00" relocatable="true" max_length="0">
+			<original>キャンバス クマノミ</original>
+			<edited>キャンバス クマノミ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO007" offset="00" relocatable="true" max_length="0">
+			<original>シーホース イエロー</original>
+			<edited>シーホース イエロー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO008" offset="00" relocatable="true" max_length="0">
+			<original>ベリベリホワイト</original>
+			<edited>ベリベリホワイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO009" offset="00" relocatable="true" max_length="0">
+			<original>ベリベリレッド</original>
+			<edited>ベリベリレッド</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO010" offset="00" relocatable="true" max_length="0">
+			<original>ユデスパイカ</original>
+			<edited>ユデスパイカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO011" offset="00" relocatable="true" max_length="0">
+			<original>レアスパイカ</original>
+			<edited>レアスパイカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO012" offset="00" relocatable="true" max_length="0">
+			<original>ボルダーシューズ タイノエ</original>
+			<edited>ボルダーシューズ タイノエ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO013" offset="00" relocatable="true" max_length="0">
+			<original>ボルダーシューズ ハザクラ</original>
+			<edited>ボルダーシューズ ハザクラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO014" offset="00" relocatable="true" max_length="0">
+			<original>ヒモヒモグリーン</original>
+			<edited>ヒモヒモグリーン</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO015" offset="00" relocatable="true" max_length="0">
+			<original>デカロノーレース ホワイト</original>
+			<edited>デカロノーレース ホワイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO016" offset="00" relocatable="true" max_length="0">
+			<original>デカロノーレース ブルー</original>
+			<edited>デカロノーレース ブルー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO017" offset="00" relocatable="true" max_length="0">
+			<original>ノーリーチャッカ グレー</original>
+			<edited>ノーリーチャッカ グレー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO018" offset="00" relocatable="true" max_length="0">
+			<original>ノーリーチャッカ トライブ</original>
+			<edited>ノーリーチャッカ トライブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO019" offset="00" relocatable="true" max_length="0">
+			<original>ノーリーチャッカ ロビンズ</original>
+			<edited>ノーリーチャッカ ロビンズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLO020" offset="00" relocatable="true" max_length="0">
+			<original>スパイカ タタキベッチュー</original>
+			<edited>スパイカ タタキベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI000" offset="00" relocatable="true" max_length="0">
+			<original>シーホースHi レッド</original>
+			<edited>シーホースHi レッド</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI001" offset="00" relocatable="true" max_length="0">
+			<original>シーホースHi ゾンビ</original>
+			<edited>シーホースHi ゾンビ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI002" offset="00" relocatable="true" max_length="0">
+			<original>キャンバスHi マッシュルーム</original>
+			<edited>キャンバスHi マッシュルーム</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI003" offset="00" relocatable="true" max_length="0">
+			<original>シーホースHi パープル</original>
+			<edited>シーホースHi パープル</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI004" offset="00" relocatable="true" max_length="0">
+			<original>キャンバスHi モロヘイヤ</original>
+			<edited>キャンバスHi モロヘイヤ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI005" offset="00" relocatable="true" max_length="0">
+			<original>キャンバスHi トマト</original>
+			<edited>キャンバスHi トマト</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI006" offset="00" relocatable="true" max_length="0">
+			<original>シーホースHi ゴールド</original>
+			<edited>シーホースHi ゴールド</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI008" offset="00" relocatable="true" max_length="0">
+			<original>シャークモカシン</original>
+			<edited>シャークモカシン</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI009" offset="00" relocatable="true" max_length="0">
+			<original>ジョーズモカシン</original>
+			<edited>ジョーズモカシン</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI010" offset="00" relocatable="true" max_length="0">
+			<original>デカロニックチョコレート</original>
+			<edited>デカロニックチョコレート</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI011" offset="00" relocatable="true" max_length="0">
+			<original>デカロニックミント</original>
+			<edited>デカロニックミント</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI012" offset="00" relocatable="true" max_length="0">
+			<original>デカロニックブラック</original>
+			<edited>デカロニックブラック</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI013" offset="00" relocatable="true" max_length="0">
+			<original>ピラニアモカシン</original>
+			<edited>ピラニアモカシン</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI014" offset="00" relocatable="true" max_length="0">
+			<original>ノリマキ750 ホワイト</original>
+			<edited>ノリマキ750 ホワイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI015" offset="00" relocatable="true" max_length="0">
+			<original>ノリマキ750 ブラック</original>
+			<edited>ノリマキ750 ブラック</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI016" offset="00" relocatable="true" max_length="0">
+			<original>オルカHiサンセット</original>
+			<edited>オルカHiサンセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI017" offset="00" relocatable="true" max_length="0">
+			<original>エギング4 アカクロ</original>
+			<edited>エギング4 アカクロ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI018" offset="00" relocatable="true" max_length="0">
+			<original>エギング4 アオクロ</original>
+			<edited>エギング4 アオクロ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI019" offset="00" relocatable="true" max_length="0">
+			<original>ウミウシタウンHi グレー</original>
+			<edited>ウミウシタウンHi グレー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI020" offset="00" relocatable="true" max_length="0">
+			<original>オルカHi</original>
+			<edited>オルカHi</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI021" offset="00" relocatable="true" max_length="0">
+			<original>エンペリアルカイザー</original>
+			<edited>エンペリアルカイザー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI022" offset="00" relocatable="true" max_length="0">
+			<original>エンペリアルNV</original>
+			<edited>エンペリアルNV</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI023" offset="00" relocatable="true" max_length="0">
+			<original>ウミウシタウンHi アンバー</original>
+			<edited>ウミウシタウンHi アンバー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI024" offset="00" relocatable="true" max_length="0">
+			<original>イロマキ750 イエロー</original>
+			<edited>イロマキ750 イエロー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI025" offset="00" relocatable="true" max_length="0">
+			<original>エギング5 シロアカ</original>
+			<edited>エギング5 シロアカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI026" offset="00" relocatable="true" max_length="0">
+			<original>エギング5 ハニオレ</original>
+			<edited>エギング5 ハニオレ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI027" offset="00" relocatable="true" max_length="0">
+			<original>エギング4 キイコン</original>
+			<edited>エギング4 キイコン</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI028" offset="00" relocatable="true" max_length="0">
+			<original>オルカHiウーブン</original>
+			<edited>オルカHiウーブン</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI029" offset="00" relocatable="true" max_length="0">
+			<original>イロマキ750 グリーン</original>
+			<edited>イロマキ750 グリーン</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI030" offset="00" relocatable="true" max_length="0">
+			<original>イロマキ750 パープル</original>
+			<edited>イロマキ750 パープル</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI031" offset="00" relocatable="true" max_length="0">
+			<original>イロマキ750 レッド</original>
+			<edited>イロマキ750 レッド</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI032" offset="00" relocatable="true" max_length="0">
+			<original>イロマキ750 ブルー</original>
+			<edited>イロマキ750 ブルー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI033" offset="00" relocatable="true" max_length="0">
+			<original>イロマキ750 オレンジ</original>
+			<edited>イロマキ750 オレンジ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI034" offset="00" relocatable="true" max_length="0">
+			<original>パワーストリップ アカアシ</original>
+			<edited>パワーストリップ アカアシ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI035" offset="00" relocatable="true" max_length="0">
+			<original>パワーストリップ アオアシ</original>
+			<edited>パワーストリップ アオアシ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI036" offset="00" relocatable="true" max_length="0">
+			<original>ストリップ タタキベッチュー</original>
+			<edited>ストリップ タタキベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI037" offset="00" relocatable="true" max_length="0">
+			<original>ゴマシオ270</original>
+			<edited>ゴマシオ270</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI038" offset="00" relocatable="true" max_length="0">
+			<original>エギング5 クロアオ</original>
+			<edited>エギング5 クロアオ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI039" offset="00" relocatable="true" max_length="0">
+			<original>オルカHiパッション</original>
+			<edited>オルカHiパッション</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI040" offset="00" relocatable="true" max_length="0">
+			<original>キャンバスHi トリュフ</original>
+			<edited>キャンバスHi トリュフ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHI041" offset="00" relocatable="true" max_length="0">
+			<original>エギング5 プレミアム</original>
+			<edited>エギング5 プレミアム</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT000" offset="00" relocatable="true" max_length="0">
+			<original>ピンクビーンズ</original>
+			<edited>ピンクビーンズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT001" offset="00" relocatable="true" max_length="0">
+			<original>オレンジアローズ</original>
+			<edited>オレンジアローズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT002" offset="00" relocatable="true" max_length="0">
+			<original>ウミウシイエロー</original>
+			<edited>ウミウシイエロー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT003" offset="00" relocatable="true" max_length="0">
+			<original>ホワイトアローズ</original>
+			<edited>ホワイトアローズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT004" offset="00" relocatable="true" max_length="0">
+			<original>シアンビーンズ</original>
+			<edited>シアンビーンズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT005" offset="00" relocatable="true" max_length="0">
+			<original>ウミウシブルー</original>
+			<edited>ウミウシブルー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT006" offset="00" relocatable="true" max_length="0">
+			<original>ウミウシレッド</original>
+			<edited>ウミウシレッド</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT007" offset="00" relocatable="true" max_length="0">
+			<original>ウミウシパープル</original>
+			<edited>ウミウシパープル</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT008" offset="00" relocatable="true" max_length="0">
+			<original>クレイジーアローズ</original>
+			<edited>クレイジーアローズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT009" offset="00" relocatable="true" max_length="0">
+			<original>ブラックビーンズ</original>
+			<edited>ブラックビーンズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT010" offset="00" relocatable="true" max_length="0">
+			<original>スミレビーンズ</original>
+			<edited>スミレビーンズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT011" offset="00" relocatable="true" max_length="0">
+			<original>カナリアビーンズ</original>
+			<edited>カナリアビーンズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT012" offset="00" relocatable="true" max_length="0">
+			<original>アロメッシュイエロー</original>
+			<edited>アロメッシュイエロー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT013" offset="00" relocatable="true" max_length="0">
+			<original>アローズ タタキベッチュー</original>
+			<edited>アローズ タタキベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT014" offset="00" relocatable="true" max_length="0">
+			<original>アロメッシュバーミリオン</original>
+			<edited>アロメッシュバーミリオン</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT015" offset="00" relocatable="true" max_length="0">
+			<original>エンペーサーCaO</original>
+			<edited>エンペーサーCaO</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT016" offset="00" relocatable="true" max_length="0">
+			<original>エンペーサーAg</original>
+			<edited>エンペーサーAg</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT017" offset="00" relocatable="true" max_length="0">
+			<original>エンペーサーAu</original>
+			<edited>エンペーサーAu</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT018" offset="00" relocatable="true" max_length="0">
+			<original>ウミウシボルト95</original>
+			<edited>ウミウシボルト95</edited>
+			<subEntries />
+		</entry>
+		<entry name="SHT019" offset="00" relocatable="true" max_length="0">
+			<original>アスレチックアローズ</original>
+			<edited>アスレチックアローズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SDL000" offset="00" relocatable="true" max_length="0">
+			<original>オイスタークロッグ</original>
+			<edited>オイスタークロッグ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SDL001" offset="00" relocatable="true" max_length="0">
+			<original>チョコクロッグ</original>
+			<edited>チョコクロッグ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SDL003" offset="00" relocatable="true" max_length="0">
+			<original>デルタストラップ ネオン</original>
+			<edited>デルタストラップ ネオン</edited>
+			<subEntries />
+		</entry>
+		<entry name="SDL004" offset="00" relocatable="true" max_length="0">
+			<original>BBサンダル</original>
+			<edited>BBサンダル</edited>
+			<subEntries />
+		</entry>
+		<entry name="SDL005" offset="00" relocatable="true" max_length="0">
+			<original>デルタストラップ スノー</original>
+			<edited>デルタストラップ スノー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SDL006" offset="00" relocatable="true" max_length="0">
+			<original>デルタストラップ ルミナス</original>
+			<edited>デルタストラップ ルミナス</edited>
+			<subEntries />
+		</entry>
+		<entry name="SDL007" offset="00" relocatable="true" max_length="0">
+			<original>ヤキフグシャワサン アカ</original>
+			<edited>ヤキフグシャワサン アカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SDL008" offset="00" relocatable="true" max_length="0">
+			<original>ヤキフグシャワサン キ</original>
+			<edited>ヤキフグシャワサン キ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SDL009" offset="00" relocatable="true" max_length="0">
+			<original>フジツボペタサン</original>
+			<edited>フジツボペタサン</edited>
+			<subEntries />
+		</entry>
+		<entry name="CFS000" offset="00" relocatable="true" max_length="0">
+			<original>ブルーベリーコンフォート</original>
+			<edited>ブルーベリーコンフォート</edited>
+			<subEntries />
+		</entry>
+		<entry name="CFS001" offset="00" relocatable="true" max_length="0">
+			<original>アケビコンフォート</original>
+			<edited>アケビコンフォート</edited>
+			<subEntries />
+		</entry>
+		<entry name="TRS000" offset="00" relocatable="true" max_length="0">
+			<original>トレッキングライト</original>
+			<edited>トレッキングライト</edited>
+			<subEntries />
+		</entry>
+		<entry name="TRS001" offset="00" relocatable="true" max_length="0">
+			<original>トレッキングカスタム</original>
+			<edited>トレッキングカスタム</edited>
+			<subEntries />
+		</entry>
+		<entry name="TRS002" offset="00" relocatable="true" max_length="0">
+			<original>トレッキングプロ</original>
+			<edited>トレッキングプロ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT000" offset="00" relocatable="true" max_length="0">
+			<original>モトクロスブーツ</original>
+			<edited>モトクロスブーツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT001" offset="00" relocatable="true" max_length="0">
+			<original>ヌバックブーツ イエロー</original>
+			<edited>ヌバックブーツ イエロー</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT002" offset="00" relocatable="true" max_length="0">
+			<original>ヌバックブーツ レッド</original>
+			<edited>ヌバックブーツ レッド</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT003" offset="00" relocatable="true" max_length="0">
+			<original>モトクロス ソリッドブルー</original>
+			<edited>モトクロス ソリッドブルー</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT004" offset="00" relocatable="true" max_length="0">
+			<original>レイニーモスグリーン</original>
+			<edited>レイニーモスグリーン</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT005" offset="00" relocatable="true" max_length="0">
+			<original>レイニーアセロラ</original>
+			<edited>レイニーアセロラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT006" offset="00" relocatable="true" max_length="0">
+			<original>ロッキンホワイト</original>
+			<edited>ロッキンホワイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT007" offset="00" relocatable="true" max_length="0">
+			<original>ロッキンチェリー</original>
+			<edited>ロッキンチェリー</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT008" offset="00" relocatable="true" max_length="0">
+			<original>ロッキンイエロー</original>
+			<edited>ロッキンイエロー</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT009" offset="00" relocatable="true" max_length="0">
+			<original>レイニーシャボン</original>
+			<edited>レイニーシャボン</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT010" offset="00" relocatable="true" max_length="0">
+			<original>ミルキーダウンブーツ</original>
+			<edited>ミルキーダウンブーツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT011" offset="00" relocatable="true" max_length="0">
+			<original>アイスダウンブーツ</original>
+			<edited>アイスダウンブーツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT012" offset="00" relocatable="true" max_length="0">
+			<original>ハンティングブーツ</original>
+			<edited>ハンティングブーツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT013" offset="00" relocatable="true" max_length="0">
+			<original>ロッキンブラック</original>
+			<edited>ロッキンブラック</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT014" offset="00" relocatable="true" max_length="0">
+			<original>シンカイレザーブーツ</original>
+			<edited>シンカイレザーブーツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT015" offset="00" relocatable="true" max_length="0">
+			<original>モイストコンブーツ</original>
+			<edited>モイストコンブーツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT016" offset="00" relocatable="true" max_length="0">
+			<original>アナアキスパイダー6ホール</original>
+			<edited>アナアキスパイダー6ホール</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT017" offset="00" relocatable="true" max_length="0">
+			<original>シンリョクレザーブーツ</original>
+			<edited>シンリョクレザーブーツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BOT018" offset="00" relocatable="true" max_length="0">
+			<original>チャバハンティングブーツ</original>
+			<edited>チャバハンティングブーツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLP000" offset="00" relocatable="true" max_length="0">
+			<original>スリッポン ブルー</original>
+			<edited>スリッポン ブルー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLP001" offset="00" relocatable="true" max_length="0">
+			<original>スリッポン レッド</original>
+			<edited>スリッポン レッド</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLP002" offset="00" relocatable="true" max_length="0">
+			<original>スリッポン チドリ</original>
+			<edited>スリッポン チドリ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SLP003" offset="00" relocatable="true" max_length="0">
+			<original>スリッポン ポルカ</original>
+			<edited>スリッポン ポルカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="LTS000" offset="00" relocatable="true" max_length="0">
+			<original>ラバーソール ホワイト</original>
+			<edited>ラバーソール ホワイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="LTS001" offset="00" relocatable="true" max_length="0">
+			<original>ラバーソール チェリー</original>
+			<edited>ラバーソール チェリー</edited>
+			<subEntries />
+		</entry>
+		<entry name="LTS002" offset="00" relocatable="true" max_length="0">
+			<original>ラバーソール ターコイズ</original>
+			<edited>ラバーソール ターコイズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="LTS003" offset="00" relocatable="true" max_length="0">
+			<original>イカスミチップ</original>
+			<edited>イカスミチップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="LTS004" offset="00" relocatable="true" max_length="0">
+			<original>イカヤキチップ</original>
+			<edited>イカヤキチップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="LTS005" offset="00" relocatable="true" max_length="0">
+			<original>イカボウズキャメル</original>
+			<edited>イカボウズキャメル</edited>
+			<subEntries />
+		</entry>
+		<entry name="LTS006" offset="00" relocatable="true" max_length="0">
+			<original>スモークチップ</original>
+			<edited>スモークチップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="LTS007" offset="00" relocatable="true" max_length="0">
+			<original>ネイビーチップ レッドソール</original>
+			<edited>ネイビーチップ レッドソール</edited>
+			<subEntries />
+		</entry>
+		<entry name="LTS008" offset="00" relocatable="true" max_length="0">
+			<original>グレーチップ イエローソール</original>
+			<edited>グレーチップ イエローソール</edited>
+			<subEntries />
+		</entry>
+		<entry name="LTS009" offset="00" relocatable="true" max_length="0">
+			<original>イカボウズジェットブラック</original>
+			<edited>イカボウズジェットブラック</edited>
+			<subEntries />
+		</entry>
+		<entry name="LTS010" offset="00" relocatable="true" max_length="0">
+			<original>アナアキラバー ハバネロ</original>
+			<edited>アナアキラバー ハバネロ</edited>
+			<subEntries />
+		</entry>
+		<entry name="LTS011" offset="00" relocatable="true" max_length="0">
+			<original>アナアキラバー フェイク</original>
+			<edited>アナアキラバー フェイク</edited>
+			<subEntries />
+		</entry>
+		<entry name="LTS012" offset="00" relocatable="true" max_length="0">
+			<original>センニューチップ スミソール</original>
+			<edited>センニューチップ スミソール</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB000" offset="00" relocatable="true" max_length="0">
+			<original>スクールローファー</original>
+			<edited>スクールローファー</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB001" offset="00" relocatable="true" max_length="0">
+			<original>サムライシューズ</original>
+			<edited>サムライシューズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB002" offset="00" relocatable="true" max_length="0">
+			<original>パワードレッグス</original>
+			<edited>パワードレッグス</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB003" offset="00" relocatable="true" max_length="0">
+			<original>キルトローファー</original>
+			<edited>キルトローファー</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB004" offset="00" relocatable="true" max_length="0">
+			<original>シノビアシ</original>
+			<edited>シノビアシ</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB005" offset="00" relocatable="true" max_length="0">
+			<original>パワードレッグス オリジン</original>
+			<edited>パワードレッグス オリジン</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB006" offset="00" relocatable="true" max_length="0">
+			<original>ヒメイトスニーカー</original>
+			<edited>ヒメイトスニーカー</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB007" offset="00" relocatable="true" max_length="0">
+			<original>イイダチスリッポン</original>
+			<edited>イイダチスリッポン</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB008" offset="00" relocatable="true" max_length="0">
+			<original>エンチャントブーツ</original>
+			<edited>エンチャントブーツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB009" offset="00" relocatable="true" max_length="0">
+			<original>タコティカルなすねあて</original>
+			<edited>タコティカルなすねあて</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB010" offset="00" relocatable="true" max_length="0">
+			<original>ひれおくんのあし</original>
+			<edited>ひれおくんのあし</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSN000" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローキックス レプリカ</original>
+			<edited>ヒーローキックス レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSN004" offset="00" relocatable="true" max_length="0">
+			<original>アーマーブーツ レプリカ</original>
+			<edited>アーマーブーツ レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSN101" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローバインダー レプリカ</original>
+			<edited>ヒーローバインダー レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSN104" offset="00" relocatable="true" max_length="0">
+			<original>タコゾネスブーツネオ</original>
+			<edited>タコゾネスブーツネオ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSN105" offset="00" relocatable="true" max_length="0">
+			<original>ネルブーツ レプリカ</original>
+			<edited>ネルブーツ レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSN106" offset="00" relocatable="true" max_length="0">
+			<original>グランパなクツ</original>
+			<edited>グランパなクツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="RVL000" offset="00" relocatable="true" max_length="0">
+			<original>タコゾネスブーツ</original>
+			<edited>タコゾネスブーツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="COP101" offset="00" relocatable="true" max_length="0">
+			<original>マッドラバー</original>
+			<edited>マッドラバー</edited>
+			<subEntries />
+		</entry>
+		<entry name="COP102" offset="00" relocatable="true" max_length="0">
+			<original>ノンスリップタクミ</original>
+			<edited>ノンスリップタクミ</edited>
+			<subEntries />
+		</entry>
+		<entry name="COP103" offset="00" relocatable="true" max_length="0">
+			<original>ゾネスティックブーツ</original>
+			<edited>ゾネスティックブーツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="COP104" offset="00" relocatable="true" max_length="0">
+			<original>チギリノヒモ</original>
+			<edited>チギリノヒモ</edited>
+			<subEntries />
+		</entry>
+		<entry name="COP105" offset="00" relocatable="true" max_length="0">
+			<original>ゲソバタアシスト</original>
+			<edited>ゲソバタアシスト</edited>
+			<subEntries />
+		</entry>
+		<entry name="COP106" offset="00" relocatable="true" max_length="0">
+			<original>バンカラコロン</original>
+			<edited>バンカラコロン</edited>
+			<subEntries />
+		</entry>
+		<entry name="CRC000" offset="00" relocatable="true" max_length="0">
+			<original>メカレッグ・IBS</original>
+			<edited>メカレッグ・IBS</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP000" offset="00" relocatable="true" max_length="0">
+			<original>ノーリーチャッカ ヒメイト</original>
+			<edited>ノーリーチャッカ ヒメイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP001" offset="00" relocatable="true" max_length="0">
+			<original>エギング4 ヒメキン</original>
+			<edited>エギング4 ヒメキン</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP002" offset="00" relocatable="true" max_length="0">
+			<original>ロッキンクラウン</original>
+			<edited>ロッキンクラウン</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP003" offset="00" relocatable="true" max_length="0">
+			<original>アカツキアローズ</original>
+			<edited>アカツキアローズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP004" offset="00" relocatable="true" max_length="0">
+			<original>ノーリーチャッカ イイダチ</original>
+			<edited>ノーリーチャッカ イイダチ</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP005" offset="00" relocatable="true" max_length="0">
+			<original>エギング4 イイマリ</original>
+			<edited>エギング4 イイマリ</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP006" offset="00" relocatable="true" max_length="0">
+			<original>パワーストリップ トルーパー</original>
+			<edited>パワーストリップ トルーパー</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP007" offset="00" relocatable="true" max_length="0">
+			<original>ミッドナイトスリッポン</original>
+			<edited>ミッドナイトスリッポン</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

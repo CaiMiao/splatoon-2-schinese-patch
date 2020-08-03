@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Msg_00" offset="00" relocatable="true" max_length="0">
+			<original>キミも イカしたヤツに なりたイカ？</original>
+			<edited>你想要头发更乌 身手更贼吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Msg_01" offset="00" relocatable="true" max_length="0">
+			<original>だったら バトルでカツヤクしてみせろ！</original>
+			<edited>那么 就在战斗中表现一番吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Msg_02" offset="00" relocatable="true" max_length="0">
+			<original>ハッキリ言って… まだキミはダサい！</original>
+			<edited>我就直说了… 你还很菜呢！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Msg_03" offset="00" relocatable="true" max_length="0">
+			<original>まずは イカしたアクションを その体にたたきこむんだ！</original>
+			<edited>首先 把帅帅乌贼的动作 学到骨子里！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Msg_04" offset="00" relocatable="true" max_length="0">
+			<original>Nintendo Presents</original>
+			<edited>Nintendo Presents</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Msg_05" offset="00" relocatable="true" max_length="0">
+			<original>SPLATOON 2</original>
+			<edited>SPLATOON 2</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

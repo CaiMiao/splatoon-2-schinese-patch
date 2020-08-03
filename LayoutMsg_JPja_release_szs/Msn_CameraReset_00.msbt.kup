@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Reset_00" offset="00" relocatable="true" max_length="0">
+			<original>カメラリセット</original>
+			<edited>镜头重置</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

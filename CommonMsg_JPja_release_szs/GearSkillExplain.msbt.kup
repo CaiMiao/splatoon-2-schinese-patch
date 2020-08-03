@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Blank" offset="00" relocatable="true" max_length="0">
+			<original />
+			<edited />
+			<subEntries />
+		</entry>
+		<entry name="Unknown" offset="00" relocatable="true" max_length="0">
+			<original>ギアをバトルで使用して
+ケイケン値をためると
+ギアパワーが解放されます。</original>
+			<edited>在战斗中使用装备
+积累经验值后
+就会解锁装备能力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="OpInkEffect_Reduction" offset="00" relocatable="true" max_length="0">
+			<original>相手のインクをふんだ時の
+ダメージや移動速度の
+減少が少なくなります。</original>
+			<edited>减少踩在对手的墨水上时
+所受伤害与移动速度降低量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="BombDamage_Reduction" offset="00" relocatable="true" max_length="0">
+			<original>メインウェポン以外の爆発で
+受けるダメージと、位置を発見
+してくる攻撃の効果を軽減します。</original>
+			<edited>降低因主武器之外的爆炸
+所受的伤害，以及索敌攻击*的效果。
+（*位置を発見してくる攻撃）</edited>
+			<subEntries />
+		</entry>
+		<entry name="MainInk_Save" offset="00" relocatable="true" max_length="0">
+			<original>メインウェポンの
+消費インク量が
+少なくなります。</original>
+			<edited>减少主武器的
+墨水消耗量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="SubInk_Save" offset="00" relocatable="true" max_length="0">
+			<original>サブウェポンの消費インク量が
+少なくなります。</original>
+			<edited>减少副武器的
+墨水消耗量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkRecovery_Up" offset="00" relocatable="true" max_length="0">
+			<original>インクタンク回復速度が
+アップします。</original>
+			<edited>提高墨水罐的
+恢复速度。</edited>
+			<subEntries />
+		</entry>
+		<entry name="HumanMove_Up" offset="00" relocatable="true" max_length="0">
+			<original>ヒト状態の移動速度が
+アップします。</original>
+			<edited>提高人形状态的
+移动速度。</edited>
+			<subEntries />
+		</entry>
+		<entry name="SquidMove_Up" offset="00" relocatable="true" max_length="0">
+			<original>イカダッシュ時の移動速度が
+アップします。</original>
+			<edited>提高乌贼冲刺时的
+移动速度。</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialIncrease_Up" offset="00" relocatable="true" max_length="0">
+			<original>スペシャルゲージの増加量が
+アップします。</original>
+			<edited>提高特殊计量表的
+增加量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="RespawnSpecialGauge_Save" offset="00" relocatable="true" max_length="0">
+			<original>プレイヤーがやられた時の
+スペシャルゲージの減少量が
+少なくなります。</original>
+			<edited>减少玩家被打倒时
+特殊计量表的减少量。</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialTime_Up" offset="00" relocatable="true" max_length="0">
+			<original>スペシャルウェポンの性能が
+アップします。</original>
+			<edited>提高特殊武器的
+性能。</edited>
+			<subEntries />
+		</entry>
+		<entry name="RespawnTime_Save" offset="00" relocatable="true" max_length="0">
+			<original>相手を一人も倒せないまま
+連続でやられた時、
+復活時間が短くなります。</original>
+			<edited>减少在没有打倒任何一位对手的
+情况下连续被打倒时
+所需的复活时间。</edited>
+			<subEntries />
+		</entry>
+		<entry name="JumpTime_Save" offset="00" relocatable="true" max_length="0">
+			<original>スーパージャンプの時間が
+短くなります。</original>
+			<edited>减少超级跳跃
+所需时间。</edited>
+			<subEntries />
+		</entry>
+		<entry name="BombDistance_Up" offset="00" relocatable="true" max_length="0">
+			<original>サブウェポンの性能が
+アップします。</original>
+			<edited>提高副武器的
+性能。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MarkingTime_Reduction" offset="00" relocatable="true" max_length="0">
+			<original>[&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í]
+&#xE;&#x4;&#x5;&#x0;</original>
+			<edited>[&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í]
+&#xE;&#x4;&#x5;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MarkingTime_Reduction_Default" offset="00" relocatable="true" max_length="0">
+			<original>メインウェポンの性能が
+アップします。</original>
+			<edited>提高主武器的
+性能。</edited>
+			<subEntries />
+		</entry>
+		<entry name="ExSkillDouble" offset="00" relocatable="true" max_length="0">
+			<original>このギアについている
+追加ギアパワーを
+１つで２コ分の効果にします。</original>
+			<edited>此装备所赋有的
+额外装备能力
+发挥双倍效果。</edited>
+			<subEntries />
+		</entry>
+		<entry name="StartAllUp" offset="00" relocatable="true" max_length="0">
+			<original>対戦開始から３０カウントの間
+移動に関する効果が
+かなりアップします。</original>
+			<edited>对战开始后30个倒数内
+大幅提升移动相关的效果。</edited>
+			<subEntries />
+		</entry>
+		<entry name="EndAllUp" offset="00" relocatable="true" max_length="0">
+			<original>対戦終了の３０カウント前から
+インク効率とインク回復速度が
+かなりアップします。</original>
+			<edited>对战结束前30个倒数内
+大幅提升单位墨水效率与
+墨水恢复速度。</edited>
+			<subEntries />
+		</entry>
+		<entry name="MinorityUp" offset="00" relocatable="true" max_length="0">
+			<original>自チームの人数が相手チーム
+より少ない場合、少しずつ
+スペシャルゲージが増えます。</original>
+			<edited>我方队伍人数比对手队伍
+更少的情况下，缓缓填充
+特殊计量表。</edited>
+			<subEntries />
+		</entry>
+		<entry name="ComeBack" offset="00" relocatable="true" max_length="0">
+			<original>プレイヤーがやられて復帰後、
+しばらくの間、一部の能力が
+かなりアップします。</original>
+			<edited>玩家被击倒后回归时，
+短时间内内大幅提高部分能力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="SquidMoveSpatter_Reduction" offset="00" relocatable="true" max_length="0">
+			<original>地面をイカダッシュした時に
+インクが飛び散らなくなるが、
+移動速度が少しダウンします。</original>
+			<edited>在地面进行乌贼冲刺时
+墨水不会飞溅，但是稍微降低
+移动速度。</edited>
+			<subEntries />
+		</entry>
+		<entry name="DeathMarking" offset="00" relocatable="true" max_length="0">
+			<original>復活したとき、
+自分を倒した相手の位置が
+遠くから見えるようになります。</original>
+			<edited>复活时，
+可以从远处看到
+击倒自己的对手的位置。</edited>
+			<subEntries />
+		</entry>
+		<entry name="SuperJumpSign_Hide" offset="00" relocatable="true" max_length="0">
+			<original>スーパージャンプの着地点を
+示すマーカーが、はなれた場所
+から見えなくなります。</original>
+			<edited>使指示你的超级跳跃的
+落地点的标记无法从远处看到。</edited>
+			<subEntries />
+		</entry>
+		<entry name="ThermalInk" offset="00" relocatable="true" max_length="0">
+			<original>メインウェポンの弾を直接
+当てた相手が、しばらくの間、
+遠くから見えるようになります。</original>
+			<edited>使被主武器直接打中的对手
+短时间内可从远处看到。</edited>
+			<subEntries />
+		</entry>
+		<entry name="Exorcist" offset="00" relocatable="true" max_length="0">
+			<original>自プレイヤーと倒した相手の
+スペシャル減少量と
+復活時間が増えます。</original>
+			<edited>增加玩家自身与击倒的对手的
+特殊减少量与复活时间。</edited>
+			<subEntries />
+		</entry>
+		<entry name="ObjectEffect_Up" offset="00" relocatable="true" max_length="0">
+			<original>プレイヤー以外の物体に対して
+攻撃したときのダメージを
+増やします。</original>
+			<edited>增加对玩家以外的物体
+进行攻击时的伤害。</edited>
+			<subEntries />
+		</entry>
+		<entry name="SomersaultLanding" offset="00" relocatable="true" max_length="0">
+			<original>スーパージャンプ着地時に
+スティックをたおしておくと
+着地と同時に前転します。</original>
+			<edited>超级跳跃落地时
+推动摇杆即可在落地同时
+向前翻滚。</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

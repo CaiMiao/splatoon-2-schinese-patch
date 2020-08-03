@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>このチャレンジはライドレールがいっぱいでス</original>
+			<edited>このチャレンジはライドレールがいっぱいでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>スライドなら 素早くライドレールに乗れまス</original>
+			<edited>スライドなら 素早くライドレールに乗れまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>ボム風船の爆風で ライドレールを起動できまス</original>
+			<edited>ボム風船の爆風で ライドレールを起動できまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="ShortRail_0000" offset="00" relocatable="true" max_length="0">
+			<original>フォー！ イカしておる！</original>
+			<edited>フォー！ イカしておる！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ShortRail_0001" offset="00" relocatable="true" max_length="0">
+			<original>ボム風船で ライドレールを起動しましょう！</original>
+			<edited>ボム風船で ライドレールを起動しましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ShortRail_0002" offset="00" relocatable="true" max_length="0">
+			<original>最後まで足元注意ですよ！ ８号さん！</original>
+			<edited>最後まで足元注意ですよ！ ８号さん！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ShortRail_0003" offset="00" relocatable="true" max_length="0">
+			<original>ここはスライドで バシュってこーぜ！</original>
+			<edited>ここはスライドで バシュってこーぜ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ShortRail_0004" offset="00" relocatable="true" max_length="0">
+			<original>ふぁびゅらす！ ５０イクラ 連続ゲットじゃ！</original>
+			<edited>ふぁびゅらす！ ５０イクラ 連続ゲットじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ShortRail_0005" offset="00" relocatable="true" max_length="0">
+			<original>あめぃじん！ 連続１００イクラ、ゲットじゃ！</original>
+			<edited>あめぃじん！ 連続１００イクラ、ゲットじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ShortRail_0006" offset="00" relocatable="true" max_length="0">
+			<original>すごいです８号さん！ 追加のイカフライが出てます！</original>
+			<edited>すごいです８号さん！ 追加のイカフライが出てます！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

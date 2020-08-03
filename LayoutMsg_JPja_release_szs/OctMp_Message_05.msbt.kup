@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Message_00" offset="00" relocatable="true" max_length="0">
+			<original>トモダチは要らない 一人のNight
+
+天才はつるまない 心にKnight
+
+引きこもる２階　気分ソーカイ？
+
+そんな世界　気分イーカイ？</original>
+			<edited>トモダチは要らない 一人のNight
+
+天才はつるまない 心にKnight
+
+引きこもる２階　気分ソーカイ？
+
+そんな世界　気分イーカイ？</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Msg_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#xE;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;風船をねらうんだ！</original>
+			<edited>&#xE;&#x2;&#xE;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;瞄准气球吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MsgS_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;$&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;風船に &#xE;&#x2;&#x13;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;照準を合わせよう！</original>
+			<edited>将&#xE;&#x2;&#x13;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;准心放在 &#xE;&#x2;$&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;气球上面吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Msg_02" offset="00" relocatable="true" max_length="0">
+			<original>この向きが &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;キホンの向き&#xE;&#x0;&#x3;&#x2;ÿÿだ！</original>
+			<edited>这个朝向是 &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;基本的朝向&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MsgS_02" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x3;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押せば いつでもこの向きに もどれるぞ！</original>
+			<edited>按下&#xE;&#x2;&#x3;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;随时都能回到这个朝向哦！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Msg_03" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; で撃て！</original>
+			<edited>用 &#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; 射击吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MsgS_03" offset="00" relocatable="true" max_length="0">
+			<original>コントローラーを 動かして ねらおう！</original>
+			<edited>移动手柄瞄准吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Msg_04" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#xC;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で 移動だ！</original>
+			<edited>用 &#xE;&#x2;&#xC;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;移动吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Msg_05" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#xD;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で 左右を &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;見回そう&#xE;&#x0;&#x3;&#x2;ÿÿ！</original>
+			<edited>用 &#xE;&#x2;&#xD;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;来&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;查看四周&#xE;&#x0;&#x3;&#x2;ÿÿ吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Msg_06" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;カメラ正面&#xE;&#x0;&#x3;&#x2;ÿÿは いつでも&#xE;&#x2;&#x3;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;リセット&#xE;&#x0;&#x3;&#x2;ÿÿだ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;正面镜头&#xE;&#x0;&#x3;&#x2;ÿÿ随时能通过&#xE;&#x2;&#x3;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;来&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;重置&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MsgS_06" offset="00" relocatable="true" max_length="0">
+			<original>手首を&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;楽&#xE;&#x0;&#x3;&#x2;ÿÿに コントローラーをかまえて &#xE;&#x2;&#x3;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;！</original>
+			<edited>在&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;最舒服&#xE;&#x0;&#x3;&#x2;ÿÿ的握持姿势下按&#xE;&#x2;&#x3;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Msg_07" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; で&#xE;&#x2;&#xF;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿになる！</original>
+			<edited>用 &#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; 可以变成&#xE;&#x2;&#xF;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;乌贼&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MsgS_07" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;インク&#xE;&#x0;&#x3;&#x2;ÿÿの中を &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;泳げる&#xE;&#x0;&#x3;&#x2;ÿÿぞ！</original>
+			<edited>可以在&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;墨水&#xE;&#x0;&#x3;&#x2;ÿÿ里面&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;游泳&#xE;&#x0;&#x3;&#x2;ÿÿ哦！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Msg_08" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;インク&#xE;&#x0;&#x3;&#x2;ÿÿを塗れば ユカもカベも &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;スイスイ&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x2;&#x10;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;泳げる&#xE;&#x0;&#x3;&#x2;ÿÿ！</original>
+			<edited>只要涂上&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;墨水&#xE;&#x0;&#x3;&#x2;ÿÿ 不论是地板还是墙壁 都可以&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;畅快&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x2;&#x10;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;游泳&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MsgS_08" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x11;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;インクも ぐんぐん&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;回復&#xE;&#x0;&#x3;&#x2;ÿÿだ！</original>
+			<edited>&#xE;&#x2;&#x11;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;墨水也能 呼呼地&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;恢复&#xE;&#x0;&#x3;&#x2;ÿÿ哦！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Msg_09" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x1;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ジャンプ&#xE;&#x0;&#x3;&#x2;ÿÿだ！ イカのままでも &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ジャンプ&#xE;&#x0;&#x3;&#x2;ÿÿだ！</original>
+			<edited>按下&#xE;&#x2;&#x1;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;就可以&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;跳跃&#xE;&#x0;&#x3;&#x2;ÿÿ！ 就算变成乌贼也能&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;跳跃&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Msg_10" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;イカは &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;カナアミ&#xE;&#x0;&#x3;&#x2;ÿÿを&#xE;&#x2;&#x10;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ぬけられる&#xE;&#x0;&#x3;&#x2;ÿÿぞ！</original>
+			<edited>&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;乌贼可以&#xE;&#x2;&#x10;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;穿过&#xE;&#x0;&#x3;&#x2;ÿÿ这张&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;铁丝网&#xE;&#x0;&#x3;&#x2;ÿÿ哦！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Msg_11" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ちがう色&#xE;&#x0;&#x3;&#x2;ÿÿの インクは &#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; で&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;塗りかえせ&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;！&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;不同颜色&#xE;&#x0;&#x3;&#x2;ÿÿ的墨水 就用 &#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; 来&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;涂掉&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;吧！&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="MsgS_11" offset="00" relocatable="true" max_length="0">
+			<original>ハマると &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;足&#xE;&#x0;&#x3;&#x2;ÿÿを &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;とられる&#xE;&#x0;&#x3;&#x2;ÿÿぞ！</original>
+			<edited>陷进去的话 &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;脚&#xE;&#x0;&#x3;&#x2;ÿÿ会被&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;缠住&#xE;&#x0;&#x3;&#x2;ÿÿ哦！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Msg_12" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で &#xE;&#x2;&#x12;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ボム&#xE;&#x0;&#x3;&#x2;ÿÿを 投げる！</original>
+			<edited>按下&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;来扔出 &#xE;&#x2;&#x12;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;炸弹&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MsgS_12" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でもぐって &#xE;&#x2;&#x11;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;インク回復&#xE;&#x0;&#x3;&#x2;ÿÿを 忘れずに</original>
+			<edited>别忘了用&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;潜下去 &#xE;&#x2;&#x11;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;恢复墨水&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Msg_13" offset="00" relocatable="true" max_length="0">
+			<original>インクを塗って &#xE;&#x2;&#x10;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カベを登ろう！</original>
+			<edited>涂上墨水 &#xE;&#x2;&#x10;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;翻过墙壁吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MsgS_13" offset="00" relocatable="true" max_length="0">
+			<original>カベは &#xE;&#x2;&#x1;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ジャンプ&#xE;&#x0;&#x3;&#x2;ÿÿで &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;速く登れる&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;！&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>墙壁可以用&#xE;&#x2;&#x1;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;跳跃&#xE;&#x0;&#x3;&#x2;ÿÿ来&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;快速攀登&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;！&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Msg_14" offset="00" relocatable="true" max_length="0">
+			<original>サカを登れば もうすぐ&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ハイカラスクエア&#xE;&#x0;&#x3;&#x2;ÿÿだ！</original>
+			<edited>走上斜坡 马上就到&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ハイカラスクエア&#xE;&#x0;&#x3;&#x2;ÿÿ了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Msg_15" offset="00" relocatable="true" max_length="0">
+			<original>これで ウォーミングアップは ばっちり！</original>
+			<edited>这么一来 热身就做得很充分了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MsgS_15" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;イカで &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;スーパージャンプ&#xE;&#x0;&#x3;&#x2;ÿÿだ！</original>
+			<edited>用 &#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;乌贼来&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;超级跳跃&#xE;&#x0;&#x3;&#x2;ÿÿ吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MsgS_15_2" offset="00" relocatable="true" max_length="0">
+			<original>対戦がはじまるまで 自由に操作してみよう！</original>
+			<edited>在对战开始前 试着自由操作看看吧！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

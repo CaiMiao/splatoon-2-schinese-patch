@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>風船マトを３０コ、全て壊しましょウ</original>
+			<edited>風船マトを３０コ、全て壊しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>風船マトを１つでも見のがすと 先に進めませン</original>
+			<edited>風船マトを１つでも見のがすと 先に進めませン</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>見にくい風船マトは、矢印の方向にありまス</original>
+			<edited>見にくい風船マトは、矢印の方向にありまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="LiftBaloon_0001" offset="00" relocatable="true" max_length="0">
+			<original>あと１つあるようじゃ！ 気合で探せィ！</original>
+			<edited>あと１つあるようじゃ！ 気合で探せィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LiftBaloon_0002" offset="00" relocatable="true" max_length="0">
+			<original>あーあ… 風船マト 見のがした</original>
+			<edited>あーあ… 風船マト 見のがした</edited>
+			<subEntries />
+		</entry>
+		<entry name="LiftBaloon_0003" offset="00" relocatable="true" max_length="0">
+			<original>しゃー！ 次ー！</original>
+			<edited>しゃー！ 次ー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LiftBaloon_0004" offset="00" relocatable="true" max_length="0">
+			<original>まだ残ってます！</original>
+			<edited>まだ残ってます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LiftBaloon_0005" offset="00" relocatable="true" max_length="0">
+			<original>最後のようじゃ！ 心して行けィ！</original>
+			<edited>最後のようじゃ！ 心して行けィ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

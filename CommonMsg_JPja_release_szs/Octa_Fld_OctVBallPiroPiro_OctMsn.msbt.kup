@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>開いたピロピロは、先端を撃つことで開き続けまス</original>
+			<edited>開いたピロピロは、先端を撃つことで開き続けまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>エイトボールを当ててもピロピロは開きまス</original>
+			<edited>エイトボールを当ててもピロピロは開きまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>チェックポイントは、エイトボールとアナタでONになりまス</original>
+			<edited>チェックポイントは、エイトボールとアナタでONになりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallPiroPiro_0001" offset="00" relocatable="true" max_length="0">
+			<original>タマコロちゃんの真ん中を よーくねらうんじゃ！</original>
+			<edited>タマコロちゃんの真ん中を よーくねらうんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallPiroPiro_0002" offset="00" relocatable="true" max_length="0">
+			<original>それにしても、すごい数のキラキラクルクルだな</original>
+			<edited>それにしても、すごい数のキラキラクルクルだな</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallPiroPiro_0003" offset="00" relocatable="true" max_length="0">
+			<original>おー、なるほどなー！</original>
+			<edited>おー、なるほどなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallPiroPiro_0006" offset="00" relocatable="true" max_length="0">
+			<original>フォー！ ヒヤヒヤのヒヤシンスじゃ…</original>
+			<edited>フォー！ ヒヤヒヤのヒヤシンスじゃ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallPiroPiro_0007" offset="00" relocatable="true" max_length="0">
+			<original>このレールは、前にもどる用だな！</original>
+			<edited>このレールは、前にもどる用だな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallPiroPiro_0008" offset="00" relocatable="true" max_length="0">
+			<original>ダジャレ？ おもしれー！</original>
+			<edited>ダジャレ？ おもしれー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallPiroPiro_0009" offset="00" relocatable="true" max_length="0">
+			<original>エイトボールのゴールを発見しました！</original>
+			<edited>エイトボールのゴールを発見しました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallPiroPiro_0010" offset="00" relocatable="true" max_length="0">
+			<original>ピロピロです！ 上手く乗せていきましょ～♪</original>
+			<edited>ピロピロです！ 上手く乗せていきましょ～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallPiroPiro_0011" offset="00" relocatable="true" max_length="0">
+			<original>ふぁびゅらすじゃ！</original>
+			<edited>ふぁびゅらすじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallPiroPiro_0012" offset="00" relocatable="true" max_length="0">
+			<original>おー！ ナイス！</original>
+			<edited>おー！ ナイス！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallPiroPiro_0013" offset="00" relocatable="true" max_length="0">
+			<original>横の道から進めそうです！</original>
+			<edited>横の道から進めそうです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallPiroPiro_0015" offset="00" relocatable="true" max_length="0">
+			<original>うむ、あとは ゴールするだけじゃ！</original>
+			<edited>うむ、あとは ゴールするだけじゃ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

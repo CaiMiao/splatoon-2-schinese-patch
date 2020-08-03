@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>「&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í」をゲットした！</original>
+			<edited>「&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í」をゲットした！</edited>
+			<subEntries />
+		</entry>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>「&#xE;&#x4;&#x1;&#x4;&#x0;&#x0;&#x0;Í」をゲットした！</original>
+			<edited>「&#xE;&#x4;&#x1;&#x4;&#x0;&#x0;&#x0;Í」をゲットした！</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>ギアパワーのかけらをゲットした！</original>
+			<edited>ギアパワーのかけらをゲットした！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;*&#x8;Z&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Íをゲットした！</original>
+			<edited>&#xE;&#x2;*&#x8;Z&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Íをゲットした！</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;タコ&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;が使えるようになった！</original>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;タコ&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;が使えるようになった！</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>ネルメダルをゲットした！</original>
+			<edited>ネルメダルをゲットした！</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;２００００&#xE;&#x0;&#x3;&#x2;ÿÿをゲットした！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;２００００&#xE;&#x0;&#x3;&#x2;ÿÿをゲットした！</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>ドリンクチケットを３枚ゲットした！</original>
+			<edited>ドリンクチケットを３枚ゲットした！</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>ドリンクチケットを１４枚ゲットした！</original>
+			<edited>ドリンクチケットを１４枚ゲットした！</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>ドリンクチケットをゲットした！</original>
+			<edited>ドリンクチケットをゲットした！</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>フードチケットをゲットした！</original>
+			<edited>フードチケットをゲットした！</edited>
+			<subEntries />
+		</entry>
+		<entry name="050" offset="00" relocatable="true" max_length="0">
+			<original>深海メトロから 脱出できたら
+使えるようになるぞ！</original>
+			<edited>深海メトロから 脱出できたら
+使えるようになるぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="051" offset="00" relocatable="true" max_length="0">
+			<original>ハイカラスクエアに もどったら
+使えるようになるぞ！</original>
+			<edited>ハイカラスクエアに もどったら
+使えるようになるぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="052" offset="00" relocatable="true" max_length="0">
+			<original>オプションのプレイヤー設定から、
+&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿと&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;タコ&#xE;&#x0;&#x3;&#x2;ÿÿを切り替えることができるぞ！</original>
+			<edited>オプションのプレイヤー設定から、
+&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿと&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;タコ&#xE;&#x0;&#x3;&#x2;ÿÿを切り替えることができるぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="053" offset="00" relocatable="true" max_length="0">
+			<original>深海メトロ中央駅で 使ってみよう！</original>
+			<edited>深海メトロ中央駅で 使ってみよう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="054" offset="00" relocatable="true" max_length="0">
+			<original>頭にさして じまんしよう！！</original>
+			<edited>頭にさして じまんしよう！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="055" offset="00" relocatable="true" max_length="0">
+			<original>チャレンジや自販機で 使ってみよう！</original>
+			<edited>チャレンジや自販機で 使ってみよう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="100" offset="00" relocatable="true" max_length="0">
+			<original>x&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>x&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

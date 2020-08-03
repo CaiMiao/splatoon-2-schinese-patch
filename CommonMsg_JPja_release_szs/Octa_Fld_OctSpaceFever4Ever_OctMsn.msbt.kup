@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>敵を全て倒してくださイ</original>
+			<edited>敵を全て倒してくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>敵の動きをよく見ましょウ</original>
+			<edited>敵の動きをよく見ましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>木箱にかくれて、敵の弾を防ぎましょウ</original>
+			<edited>木箱にかくれて、敵の弾を防ぎましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpaceFever4Ever_0000" offset="00" relocatable="true" max_length="0">
+			<original>数は多いですが、落ち着いて！</original>
+			<edited>数は多いですが、落ち着いて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpaceFever4Ever_0001" offset="00" relocatable="true" max_length="0">
+			<original>あと半分です！</original>
+			<edited>あと半分です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpaceFever4Ever_0002" offset="00" relocatable="true" max_length="0">
+			<original>フォーー！ 敵さんも必死じゃのゥ！</original>
+			<edited>フォーー！ 敵さんも必死じゃのゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpaceFever4Ever_0003" offset="00" relocatable="true" max_length="0">
+			<original>やべっ！ はなれろ！</original>
+			<edited>やべっ！ はなれろ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpaceFever4Ever_0004" offset="00" relocatable="true" max_length="0">
+			<original>マルチミサイルは カナアミの下へかくれてください！</original>
+			<edited>マルチミサイルは カナアミの下へかくれてください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpaceFever4Ever_0005" offset="00" relocatable="true" max_length="0">
+			<original>敵機確認！ 攻撃開始ィ！</original>
+			<edited>敵機確認！ 攻撃開始ィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpaceFever4Ever_0006" offset="00" relocatable="true" max_length="0">
+			<original>UFOのシールドがやっかいだな…</original>
+			<edited>UFOのシールドがやっかいだな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpaceFever4Ever_0007" offset="00" relocatable="true" max_length="0">
+			<original>トツゲキじゃー！ UFOに乗りこめーィ！</original>
+			<edited>トツゲキじゃー！ UFOに乗りこめーィ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>永遠にインクを塗り続けるヌリヌリバー…</original>
+			<edited>永遠にインクを塗り続けるヌリヌリバー…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ヌリヌリバーに押されないよう、お気をつけくださイ</original>
+			<edited>ヌリヌリバーに押されないよう、お気をつけくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>ヌリヌリバーは、敵か味方か… 果たしテ…</original>
+			<edited>ヌリヌリバーは、敵か味方か… 果たしテ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriBar_0001" offset="00" relocatable="true" max_length="0">
+			<original>ハイドラントは 射程をイカしましょう！</original>
+			<edited>ハイドラントは 射程をイカしましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriBar_0002" offset="00" relocatable="true" max_length="0">
+			<original>右見て 左見て 後ろ見て！ 戦場の鉄則ゥ！</original>
+			<edited>右見て 左見て 後ろ見て！ 戦場の鉄則ゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriBar_0003" offset="00" relocatable="true" max_length="0">
+			<original>しゃー！ 撃て撃て撃て撃て撃てー！</original>
+			<edited>しゃー！ 撃て撃て撃て撃て撃てー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriBar_0004" offset="00" relocatable="true" max_length="0">
+			<original>シャー オラー！</original>
+			<edited>シャー オラー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriBar_0005" offset="00" relocatable="true" max_length="0">
+			<original>ヌリヌリバー、来てんゾ！</original>
+			<edited>ヌリヌリバー、来てんゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriBar_0006" offset="00" relocatable="true" max_length="0">
+			<original>なんかデカい敵、発見！</original>
+			<edited>なんかデカい敵、発見！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriBar_0007" offset="00" relocatable="true" max_length="0">
+			<original>タカタコドーザー、ですね</original>
+			<edited>タカタコドーザー、ですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriBar_0008" offset="00" relocatable="true" max_length="0">
+			<original>ドーザーはインクで おびきよせましょ～</original>
+			<edited>ドーザーはインクで おびきよせましょ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriBar_0009" offset="00" relocatable="true" max_length="0">
+			<original>あのヌリヌリバー、８号のインクを塗っておるぞィ！</original>
+			<edited>あのヌリヌリバー、８号のインクを塗っておるぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriBar_0010" offset="00" relocatable="true" max_length="0">
+			<original>ィよし！ ナイスじゃった！</original>
+			<edited>ィよし！ ナイスじゃった！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

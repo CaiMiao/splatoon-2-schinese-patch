@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>どっちでも</original>
+			<edited>どっちでも</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>アルファチーム</original>
+			<edited>アルファチーム</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>ブラボーチーム</original>
+			<edited>ブラボーチーム</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>観戦</original>
+			<edited>観戦</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>おまかせ</original>
+			<edited>おまかせ</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_RuleHeader_00" offset="00" relocatable="true" max_length="0">
+			<original>ルール</original>
+			<edited>ルール</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_StageHeader_00" offset="00" relocatable="true" max_length="0">
+			<original>ステージ</original>
+			<edited>ステージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Message_00" offset="00" relocatable="true" max_length="0">
+			<original>親がチームを決めています</original>
+			<edited>親がチームを決めています</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Message_01" offset="00" relocatable="true" max_length="0">
+			<original>チームを決めてください</original>
+			<edited>チームを決めてください</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>チーム決定！</original>
+			<edited>チーム決定！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

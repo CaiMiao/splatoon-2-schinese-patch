@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>このチャレンジでは、ジェットパックを使用しまス</original>
+			<edited>このチャレンジでは、ジェットパックを使用しまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ジェットパックの射程に注意してくださイ</original>
+			<edited>ジェットパックの射程に注意してくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>ジェットパックでもダメージを受けたら センプクで回復でス</original>
+			<edited>ジェットパックでもダメージを受けたら センプクで回復でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="HangedKingJET_0002" offset="00" relocatable="true" max_length="0">
+			<original>カベのダッシュ板は、センプクで登れば 使えます！</original>
+			<edited>カベのダッシュ板は、センプクで登れば 使えます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="HangedKingJET_0003" offset="00" relocatable="true" max_length="0">
+			<original>ハイパープレッサー！ カベ、つきぬけるゾ！</original>
+			<edited>ハイパープレッサー！ カベ、つきぬけるゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="HangedKingJET_0004" offset="00" relocatable="true" max_length="0">
+			<original>トビタコポッド！ 追いかけてきます！</original>
+			<edited>トビタコポッド！ 追いかけてきます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="HangedKingJET_0005" offset="00" relocatable="true" max_length="0">
+			<original>シャワー攻撃！ つっこんで来ます！</original>
+			<edited>シャワー攻撃！ つっこんで来ます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="HangedKingJET_0006" offset="00" relocatable="true" max_length="0">
+			<original>弱点のタコ足が出たぞィ！ 撃てーィ！</original>
+			<edited>弱点のタコ足が出たぞィ！ 撃てーィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="HangedKingJET_0007" offset="00" relocatable="true" max_length="0">
+			<original>シャー！ どんどんいくゾ！</original>
+			<edited>シャー！ どんどんいくゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="HangedKingJET_0008" offset="00" relocatable="true" max_length="0">
+			<original>もう少しです！ ８号さん！</original>
+			<edited>もう少しです！ ８号さん！</edited>
+			<subEntries />
+		</entry>
+		<entry name="HangedKingJET_0009" offset="00" relocatable="true" max_length="0">
+			<original>こっちの弾が届くとこまで 近づかねーとな！</original>
+			<edited>こっちの弾が届くとこまで 近づかねーとな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="HangedKingJET_0010" offset="00" relocatable="true" max_length="0">
+			<original>本体には 攻撃が効きません！</original>
+			<edited>本体には 攻撃が効きません！</edited>
+			<subEntries />
+		</entry>
+		<entry name="HangedKingJET_0011" offset="00" relocatable="true" max_length="0">
+			<original>上のタコプターから 片付けるんじゃ！</original>
+			<edited>上のタコプターから 片付けるんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="HangedKingJET_0012" offset="00" relocatable="true" max_length="0">
+			<original>トビタコポッドは 先に倒しましょう！</original>
+			<edited>トビタコポッドは 先に倒しましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="HangedKingJET_0013" offset="00" relocatable="true" max_length="0">
+			<original>タコ足じゃ！ 撃ちつくせィ！</original>
+			<edited>タコ足じゃ！ 撃ちつくせィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="HangedKingJET_0014" offset="00" relocatable="true" max_length="0">
+			<original>いいゾ！ 終わらせてやれ！</original>
+			<edited>いいゾ！ 終わらせてやれ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="HangedKingJET_0015" offset="00" relocatable="true" max_length="0">
+			<original>打点を 高い位置でキープするんじゃ！</original>
+			<edited>打点を 高い位置でキープするんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="HangedKingJET_0017" offset="00" relocatable="true" max_length="0">
+			<original>早めに撃ち落としましょう！</original>
+			<edited>早めに撃ち落としましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="HangedKingJET_0018" offset="00" relocatable="true" max_length="0">
+			<original>縦の動きも使うんじゃ！</original>
+			<edited>縦の動きも使うんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="HangedKingJET_0019" offset="00" relocatable="true" max_length="0">
+			<original>ハイパープレッサーは引きつけて、センプクでよけてください！</original>
+			<edited>ハイパープレッサーは引きつけて、センプクでよけてください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="HangedKingJET_0020" offset="00" relocatable="true" max_length="0">
+			<original>なわとびの要領で、センプクと飛行をくり返すんじゃ！</original>
+			<edited>なわとびの要領で、センプクと飛行をくり返すんじゃ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_BossClose_00" offset="00" relocatable="true" max_length="0">
+			<original>デンチナマズが足りない！</original>
+			<edited>デンチナマズが足りない！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Action_00" offset="00" relocatable="true" max_length="0">
+			<original>ナマズをとりかえす！</original>
+			<edited>ナマズをとりかえす！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Request_00-T_Request_00" offset="00" relocatable="true" max_length="0">
+			<original>ブキチリクエストあり！</original>
+			<edited>ブキチリクエストあり！</edited>
+			<subEntries />
+		</entry>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

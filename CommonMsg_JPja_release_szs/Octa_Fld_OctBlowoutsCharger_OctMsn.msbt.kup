@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>フルチャージなら、複数のピロピロを 撃ちぬけまス</original>
+			<edited>フルチャージなら、複数のピロピロを 撃ちぬけまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ピロピロの先がピロピロしたら 巻きもどってくる合図でス</original>
+			<edited>ピロピロの先がピロピロしたら 巻きもどってくる合図でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>その時は、ピロピロ部分には 近づかないほうがよいでス</original>
+			<edited>その時は、ピロピロ部分には 近づかないほうがよいでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="BlowoutsCharger_0000" offset="00" relocatable="true" max_length="0">
+			<original>無茶すんなー…</original>
+			<edited>無茶すんなー…</edited>
+			<subEntries />
+		</entry>
+		<entry name="BlowoutsCharger_0001" offset="00" relocatable="true" max_length="0">
+			<original>下にゴールですが、インクが届きそうにないですね</original>
+			<edited>下にゴールですが、インクが届きそうにないですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="BlowoutsCharger_0002" offset="00" relocatable="true" max_length="0">
+			<original>ふむ、やりおる！</original>
+			<edited>ふむ、やりおる！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BlowoutsCharger_0003" offset="00" relocatable="true" max_length="0">
+			<original>ここは、ボムを時間差で うまく使えれば…</original>
+			<edited>ここは、ボムを時間差で うまく使えれば…</edited>
+			<subEntries />
+		</entry>
+		<entry name="BlowoutsCharger_0004" offset="00" relocatable="true" max_length="0">
+			<original>ナイス！ テクいゾ、ハチ！</original>
+			<edited>ナイス！ テクいゾ、ハチ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BlowoutsCharger_0005" offset="00" relocatable="true" max_length="0">
+			<original>ズバッといくんじゃ！ ズバーーッと！</original>
+			<edited>ズバッといくんじゃ！ ズバーーッと！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BlowoutsCharger_0006" offset="00" relocatable="true" max_length="0">
+			<original>ヤバそーなヤツが ねらってくるゾ！</original>
+			<edited>ヤバそーなヤツが ねらってくるゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BlowoutsCharger_0007" offset="00" relocatable="true" max_length="0">
+			<original>ボム風船とピロピロが いっぱいですね…</original>
+			<edited>ボム風船とピロピロが いっぱいですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="BlowoutsCharger_0008" offset="00" relocatable="true" max_length="0">
+			<original>イチかバチかじゃ！</original>
+			<edited>イチかバチかじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BlowoutsCharger_0009" offset="00" relocatable="true" max_length="0">
+			<original>セーフ！ ヒヤッとしましたね！</original>
+			<edited>セーフ！ ヒヤッとしましたね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BlowoutsCharger_0010" offset="00" relocatable="true" max_length="0">
+			<original>って何もないじゃん！</original>
+			<edited>って何もないじゃん！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BlowoutsCharger_0011" offset="00" relocatable="true" max_length="0">
+			<original>バシュッとな！</original>
+			<edited>バシュッとな！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

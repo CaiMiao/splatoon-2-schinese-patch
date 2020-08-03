@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>時間内に 全ての箱マトを壊してくださイ</original>
+			<edited>時間内に 全ての箱マトを壊してくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>「振り」と「塗り進み」の使い分けが重要でス</original>
+			<edited>「振り」と「塗り進み」の使い分けが重要でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>インクを回復するタイミングを 見極めてくださイ</original>
+			<edited>インクを回復するタイミングを 見極めてくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BrushRush_0001" offset="00" relocatable="true" max_length="0">
+			<original>カウントダウンが 始まったぞィ！</original>
+			<edited>カウントダウンが 始まったぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BrushRush_0002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しの塗り進みでも マトを破壊できますよ</original>
+			<edited>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しの塗り進みでも マトを破壊できますよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BrushRush_0003" offset="00" relocatable="true" max_length="0">
+			<original>ライドレールにセンプクで インク回復できそうです</original>
+			<edited>ライドレールにセンプクで インク回復できそうです</edited>
+			<subEntries />
+		</entry>
+		<entry name="BrushRush_0004" offset="00" relocatable="true" max_length="0">
+			<original>カーリングボムで道を作れるゾ！ 風になれ！ 風を感じろ！</original>
+			<edited>カーリングボムで道を作れるゾ！ 風になれ！ 風を感じろ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BrushRush_0005" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプマットに乗って&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで 高くとべます♪</original>
+			<edited>ジャンプマットに乗って&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで 高くとべます♪</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

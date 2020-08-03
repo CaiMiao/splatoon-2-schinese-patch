@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="First_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿへようこそ！
+ここからバトルに参加できるぞ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿへようこそ！
+ここからバトルに参加できるぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_01" offset="00" relocatable="true" max_length="0">
+			<original>バトルに参加することで
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク&#xE;&#x0;&#x3;&#x2;ÿÿが上がったり、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;おカネ&#xE;&#x0;&#x3;&#x2;ÿÿがもらえたりする！</original>
+			<edited>バトルに参加することで
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク&#xE;&#x0;&#x3;&#x2;ÿÿが上がったり、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;おカネ&#xE;&#x0;&#x3;&#x2;ÿÿがもらえたりする！</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_02" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク&#xE;&#x0;&#x3;&#x2;ÿÿが上がると
+ショップで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;買えるモノ&#xE;&#x0;&#x3;&#x2;ÿÿが増えたり…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク&#xE;&#x0;&#x3;&#x2;ÿÿが上がると
+ショップで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;買えるモノ&#xE;&#x0;&#x3;&#x2;ÿÿが増えたり…</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_03" offset="00" relocatable="true" max_length="0">
+			<original>バトルの &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;新しいモード&#xE;&#x0;&#x3;&#x2;ÿÿが遊べたり…
+イカした要素が増えていくぞ！</original>
+			<edited>バトルの &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;新しいモード&#xE;&#x0;&#x3;&#x2;ÿÿが遊べたり…
+イカした要素が増えていくぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_04" offset="00" relocatable="true" max_length="0">
+			<original>ショップでブキやギアを買うには
+バトルで貯めた &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;おカネ&#xE;&#x0;&#x3;&#x2;ÿÿが必要になる！</original>
+			<edited>ショップでブキやギアを買うには
+バトルで貯めた &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;おカネ&#xE;&#x0;&#x3;&#x2;ÿÿが必要になる！</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_05" offset="00" relocatable="true" max_length="0">
+			<original>サイコーにイカしたヤツを目指すなら、
+とにかく バトルをくり返すことが重要！</original>
+			<edited>サイコーにイカしたヤツを目指すなら、
+とにかく バトルをくり返すことが重要！</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_06" offset="00" relocatable="true" max_length="0">
+			<original>まずは、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;レギュラーマッチ&#xE;&#x0;&#x3;&#x2;ÿÿを選んでみよう！
+習うより慣れろだ！ これマジ！</original>
+			<edited>まずは、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;レギュラーマッチ&#xE;&#x0;&#x3;&#x2;ÿÿを選んでみよう！
+習うより慣れろだ！ これマジ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_07" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク&#xE;&#x0;&#x3;&#x2;ÿÿが上がったら 広場の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ショップ&#xE;&#x0;&#x3;&#x2;ÿÿに行って
+店員に話しかけるのを忘れずに！ では、けんとうをいのる！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク&#xE;&#x0;&#x3;&#x2;ÿÿが上がったら 広場の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ショップ&#xE;&#x0;&#x3;&#x2;ÿÿに行って
+店員に話しかけるのを忘れずに！ では、けんとうをいのる！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstFest_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿへようこそ！
+ここからバトルに参加できるぞ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿへようこそ！
+ここからバトルに参加できるぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstFest_01" offset="00" relocatable="true" max_length="0">
+			<original>バトルに参加することで
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク&#xE;&#x0;&#x3;&#x2;ÿÿが上がったり、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;おカネ&#xE;&#x0;&#x3;&#x2;ÿÿがもらえたりする！</original>
+			<edited>バトルに参加することで
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク&#xE;&#x0;&#x3;&#x2;ÿÿが上がったり、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;おカネ&#xE;&#x0;&#x3;&#x2;ÿÿがもらえたりする！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstFest_02" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク&#xE;&#x0;&#x3;&#x2;ÿÿが上がると
+ショップで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;買えるモノ&#xE;&#x0;&#x3;&#x2;ÿÿが増えたり…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク&#xE;&#x0;&#x3;&#x2;ÿÿが上がると
+ショップで&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;買えるモノ&#xE;&#x0;&#x3;&#x2;ÿÿが増えたり…</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstFest_03" offset="00" relocatable="true" max_length="0">
+			<original>バトルの &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;新しいモード&#xE;&#x0;&#x3;&#x2;ÿÿが遊べたり…
+イカした要素が増えていくぞ！</original>
+			<edited>バトルの &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;新しいモード&#xE;&#x0;&#x3;&#x2;ÿÿが遊べたり…
+イカした要素が増えていくぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstFest_04" offset="00" relocatable="true" max_length="0">
+			<original>ショップでブキやギアを買うには
+バトルで貯めた &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;おカネ&#xE;&#x0;&#x3;&#x2;ÿÿが必要になる！</original>
+			<edited>ショップでブキやギアを買うには
+バトルで貯めた &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;おカネ&#xE;&#x0;&#x3;&#x2;ÿÿが必要になる！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstFest_05" offset="00" relocatable="true" max_length="0">
+			<original>サイコーにイカしたヤツを目指すなら、
+とにかく バトルをくり返すことが重要！</original>
+			<edited>サイコーにイカしたヤツを目指すなら、
+とにかく バトルをくり返すことが重要！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstFest_06" offset="00" relocatable="true" max_length="0">
+			<original>今は &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェス&#xE;&#x0;&#x3;&#x2;ÿÿが開催されている！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェス投票所&#xE;&#x0;&#x3;&#x2;ÿÿで 投票したら参加できるぞ！</original>
+			<edited>今は &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェス&#xE;&#x0;&#x3;&#x2;ÿÿが開催されている！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェス投票所&#xE;&#x0;&#x3;&#x2;ÿÿで 投票したら参加できるぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstFest_07" offset="00" relocatable="true" max_length="0">
+			<original>投票したら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿで &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェスマッチ&#xE;&#x0;&#x3;&#x2;ÿÿを選んでみよう！
+習うより慣れろだ！ これマジ！</original>
+			<edited>投票したら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿで &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェスマッチ&#xE;&#x0;&#x3;&#x2;ÿÿを選んでみよう！
+習うより慣れろだ！ これマジ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEve_00" offset="00" relocatable="true" max_length="0">
+			<original>前夜祭では ケイケン値やおカネ、
+スーパーサザエは手に入りません</original>
+			<edited>前夜祭では ケイケン値やおカネ、
+スーパーサザエは手に入りません</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEve_01" offset="00" relocatable="true" max_length="0">
+			<original>また、製品版「スプラトゥーン2」への
+セーブデータの引き継ぎは 行われません</original>
+			<edited>また、製品版「スプラトゥーン2」への
+セーブデータの引き継ぎは 行われません</edited>
+			<subEntries />
+		</entry>
+		<entry name="GachiOpen_00" offset="00" relocatable="true" max_length="0">
+			<original>一人前のイカしたプレイヤーになったキミへ！
+ついに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ガチマッチ&#xE;&#x0;&#x3;&#x2;ÿÿが遊べるようになったぞ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ガチマッチ&#xE;&#x0;&#x3;&#x2;ÿÿは さらなるシゲキを求めて遊ぶ
+エクストリームなルールのバトルだ！&#xE;&#x0;&#x4;&#x0;ガチマッチには いくつかのルールがあるぞ
+&#xE;&#x2;!&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でルール確認をしておこう！&#xE;&#x0;&#x4;&#x0;もちろん、 これまで通り レギュラーマッチでも
+ケイケン値がもらえるから 好きな方に参加してほしい</original>
+			<edited>一人前のイカしたプレイヤーになったキミへ！
+ついに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ガチマッチ&#xE;&#x0;&#x3;&#x2;ÿÿが遊べるようになったぞ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ガチマッチ&#xE;&#x0;&#x3;&#x2;ÿÿは さらなるシゲキを求めて遊ぶ
+エクストリームなルールのバトルだ！&#xE;&#x0;&#x4;&#x0;ガチマッチには いくつかのルールがあるぞ
+&#xE;&#x2;!&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でルール確認をしておこう！&#xE;&#x0;&#x4;&#x0;もちろん、 これまで通り レギュラーマッチでも
+ケイケン値がもらえるから 好きな方に参加してほしい</edited>
+			<subEntries />
+		</entry>
+		<entry name="LeagueOpen_00" offset="00" relocatable="true" max_length="0">
+			<original>ウデマエB－以上になったキミへ！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;リーグマッチ&#xE;&#x0;&#x3;&#x2;ÿÿへの参加権を得たぞ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;リーグマッチ&#xE;&#x0;&#x3;&#x2;ÿÿは友達とペアやチームを組んで
+ウデ試しをするモードだ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;!&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でルール確認をすませたら
+友達をさそって チャレンジしてみよう！</original>
+			<edited>ウデマエB－以上になったキミへ！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;リーグマッチ&#xE;&#x0;&#x3;&#x2;ÿÿへの参加権を得たぞ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;リーグマッチ&#xE;&#x0;&#x3;&#x2;ÿÿは友達とペアやチームを組んで
+ウデ試しをするモードだ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;!&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でルール確認をすませたら
+友達をさそって チャレンジしてみよう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="StarRankOpen_00" offset="00" relocatable="true" max_length="0">
+			<original>数々のバトルを のりこえてきたキミへ！
+ついに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク９９&#xE;&#x0;&#x3;&#x2;ÿÿになったようだな！ おめでとう！&#xE;&#x0;&#x4;&#x0;広場に キミと話したいやつがいるらしいぞ！
+一度もどって 話しかけてみてくれ！</original>
+			<edited>数々のバトルを のりこえてきたキミへ！
+ついに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク９９&#xE;&#x0;&#x3;&#x2;ÿÿになったようだな！ おめでとう！&#xE;&#x0;&#x4;&#x0;広場に キミと話したいやつがいるらしいぞ！
+一度もどって 話しかけてみてくれ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="UdemaeXOpen_00" offset="00" relocatable="true" max_length="0">
+			<original>ガチマッチの頂点に たどり着いたキミへ！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ウデマエＸ&#xE;&#x0;&#x3;&#x2;ÿÿ への昇格おめでとう！&#xE;&#x0;&#x4;&#x0;ここからのガチマッチは、ウデマエメーターの代わりに
+勝敗で変化する &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;Ｘパワー&#xE;&#x0;&#x3;&#x2;ÿÿをかけてバトルを行うんだ&#xE;&#x0;&#x4;&#x0;Ｘパワーが上位に入ると、 ランキングにも表示されるぞ！
+ランキングは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカリング２&#xE;&#x0;&#x3;&#x2;ÿÿで確認してくれ&#xE;&#x0;&#x4;&#x0;ランキングは おおよそ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;１か月に１度リセット&#xE;&#x0;&#x3;&#x2;ÿÿされるぞ
+毎月新たな気持ちで ガチマッチに挑むんだ！</original>
+			<edited>ガチマッチの頂点に たどり着いたキミへ！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ウデマエＸ&#xE;&#x0;&#x3;&#x2;ÿÿ への昇格おめでとう！&#xE;&#x0;&#x4;&#x0;ここからのガチマッチは、ウデマエメーターの代わりに
+勝敗で変化する &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;Ｘパワー&#xE;&#x0;&#x3;&#x2;ÿÿをかけてバトルを行うんだ&#xE;&#x0;&#x4;&#x0;Ｘパワーが上位に入ると、 ランキングにも表示されるぞ！
+ランキングは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカリング２&#xE;&#x0;&#x3;&#x2;ÿÿで確認してくれ&#xE;&#x0;&#x4;&#x0;ランキングは おおよそ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;１か月に１度リセット&#xE;&#x0;&#x3;&#x2;ÿÿされるぞ
+毎月新たな気持ちで ガチマッチに挑むんだ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="UdemaeXOpen_01" offset="00" relocatable="true" max_length="0">
+			<original>ランキングがリセットされるとき
+Ｘパワーが 一定より小さいと Ｓ＋９に降格してしまう&#xE;&#x0;&#x4;&#x0;また、Ｘパワーが 一定より大幅に下がると
+その場で Ｓ＋９へ降格だ！&#xE;&#x0;&#x4;&#x0;そうならないよう、実力を発揮してくれ！
+では、けんとうをいのる！</original>
+			<edited>ランキングがリセットされるとき
+Ｘパワーが 一定より小さいと Ｓ＋９に降格してしまう&#xE;&#x0;&#x4;&#x0;また、Ｘパワーが 一定より大幅に下がると
+その場で Ｓ＋９へ降格だ！&#xE;&#x0;&#x4;&#x0;そうならないよう、実力を発揮してくれ！
+では、けんとうをいのる！</edited>
+			<subEntries />
+		</entry>
+		<entry name="UdemaeXOpen_EndCalico_00" offset="00" relocatable="true" max_length="0">
+			<original>ガチマッチの頂点に たどり着いたキミへ！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ウデマエＸ&#xE;&#x0;&#x3;&#x2;ÿÿ への昇格おめでとう！&#xE;&#x0;&#x4;&#x0;ここからのガチマッチは、ウデマエメーターの代わりに
+勝敗で変化する &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;Ｘパワー&#xE;&#x0;&#x3;&#x2;ÿÿをかけてバトルを行うんだ&#xE;&#x0;&#x4;&#x0;Ｘパワーが上位に入ると、
+順位も表示されるようになるぞ！&#xE;&#x0;&#x4;&#x0;順位は おおよそ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;１か月に１度リセット&#xE;&#x0;&#x3;&#x2;ÿÿされるぞ
+毎月新たな気持ちで ガチマッチに挑むんだ！</original>
+			<edited>ガチマッチの頂点に たどり着いたキミへ！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ウデマエＸ&#xE;&#x0;&#x3;&#x2;ÿÿ への昇格おめでとう！&#xE;&#x0;&#x4;&#x0;ここからのガチマッチは、ウデマエメーターの代わりに
+勝敗で変化する &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;Ｘパワー&#xE;&#x0;&#x3;&#x2;ÿÿをかけてバトルを行うんだ&#xE;&#x0;&#x4;&#x0;Ｘパワーが上位に入ると、
+順位も表示されるようになるぞ！&#xE;&#x0;&#x4;&#x0;順位は おおよそ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;１か月に１度リセット&#xE;&#x0;&#x3;&#x2;ÿÿされるぞ
+毎月新たな気持ちで ガチマッチに挑むんだ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="UdemaeXOpen_EndCalico_01" offset="00" relocatable="true" max_length="0">
+			<original>順位がリセットされるとき
+Ｘパワーが 一定より小さいと Ｓ＋９に降格してしまう&#xE;&#x0;&#x4;&#x0;また、Ｘパワーが 一定より大幅に下がると
+その場で Ｓ＋９へ降格だ！&#xE;&#x0;&#x4;&#x0;そうならないよう、実力を発揮してくれ！
+では、けんとうをいのる！</original>
+			<edited>順位がリセットされるとき
+Ｘパワーが 一定より小さいと Ｓ＋９に降格してしまう&#xE;&#x0;&#x4;&#x0;また、Ｘパワーが 一定より大幅に下がると
+その場で Ｓ＋９へ降格だ！&#xE;&#x0;&#x4;&#x0;そうならないよう、実力を発揮してくれ！
+では、けんとうをいのる！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

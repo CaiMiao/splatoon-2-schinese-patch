@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>マダ 行カナイ</original>
+			<edited>マダ 行カナイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>行ク！</original>
+			<edited>行ク！</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>ヤッパ ヤメタ</original>
+			<edited>ヤッパ ヤメタ</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>ホントニ 行ク！</original>
+			<edited>ホントニ 行ク！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>ソンナニ言ウナラ ヤメル</original>
+			<edited>ソンナニ言ウナラ ヤメル</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>ＯＫ！</original>
+			<edited>ＯＫ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>チガウ…</original>
+			<edited>チガウ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>イイカンジ！</original>
+			<edited>イイカンジ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>ヤッパ前ノガイイ…</original>
+			<edited>ヤッパ前ノガイイ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>コレダ！</original>
+			<edited>コレダ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>チョットマッテ！</original>
+			<edited>チョットマッテ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>マチガイナイ！</original>
+			<edited>マチガイナイ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

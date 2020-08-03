@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Fld_OctLastBoss00_OctMsn" offset="00" relocatable="true" max_length="0">
+			<original>８号は敵から身をかくし、
+もぐりこむことに成功したのである…</original>
+			<edited>８号は敵から身をかくし、
+もぐりこむことに成功したのである…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Fld_OctLastBoss01_OctMsn" offset="00" relocatable="true" max_length="0">
+			<original>８号はブキを手に入れ、
+さらに上層を目指すのであった…</original>
+			<edited>８号はブキを手に入れ、
+さらに上層を目指すのであった…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Fld_OctLastBoss02_OctMsn" offset="00" relocatable="true" max_length="0">
+			<original>８号は道なき道を乗りこえ、
+先に進むのであった…</original>
+			<edited>８号は道なき道を乗りこえ、
+先に進むのであった…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Fld_OctLastBoss03_OctMsn" offset="00" relocatable="true" max_length="0">
+			<original>８号は敵のトラップをくぐり抜け、
+エネルギーコアを目指すのであった…</original>
+			<edited>８号は敵のトラップをくぐり抜け、
+エネルギーコアを目指すのであった…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Fld_OctLastBoss04_OctMsn" offset="00" relocatable="true" max_length="0">
+			<original>８号は全てのロックを解除したが、
+エネルギーコアはどこかへ飛び去ってしまった…</original>
+			<edited>８号は全てのロックを解除したが、
+エネルギーコアはどこかへ飛び去ってしまった…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Fld_OctLastBoss05_OctMsn" offset="00" relocatable="true" max_length="0">
+			<original>８号はエネルギーコアを守りぬき、
+電源にセットしたのである…</original>
+			<edited>８号はエネルギーコアを守りぬき、
+電源にセットしたのである…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Fld_OctLastBoss06_OctMsn" offset="00" relocatable="true" max_length="0">
+			<original>８号は最強の戦士３号との激闘の末、
+からくも３号を気絶させるに至った…</original>
+			<edited>８号は最強の戦士３号との激闘の末、
+からくも３号を気絶させるに至った…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Fld_OctBoss_OctMsn" offset="00" relocatable="true" max_length="0">
+			<original>８号は全てをネリかえそうとする巨像の全身を、
+塗りたくることに成功したのであった……</original>
+			<edited>８号は全てをネリかえそうとする巨像の全身を、
+塗りたくることに成功したのであった……</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

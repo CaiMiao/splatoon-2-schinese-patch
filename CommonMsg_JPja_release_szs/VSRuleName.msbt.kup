@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="cPnt" offset="00" relocatable="true" max_length="0">
+			<original>ナワバリバトル</original>
+			<edited>涂地为王</edited>
+			<subEntries />
+		</entry>
+		<entry name="cPnt_2L" offset="00" relocatable="true" max_length="0">
+			<original>ナワバリ
+バトル</original>
+			<edited>涂地
+为王</edited>
+			<subEntries />
+		</entry>
+		<entry name="cVgl" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコバトル</original>
+			<edited>认真鱼虎战</edited>
+			<subEntries />
+		</entry>
+		<entry name="cVgl_2L" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコ
+バトル</original>
+			<edited>认真
+鱼虎战</edited>
+			<subEntries />
+		</entry>
+		<entry name="cVar" offset="00" relocatable="true" max_length="0">
+			<original>ガチエリア</original>
+			<edited>认真守地战</edited>
+			<subEntries />
+		</entry>
+		<entry name="cVar_2L" offset="00" relocatable="true" max_length="0">
+			<original>ガチ
+エリア</original>
+			<edited>认真
+守地战</edited>
+			<subEntries />
+		</entry>
+		<entry name="cVlf" offset="00" relocatable="true" max_length="0">
+			<original>ガチヤグラ</original>
+			<edited>认真推塔战</edited>
+			<subEntries />
+		</entry>
+		<entry name="cVlf_2L" offset="00" relocatable="true" max_length="0">
+			<original>ガチ
+ヤグラ</original>
+			<edited>认真
+推塔战</edited>
+			<subEntries />
+		</entry>
+		<entry name="cVcl" offset="00" relocatable="true" max_length="0">
+			<original>ガチアサリ</original>
+			<edited>认真夺蛤战</edited>
+			<subEntries />
+		</entry>
+		<entry name="cVcl_2L" offset="00" relocatable="true" max_length="0">
+			<original>ガチ
+アサリ</original>
+			<edited>认真
+夺蛤战</edited>
+			<subEntries />
+		</entry>
+		<entry name="cFes" offset="00" relocatable="true" max_length="0">
+			<original>ナワバリバトル（フェス）</original>
+			<edited>涂地为王（FES）</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

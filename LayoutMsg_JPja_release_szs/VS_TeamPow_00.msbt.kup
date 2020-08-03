@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>推定 &#xE;ú&#x3;&#x4;&#x0;&#x0;&#x1;Í &#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Í パワー</original>
+			<edited>推定 &#xE;ú&#x3;&#x4;&#x0;&#x0;&#x1;Í &#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Í パワー</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>推定 &#xE;ú&#x3;&#x4;&#x0;&#x0;&#x1;Í リーグパワー</original>
+			<edited>推定 &#xE;ú&#x3;&#x4;&#x0;&#x0;&#x1;Í リーグパワー</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>× &#xE;ú&#x2;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>× &#xE;ú&#x2;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>チームの連勝数：&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í</original>
+			<edited>チームの連勝数：&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Yeah_01" offset="00" relocatable="true" max_length="0">
+			<original>イカす！</original>
+			<edited>イカす！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Report_00" offset="00" relocatable="true" max_length="0">
+			<original>通報</original>
+			<edited>通報</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

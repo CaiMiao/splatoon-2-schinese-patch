@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>時間内に全ての敵を倒してくださイ</original>
+			<edited>時間内に全ての敵を倒してくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>でんでんスイッチは インクに反応しまス</original>
+			<edited>でんでんスイッチは インクに反応しまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>でんでんスイッチで 敵を近づけて遠ざけテ…</original>
+			<edited>でんでんスイッチで 敵を近づけて遠ざけテ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="DendenSnipe_0001" offset="00" relocatable="true" max_length="0">
+			<original>ひぃふぅみぃ… 敵さん、残り１０体じゃ！</original>
+			<edited>ひぃふぅみぃ… 敵さん、残り１０体じゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DendenSnipe_0002" offset="00" relocatable="true" max_length="0">
+			<original>敵、残存数３体！</original>
+			<edited>敵、残存数３体！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DendenSnipe_0003" offset="00" relocatable="true" max_length="0">
+			<original>敵、残り１体！ 気合じゃ、８号！</original>
+			<edited>敵、残り１体！ 気合じゃ、８号！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DendenSnipe_0004" offset="00" relocatable="true" max_length="0">
+			<original>ひゅー！ やるな、ハチ！</original>
+			<edited>ひゅー！ やるな、ハチ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DendenSnipe_0005" offset="00" relocatable="true" max_length="0">
+			<original>もーちょいだ！ やっちまえ、ハチ！</original>
+			<edited>もーちょいだ！ やっちまえ、ハチ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DendenSnipe_0006" offset="00" relocatable="true" max_length="0">
+			<original>ってことは あと半分！</original>
+			<edited>ってことは あと半分！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DendenSnipe_0007" offset="00" relocatable="true" max_length="0">
+			<original>ちょっと急いだほうがよさそうです！</original>
+			<edited>ちょっと急いだほうがよさそうです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DendenSnipe_0008" offset="00" relocatable="true" max_length="0">
+			<original>でんでんスイッチ回すと、全部回んだな！</original>
+			<edited>でんでんスイッチ回すと、全部回んだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DendenSnipe_0009" offset="00" relocatable="true" max_length="0">
+			<original>マルチミサイル！ 相手が動いてると当たんねーかんな！</original>
+			<edited>マルチミサイル！ 相手が動いてると当たんねーかんな！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

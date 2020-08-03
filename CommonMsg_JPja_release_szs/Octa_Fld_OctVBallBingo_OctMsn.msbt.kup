@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>エイトボール４球で ビンゴを完成させるのでス</original>
+			<edited>エイトボール４球で ビンゴを完成させるのでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>タテ・ヨコ・ナナメのどれか ３つボールをそろえてくださイ</original>
+			<edited>タテ・ヨコ・ナナメのどれか ３つボールをそろえてくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>ボールが穴に入ると 次のボールが出てきまス</original>
+			<edited>ボールが穴に入ると 次のボールが出てきまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallBingo_0000" offset="00" relocatable="true" max_length="0">
+			<original>キャノンで ボールをブッ飛ばすみたいだな</original>
+			<edited>キャノンで ボールをブッ飛ばすみたいだな</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallBingo_0001" offset="00" relocatable="true" max_length="0">
+			<original>タテ・ヨコ・ナナメ、どれを ねらいましょう？</original>
+			<edited>タテ・ヨコ・ナナメ、どれを ねらいましょう？</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallBingo_0002" offset="00" relocatable="true" max_length="0">
+			<original>おっ タマコロちゃんが出たぞィ！</original>
+			<edited>おっ タマコロちゃんが出たぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallBingo_0003" offset="00" relocatable="true" max_length="0">
+			<original>穴に入ると 次のエイトボールが出るみたいですね</original>
+			<edited>穴に入ると 次のエイトボールが出るみたいですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallBingo_0004" offset="00" relocatable="true" max_length="0">
+			<original>こりゃあ 幸先いいわィ！</original>
+			<edited>こりゃあ 幸先いいわィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallBingo_0005" offset="00" relocatable="true" max_length="0">
+			<original>リーチ きたーっ！</original>
+			<edited>リーチ きたーっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallBingo_0006" offset="00" relocatable="true" max_length="0">
+			<original>ィよーし！ 立直じゃ！</original>
+			<edited>ィよーし！ 立直じゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallBingo_0007" offset="00" relocatable="true" max_length="0">
+			<original>４球目！ これで決めてください！</original>
+			<edited>４球目！ これで決めてください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallBingo_0008" offset="00" relocatable="true" max_length="0">
+			<original>このままじゃビンゴに ならないですね…</original>
+			<edited>このままじゃビンゴに ならないですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallBingo_0009" offset="00" relocatable="true" max_length="0">
+			<original>気合で ほじくりかえすんじゃッ！</original>
+			<edited>気合で ほじくりかえすんじゃッ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>アオリだよ！
+いま ちょっとだけ遠くに行ってて
+そっちに行けないの！
+
+いつ もどるか わかんないけど…
+いつか会えますように！ またね！</original>
+			<edited>アオリだよ！
+いま ちょっとだけ遠くに行ってて
+そっちに行けないの！
+
+いつ もどるか わかんないけど…
+いつか会えますように！ またね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>やっほ～ ホタルだよ
+いまね、ちょっと用事があって
+タコツボキャニオンに 来てるんよ
+
+いろいろ片付いたら 会えると思うし
+またね～</original>
+			<edited>やっほ～ ホタルだよ
+いまね、ちょっと用事があって
+タコツボキャニオンに 来てるんよ
+
+いろいろ片付いたら 会えると思うし
+またね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>アオリの手紙</original>
+			<edited>アオリの手紙</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>ホタルの手紙</original>
+			<edited>ホタルの手紙</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

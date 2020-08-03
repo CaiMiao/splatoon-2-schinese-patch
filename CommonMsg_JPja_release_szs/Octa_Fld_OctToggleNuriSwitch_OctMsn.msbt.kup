@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>きりかえ式スイッチは、塗られると しかけがもどりまス</original>
+			<edited>きりかえ式スイッチは、塗られると しかけがもどりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>きりかえ式スイッチを塗ったら すぐに移動しましょウ</original>
+			<edited>きりかえ式スイッチを塗ったら すぐに移動しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>塗られても、あわてず 落ち着いて塗り返しましょウ</original>
+			<edited>塗られても、あわてず 落ち着いて塗り返しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="ToggleNuriSwitch_0000" offset="00" relocatable="true" max_length="0">
+			<original>なんだこのスイッチ？</original>
+			<edited>なんだこのスイッチ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="ToggleNuriSwitch_0001" offset="00" relocatable="true" max_length="0">
+			<original>きりかえ式スイッチを 塗り返される前に進みましょう！</original>
+			<edited>きりかえ式スイッチを 塗り返される前に進みましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ToggleNuriSwitch_0002" offset="00" relocatable="true" max_length="0">
+			<original>ハチ、やるな！</original>
+			<edited>ハチ、やるな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ToggleNuriSwitch_0003" offset="00" relocatable="true" max_length="0">
+			<original>タコスナイパーを確認！ 注意されたしーッ！</original>
+			<edited>タコスナイパーを確認！ 注意されたしーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ToggleNuriSwitch_0005" offset="00" relocatable="true" max_length="0">
+			<original>カベが動き出しました！</original>
+			<edited>カベが動き出しました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ToggleNuriSwitch_0006" offset="00" relocatable="true" max_length="0">
+			<original>タコドーザーの頭に ジャンプポイント発見！</original>
+			<edited>タコドーザーの頭に ジャンプポイント発見！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ToggleNuriSwitch_0007" offset="00" relocatable="true" max_length="0">
+			<original>これ全部塗るのか？！ やるしかねー！</original>
+			<edited>これ全部塗るのか？！ やるしかねー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ToggleNuriSwitch_0008" offset="00" relocatable="true" max_length="0">
+			<original>ゴールへ行けるようになったぞィ！ 行けィ、８号！</original>
+			<edited>ゴールへ行けるようになったぞィ！ 行けィ、８号！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

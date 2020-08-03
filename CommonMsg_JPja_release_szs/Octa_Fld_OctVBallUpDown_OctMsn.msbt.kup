@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>エイトボールをゴールへ導くのでス</original>
+			<edited>エイトボールをゴールへ導くのでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>エイトボールを敵に当てると ダメージをあたえられまス</original>
+			<edited>エイトボールを敵に当てると ダメージをあたえられまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>ダイタンかつセンサイに ショットするのでス</original>
+			<edited>ダイタンかつセンサイに ショットするのでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallUpDown_0000" offset="00" relocatable="true" max_length="0">
+			<original>ゲーーーーーーッ！！！</original>
+			<edited>ゲーーーーーーッ！！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallUpDown_0001" offset="00" relocatable="true" max_length="0">
+			<original>追いかけましょう！</original>
+			<edited>追いかけましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallUpDown_0002" offset="00" relocatable="true" max_length="0">
+			<original>エレベーター！ でも、ボールは乗せれなそーだな…</original>
+			<edited>エレベーター！ でも、ボールは乗せれなそーだな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallUpDown_0003" offset="00" relocatable="true" max_length="0">
+			<original>ヤッホーーーィ！！！</original>
+			<edited>ヤッホーーーィ！！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallUpDown_0004" offset="00" relocatable="true" max_length="0">
+			<original>ほれ！ いそいでカギを手に入れるんじゃ！</original>
+			<edited>ほれ！ いそいでカギを手に入れるんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallUpDown_0005" offset="00" relocatable="true" max_length="0">
+			<original>ドアの前に エイトボールのスイッチを発見です！</original>
+			<edited>ドアの前に エイトボールのスイッチを発見です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallUpDown_0006" offset="00" relocatable="true" max_length="0">
+			<original>上り坂になってんな</original>
+			<edited>上り坂になってんな</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallUpDown_0007" offset="00" relocatable="true" max_length="0">
+			<original>真ん中の手すりに、一度乗せましょ～</original>
+			<edited>真ん中の手すりに、一度乗せましょ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallUpDown_0008" offset="00" relocatable="true" max_length="0">
+			<original>ふぁんたすてぃっくじゃッ！</original>
+			<edited>ふぁんたすてぃっくじゃッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallUpDown_0009" offset="00" relocatable="true" max_length="0">
+			<original>シーソーは、一気に行きましょう！</original>
+			<edited>シーソーは、一気に行きましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallUpDown_0010" offset="00" relocatable="true" max_length="0">
+			<original>このボム風船でエイトボールを、飛ばしましょう！</original>
+			<edited>このボム風船でエイトボールを、飛ばしましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallUpDown_0011" offset="00" relocatable="true" max_length="0">
+			<original>タマコロちゃん、シーソーを わたりきったようじゃ！</original>
+			<edited>タマコロちゃん、シーソーを わたりきったようじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallUpDown_0012" offset="00" relocatable="true" max_length="0">
+			<original>遠くのシーソーが、下がった時な！</original>
+			<edited>遠くのシーソーが、下がった時な！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallUpDown_0013" offset="00" relocatable="true" max_length="0">
+			<original>カギ発見！ 確認されたしーッ！</original>
+			<edited>カギ発見！ 確認されたしーッ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

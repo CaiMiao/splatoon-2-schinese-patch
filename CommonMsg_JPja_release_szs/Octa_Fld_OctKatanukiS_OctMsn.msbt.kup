@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>左の見本と同じカタチに カタヌキしてくださイ</original>
+			<edited>左の見本と同じカタチに カタヌキしてくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>まちがった箱をケズると 失敗となりまス</original>
+			<edited>まちがった箱をケズると 失敗となりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>集中… とにかく集中でス</original>
+			<edited>集中… とにかく集中でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiS_0000" offset="00" relocatable="true" max_length="0">
+			<original>これと同じカタチに 右の木箱をケズるのか…</original>
+			<edited>これと同じカタチに 右の木箱をケズるのか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiS_0001" offset="00" relocatable="true" max_length="0">
+			<original>カタヌキみたいで わくわくしますね～♪</original>
+			<edited>カタヌキみたいで わくわくしますね～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiS_0002" offset="00" relocatable="true" max_length="0">
+			<original>じっくり 見本のカタチを確認しましょうか</original>
+			<edited>じっくり 見本のカタチを確認しましょうか</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiS_0003" offset="00" relocatable="true" max_length="0">
+			<original>ってか何だあれ？ どっかで見た気もするけど…</original>
+			<edited>ってか何だあれ？ どっかで見た気もするけど…</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiS_0004" offset="00" relocatable="true" max_length="0">
+			<original>８号さん！ 細部は落ち着いてケズりましょう！</original>
+			<edited>８号さん！ 細部は落ち着いてケズりましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiS_0005" offset="00" relocatable="true" max_length="0">
+			<original>うぅ… 一気に爆破してぇー！</original>
+			<edited>うぅ… 一気に爆破してぇー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiS_0006" offset="00" relocatable="true" max_length="0">
+			<original>…ん？ 完成してんじゃねーのか？ </original>
+			<edited>…ん？ 完成してんじゃねーのか？ </edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiS_0007" offset="00" relocatable="true" max_length="0">
+			<original>どこかにまだ ケズり残しがあるようですね…</original>
+			<edited>どこかにまだ ケズり残しがあるようですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiS_0008" offset="00" relocatable="true" max_length="0">
+			<original>うっし！ ゴールに向かえー！</original>
+			<edited>うっし！ ゴールに向かえー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiS_0009" offset="00" relocatable="true" max_length="0">
+			<original>え～っ？ じっくりと作品を見ていきましょ～よ</original>
+			<edited>え～っ？ じっくりと作品を見ていきましょ～よ</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiS_0010" offset="00" relocatable="true" max_length="0">
+			<original>フォッ！ ヘソクリのイクラじゃ！</original>
+			<edited>フォッ！ ヘソクリのイクラじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiS_0011" offset="00" relocatable="true" max_length="0">
+			<original>息を整え、落ち着けィ！ 戦場の鉄則じゃ！</original>
+			<edited>息を整え、落ち着けィ！ 戦場の鉄則じゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiS_0012" offset="00" relocatable="true" max_length="0">
+			<original>ってかフルオートはヤバい、ちょん押しで撃とーぜ</original>
+			<edited>ってかフルオートはヤバい、ちょん押しで撃とーぜ</edited>
+			<subEntries />
+		</entry>
+		<entry name="KatanukiS_0013" offset="00" relocatable="true" max_length="0">
+			<original>フルチャージだと、木箱をつきぬけるから 注意です！</original>
+			<edited>フルチャージだと、木箱をつきぬけるから 注意です！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

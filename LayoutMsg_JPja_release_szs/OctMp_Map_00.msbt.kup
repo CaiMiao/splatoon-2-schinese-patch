@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í/&#xE;ú&#x1;&#x4;&#x1;&#x0;&#x0;Í</original>
+			<edited>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í/&#xE;ú&#x1;&#x4;&#x1;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>とじる</original>
+			<edited>とじる</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_OptionBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>変更する</original>
+			<edited>変更する</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_01-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>ズームアウト</original>
+			<edited>ズームアウト</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_01-T_Info_01" offset="00" relocatable="true" max_length="0">
+			<original>ズームイン</original>
+			<edited>ズームイン</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_CollectionTitle_00" offset="00" relocatable="true" max_length="0">
+			<original>ネリメモリーズ</original>
+			<edited>ネリメモリーズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_LogBtn_00-T_Title_00" offset="00" relocatable="true" max_length="0">
+			<original>session#1</original>
+			<edited>session#1</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_LogBtn_01-T_Title_00" offset="00" relocatable="true" max_length="0">
+			<original>session#2</original>
+			<edited>session#2</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_LogBtn_02-T_Title_00" offset="00" relocatable="true" max_length="0">
+			<original>session#3</original>
+			<edited>session#3</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_LogBtn_03-T_Title_00" offset="00" relocatable="true" max_length="0">
+			<original>session#4</original>
+			<edited>session#4</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_LogBtn_04-T_Title_00" offset="00" relocatable="true" max_length="0">
+			<original>session#5</original>
+			<edited>session#5</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_LogBtn_05-T_Title_00" offset="00" relocatable="true" max_length="0">
+			<original>session#6</original>
+			<edited>session#6</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_LogBtn_06-T_Title_00" offset="00" relocatable="true" max_length="0">
+			<original>session#7</original>
+			<edited>session#7</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_LogBtn_07-T_Title_00" offset="00" relocatable="true" max_length="0">
+			<original>session#8</original>
+			<edited>session#8</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_LogBtn_08-T_Title_00" offset="00" relocatable="true" max_length="0">
+			<original>session#9</original>
+			<edited>session#9</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_LogBtn_09-T_Title_00" offset="00" relocatable="true" max_length="0">
+			<original>session#10</original>
+			<edited>session#10</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_LogBtn_10-T_Title_00" offset="00" relocatable="true" max_length="0">
+			<original>bonus track</original>
+			<edited>bonus track</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Back_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>もどる</original>
+			<edited>もどる</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_StationInfo_00-T_ChallengeFee_01" offset="00" relocatable="true" max_length="0">
+			<original>チャレンジ料</original>
+			<edited>チャレンジ料</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_MapTitle_00" offset="00" relocatable="true" max_length="0">
+			<original>深海メトロ路線図</original>
+			<edited>深海メトロ路線図</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Confirmation_00" offset="00" relocatable="true" max_length="0">
+			<original>チャレンジ料を払えませんが、
+この駅へ行きますか？</original>
+			<edited>チャレンジ料を払えませんが、
+この駅へ行きますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>やめとく</original>
+			<edited>不要了</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>行く！</original>
+			<edited>行く！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_OptionTitle_00" offset="00" relocatable="true" max_length="0">
+			<original>プレイヤー設定</original>
+			<edited>プレイヤー設定</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_OptionText_00" offset="00" relocatable="true" max_length="0">
+			<original>プレイヤーの性別、ハダの色、目の色、
+ヘアスタイルの設定を変更しますか？
+(セーブデータは受け継がれます)</original>
+			<edited>プレイヤーの性別、ハダの色、目の色、
+ヘアスタイルの設定を変更しますか？
+(セーブデータは受け継がれます)</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_LogTitle_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;♪&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;イイダの&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;CHAT&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;★&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x7;&#x0;ROOM&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x6;&#x0;♪&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;♪&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;イイダの&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;CHAT&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;★&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x7;&#x0;ROOM&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x6;&#x0;♪&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_02-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>くわしく</original>
+			<edited>くわしく</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

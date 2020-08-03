@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Udemae_Inv" offset="00" relocatable="true" max_length="0">
+			<original>---</original>
+			<edited>---</edited>
+			<subEntries />
+		</entry>
+		<entry name="Udemae_00" offset="00" relocatable="true" max_length="0">
+			<original>Ｃ-</original>
+			<edited>Ｃ-</edited>
+			<subEntries />
+		</entry>
+		<entry name="Udemae_01" offset="00" relocatable="true" max_length="0">
+			<original>Ｃ</original>
+			<edited>Ｃ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Udemae_02" offset="00" relocatable="true" max_length="0">
+			<original>Ｃ+</original>
+			<edited>Ｃ+</edited>
+			<subEntries />
+		</entry>
+		<entry name="Udemae_03" offset="00" relocatable="true" max_length="0">
+			<original>Ｂ-</original>
+			<edited>Ｂ-</edited>
+			<subEntries />
+		</entry>
+		<entry name="Udemae_04" offset="00" relocatable="true" max_length="0">
+			<original>Ｂ</original>
+			<edited>Ｂ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Udemae_05" offset="00" relocatable="true" max_length="0">
+			<original>Ｂ+</original>
+			<edited>Ｂ+</edited>
+			<subEntries />
+		</entry>
+		<entry name="Udemae_06" offset="00" relocatable="true" max_length="0">
+			<original>Ａ-</original>
+			<edited>Ａ-</edited>
+			<subEntries />
+		</entry>
+		<entry name="Udemae_07" offset="00" relocatable="true" max_length="0">
+			<original>Ａ</original>
+			<edited>Ａ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Udemae_08" offset="00" relocatable="true" max_length="0">
+			<original>Ａ+</original>
+			<edited>Ａ+</edited>
+			<subEntries />
+		</entry>
+		<entry name="Udemae_09" offset="00" relocatable="true" max_length="0">
+			<original>Ｓ</original>
+			<edited>Ｓ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Udemae_10" offset="00" relocatable="true" max_length="0">
+			<original>Ｓ+</original>
+			<edited>Ｓ+</edited>
+			<subEntries />
+		</entry>
+		<entry name="Udemae_20" offset="00" relocatable="true" max_length="0">
+			<original>Ｘ</original>
+			<edited>Ｘ</edited>
+			<subEntries />
+		</entry>
+		<entry name="XPower" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;û&#x3;&#x4;&#x0;&#x0;&#x0;Í</original>
+			<edited>&#xE;û&#x3;&#x4;&#x0;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="XPowerCount" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í/&#xE;ú&#x1;&#x4;&#x1;&#x0;&#x0;Í</original>
+			<edited>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í/&#xE;ú&#x1;&#x4;&#x1;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="XPowerRank" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x3;&#x4;&#x0;&#x0;&#x0;Í位</original>
+			<edited>&#xE;ú&#x3;&#x4;&#x0;&#x0;&#x0;Í位</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

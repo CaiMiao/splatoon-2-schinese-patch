@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>風船マト５０コ、全て壊してくださイ</original>
+			<edited>風船マト５０コ、全て壊してくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>風船マトは１つでも見のがすと アウトでス</original>
+			<edited>風船マトは１つでも見のがすと アウトでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>風船マトは すぐににげるので 急ぎましょウ</original>
+			<edited>風船マトは すぐににげるので 急ぎましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="NigeBaloon_0001" offset="00" relocatable="true" max_length="0">
+			<original>これで半分じゃ！ 中だるみするなかれィ！</original>
+			<edited>これで半分じゃ！ 中だるみするなかれィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NigeBaloon_0002" offset="00" relocatable="true" max_length="0">
+			<original>あと１０コだゾ！</original>
+			<edited>あと１０コだゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NigeBaloon_0003" offset="00" relocatable="true" max_length="0">
+			<original>もう少しです！ がんばってください！</original>
+			<edited>もう少しです！ がんばってください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NigeBaloon_0004" offset="00" relocatable="true" max_length="0">
+			<original>風船マト どっか行っちゃうゾ！ 急げ！</original>
+			<edited>風船マト どっか行っちゃうゾ！ 急げ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

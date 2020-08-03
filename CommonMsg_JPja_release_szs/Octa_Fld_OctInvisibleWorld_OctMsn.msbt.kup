@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>見えないモノを見ましょウ</original>
+			<edited>見えないモノを見ましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>見えないカベに注意でス</original>
+			<edited>見えないカベに注意でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>あせりは禁物… 急がば回レ…</original>
+			<edited>あせりは禁物… 急がば回レ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="InvisibleWorld_0000" offset="00" relocatable="true" max_length="0">
+			<original>ん？！ これって…</original>
+			<edited>ん？！ これって…</edited>
+			<subEntries />
+		</entry>
+		<entry name="InvisibleWorld_0001" offset="00" relocatable="true" max_length="0">
+			<original>見えない地面です！ 塗って進みましょ～</original>
+			<edited>見えない地面です！ 塗って進みましょ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="InvisibleWorld_0002" offset="00" relocatable="true" max_length="0">
+			<original>地面が見えるまで、撃って撃って撃ちつくせィ！</original>
+			<edited>地面が見えるまで、撃って撃って撃ちつくせィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InvisibleWorld_0003" offset="00" relocatable="true" max_length="0">
+			<original>戦場の鉄則ゥ！</original>
+			<edited>戦場の鉄則ゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InvisibleWorld_0004" offset="00" relocatable="true" max_length="0">
+			<original>否ーーーーーッ！！</original>
+			<edited>否ーーーーーッ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InvisibleWorld_0005" offset="00" relocatable="true" max_length="0">
+			<original>仲良しさんですよね…</original>
+			<edited>仲良しさんですよね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="InvisibleWorld_0006" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプポイント発見！ 確認されたしーッ！</original>
+			<edited>ジャンプポイント発見！ 確認されたしーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InvisibleWorld_0007" offset="00" relocatable="true" max_length="0">
+			<original>シャオラー！</original>
+			<edited>シャオラー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InvisibleWorld_0008" offset="00" relocatable="true" max_length="0">
+			<original>ライドレールを発見しました♪</original>
+			<edited>ライドレールを発見しました♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="InvisibleWorld_0010" offset="00" relocatable="true" max_length="0">
+			<original>ゴールポイント発見、確認されたしーッ！</original>
+			<edited>ゴールポイント発見、確認されたしーッ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

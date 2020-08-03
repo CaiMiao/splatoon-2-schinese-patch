@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>ジャマなタコミサイルは ショットで倒しましょウ</original>
+			<edited>ジャマなタコミサイルは ショットで倒しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>タコッペリン号は 背中が弱点でス</original>
+			<edited>タコッペリン号は 背中が弱点でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>ジェットパックは &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で少しうきまス</original>
+			<edited>ジェットパックは &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で少しうきまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
+			<original>でんでんスイッチとひきよせポイントを 利用しましょウ</original>
+			<edited>でんでんスイッチとひきよせポイントを 利用しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Jetpack_0000" offset="00" relocatable="true" max_length="0">
+			<original>ジェットパックは 下に地面が無いと落ちちゃいます！</original>
+			<edited>ジェットパックは 下に地面が無いと落ちちゃいます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Jetpack_0002" offset="00" relocatable="true" max_length="0">
+			<original>その調子じゃッ！</original>
+			<edited>その調子じゃッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Jetpack_0003" offset="00" relocatable="true" max_length="0">
+			<original>ふぁびゅらすじゃ！</original>
+			<edited>ふぁびゅらすじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Jetpack_0004" offset="00" relocatable="true" max_length="0">
+			<original>タコッペリン号は、タコ足を撃てば 倒せます！</original>
+			<edited>タコッペリン号は、タコ足を撃てば 倒せます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Jetpack_0005" offset="00" relocatable="true" max_length="0">
+			<original>ヤッホー！ いいながめ！</original>
+			<edited>ヤッホー！ いいながめ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Jetpack_0006" offset="00" relocatable="true" max_length="0">
+			<original>ひきよせポイント発見！ 確認されたしーッ！</original>
+			<edited>ひきよせポイント発見！ 確認されたしーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Jetpack_0007" offset="00" relocatable="true" max_length="0">
+			<original>いいゾ！</original>
+			<edited>いいゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Jetpack_0008" offset="00" relocatable="true" max_length="0">
+			<original>ゴールポイントを発見しました！</original>
+			<edited>ゴールポイントを発見しました！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

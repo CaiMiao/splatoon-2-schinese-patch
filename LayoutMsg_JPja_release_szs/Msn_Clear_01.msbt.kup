@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Get" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Íゲット</original>
+			<edited>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í入手</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Bonus_00" offset="00" relocatable="true" max_length="0">
+			<original>イクラボーナス！</original>
+			<edited>イクラ奖励！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Time" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú	&#x4;&#x0;&#x0;&#x1;Í:&#xE;ú	&#x4;&#x1;&#x0;&#x1;Í</original>
+			<edited>&#xE;ú	&#x4;&#x0;&#x0;&#x1;Í:&#xE;ú	&#x4;&#x1;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Time_01" offset="00" relocatable="true" max_length="0">
+			<original>Time</original>
+			<edited>Time</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_New_00" offset="00" relocatable="true" max_length="0">
+			<original>記録更新！</original>
+			<edited>记录更新！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

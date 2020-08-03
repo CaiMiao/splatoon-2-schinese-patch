@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>位置取りが重要なチャレンジでス</original>
+			<edited>位置取りが重要なチャレンジでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ひきよせポイントにインクショットを当てると ワープしまス</original>
+			<edited>ひきよせポイントにインクショットを当てると ワープしまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>自分と相手の射程をつかみましょウ</original>
+			<edited>自分と相手の射程をつかみましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="WarpSnipe_0000" offset="00" relocatable="true" max_length="0">
+			<original>敵、かたっぱしから ブッ倒してくゾ！</original>
+			<edited>敵、かたっぱしから ブッ倒してくゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="WarpSnipe_0001" offset="00" relocatable="true" max_length="0">
+			<original>残り１０体です！</original>
+			<edited>残り１０体です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="WarpSnipe_0002" offset="00" relocatable="true" max_length="0">
+			<original>あと３体だ！</original>
+			<edited>あと３体だ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="WarpSnipe_0003" offset="00" relocatable="true" max_length="0">
+			<original>残り１体！ 終わりよければ全てよし！ 戦場の鉄則ゥ！</original>
+			<edited>残り１体！ 終わりよければ全てよし！ 戦場の鉄則ゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="WarpSnipe_0004" offset="00" relocatable="true" max_length="0">
+			<original>敵の射程は、８号さんの射程より長いです！</original>
+			<edited>敵の射程は、８号さんの射程より長いです！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

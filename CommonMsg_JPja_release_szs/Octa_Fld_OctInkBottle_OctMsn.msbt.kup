@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここは センプクでインクを回復できませン</original>
+			<edited>ここは センプクでインクを回復できませン</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>インクが無くなると アウトでス</original>
+			<edited>インクが無くなると アウトでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>手おくれになる前に 補給インクで回復してくださイ</original>
+			<edited>手おくれになる前に 補給インクで回復してくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkBottle_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここはセンプクでは インクを回復できないようです</original>
+			<edited>ここはセンプクでは インクを回復できないようです</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkBottle_0001" offset="00" relocatable="true" max_length="0">
+			<original>ワシみたいに干からびんようにな</original>
+			<edited>ワシみたいに干からびんようにな</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkBottle_0002" offset="00" relocatable="true" max_length="0">
+			<original>残りのインク、よく見てけよー</original>
+			<edited>残りのインク、よく見てけよー</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkBottle_0003" offset="00" relocatable="true" max_length="0">
+			<original>インクがもうありませんよ！</original>
+			<edited>インクがもうありませんよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkBottle_0004" offset="00" relocatable="true" max_length="0">
+			<original>これでおハダも ツヤツヤじゃのゥ！</original>
+			<edited>これでおハダも ツヤツヤじゃのゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkBottle_0005" offset="00" relocatable="true" max_length="0">
+			<original>木箱壊して 先、進もーぜ！</original>
+			<edited>木箱壊して 先、進もーぜ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkBottle_0006" offset="00" relocatable="true" max_length="0">
+			<original>補給インクを取りにもどるのも 手ですね</original>
+			<edited>補給インクを取りにもどるのも 手ですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkBottle_0007" offset="00" relocatable="true" max_length="0">
+			<original>インクをムダにしないよう カサに注意です！</original>
+			<edited>インクをムダにしないよう カサに注意です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkBottle_0008" offset="00" relocatable="true" max_length="0">
+			<original>出口が見つかったゾ！</original>
+			<edited>出口が見つかったゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkBottle_0009" offset="00" relocatable="true" max_length="0">
+			<original>なんかこう、ドカーン！ と、いきたいところだな…</original>
+			<edited>なんかこう、ドカーン！ と、いきたいところだな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkBottle_0010" offset="00" relocatable="true" max_length="0">
+			<original>タテ持ちは後ろから攻撃で インク節約です！</original>
+			<edited>タテ持ちは後ろから攻撃で インク節約です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkBottle_0011" offset="00" relocatable="true" max_length="0">
+			<original>カギ出ました！ 補給インクを取りにもどりましょう！</original>
+			<edited>カギ出ました！ 補給インクを取りにもどりましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkBottle_0012" offset="00" relocatable="true" max_length="0">
+			<original>ふ～ 生き返りますね！</original>
+			<edited>ふ～ 生き返りますね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkBottle_0013" offset="00" relocatable="true" max_length="0">
+			<original>よーく ねらってけよ！</original>
+			<edited>よーく ねらってけよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkBottle_0014" offset="00" relocatable="true" max_length="0">
+			<original>よしっ！ 補給インク、ゲットしに行くゾ！</original>
+			<edited>よしっ！ 補給インク、ゲットしに行くゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkBottle_0015" offset="00" relocatable="true" max_length="0">
+			<original>シャー！ ガンガン撃てー！</original>
+			<edited>シャー！ ガンガン撃てー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkBottle_0016" offset="00" relocatable="true" max_length="0">
+			<original>ムダづかいしちゃ ダメですよ…</original>
+			<edited>ムダづかいしちゃ ダメですよ…</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

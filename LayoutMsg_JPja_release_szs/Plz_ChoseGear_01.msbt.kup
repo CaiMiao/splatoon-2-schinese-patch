@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_ItemDetail_01-T_New_00" offset="00" relocatable="true" max_length="0">
+			<original>NEW！</original>
+			<edited>NEW！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ItemDetail_00-T_New_00" offset="00" relocatable="true" max_length="0">
+			<original>NEW！</original>
+			<edited>NEW！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_BtnR_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>ギア交換！</original>
+			<edited>ギア交換！</edited>
+			<subEntries />
+		</entry>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>おカネと交換！</original>
+			<edited>おカネと交換！</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>かけらと交換！</original>
+			<edited>かけらと交換！</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>かけらと交換！</original>
+			<edited>かけらと交換！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Explain_00" offset="00" relocatable="true" max_length="0">
+			<original>すでに 同じギアを持っています</original>
+			<edited>すでに 同じギアを持っています</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Explain_01" offset="00" relocatable="true" max_length="0">
+			<original>ギア交換しない場合は 別のものと交換します</original>
+			<edited>ギア交換しない場合は 別のものと交換します</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Text_00" offset="00" relocatable="true" max_length="0">
+			<original>持っているギア</original>
+			<edited>持っているギア</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Text_01" offset="00" relocatable="true" max_length="0">
+			<original>受け取りギア</original>
+			<edited>受け取りギア</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

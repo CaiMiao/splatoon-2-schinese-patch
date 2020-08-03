@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ を使って、
+イイダにおカネを返してもらいますか？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ を使って、
+イイダにおカネを返してもらいますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ を
+アイテムと 交換しますか？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ を
+アイテムと 交換しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;1&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; を
+アイテムと交換しますか？</original>
+			<edited>&#xE;&#x2;1&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; を
+アイテムと交換しますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>アイテムは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ と
+交換することが できます</original>
+			<edited>アイテムは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í&#xE;&#x0;&#x3;&#x2;ÿÿ と
+交換することが できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>返さない</original>
+			<edited>返さない</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>返す</original>
+			<edited>返す</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>やめとく</original>
+			<edited>不要了</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>交換する！</original>
+			<edited>交換する！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

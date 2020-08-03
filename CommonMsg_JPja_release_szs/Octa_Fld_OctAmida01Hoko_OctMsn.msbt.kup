@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコを、相手のゴールにタッチダウンしてくださイ</original>
+			<edited>ガチホコを、相手のゴールにタッチダウンしてくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ホコを持って&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで、強力なショットが撃てまス</original>
+			<edited>ホコを持って&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで、強力なショットが撃てまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>ホコを持っていると、ボムは使えないので注意でス</original>
+			<edited>ホコを持っていると、ボムは使えないので注意でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0000" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコで バトルするみたいですね</original>
+			<edited>ガチホコで バトルするみたいですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0001" offset="00" relocatable="true" max_length="0">
+			<original>まずは ホコをゲットだ！</original>
+			<edited>まずは ホコをゲットだ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0023" offset="00" relocatable="true" max_length="0">
+			<original>ホコのバリアをインクショットで割り、ホコにさわってください</original>
+			<edited>ホコのバリアをインクショットで割り、ホコにさわってください</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0002" offset="00" relocatable="true" max_length="0">
+			<original>時間内ならやり直せます！ ホコを取りもどしましょう！</original>
+			<edited>時間内ならやり直せます！ ホコを取りもどしましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0003" offset="00" relocatable="true" max_length="0">
+			<original>ぬゥ… 始めからやり直しじゃ！</original>
+			<edited>ぬゥ… 始めからやり直しじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0004" offset="00" relocatable="true" max_length="0">
+			<original>ヤベェ！ 残り1分を切ったゾ！</original>
+			<edited>ヤベェ！ 残り1分を切ったゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0005" offset="00" relocatable="true" max_length="0">
+			<original>もうダメだーっ！！</original>
+			<edited>もうダメだーっ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0006" offset="00" relocatable="true" max_length="0">
+			<original>ッシャー！ 相手のゴールまで運べー！</original>
+			<edited>ッシャー！ 相手のゴールまで運べー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0007" offset="00" relocatable="true" max_length="0">
+			<original>おいでなすったぞィ！</original>
+			<edited>おいでなすったぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0008" offset="00" relocatable="true" max_length="0">
+			<original>フルチャージで 爆発に巻きこめー！</original>
+			<edited>フルチャージで 爆発に巻きこめー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0009" offset="00" relocatable="true" max_length="0">
+			<original>おい、何してんだ！ ホコを運べって！</original>
+			<edited>おい、何してんだ！ ホコを運べって！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0010" offset="00" relocatable="true" max_length="0">
+			<original>ホコは 矢印の示す方向にあるはずです！</original>
+			<edited>ホコは 矢印の示す方向にあるはずです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0011" offset="00" relocatable="true" max_length="0">
+			<original>ゴールまで あと半分じゃ！</original>
+			<edited>ゴールまで あと半分じゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0012" offset="00" relocatable="true" max_length="0">
+			<original>コンテナの上のルート、行けるゾ！</original>
+			<edited>コンテナの上のルート、行けるゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0013" offset="00" relocatable="true" max_length="0">
+			<original>８号さん、ホコを取りにもどりましょう！</original>
+			<edited>８号さん、ホコを取りにもどりましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0014" offset="00" relocatable="true" max_length="0">
+			<original>先に タコどもをとっちめても いいゾ！</original>
+			<edited>先に タコどもをとっちめても いいゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0015" offset="00" relocatable="true" max_length="0">
+			<original>ゴールは近いです あわてず落ち着いて！</original>
+			<edited>ゴールは近いです あわてず落ち着いて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0016" offset="00" relocatable="true" max_length="0">
+			<original>っしゃ 行っけー！</original>
+			<edited>っしゃ 行っけー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0017" offset="00" relocatable="true" max_length="0">
+			<original>今度こそ 行っけー！</original>
+			<edited>今度こそ 行っけー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0018" offset="00" relocatable="true" max_length="0">
+			<original>バリアが割れたゾ！ 急いでホコを取り返せ！</original>
+			<edited>バリアが割れたゾ！ 急いでホコを取り返せ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0019" offset="00" relocatable="true" max_length="0">
+			<original>バリアが割れたら、ホコを放っとくなよ！</original>
+			<edited>バリアが割れたら、ホコを放っとくなよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0020" offset="00" relocatable="true" max_length="0">
+			<original>取らないと、最初の位置にもどっちゃうんですよね…</original>
+			<edited>取らないと、最初の位置にもどっちゃうんですよね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0021" offset="00" relocatable="true" max_length="0">
+			<original>おい、またホコがもどっちまったゾ！</original>
+			<edited>おい、またホコがもどっちまったゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida01Hoko_0022" offset="00" relocatable="true" max_length="0">
+			<original>ゲ… なんか待ち構えてんなー</original>
+			<edited>ゲ… なんか待ち構えてんなー</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

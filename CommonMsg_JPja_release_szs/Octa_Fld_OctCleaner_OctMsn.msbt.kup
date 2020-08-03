@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここは 業務用インクリーナーのナワバリでス</original>
+			<edited>ここは 業務用インクリーナーのナワバリでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>インクリーナーはボムや爆発に もっとも反応しまス</original>
+			<edited>インクリーナーはボムや爆発に もっとも反応しまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>業務用インクリーナーは問答無用の おソウジマシーン</original>
+			<edited>業務用インクリーナーは問答無用の おソウジマシーン</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
+			<original>アナタも おソウジされないよう、ご注意くださイ</original>
+			<edited>アナタも おソウジされないよう、ご注意くださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0001" offset="00" relocatable="true" max_length="0">
+			<original>業務用インクリーナーじゃ！ ボムで さそうんじゃ！</original>
+			<edited>業務用インクリーナーじゃ！ ボムで さそうんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0002" offset="00" relocatable="true" max_length="0">
+			<original>ハチ！ ジャンプポイント、出てんゾ！</original>
+			<edited>ハチ！ ジャンプポイント、出てんゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0003" offset="00" relocatable="true" max_length="0">
+			<original>いい感じです！</original>
+			<edited>いい感じです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0004" offset="00" relocatable="true" max_length="0">
+			<original>フォー！ タコスナイパーじゃ！</original>
+			<edited>フォー！ タコスナイパーじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0005" offset="00" relocatable="true" max_length="0">
+			<original>でんでんスイッチを撃てば、タコスナイパーを かくせそうです</original>
+			<edited>でんでんスイッチを撃てば、タコスナイパーを かくせそうです</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0006" offset="00" relocatable="true" max_length="0">
+			<original>８号！ タコスナイパーを全員 倒すんじゃ！</original>
+			<edited>８号！ タコスナイパーを全員 倒すんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0007" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプポイント 出ました！</original>
+			<edited>ジャンプポイント 出ました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0008" offset="00" relocatable="true" max_length="0">
+			<original>８号！ あの棒を よけながら進むんじゃ！</original>
+			<edited>８号！ あの棒を よけながら進むんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0009" offset="00" relocatable="true" max_length="0">
+			<original>わはは！ 棒、こえー！</original>
+			<edited>わはは！ 棒、こえー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0010" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプマットが動いてる！ と思ったら…</original>
+			<edited>ジャンプマットが動いてる！ と思ったら…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0011" offset="00" relocatable="true" max_length="0">
+			<original>ナイスボヨヨン！</original>
+			<edited>ナイスボヨヨン！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0012" offset="00" relocatable="true" max_length="0">
+			<original>今度はダッシュ板が 乗ってますね</original>
+			<edited>今度はダッシュ板が 乗ってますね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0013" offset="00" relocatable="true" max_length="0">
+			<original>あの おそうじロボ、仕事しすぎだろー…</original>
+			<edited>あの おそうじロボ、仕事しすぎだろー…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0014" offset="00" relocatable="true" max_length="0">
+			<original>ここからは 登れないみたいです</original>
+			<edited>ここからは 登れないみたいです</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0015" offset="00" relocatable="true" max_length="0">
+			<original>ビューチフルじゃ！</original>
+			<edited>ビューチフルじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0016" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプマットに乗ったら、&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でボヨヨーーン！ だ！</original>
+			<edited>ジャンプマットに乗ったら、&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でボヨヨーーン！ だ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0017" offset="00" relocatable="true" max_length="0">
+			<original>おーぷーーん！</original>
+			<edited>おーぷーーん！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0018" offset="00" relocatable="true" max_length="0">
+			<original>ふぉー！ すたいりっしゅじゃ！</original>
+			<edited>ふぉー！ すたいりっしゅじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0019" offset="00" relocatable="true" max_length="0">
+			<original>今度は２体います！ ボムで引きつけましょう！</original>
+			<edited>今度は２体います！ ボムで引きつけましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0020" offset="00" relocatable="true" max_length="0">
+			<original>ふー… 何とか着いたな…</original>
+			<edited>ふー… 何とか着いたな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0021" offset="00" relocatable="true" max_length="0">
+			<original>インクに食いつくのが カワイイですよね♪</original>
+			<edited>インクに食いつくのが カワイイですよね♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Cleaner_0022" offset="00" relocatable="true" max_length="0">
+			<original>このライドレールは、もどる用ですね</original>
+			<edited>このライドレールは、もどる用ですね</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,769 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Coop_InGame_AppearTarget" offset="00" relocatable="true" max_length="0">
+			<original>ふむ… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;オオモノシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが あらわれたようだね
+あわててはいけないよ だが、急いで探すんだ</original>
+			<edited>ふむ… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;オオモノシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが あらわれたようだね
+あわててはいけないよ だが、急いで探すんだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_InGame_AppearBank" offset="00" relocatable="true" max_length="0">
+			<original>イクラコンテナを セットしておくよ
+たくさんの 金イクラを 期待しているからね</original>
+			<edited>イクラコンテナを セットしておくよ
+たくさんの 金イクラを 期待しているからね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_InGame_DisappearBank" offset="00" relocatable="true" max_length="0">
+			<original>イクラコンテナは こちらで回収しておくよ
+次もがんばってくれたまえ</original>
+			<edited>イクラコンテナは こちらで回収しておくよ
+次もがんばってくれたまえ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_InGame_DisappearBank_Final" offset="00" relocatable="true" max_length="0">
+			<original>おつかれさま、 今回はこれで終わりだよ
+ふむ… じゃあ船を出すからもどっておいで</original>
+			<edited>おつかれさま、 今回はこれで終わりだよ
+ふむ… じゃあ船を出すからもどっておいで</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_InGame_EvtRally_Start" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハコビヤ&#xE;&#x0;&#x3;&#x2;ÿÿが出てきたね…
+やっかいだな… これは全員で向かってくれたまえ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハコビヤ&#xE;&#x0;&#x3;&#x2;ÿÿが出てきたね…
+やっかいだな… これは全員で向かってくれたまえ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_InGame_EvtRally_Start_WaterLow" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干上がった土地&#xE;&#x0;&#x3;&#x2;ÿÿのほうに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハコビヤ&#xE;&#x0;&#x3;&#x2;ÿÿが出てきたね…
+やっかいだな… これは全員で向かってくれたまえ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干上がった土地&#xE;&#x0;&#x3;&#x2;ÿÿのほうに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハコビヤ&#xE;&#x0;&#x3;&#x2;ÿÿが出てきたね…
+やっかいだな… これは全員で向かってくれたまえ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_InGame_EvtRally_Prepare" offset="00" relocatable="true" max_length="0">
+			<original>おや…？ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハコビヤ&#xE;&#x0;&#x3;&#x2;ÿÿが
+イクラコンテナのほうを 見ているね…</original>
+			<edited>おや…？ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハコビヤ&#xE;&#x0;&#x3;&#x2;ÿÿが
+イクラコンテナのほうを 見ているね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_InGame_EvtRally_Attack" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イクラコンテナ&#xE;&#x0;&#x3;&#x2;ÿÿが 危ない！
+すぐに コンテナへ向かいなさい</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イクラコンテナ&#xE;&#x0;&#x3;&#x2;ÿÿが 危ない！
+すぐに コンテナへ向かいなさい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_InGame_EvtDozer_First" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;グリル&#xE;&#x0;&#x3;&#x2;ÿÿが出てきた…背中の弱点を ねらえばいいが、
+それは相手にも、ねらってくださいという あいさつになる</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;グリル&#xE;&#x0;&#x3;&#x2;ÿÿが出てきた…背中の弱点を ねらえばいいが、
+それは相手にも、ねらってくださいという あいさつになる</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_InGame_EvtDozer_Increment" offset="00" relocatable="true" max_length="0">
+			<original>ふむ… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;グリル&#xE;&#x0;&#x3;&#x2;ÿÿが&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Í体に増えたぞ
+外見は さわがしいが まるでピクニックのようだね</original>
+			<edited>ふむ… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;グリル&#xE;&#x0;&#x3;&#x2;ÿÿが&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Í体に増えたぞ
+外見は さわがしいが まるでピクニックのようだね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_InGame_EvtFog_Start" offset="00" relocatable="true" max_length="0">
+			<original>霧だ… 気をつけなさい…
+希望が 絶望にひっくりかえるのは いつもこういう時だ</original>
+			<edited>霧だ… 気をつけなさい…
+希望が 絶望にひっくりかえるのは いつもこういう時だ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_InGame_EvtFog_Start_WaterLow" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干上がった土地&#xE;&#x0;&#x3;&#x2;ÿÿのほうに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シャケの大群&#xE;&#x0;&#x3;&#x2;ÿÿが 集まって
+来ているね だが、この霧だ… 気をつけて向かいなさい</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干上がった土地&#xE;&#x0;&#x3;&#x2;ÿÿのほうに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シャケの大群&#xE;&#x0;&#x3;&#x2;ÿÿが 集まって
+来ているね だが、この霧だ… 気をつけて向かいなさい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_InGame_EvtGeyser_Start" offset="00" relocatable="true" max_length="0">
+			<original>海が鳴いている… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;キンシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが近くまできているね
+そこにも きっといるはずだから 探してみてくれ</original>
+			<edited>海が鳴いている… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;キンシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが近くまできているね
+そこにも きっといるはずだから 探してみてくれ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_InGame_EvtGeyser_Appear" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;キンシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが 出たぞ！
+悠々と急ぎなさい けして あわててはいけない</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;キンシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが 出たぞ！
+悠々と急ぎなさい けして あわててはいけない</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_InGame_EvtGeyser_Reset" offset="00" relocatable="true" max_length="0">
+			<original>ふむ… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;キンシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが かくれているようだ
+</original>
+			<edited>ふむ… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;キンシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが かくれているようだ
+</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_InGame_EvtMissile_Start" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干上がった土地&#xE;&#x0;&#x3;&#x2;ÿÿのほうに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドスコイの大群&#xE;&#x0;&#x3;&#x2;ÿÿが見える…
+キャノンを置いておくから 有効に使ってくれたまえ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干上がった土地&#xE;&#x0;&#x3;&#x2;ÿÿのほうに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドスコイの大群&#xE;&#x0;&#x3;&#x2;ÿÿが見える…
+キャノンを置いておくから 有効に使ってくれたまえ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_InGame_EvtRush_Start" offset="00" relocatable="true" max_length="0">
+			<original>シャケ達が さわがしい… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒカリバエ&#xE;&#x0;&#x3;&#x2;ÿÿも出てきた…
+カラダが光ったら とにかく気をつけなさい</original>
+			<edited>シャケ達が さわがしい… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒカリバエ&#xE;&#x0;&#x3;&#x2;ÿÿも出てきた…
+カラダが光ったら とにかく気をつけなさい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_InGame_EvtNone_Start_WaterLow" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干上がった土地&#xE;&#x0;&#x3;&#x2;ÿÿのほうに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シャケの大群&#xE;&#x0;&#x3;&#x2;ÿÿが集まって
+きているね これは全員で 向かってくれたまえ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;干上がった土地&#xE;&#x0;&#x3;&#x2;ÿÿのほうに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シャケの大群&#xE;&#x0;&#x3;&#x2;ÿÿが集まって
+きているね これは全員で 向かってくれたまえ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_First_00" offset="00" relocatable="true" max_length="0">
+			<original>けんしゅう その１
+アルバイト キホンの「キ」</original>
+			<edited>けんしゅう その１
+アルバイト キホンの「キ」</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_First_01" offset="00" relocatable="true" max_length="0">
+			<original>海からはね、 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シャケ&#xE;&#x0;&#x3;&#x2;ÿÿがやってくるんだよ</original>
+			<edited>海からはね、 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シャケ&#xE;&#x0;&#x3;&#x2;ÿÿがやってくるんだよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_First_02" offset="00" relocatable="true" max_length="0">
+			<original>かれらをインクで うつと &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イクラ&#xE;&#x0;&#x3;&#x2;ÿÿを落とすんだ</original>
+			<edited>かれらをインクで うつと &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イクラ&#xE;&#x0;&#x3;&#x2;ÿÿを落とすんだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_First_03" offset="00" relocatable="true" max_length="0">
+			<original>アルバイトの キミの仕事は、この&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イクラ&#xE;&#x0;&#x3;&#x2;ÿÿを
+たくさん集めること、 ただそれだけだよ</original>
+			<edited>アルバイトの キミの仕事は、この&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イクラ&#xE;&#x0;&#x3;&#x2;ÿÿを
+たくさん集めること、 ただそれだけだよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_ZakoAppear" offset="00" relocatable="true" max_length="0">
+			<original>それじゃあ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シャケ&#xE;&#x0;&#x3;&#x2;ÿÿを探してみようか…</original>
+			<edited>それじゃあ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シャケ&#xE;&#x0;&#x3;&#x2;ÿÿを探してみようか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_ZakoDefeat" offset="00" relocatable="true" max_length="0">
+			<original>ふむ、 いま手に入れたのが &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イクラ&#xE;&#x0;&#x3;&#x2;ÿÿだよ
+このイクラを たくさん集めて欲しいんだ</original>
+			<edited>ふむ、 いま手に入れたのが &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イクラ&#xE;&#x0;&#x3;&#x2;ÿÿだよ
+このイクラを たくさん集めて欲しいんだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_SquadAppear" offset="00" relocatable="true" max_length="0">
+			<original>じゃあまた &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シャケ&#xE;&#x0;&#x3;&#x2;ÿÿを探してみようか…</original>
+			<edited>じゃあまた &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シャケ&#xE;&#x0;&#x3;&#x2;ÿÿを探してみようか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_SquadDefeat" offset="00" relocatable="true" max_length="0">
+			<original>いい 仕事ぶりだね… キミになら
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;本当の仕事&#xE;&#x0;&#x3;&#x2;ÿÿを たのんでもいいだろうね</original>
+			<edited>いい 仕事ぶりだね… キミになら
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;本当の仕事&#xE;&#x0;&#x3;&#x2;ÿÿを たのんでもいいだろうね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_RareAppear_00" offset="00" relocatable="true" max_length="0">
+			<original>じつは ワタシが欲しいのは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;金イクラ&#xE;&#x0;&#x3;&#x2;ÿÿなんだ
+金イクラは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;オオモノシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが 持っているものでね…</original>
+			<edited>じつは ワタシが欲しいのは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;金イクラ&#xE;&#x0;&#x3;&#x2;ÿÿなんだ
+金イクラは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;オオモノシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが 持っているものでね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_RareAppear_01" offset="00" relocatable="true" max_length="0">
+			<original>おや…？ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;オオモノシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが 現れたようだ…
+いい機会だ、 オオモノシャケを探してみようか</original>
+			<edited>おや…？ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;オオモノシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが 現れたようだ…
+いい機会だ、 オオモノシャケを探してみようか</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Ikura_00" offset="00" relocatable="true" max_length="0">
+			<original>オオモノシャケが &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;金イクラ&#xE;&#x0;&#x3;&#x2;ÿÿを落としたね
+金イクラは ふれることで 持つことができるんだ</original>
+			<edited>オオモノシャケが &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;金イクラ&#xE;&#x0;&#x3;&#x2;ÿÿを落としたね
+金イクラは ふれることで 持つことができるんだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Ikura_01" offset="00" relocatable="true" max_length="0">
+			<original>金イクラを &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ノルマ&#xE;&#x0;&#x3;&#x2;ÿÿの数だけ集める、
+これがキミに たのみたい 本当の仕事なんだ</original>
+			<edited>金イクラを &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ノルマ&#xE;&#x0;&#x3;&#x2;ÿÿの数だけ集める、
+これがキミに たのみたい 本当の仕事なんだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Ikura_02" offset="00" relocatable="true" max_length="0">
+			<original>じゃあ、 金イクラを 手に入れてくれたまえ</original>
+			<edited>じゃあ、 金イクラを 手に入れてくれたまえ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Ikura_Already" offset="00" relocatable="true" max_length="0">
+			<original>おっと すでに持っていたのかい… 仕事が早いね、
+これまでのアルバイトの中でも 一番かもしれないな…</original>
+			<edited>おっと すでに持っていたのかい… 仕事が早いね、
+これまでのアルバイトの中でも 一番かもしれないな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Bank_00" offset="00" relocatable="true" max_length="0">
+			<original>金イクラは １つまでしか 持てないよ
+どんなにキミが 有能でも限界があるからね</original>
+			<edited>金イクラは １つまでしか 持てないよ
+どんなにキミが 有能でも限界があるからね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Bank_01" offset="00" relocatable="true" max_length="0">
+			<original>さて、金イクラを &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イクラコンテナ&#xE;&#x0;&#x3;&#x2;ÿÿまで 運んでみようか…</original>
+			<edited>さて、金イクラを &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イクラコンテナ&#xE;&#x0;&#x3;&#x2;ÿÿまで 運んでみようか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Norma_00" offset="00" relocatable="true" max_length="0">
+			<original>ノルマを １つ こなせたね
+今回のノルマは ３つだから、 あと２つ必要なんだ</original>
+			<edited>ノルマを １つ こなせたね
+今回のノルマは ３つだから、 あと２つ必要なんだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Norma_01" offset="00" relocatable="true" max_length="0">
+			<original>さっきの ２つの金イクラも…
+おや？ あのシャケは…</original>
+			<edited>さっきの ２つの金イクラも…
+おや？ あのシャケは…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Bagman_00" offset="00" relocatable="true" max_length="0">
+			<original>あのシャケは 金イクラを 回収するシャケだ…</original>
+			<edited>あのシャケは 金イクラを 回収するシャケだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Bagman_01" offset="00" relocatable="true" max_length="0">
+			<original>海へ にげられる前に 倒すことができれば
+回収された金イクラも 取り返せるからね…</original>
+			<edited>海へ にげられる前に 倒すことができれば
+回収された金イクラも 取り返せるからね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_SecondIkura_Pick" offset="00" relocatable="true" max_length="0">
+			<original>さて、 ２つ目の 金イクラを 探しにいこうか…</original>
+			<edited>さて、 ２つ目の 金イクラを 探しにいこうか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_SecondIkura_ComeOn" offset="00" relocatable="true" max_length="0">
+			<original>おや… 仲間から 呼ばれているようだね
+仲間のところへ 行ってあげてくれないか？</original>
+			<edited>おや… 仲間から 呼ばれているようだね
+仲間のところへ 行ってあげてくれないか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_SecondIkura_Picked" offset="00" relocatable="true" max_length="0">
+			<original>このように 仲間と声をかけあえば
+より効率よく 金イクラを集められるからね</original>
+			<edited>このように 仲間と声をかけあえば
+より効率よく 金イクラを集められるからね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_SecondIkura_Help" offset="00" relocatable="true" max_length="0">
+			<original>ふむ… 今度は 仲間が助けを求めているようだ…
+インクをかけて 助けてあげてくれないか？</original>
+			<edited>ふむ… 今度は 仲間が助けを求めているようだ…
+インクをかけて 助けてあげてくれないか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_SecondIkura_HelpPost_00" offset="00" relocatable="true" max_length="0">
+			<original>仲間が困っていたら 助けてあげることは重要だよ
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ゼンメツ&#xE;&#x0;&#x3;&#x2;ÿÿしてしまうと バイトを続けられないからね…</original>
+			<edited>仲間が困っていたら 助けてあげることは重要だよ
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ゼンメツ&#xE;&#x0;&#x3;&#x2;ÿÿしてしまうと バイトを続けられないからね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_SecondIkura_HelpPost_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カモン&#xE;&#x0;&#x3;&#x2;ÿÿと &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヘルプ&#xE;&#x0;&#x3;&#x2;ÿÿを使うには &#xE;&#x2;&#x8;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; の上を押しなさい</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カモン&#xE;&#x0;&#x3;&#x2;ÿÿと &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヘルプ&#xE;&#x0;&#x3;&#x2;ÿÿを使うには &#xE;&#x2;&#x8;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; の上を押しなさい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_SecondIkura_Bank" offset="00" relocatable="true" max_length="0">
+			<original>さあ、 金イクラを イクラコンテナまで 運んでみようか</original>
+			<edited>さあ、 金イクラを イクラコンテナまで 運んでみようか</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Timer_00" offset="00" relocatable="true" max_length="0">
+			<original>これで ２つの金イクラを 運んだことになるね
+今回のノルマまで あと１つだ…</original>
+			<edited>これで ２つの金イクラを 運んだことになるね
+今回のノルマまで あと１つだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Timer_01" offset="00" relocatable="true" max_length="0">
+			<original>そうそう、 バイトには &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タイムリミット&#xE;&#x0;&#x3;&#x2;ÿÿが あるんだ…
+時間内に ノルマを達成するのも大切な仕事だよ</original>
+			<edited>そうそう、 バイトには &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タイムリミット&#xE;&#x0;&#x3;&#x2;ÿÿが あるんだ…
+時間内に ノルマを達成するのも大切な仕事だよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_ThirdIkura_Pick" offset="00" relocatable="true" max_length="0">
+			<original>それじゃあ、 ３つ目の 金イクラを集めてみようか</original>
+			<edited>それじゃあ、 ３つ目の 金イクラを集めてみようか</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_ThirdIkura_Bank" offset="00" relocatable="true" max_length="0">
+			<original>よし、 金イクラを イクラコンテナまで 運んでくれ…</original>
+			<edited>よし、 金イクラを イクラコンテナまで 運んでくれ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_NormaClear_00" offset="00" relocatable="true" max_length="0">
+			<original>これで ３つの金イクラが 集まったね
+よくやった、 ノルマ達成だよ</original>
+			<edited>これで ３つの金イクラが 集まったね
+よくやった、 ノルマ達成だよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_NormaClear_01" offset="00" relocatable="true" max_length="0">
+			<original>タイムリミットまで やられないように 気をつけて、
+ヨユウがあれば 金イクラを もっと集めてくれないか？</original>
+			<edited>タイムリミットまで やられないように 気をつけて、
+ヨユウがあれば 金イクラを もっと集めてくれないか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Special" offset="00" relocatable="true" max_length="0">
+			<original>そうそう &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スペシャルパウチ&#xE;&#x0;&#x3;&#x2;ÿÿを ２つ支給しておくよ
+ここぞというときに 使いなさい</original>
+			<edited>そうそう &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スペシャルパウチ&#xE;&#x0;&#x3;&#x2;ÿÿを ２つ支給しておくよ
+ここぞというときに 使いなさい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_WaveClear_00" offset="00" relocatable="true" max_length="0">
+			<original>おつかれさま、 今回の けんしゅうは ここまでだよ…</original>
+			<edited>おつかれさま、 今回の けんしゅうは ここまでだよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Failed_00" offset="00" relocatable="true" max_length="0">
+			<original>ふむ… タイムリミットが きたようだ…
+ノルマを 達成できなかったようだね…</original>
+			<edited>ふむ… タイムリミットが きたようだ…
+ノルマを 達成できなかったようだね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Failed_01" offset="00" relocatable="true" max_length="0">
+			<original>気にすることはない… 失敗は だれにでもある…
+次のバイトで がんばってくれたまえ</original>
+			<edited>気にすることはない… 失敗は だれにでもある…
+次のバイトで がんばってくれたまえ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Failed_02" offset="00" relocatable="true" max_length="0">
+			<original>今日は特別に ワタシが あずけておくよ…</original>
+			<edited>今日は特別に ワタシが あずけておくよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Rescue_00" offset="00" relocatable="true" max_length="0">
+			<original>シャケにやられたり 海に落ちてしまうと
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ウキワタンク状態&#xE;&#x0;&#x3;&#x2;ÿÿに なってしまう… よくない状態だね</original>
+			<edited>シャケにやられたり 海に落ちてしまうと
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ウキワタンク状態&#xE;&#x0;&#x3;&#x2;ÿÿに なってしまう… よくない状態だね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Rescue_01" offset="00" relocatable="true" max_length="0">
+			<original>だが、 仲間に インクをかけてもらうことで
+元の状態に もどることができるんだ…</original>
+			<edited>だが、 仲間に インクをかけてもらうことで
+元の状態に もどることができるんだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Rescue_02" offset="00" relocatable="true" max_length="0">
+			<original>今日は特別に ワタシが 洗い流すからね…</original>
+			<edited>今日は特別に ワタシが 洗い流すからね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Targets_00" offset="00" relocatable="true" max_length="0">
+			<original>けんしゅう その２
+アルバイト キホンの「ホ」</original>
+			<edited>けんしゅう その２
+アルバイト キホンの「ホ」</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Targets_01" offset="00" relocatable="true" max_length="0">
+			<original>前回 キミが出会った オオモノシャケだがね、
+じつは他にも &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;７種類のオオモノシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが いるんだ…</original>
+			<edited>前回 キミが出会った オオモノシャケだがね、
+じつは他にも &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;７種類のオオモノシャケ&#xE;&#x0;&#x3;&#x2;ÿÿが いるんだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Targets_02" offset="00" relocatable="true" max_length="0">
+			<original>今回は ７種類の オオモノシャケと 戦ってもらうよ
+ なに、 ワタシがサポートするから 心配はいらないよ</original>
+			<edited>今回は ７種類の オオモノシャケと 戦ってもらうよ
+ なに、 ワタシがサポートするから 心配はいらないよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Enemy_PickIkura" offset="00" relocatable="true" max_length="0">
+			<original>それじゃあ、 金イクラを 手に入れてくれないか</original>
+			<edited>それじゃあ、 金イクラを 手に入れてくれないか</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Enemy_BankIkura" offset="00" relocatable="true" max_length="0">
+			<original>ヨシ、 金イクラを イクラコンテナまで 運んでくれたまえ</original>
+			<edited>ヨシ、 金イクラを イクラコンテナまで 運んでくれたまえ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_DeadSkip_00" offset="00" relocatable="true" max_length="0">
+			<original>ふむ… どうやら 苦戦しているようだね
+このシャケは 放っておこうか…</original>
+			<edited>ふむ… どうやら 苦戦しているようだね
+このシャケは 放っておこうか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_DeadSkip_01" offset="00" relocatable="true" max_length="0">
+			<original>その分の金イクラは ワタシが あずけておくよ…</original>
+			<edited>その分の金イクラは ワタシが あずけておくよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Bomber_00" offset="00" relocatable="true" max_length="0">
+			<original>- オオモノシャケ その１ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;バクダン &#xE;&#x0;&#x3;&#x2;ÿÿ-</original>
+			<edited>- オオモノシャケ その１ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;バクダン &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Bomber_01" offset="00" relocatable="true" max_length="0">
+			<original>巨大な&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボム&#xE;&#x0;&#x3;&#x2;ÿÿを 投げてくるシャケだ
+ヤツの体はカタくて インクを はじいてしまうんだ…</original>
+			<edited>巨大な&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボム&#xE;&#x0;&#x3;&#x2;ÿÿを 投げてくるシャケだ
+ヤツの体はカタくて インクを はじいてしまうんだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Bomber_02" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;頭上でふくらませたボム&#xE;&#x0;&#x3;&#x2;ÿÿを 攻撃することで、
+ボムが爆発し 倒すことができるよ…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;頭上でふくらませたボム&#xE;&#x0;&#x3;&#x2;ÿÿを 攻撃することで、
+ボムが爆発し 倒すことができるよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Cup_00" offset="00" relocatable="true" max_length="0">
+			<original>- オオモノシャケ その７ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カタパッド &#xE;&#x0;&#x3;&#x2;ÿÿ-</original>
+			<edited>- オオモノシャケ その７ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カタパッド &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Cup_01" offset="00" relocatable="true" max_length="0">
+			<original>ふらふらと飛んでいる シャケだ… 気まぐれに
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マルチミサイル&#xE;&#x0;&#x3;&#x2;ÿÿを うってくる… やっかいなヤツだ…</original>
+			<edited>ふらふらと飛んでいる シャケだ… 気まぐれに
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マルチミサイル&#xE;&#x0;&#x3;&#x2;ÿÿを うってくる… やっかいなヤツだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Cup_02" offset="00" relocatable="true" max_length="0">
+			<original>２つの発射口に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボムを投げ入れる&#xE;&#x0;&#x3;&#x2;ÿÿことで
+内側から 倒すことができるんだ…</original>
+			<edited>２つの発射口に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボムを投げ入れる&#xE;&#x0;&#x3;&#x2;ÿÿことで
+内側から 倒すことができるんだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Snake_00" offset="00" relocatable="true" max_length="0">
+			<original>- オオモノシャケ その２ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヘビ &#xE;&#x0;&#x3;&#x2;ÿÿ-</original>
+			<edited>- オオモノシャケ その２ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヘビ &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Snake_01" offset="00" relocatable="true" max_length="0">
+			<original>ヘビのようなマシンを 操るシャケだよ
+マシンに ふれると ダメージを受けてしまうからね…</original>
+			<edited>ヘビのようなマシンを 操るシャケだよ
+マシンに ふれると ダメージを受けてしまうからね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Snake_02" offset="00" relocatable="true" max_length="0">
+			<original>一番うしろに 操縦手のシャケが 乗っているよ…
+うまく回りこんで 倒すんだ…</original>
+			<edited>一番うしろに 操縦手のシャケが 乗っているよ…
+うまく回りこんで 倒すんだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Tower_00" offset="00" relocatable="true" max_length="0">
+			<original>- オオモノシャケ その４ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タワー &#xE;&#x0;&#x3;&#x2;ÿÿ-</original>
+			<edited>- オオモノシャケ その４ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;タワー &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Tower_01" offset="00" relocatable="true" max_length="0">
+			<original>塔のように 高い シャケだね… ヤツは海岸から
+インクを ふき出して攻撃してくるんだ…</original>
+			<edited>塔のように 高い シャケだね… ヤツは海岸から
+インクを ふき出して攻撃してくるんだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Tower_02" offset="00" relocatable="true" max_length="0">
+			<original>積まれた&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ナベ&#xE;&#x0;&#x3;&#x2;ÿÿを攻撃して はじき飛ばすんだ…
+すべてのナベを飛ばすと 倒せるからね</original>
+			<edited>積まれた&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ナベ&#xE;&#x0;&#x3;&#x2;ÿÿを攻撃して はじき飛ばすんだ…
+すべてのナベを飛ばすと 倒せるからね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Diver_00" offset="00" relocatable="true" max_length="0">
+			<original>- オオモノシャケ その５ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;モグラ &#xE;&#x0;&#x3;&#x2;ÿÿ-</original>
+			<edited>- オオモノシャケ その５ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;モグラ &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Diver_01" offset="00" relocatable="true" max_length="0">
+			<original>インクに もぐりながら 追いかけてくるシャケだ…
+足元から 急に飛び出し 食らいついてくる…</original>
+			<edited>インクに もぐりながら 追いかけてくるシャケだ…
+足元から 急に飛び出し 食らいついてくる…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Diver_02" offset="00" relocatable="true" max_length="0">
+			<original>飛び出す場所に ボムを置いて
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボムを食べさせる&#xE;&#x0;&#x3;&#x2;ÿÿことで 倒すことができるからね</original>
+			<edited>飛び出す場所に ボムを置いて
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボムを食べさせる&#xE;&#x0;&#x3;&#x2;ÿÿことで 倒すことができるからね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Shield_00" offset="00" relocatable="true" max_length="0">
+			<original>- オオモノシャケ その３ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;テッパン &#xE;&#x0;&#x3;&#x2;ÿÿ-</original>
+			<edited>- オオモノシャケ その３ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;テッパン &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Shield_01" offset="00" relocatable="true" max_length="0">
+			<original>大きなテッパンを 持ったシャケだよ… やっかいなことに
+正面から 攻撃しても ガードされてしまう… ただ…</original>
+			<edited>大きなテッパンを 持ったシャケだよ… やっかいなことに
+正面から 攻撃しても ガードされてしまう… ただ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Shield_02" offset="00" relocatable="true" max_length="0">
+			<original>攻撃し続けると 姿勢がくずれて 動かなくなるんだ
+そのスキに うしろから 攻撃をあてるのがポイントだよ…</original>
+			<edited>攻撃し続けると 姿勢がくずれて 動かなくなるんだ
+そのスキに うしろから 攻撃をあてるのがポイントだよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Rocket_00" offset="00" relocatable="true" max_length="0">
+			<original>- オオモノシャケ その６ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;コウモリ &#xE;&#x0;&#x3;&#x2;ÿÿ-</original>
+			<edited>- オオモノシャケ その６ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;コウモリ &#xE;&#x0;&#x3;&#x2;ÿÿ-</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Rocket_01" offset="00" relocatable="true" max_length="0">
+			<original>雨雲を発生させるロケットを うつシャケだね…
+ヤツが カサをさしている間は 攻撃が効かないんだ…</original>
+			<edited>雨雲を発生させるロケットを うつシャケだね…
+ヤツが カサをさしている間は 攻撃が効かないんだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_Rocket_02" offset="00" relocatable="true" max_length="0">
+			<original>体が カサから出たときを ねらってくれたまえ…
+ロケットを攻撃すると &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;うち返す&#xE;&#x0;&#x3;&#x2;ÿÿこともできるからね</original>
+			<edited>体が カサから出たときを ねらってくれたまえ…
+ロケットを攻撃すると &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;うち返す&#xE;&#x0;&#x3;&#x2;ÿÿこともできるからね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Tutorial_WaveClear_01" offset="00" relocatable="true" max_length="0">
+			<original>やあやあ、 おつかれさま
+今回の けんしゅうは これでオシマイだよ…</original>
+			<edited>やあやあ、 おつかれさま
+今回の けんしゅうは これでオシマイだよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C1_Success_00" offset="00" relocatable="true" max_length="0">
+			<original>やあやあ、 みんなありがとう
+今回は 金イクラを&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Íコか、 ふむ… 上出来だ</original>
+			<edited>やあやあ、 みんなありがとう
+今回は 金イクラを&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Íコか、 ふむ… 上出来だ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C1_Success_GoldenIkura100_00" offset="00" relocatable="true" max_length="0">
+			<original>ふむ… キミたちは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;海に愛されている&#xE;&#x0;&#x3;&#x2;ÿÿようだね
+これほどの成果をあげるとは… 次も期待しているよ</original>
+			<edited>ふむ… キミたちは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;海に愛されている&#xE;&#x0;&#x3;&#x2;ÿÿようだね
+これほどの成果をあげるとは… 次も期待しているよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C1_Success_AllMaster_00" offset="00" relocatable="true" max_length="0">
+			<original>ふむ… キミたちから感じる海への愛は とても深い…
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;真の たつじん&#xE;&#x0;&#x3;&#x2;ÿÿ とはキミたちのことを言うのだろうね</original>
+			<edited>ふむ… キミたちから感じる海への愛は とても深い…
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;真の たつじん&#xE;&#x0;&#x3;&#x2;ÿÿ とはキミたちのことを言うのだろうね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C1_Success_DifficultyMax_00" offset="00" relocatable="true" max_length="0">
+			<original>まさか &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;キケン度MAX&#xE;&#x0;&#x3;&#x2;ÿÿ をクリアしてしまうとは…
+もはやキミたちが &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;海そのもの&#xE;&#x0;&#x3;&#x2;ÿÿ だよ</original>
+			<edited>まさか &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;キケン度MAX&#xE;&#x0;&#x3;&#x2;ÿÿ をクリアしてしまうとは…
+もはやキミたちが &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;海そのもの&#xE;&#x0;&#x3;&#x2;ÿÿ だよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C1_Failure_AllDead_00" offset="00" relocatable="true" max_length="0">
+			<original>ゼンメツしてしまったようだね… だが よくがんばった
+金イクラが&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Íコ集まった それで十分だよ</original>
+			<edited>ゼンメツしてしまったようだね… だが よくがんばった
+金イクラが&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Íコ集まった それで十分だよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C1_Failure_TimeUp_00" offset="00" relocatable="true" max_length="0">
+			<original>残念ながら 時間切れだ… なに、気にすることはない
+金イクラは&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Íコ 集まったしね</original>
+			<edited>残念ながら 時間切れだ… なに、気にすることはない
+金イクラは&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Íコ 集まったしね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C1_Failure_GoldenIkura0_00" offset="00" relocatable="true" max_length="0">
+			<original>ふむ… まだ現場に出るのは 早かったかな…
+次までに バイトマニュアルを読んでおくように</original>
+			<edited>ふむ… まだ現場に出るのは 早かったかな…
+次までに バイトマニュアルを読んでおくように</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Success_00" offset="00" relocatable="true" max_length="0">
+			<original>いやはや 本当に すばらしい仕事ぶりだよ…
+キミたちの さらなるちょうせんを 楽しみにしているよ</original>
+			<edited>いやはや 本当に すばらしい仕事ぶりだよ…
+キミたちの さらなるちょうせんを 楽しみにしているよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Success_RareWeapon_00" offset="00" relocatable="true" max_length="0">
+			<original>見慣れないブキが まぎれていたようだね…
+どうだい？ ワタシ特製のブキの 使い心地は</original>
+			<edited>見慣れないブキが まぎれていたようだね…
+どうだい？ ワタシ特製のブキの 使い心地は</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_WaterLow_00" offset="00" relocatable="true" max_length="0">
+			<original>干潮のときは 戦う場所が変わる
+全員で干上がった土地へ 向かってくれたまえ</original>
+			<edited>干潮のときは 戦う場所が変わる
+全員で干上がった土地へ 向かってくれたまえ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_WaterHigh_00" offset="00" relocatable="true" max_length="0">
+			<original>満潮のときは とにかくやられないように
+仲間同士で かたまって助け合うことが大切だ…</original>
+			<edited>満潮のときは とにかくやられないように
+仲間同士で かたまって助け合うことが大切だ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_00" offset="00" relocatable="true" max_length="0">
+			<original>シャケは カベをのぼることが できない
+にげる時のために 先に塗っておいてはどうかな</original>
+			<edited>シャケは カベをのぼることが できない
+にげる時のために 先に塗っておいてはどうかな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_01" offset="00" relocatable="true" max_length="0">
+			<original>シャケは ひとつの方角から かたまってやってくる
+この方角が 時間とともに 切りかわる</original>
+			<edited>シャケは ひとつの方角から かたまってやってくる
+この方角が 時間とともに 切りかわる</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_02" offset="00" relocatable="true" max_length="0">
+			<original>海の近くで オオモノシャケを倒すと 金イクラ運びが
+大変だ… ときにはイクラコンテナに おびき寄せよう</original>
+			<edited>海の近くで オオモノシャケを倒すと 金イクラ運びが
+大変だ… ときにはイクラコンテナに おびき寄せよう</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_03" offset="00" relocatable="true" max_length="0">
+			<original>イカセンプクは シャケには 通用しない…
+ヤツらはニオイで 標的の位置を 正確にとらえる</original>
+			<edited>イカセンプクは シャケには 通用しない…
+ヤツらはニオイで 標的の位置を 正確にとらえる</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_SakelienBomber_00" offset="00" relocatable="true" max_length="0">
+			<original>ブキには 向き不向きがある… たとえば バクダンは
+チャージャーに任せると いいかも知れないね…</original>
+			<edited>ブキには 向き不向きがある… たとえば バクダンは
+チャージャーに任せると いいかも知れないね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_SakelienCupTwins_00" offset="00" relocatable="true" max_length="0">
+			<original>カタパッドに ボムを投げるときは
+&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を長押しして じっくりねらってみるのはどうだろう</original>
+			<edited>カタパッドに ボムを投げるときは
+&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を長押しして じっくりねらってみるのはどうだろう</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_SakelienSnake_00" offset="00" relocatable="true" max_length="0">
+			<original>ヘビは ひとりを ねらい続ける… ねらわれたら、
+倒しやすい場所へ さそいこむのもテクニックだよ</original>
+			<edited>ヘビは ひとりを ねらい続ける… ねらわれたら、
+倒しやすい場所へ さそいこむのもテクニックだよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_SakelienTower_00" offset="00" relocatable="true" max_length="0">
+			<original>タワーは 放っておくと やっかいだ…
+オオモノシャケを 倒す順番は 考えた方がいい</original>
+			<edited>タワーは 放っておくと やっかいだ…
+オオモノシャケを 倒す順番は 考えた方がいい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_Sakediver_00" offset="00" relocatable="true" max_length="0">
+			<original>モグラは ボムを食べさせると すぐに倒せる
+思い切って 下を向きながら ボムを投げてみよう</original>
+			<edited>モグラは ボムを食べさせると すぐに倒せる
+思い切って 下を向きながら ボムを投げてみよう</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_SakelienShield_00" offset="00" relocatable="true" max_length="0">
+			<original>テッパンは ガードしながら こちらに向かってくる…
+うち続けて ひるんだときが 倒すチャンスだ</original>
+			<edited>テッパンは ガードしながら こちらに向かってくる…
+うち続けて ひるんだときが 倒すチャンスだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_Sakerocket_00" offset="00" relocatable="true" max_length="0">
+			<original>コウモリのうつ弾は うち返せる
+上手く本体に うち返せば 一気に倒せるぞ</original>
+			<edited>コウモリのうつ弾は うち返せる
+上手く本体に うち返せば 一気に倒せるぞ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_Rush_00" offset="00" relocatable="true" max_length="0">
+			<original>ヒカリバエには 要注意だ…
+まとわりつかれると 全てのシャケに ねらわれるからね…</original>
+			<edited>ヒカリバエには 要注意だ…
+まとわりつかれると 全てのシャケに ねらわれるからね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_Geyser_00" offset="00" relocatable="true" max_length="0">
+			<original>かくれたキンシャケの 近くにあるカンケツセンは
+ふき出す光の量が多いらしい、 参考にしてくれたまえ</original>
+			<edited>かくれたキンシャケの 近くにあるカンケツセンは
+ふき出す光の量が多いらしい、 参考にしてくれたまえ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_Dozer_00" offset="00" relocatable="true" max_length="0">
+			<original>グリルは 赤いレーザーで ねらいをつける
+ねらわれたものは 急いで にげるように</original>
+			<edited>グリルは 赤いレーザーで ねらいをつける
+ねらわれたものは 急いで にげるように</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_Rally_00" offset="00" relocatable="true" max_length="0">
+			<original>ハコビヤが近づいてきたら イクラコンテナに集合だ…
+金イクラを吸い取られてしまうからね、 要注意だよ</original>
+			<edited>ハコビヤが近づいてきたら イクラコンテナに集合だ…
+金イクラを吸い取られてしまうからね、 要注意だよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_Fog_00" offset="00" relocatable="true" max_length="0">
+			<original>霧の中ではとくに 声をかけあうことが重要だ
+&#xE;&#x2;&#x1F;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;の上を押すことで 仲間を呼ぶことができる</original>
+			<edited>霧の中ではとくに 声をかけあうことが重要だ
+&#xE;&#x2;&#x1F;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;の上を押すことで 仲間を呼ぶことができる</edited>
+			<subEntries />
+		</entry>
+		<entry name="Coop_Result_C2_Failure_Missile_00" offset="00" relocatable="true" max_length="0">
+			<original>ドスコイの群れに 一人で立ち向かうのは危険だ…
+キャノンを使って 仲間をサポートしてあげるんだよ</original>
+			<edited>ドスコイの群れに 一人で立ち向かうのは危険だ…
+キャノンを使って 仲間をサポートしてあげるんだよ</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

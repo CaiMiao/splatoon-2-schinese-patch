@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Shakeup00" offset="00" relocatable="true" max_length="0">
+			<original>シェケナダム</original>
+			<edited>シェケナダム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shakeship00" offset="00" relocatable="true" max_length="0">
+			<original>難破船ドン・ブラコ</original>
+			<edited>難破船ドン・ブラコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shakehouse00" offset="00" relocatable="true" max_length="0">
+			<original>海上集落シャケト場</original>
+			<edited>海上集落シャケト場</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shakelift00" offset="00" relocatable="true" max_length="0">
+			<original>トキシラズいぶし工房</original>
+			<edited>トキシラズいぶし工房</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shakeride00" offset="00" relocatable="true" max_length="0">
+			<original>朽ちた箱舟 ポラリス</original>
+			<edited>朽ちた箱舟 ポラリス</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

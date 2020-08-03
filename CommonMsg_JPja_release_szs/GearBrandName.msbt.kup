@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="B00" offset="00" relocatable="true" max_length="0">
+			<original>バトロイカ</original>
+			<edited>バトロイカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="B01" offset="00" relocatable="true" max_length="0">
+			<original>アイロニック</original>
+			<edited>アイロニック</edited>
+			<subEntries />
+		</entry>
+		<entry name="B02" offset="00" relocatable="true" max_length="0">
+			<original>クラーゲス</original>
+			<edited>クラーゲス</edited>
+			<subEntries />
+		</entry>
+		<entry name="B03" offset="00" relocatable="true" max_length="0">
+			<original>ロッケンベルグ</original>
+			<edited>ロッケンベルグ</edited>
+			<subEntries />
+		</entry>
+		<entry name="B04" offset="00" relocatable="true" max_length="0">
+			<original>エゾッコ</original>
+			<edited>エゾッコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="B05" offset="00" relocatable="true" max_length="0">
+			<original>フォーリマ</original>
+			<edited>フォーリマ</edited>
+			<subEntries />
+		</entry>
+		<entry name="B06" offset="00" relocatable="true" max_length="0">
+			<original>ホッコリー</original>
+			<edited>ホッコリー</edited>
+			<subEntries />
+		</entry>
+		<entry name="B07" offset="00" relocatable="true" max_length="0">
+			<original>ホタックス</original>
+			<edited>ホタックス</edited>
+			<subEntries />
+		</entry>
+		<entry name="B08" offset="00" relocatable="true" max_length="0">
+			<original>ジモン</original>
+			<edited>ジモン</edited>
+			<subEntries />
+		</entry>
+		<entry name="B09" offset="00" relocatable="true" max_length="0">
+			<original>シグレニ</original>
+			<edited>シグレニ</edited>
+			<subEntries />
+		</entry>
+		<entry name="B10" offset="00" relocatable="true" max_length="0">
+			<original>アロメ</original>
+			<edited>アロメ</edited>
+			<subEntries />
+		</entry>
+		<entry name="B11" offset="00" relocatable="true" max_length="0">
+			<original>ヤコ</original>
+			<edited>ヤコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="B15" offset="00" relocatable="true" max_length="0">
+			<original>アナアキ</original>
+			<edited>アナアキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="B16" offset="00" relocatable="true" max_length="0">
+			<original>エンペリー</original>
+			<edited>エンペリー</edited>
+			<subEntries />
+		</entry>
+		<entry name="B17" offset="00" relocatable="true" max_length="0">
+			<original>タタキケンサキ</original>
+			<edited>タタキケンサキ</edited>
+			<subEntries />
+		</entry>
+		<entry name="B97" offset="00" relocatable="true" max_length="0">
+			<original>クマサン商会</original>
+			<edited>クマサン商会</edited>
+			<subEntries />
+		</entry>
+		<entry name="B98" offset="00" relocatable="true" max_length="0">
+			<original>アタリメイド</original>
+			<edited>アタリメイド</edited>
+			<subEntries />
+		</entry>
+		<entry name="B99" offset="00" relocatable="true" max_length="0">
+			<original>amiibo</original>
+			<edited>amiibo</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

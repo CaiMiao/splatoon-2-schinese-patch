@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="SakelienStandard" offset="00" relocatable="true" max_length="0">
+			<original>シャケ</original>
+			<edited>シャケ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SakelienLarge" offset="00" relocatable="true" max_length="0">
+			<original>ドスコイ</original>
+			<edited>ドスコイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SakelienSmall" offset="00" relocatable="true" max_length="0">
+			<original>コジャケ</original>
+			<edited>コジャケ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SakelienGolden" offset="00" relocatable="true" max_length="0">
+			<original>キンシャケ</original>
+			<edited>キンシャケ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SakelienBagman" offset="00" relocatable="true" max_length="0">
+			<original>タマヒロイ</original>
+			<edited>タマヒロイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SakelienBomber" offset="00" relocatable="true" max_length="0">
+			<original>バクダン</original>
+			<edited>バクダン</edited>
+			<subEntries />
+		</entry>
+		<entry name="SakelienCupTwins" offset="00" relocatable="true" max_length="0">
+			<original>カタパッド</original>
+			<edited>カタパッド</edited>
+			<subEntries />
+		</entry>
+		<entry name="SakelienGeyser" offset="00" relocatable="true" max_length="0">
+			<original>キンシャケ</original>
+			<edited>キンシャケ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SakelienShield" offset="00" relocatable="true" max_length="0">
+			<original>テッパン</original>
+			<edited>テッパン</edited>
+			<subEntries />
+		</entry>
+		<entry name="SakelienSnake" offset="00" relocatable="true" max_length="0">
+			<original>ヘビ</original>
+			<edited>ヘビ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SakelienTower" offset="00" relocatable="true" max_length="0">
+			<original>タワー</original>
+			<edited>タワー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Sakediver" offset="00" relocatable="true" max_length="0">
+			<original>モグラ</original>
+			<edited>モグラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Sakedozer" offset="00" relocatable="true" max_length="0">
+			<original>グリル</original>
+			<edited>グリル</edited>
+			<subEntries />
+		</entry>
+		<entry name="Sakepuncher" offset="00" relocatable="true" max_length="0">
+			<original>ハコビヤ</original>
+			<edited>ハコビヤ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SakepuncherBulletSimpl" offset="00" relocatable="true" max_length="0">
+			<original>シャケコプター</original>
+			<edited>シャケコプター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Sakerocket" offset="00" relocatable="true" max_length="0">
+			<original>コウモリ</original>
+			<edited>コウモリ</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

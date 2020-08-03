@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Msg_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x2;&#x2;&#x0;これが キミの姿？&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;これが キミの姿？&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>チガウカモ…</original>
+			<edited>チガウカモ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_03-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>ソウダヨ！</original>
+			<edited>ソウダヨ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Msg_02" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ハダ&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;の色はどれ？</original>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ハダ&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;の色はどれ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Msg_03" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;目&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;の色はどれ？</original>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;目&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;の色はどれ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Msg_04" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;ヘアスタイル&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿはどっち？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;ヘアスタイル&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿはどっち？</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>ボーイ</original>
+			<edited>ボーイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>ガール</original>
+			<edited>ガール</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Title_00" offset="00" relocatable="true" max_length="0">
+			<original>キミの姿を 思い出そう</original>
+			<edited>キミの姿を 思い出そう</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

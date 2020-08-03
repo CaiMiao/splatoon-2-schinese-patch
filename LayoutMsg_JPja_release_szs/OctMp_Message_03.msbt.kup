@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Name_01" offset="00" relocatable="true" max_length="0">
+			<original>&gt;</original>
+			<edited>&gt;</edited>
+			<subEntries />
+		</entry>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>FullThrottleTentacleDemo.sio</original>
+			<edited>FullThrottleTentacleDemo.sio</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>rec_Omaera_Hizamazuke_gig08.mp8 </original>
+			<edited>rec_Omaera_Hizamazuke_gig08.mp8 </edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

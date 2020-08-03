@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="System_Week0" offset="00" relocatable="true" max_length="0">
+			<original>日</original>
+			<edited>日</edited>
+			<subEntries />
+		</entry>
+		<entry name="System_Week1" offset="00" relocatable="true" max_length="0">
+			<original>月</original>
+			<edited>一</edited>
+			<subEntries />
+		</entry>
+		<entry name="System_Week2" offset="00" relocatable="true" max_length="0">
+			<original>火</original>
+			<edited>二</edited>
+			<subEntries />
+		</entry>
+		<entry name="System_Week3" offset="00" relocatable="true" max_length="0">
+			<original>水</original>
+			<edited>三</edited>
+			<subEntries />
+		</entry>
+		<entry name="System_Week4" offset="00" relocatable="true" max_length="0">
+			<original>木</original>
+			<edited>四</edited>
+			<subEntries />
+		</entry>
+		<entry name="System_Week5" offset="00" relocatable="true" max_length="0">
+			<original>金</original>
+			<edited>五</edited>
+			<subEntries />
+		</entry>
+		<entry name="System_Week6" offset="00" relocatable="true" max_length="0">
+			<original>土</original>
+			<edited>六</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

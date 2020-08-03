@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_Info_00-T_KeyBtn_00" offset="00" relocatable="true" max_length="0">
+			<original></original>
+			<edited></edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Home_00" offset="00" relocatable="true" max_length="0">
+			<original>スタート地点</original>
+			<edited>スタート地点</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x1F;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押しながら&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で
+ スーパージャンプ</original>
+			<edited>&#xE;&#x2;&#x1F;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押しながら&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で
+ スーパージャンプ</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

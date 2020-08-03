@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>ルールとステージを選択してください</original>
+			<edited>请选择规则与场地</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>親がルールとステージを選んでいます</original>
+			<edited>主控正选择规则与场地</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>おまかせ</original>
+			<edited>随机</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>カスタマイズ</original>
+			<edited>自定义</edited>
+			<subEntries />
+		</entry>
+		<entry name="021" offset="00" relocatable="true" max_length="0">
+			<original>操作方法</original>
+			<edited>操作方法</edited>
+			<subEntries />
+		</entry>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original>ロビーへ</original>
+			<edited>前往大厅</edited>
+			<subEntries />
+		</entry>
+		<entry name="041" offset="00" relocatable="true" max_length="0">
+			<original>カウンターへ</original>
+			<edited>前往前台</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_StartBtn_01-T_Key_00" offset="00" relocatable="true" max_length="0">
+			<original></original>
+			<edited></edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_00-T_Rank_00" offset="00" relocatable="true" max_length="0">
+			<original>ランク</original>
+			<edited>Rank</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_00-T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_00-P_Item_00" offset="00" relocatable="true" max_length="0">
+			<original>?</original>
+			<edited>?</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_01-T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_01-P_Item_00" offset="00" relocatable="true" max_length="0">
+			<original>?</original>
+			<edited>?</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_02-T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_02-P_Item_00" offset="00" relocatable="true" max_length="0">
+			<original>?</original>
+			<edited>?</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_03-T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_03-P_Item_00" offset="00" relocatable="true" max_length="0">
+			<original>?</original>
+			<edited>?</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_04-T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_04-P_Item_00" offset="00" relocatable="true" max_length="0">
+			<original>?</original>
+			<edited>?</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_05-T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_05-P_Item_00" offset="00" relocatable="true" max_length="0">
+			<original>?</original>
+			<edited>?</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_06-T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_06-P_Item_00" offset="00" relocatable="true" max_length="0">
+			<original>?</original>
+			<edited>?</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_07-T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_07-P_Item_00" offset="00" relocatable="true" max_length="0">
+			<original>?</original>
+			<edited>?</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_08-T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_08-P_Item_00" offset="00" relocatable="true" max_length="0">
+			<original>?</original>
+			<edited>?</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CustomizeBtn_00-T_KeyBtn_00" offset="00" relocatable="true" max_length="0">
+			<original></original>
+			<edited></edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CanncelBtn_00-T_KeyBtn_00" offset="00" relocatable="true" max_length="0">
+			<original></original>
+			<edited></edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CancelBtn_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>キャンセル</original>
+			<edited>取消</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CancelBtn_00-T_KeyBtn_00" offset="00" relocatable="true" max_length="0">
+			<original></original>
+			<edited></edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Start_00" offset="00" relocatable="true" max_length="0">
+			<original>バトルを開始します！</original>
+			<edited>开始战斗！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Progress_00" offset="00" relocatable="true" max_length="0">
+			<original>対戦相手を待っています</original>
+			<edited>正等待对战对手</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Start_01" offset="00" relocatable="true" max_length="0">
+			<original>バトルを開始します！</original>
+			<edited>开始战斗！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_RuleHeader_00" offset="00" relocatable="true" max_length="0">
+			<original>ルール</original>
+			<edited>规则</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_StageHeader_00" offset="00" relocatable="true" max_length="0">
+			<original>ステージ</original>
+			<edited>场地</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_RuleHeader_01" offset="00" relocatable="true" max_length="0">
+			<original>ルール</original>
+			<edited>规则</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_StageHeader_01" offset="00" relocatable="true" max_length="0">
+			<original>ステージ</original>
+			<edited>场地</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_StartBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>メンバー決定！</original>
+			<edited>决定成员！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_09-T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_09-P_Item_00" offset="00" relocatable="true" max_length="0">
+			<original>?</original>
+			<edited>?</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_00-T_Wait_00" offset="00" relocatable="true" max_length="0">
+			<original>募集中…</original>
+			<edited>招募中…</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_B_00" offset="00" relocatable="true" max_length="0">
+			<original>ブラボーチーム</original>
+			<edited>B队</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_A_00" offset="00" relocatable="true" max_length="0">
+			<original>アルファチーム</original>
+			<edited>A队</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_StartBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>準備OK？</original>
+			<edited>准备OK？</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_W_00" offset="00" relocatable="true" max_length="0">
+			<original>観戦</original>
+			<edited>观战</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_StartBtn_01-T_Btn_01" offset="00" relocatable="true" max_length="0">
+			<original>OK！</original>
+			<edited>OK！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>その他の設定</original>
+			<edited>其他设置</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_StageSelectBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>ステージ選択</original>
+			<edited>场地选择</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Change_00" offset="00" relocatable="true" max_length="0">
+			<original>ブキチェンジ</original>
+			<edited>武器更换</edited>
+			<subEntries />
+		</entry>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í！</original>
+			<edited>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Change_01" offset="00" relocatable="true" max_length="0">
+			<original>レアブキ！</original>
+			<edited>稀有武器！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_SubName_00" offset="00" relocatable="true" max_length="0">
+			<original>バイト専用</original>
+			<edited>打工专用</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

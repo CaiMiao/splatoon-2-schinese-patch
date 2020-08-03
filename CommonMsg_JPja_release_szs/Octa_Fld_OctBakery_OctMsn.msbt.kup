@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>戦略兵器タコツボベーカリーが 改造されていまス</original>
+			<edited>戦略兵器タコツボベーカリーが 改造されていまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ブキの射程をイカして 下からも攻撃可能でス</original>
+			<edited>ブキの射程をイカして 下からも攻撃可能でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>地上戦では、退路を意識しましょウ</original>
+			<edited>地上戦では、退路を意識しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bakery_0000" offset="00" relocatable="true" max_length="0">
+			<original>パンは足場に使えそうです！</original>
+			<edited>パンは足場に使えそうです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bakery_0001" offset="00" relocatable="true" max_length="0">
+			<original>パン登って 上のタコ足倒すゾ！</original>
+			<edited>パン登って 上のタコ足倒すゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bakery_0002" offset="00" relocatable="true" max_length="0">
+			<original>へヴィな朝メシだな…</original>
+			<edited>へヴィな朝メシだな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bakery_0003" offset="00" relocatable="true" max_length="0">
+			<original>わー！ ジャム塗り機が出てきたー！</original>
+			<edited>わー！ ジャム塗り機が出てきたー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bakery_0004" offset="00" relocatable="true" max_length="0">
+			<original>うしっ！ まだまだ食べれるぞ！</original>
+			<edited>うしっ！ まだまだ食べれるぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bakery_0005" offset="00" relocatable="true" max_length="0">
+			<original>ワシは ゴハン派じゃな！</original>
+			<edited>ワシは ゴハン派じゃな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bakery_0006" offset="00" relocatable="true" max_length="0">
+			<original>ゴチソウサマー！</original>
+			<edited>ゴチソウサマー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bakery_0007" offset="00" relocatable="true" max_length="0">
+			<original>たっぷりキウイジャム！</original>
+			<edited>たっぷりキウイジャム！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bakery_0008" offset="00" relocatable="true" max_length="0">
+			<original>ジャマなシールドは 気合で壊すんじゃ！</original>
+			<edited>ジャマなシールドは 気合で壊すんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bakery_0009" offset="00" relocatable="true" max_length="0">
+			<original>カベのタイルは塗って登れそうだな</original>
+			<edited>カベのタイルは塗って登れそうだな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bakery_0010" offset="00" relocatable="true" max_length="0">
+			<original>このパンは 固くて食べられなさそうです…</original>
+			<edited>このパンは 固くて食べられなさそうです…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bakery_0011" offset="00" relocatable="true" max_length="0">
+			<original>あのオーブン、ウチのと同じタイプのヤツだ！</original>
+			<edited>あのオーブン、ウチのと同じタイプのヤツだ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bakery_0012" offset="00" relocatable="true" max_length="0">
+			<original>早く壊さないと 地面がドロドロになっちゃいます…</original>
+			<edited>早く壊さないと 地面がドロドロになっちゃいます…</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

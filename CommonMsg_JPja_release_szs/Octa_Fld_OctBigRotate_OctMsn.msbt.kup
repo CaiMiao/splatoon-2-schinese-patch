@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>ログポイントを８コ全て 集めてくださイ</original>
+			<edited>ログポイントを８コ全て 集めてくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ログポイントは、壊して触れれば ゲットとなりまス</original>
+			<edited>ログポイントは、壊して触れれば ゲットとなりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>回転する足場に注意しましょウ</original>
+			<edited>回転する足場に注意しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
+			<original>カベが屋根にならないように 場所を確認しましょウ</original>
+			<edited>カベが屋根にならないように 場所を確認しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BigRotate_0000" offset="00" relocatable="true" max_length="0">
+			<original>おー！  ぐるぐる回ってんなー</original>
+			<edited>おー！  ぐるぐる回ってんなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="BigRotate_0001" offset="00" relocatable="true" max_length="0">
+			<original>巨大建造物って ワクワクしますね～</original>
+			<edited>巨大建造物って ワクワクしますね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="BigRotate_0002" offset="00" relocatable="true" max_length="0">
+			<original>心の準備ができたら 飛び乗りましょう！</original>
+			<edited>心の準備ができたら 飛び乗りましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BigRotate_0003" offset="00" relocatable="true" max_length="0">
+			<original>まずは １コじゃッ！</original>
+			<edited>まずは １コじゃッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BigRotate_0004" offset="00" relocatable="true" max_length="0">
+			<original>２コ目です♪</original>
+			<edited>２コ目です♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="BigRotate_0005" offset="00" relocatable="true" max_length="0">
+			<original>３コ目ゲットだ！</original>
+			<edited>３コ目ゲットだ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BigRotate_0006" offset="00" relocatable="true" max_length="0">
+			<original>グッド！ ４コ目じゃッ！</original>
+			<edited>グッド！ ４コ目じゃッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BigRotate_0007" offset="00" relocatable="true" max_length="0">
+			<original>５コ目！ まだあんのかー</original>
+			<edited>５コ目！ まだあんのかー</edited>
+			<subEntries />
+		</entry>
+		<entry name="BigRotate_0008" offset="00" relocatable="true" max_length="0">
+			<original>６コ目です あと少しですね！</original>
+			<edited>６コ目です あと少しですね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BigRotate_0009" offset="00" relocatable="true" max_length="0">
+			<original>ふぁびゅらす、７コ目！ 次で最後じゃな！</original>
+			<edited>ふぁびゅらす、７コ目！ 次で最後じゃな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BigRotate_0010" offset="00" relocatable="true" max_length="0">
+			<original>敵が増えました！</original>
+			<edited>敵が増えました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BigRotate_0011" offset="00" relocatable="true" max_length="0">
+			<original>…あれは後づめ！ 敵さんが増えよるぞィ！</original>
+			<edited>…あれは後づめ！ 敵さんが増えよるぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BigRotate_0012" offset="00" relocatable="true" max_length="0">
+			<original>また敵の加勢です！</original>
+			<edited>また敵の加勢です！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

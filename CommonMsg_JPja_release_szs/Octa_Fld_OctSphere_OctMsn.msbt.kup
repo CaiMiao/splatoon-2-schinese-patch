@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>時間内に イカスフィアでゴールしてくださイ</original>
+			<edited>時間内に イカスフィアでゴールしてくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>改札を通ると同時に カウントダウン開始でス</original>
+			<edited>改札を通ると同時に カウントダウン開始でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>チェックポイントごとに 時間が延長されまス</original>
+			<edited>チェックポイントごとに 時間が延長されまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
+			<original>イカスフィアは カベをまっすぐにしか登れませン</original>
+			<edited>イカスフィアは カベをまっすぐにしか登れませン</edited>
+			<subEntries />
+		</entry>
+		<entry name="Sphere_0001" offset="00" relocatable="true" max_length="0">
+			<original>ハチ！ イカスフィアでも &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でジャンプだ！</original>
+			<edited>ハチ！ イカスフィアでも &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でジャンプだ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Sphere_0002" offset="00" relocatable="true" max_length="0">
+			<original>ダッシュ板に乗りましょう！</original>
+			<edited>ダッシュ板に乗りましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Sphere_0006" offset="00" relocatable="true" max_length="0">
+			<original>無敵のイカスフィアなら、ヌリヌリ棒の上に乗れそうです</original>
+			<edited>無敵のイカスフィアなら、ヌリヌリ棒の上に乗れそうです</edited>
+			<subEntries />
+		</entry>
+		<entry name="Sphere_0007" offset="00" relocatable="true" max_length="0">
+			<original>またしてもヌリヌリ棒じゃ！ ひるむな、トツゲキーッ！</original>
+			<edited>またしてもヌリヌリ棒じゃ！ ひるむな、トツゲキーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Sphere_0008" offset="00" relocatable="true" max_length="0">
+			<original>ナイスですね～♪</original>
+			<edited>ナイスですね～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Sphere_0009" offset="00" relocatable="true" max_length="0">
+			<original>この上がゴールじゃ！ 行けィ、８号！</original>
+			<edited>この上がゴールじゃ！ 行けィ、８号！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Sphere_0010" offset="00" relocatable="true" max_length="0">
+			<original>あ！ なんか いんゾ！</original>
+			<edited>あ！ なんか いんゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Sphere_0011" offset="00" relocatable="true" max_length="0">
+			<original>オクタリアンめ、ジャマばっかしおって…</original>
+			<edited>オクタリアンめ、ジャマばっかしおって…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Sphere_0012" offset="00" relocatable="true" max_length="0">
+			<original>生体反応の無いオクタリアン… なぜ…？</original>
+			<edited>生体反応の無いオクタリアン… なぜ…？</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

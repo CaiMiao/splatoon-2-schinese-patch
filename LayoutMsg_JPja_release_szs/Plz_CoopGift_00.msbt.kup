@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Window_00" offset="00" relocatable="true" max_length="0">
+			<original>もらえる ほうしゅうが
+ありません</original>
+			<edited>もらえる ほうしゅうが
+ありません</edited>
+			<subEntries />
+		</entry>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>x&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>x&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>ほうしゅうを確認！</original>
+			<edited>ほうしゅうを確認！</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>確認オッケー</original>
+			<edited>確認オッケー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkillChipNum" offset="00" relocatable="true" max_length="0">
+			<original>×&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>×&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

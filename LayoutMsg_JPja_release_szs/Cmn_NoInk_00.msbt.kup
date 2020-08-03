@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_NoInk_00" offset="00" relocatable="true" max_length="0">
+			<original>インク不足！</original>
+			<edited>墨水不足！</edited>
+			<subEntries />
+		</entry>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>使用不可</original>
+			<edited>无法使用</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>アサリ不足！</original>
+			<edited>蛤喇不足！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

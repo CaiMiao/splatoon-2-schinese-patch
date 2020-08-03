@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>時間内に 風船マトを２０コ壊しましょウ</original>
+			<edited>時間内に 風船マトを２０コ壊しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ダメ風船を撃つと アウトでス</original>
+			<edited>ダメ風船を撃つと アウトでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプ後 着地したら、カウントダウンが始まりまス</original>
+			<edited>ジャンプ後 着地したら、カウントダウンが始まりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="NGBaloon_0000" offset="00" relocatable="true" max_length="0">
+			<original>ダメ風船は、撃ったらダメです！</original>
+			<edited>ダメ風船は、撃ったらダメです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NGBaloon_0001" offset="00" relocatable="true" max_length="0">
+			<original>ここは、フルチャージで スパァーン！ と…</original>
+			<edited>ここは、フルチャージで スパァーン！ と…</edited>
+			<subEntries />
+		</entry>
+		<entry name="NGBaloon_0002" offset="00" relocatable="true" max_length="0">
+			<original>でも、それで ダメ風船ごと撃ったら アウトだかんな！</original>
+			<edited>でも、それで ダメ風船ごと撃ったら アウトだかんな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NGBaloon_0003" offset="00" relocatable="true" max_length="0">
+			<original>あと１０コです！ がんばってください！</original>
+			<edited>あと１０コです！ がんばってください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NGBaloon_0004" offset="00" relocatable="true" max_length="0">
+			<original>あと少しじゃ！</original>
+			<edited>あと少しじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NGBaloon_0006" offset="00" relocatable="true" max_length="0">
+			<original>ジェットスイーパーだと 弾が散るのゥ…</original>
+			<edited>ジェットスイーパーだと 弾が散るのゥ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="NGBaloon_0007" offset="00" relocatable="true" max_length="0">
+			<original>ハチ！ 調子乗って バンバン撃ちまくんなよ！</original>
+			<edited>ハチ！ 調子乗って バンバン撃ちまくんなよ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

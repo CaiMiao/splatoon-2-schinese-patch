@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="LastBoss04_0000" offset="00" relocatable="true" max_length="0">
+			<original>エネルギーコアの反応を確認！ このエリアのどこかに…！</original>
+			<edited>エネルギーコアの反応を確認！ このエリアのどこかに…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0001" offset="00" relocatable="true" max_length="0">
+			<original>イイダ… あとでジジィら どーなったか、調べとけよー</original>
+			<edited>イイダ… あとでジジィら どーなったか、調べとけよー</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0002" offset="00" relocatable="true" max_length="0">
+			<original>ドレッサーです！ ここで準備を整えましょう！</original>
+			<edited>ドレッサーです！ ここで準備を整えましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0003" offset="00" relocatable="true" max_length="0">
+			<original>おっ 開いたゾ！</original>
+			<edited>おっ 開いたゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0004" offset="00" relocatable="true" max_length="0">
+			<original>ログポイントゲットで ロックが解除されるようですね</original>
+			<edited>ログポイントゲットで ロックが解除されるようですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0005" offset="00" relocatable="true" max_length="0">
+			<original>ゲッ！ 屋根が下がってんゾ！</original>
+			<edited>ゲッ！ 屋根が下がってんゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0006" offset="00" relocatable="true" max_length="0">
+			<original>外から上に登れそうです！</original>
+			<edited>外から上に登れそうです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0007" offset="00" relocatable="true" max_length="0">
+			<original>エネルギーコアのロックが １つ外れました！</original>
+			<edited>エネルギーコアのロックが １つ外れました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0008" offset="00" relocatable="true" max_length="0">
+			<original>２つ目のロック、解除されたゾ！</original>
+			<edited>２つ目のロック、解除されたゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0009" offset="00" relocatable="true" max_length="0">
+			<original>ロック解除されました！ さっきのと合わせて３つ目ですね</original>
+			<edited>ロック解除されました！ さっきのと合わせて３つ目ですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0010" offset="00" relocatable="true" max_length="0">
+			<original>オッケー！ ロック、４つ目解除！</original>
+			<edited>オッケー！ ロック、４つ目解除！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0011" offset="00" relocatable="true" max_length="0">
+			<original>ロック解除… って、フタ開いてんゾ！！</original>
+			<edited>ロック解除… って、フタ開いてんゾ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0012" offset="00" relocatable="true" max_length="0">
+			<original>５つ目のロックが 外れました！ あと３つ！</original>
+			<edited>５つ目のロックが 外れました！ あと３つ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0013" offset="00" relocatable="true" max_length="0">
+			<original>エネルギーコアです！ でも、ロックされてますね…</original>
+			<edited>エネルギーコアです！ でも、ロックされてますね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0014" offset="00" relocatable="true" max_length="0">
+			<original>ハチ！ こーなったら、ログポイント全部ゲットだ！</original>
+			<edited>ハチ！ こーなったら、ログポイント全部ゲットだ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0015" offset="00" relocatable="true" max_length="0">
+			<original>全ロック解除！ エネルギーコアは…</original>
+			<edited>全ロック解除！ エネルギーコアは…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0016" offset="00" relocatable="true" max_length="0">
+			<original>おいおい！ どうなるんだ？！</original>
+			<edited>おいおい！ どうなるんだ？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0017" offset="00" relocatable="true" max_length="0">
+			<original>開いたトコから 上に登れそうだな！</original>
+			<edited>開いたトコから 上に登れそうだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0018" offset="00" relocatable="true" max_length="0">
+			<original>あ！ スイッチの面が 開いたゾ！</original>
+			<edited>あ！ スイッチの面が 開いたゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0019" offset="00" relocatable="true" max_length="0">
+			<original>インクレールで 中に入れそうです！</original>
+			<edited>インクレールで 中に入れそうです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0020" offset="00" relocatable="true" max_length="0">
+			<original>８号さん！ 追いかけましょう！</original>
+			<edited>８号さん！ 追いかけましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0021" offset="00" relocatable="true" max_length="0">
+			<original>そー言えば イイダ、ジジィらの様子は？</original>
+			<edited>そー言えば イイダ、ジジィらの様子は？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0022" offset="00" relocatable="true" max_length="0">
+			<original>あ！ 上昇してます！ ８号さんより上層にいます！</original>
+			<edited>あ！ 上昇してます！ ８号さんより上層にいます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0023" offset="00" relocatable="true" max_length="0">
+			<original>ついでにジジィも！</original>
+			<edited>ついでにジジィも！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0024" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x2;&#x2;&#x0;あ゛ーーーーーッ！！！&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;あ゛ーーーーーッ！！！&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0025" offset="00" relocatable="true" max_length="0">
+			<original>アレはログポイントです！ 壊してゲットしましょう！</original>
+			<edited>アレはログポイントです！ 壊してゲットしましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0026" offset="00" relocatable="true" max_length="0">
+			<original>ロック　６コ目、解除！ あと２つだ！</original>
+			<edited>ロック　６コ目、解除！ あと２つだ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0027" offset="00" relocatable="true" max_length="0">
+			<original>７つ目のロックが 解除されました！ あと１つです！</original>
+			<edited>７つ目のロックが 解除されました！ あと１つです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss04_0028" offset="00" relocatable="true" max_length="0">
+			<original>ハチ、上を見ろ！ そこから上のスイッチ、とどかねーか？</original>
+			<edited>ハチ、上を見ろ！ そこから上のスイッチ、とどかねーか？</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

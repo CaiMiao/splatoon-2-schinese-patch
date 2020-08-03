@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>アルバイトぼしゅうのお知らせ</original>
+			<edited>アルバイトぼしゅうのお知らせ</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>ガチアサリ</original>
+			<edited>ガチアサリ</edited>
+			<subEntries />
+		</entry>
+		<entry name="100" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x5;&#x1;&#x2;&#x0;Í 開催</original>
+			<edited>&#xE;&#x5;&#x1;&#x2;&#x0;Í 開催</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Msg_00" offset="00" relocatable="true" max_length="0">
+			<original>ゲームを 快適に遊んでいただけるよう、
+一部 ゲーム内容を修正しました
+くわしくは スプラトゥーン2の
+公式サイトを ご覧ください</original>
+			<edited>ゲームを 快適に遊んでいただけるよう、
+一部 ゲーム内容を修正しました
+くわしくは スプラトゥーン2の
+公式サイトを ご覧ください</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Victory_00" offset="00" relocatable="true" max_length="0">
+			<original>勝利！</original>
+			<edited>勝利！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x0;Í</original>
+			<edited>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Fes_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Wins_00" offset="00" relocatable="true" max_length="0">
+			<original>こうけん度</original>
+			<edited>こうけん度</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_TotalResultTitle_00" offset="00" relocatable="true" max_length="0">
+			<original>最終結果！</original>
+			<edited>最終結果！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Votes_00" offset="00" relocatable="true" max_length="0">
+			<original>得票率</original>
+			<edited>得票率</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ItemDetail_00-T_Sub_00" offset="00" relocatable="true" max_length="0">
+			<original>サブ</original>
+			<edited>サブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ItemDetail_00-T_Super_00" offset="00" relocatable="true" max_length="0">
+			<original>スペシャル</original>
+			<edited>スペシャル</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ItemDetail_00-T_SpecialPointName_00" offset="00" relocatable="true" max_length="0">
+			<original>スペシャル必要ポイント</original>
+			<edited>スペシャル必要ポイント</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_WinsGroup_00" offset="00" relocatable="true" max_length="0">
+			<original>チャレンジ</original>
+			<edited>チャレンジ</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_WinsSolo_00" offset="00" relocatable="true" max_length="0">
+			<original>レギュラー</original>
+			<edited>レギュラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Wins_00-T_Unit_00" offset="00" relocatable="true" max_length="0">
+			<original>％</original>
+			<edited>％</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Votes_00-T_Unit_00" offset="00" relocatable="true" max_length="0">
+			<original>％</original>
+			<edited>％</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

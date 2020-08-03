@@ -1,0 +1,1324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="FirstEntryDemo_00" offset="00" relocatable="true" max_length="0">
+			<original>タ…</original>
+			<edited>タ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_01" offset="00" relocatable="true" max_length="0">
+			<original>タコが 来とる…</original>
+			<edited>タコが 来とる…</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_02" offset="00" relocatable="true" max_length="0">
+			<original>こんちゃ～</original>
+			<edited>こんちゃ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_03" offset="00" relocatable="true" max_length="0">
+			<original>やっぱ 来てくれたね～&#xE;&#x0;&#x4;&#x0;キミのこと、街で見かけたときから
+他の人とはちがう目 してると思ってたんよ&#xE;&#x0;&#x4;&#x0;あ、 メンゴメンゴ
+アタシは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ホタル&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>やっぱ 来てくれたね～&#xE;&#x0;&#x4;&#x0;キミのこと、街で見かけたときから
+他の人とはちがう目 してると思ってたんよ&#xE;&#x0;&#x4;&#x0;あ、 メンゴメンゴ
+アタシは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ホタル&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_04" offset="00" relocatable="true" max_length="0">
+			<original>そう、みなさんごぞんじ 有名アイドル
+「&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シオカラーズ&#xE;&#x0;&#x3;&#x2;ÿÿ」の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ホタル&#xE;&#x0;&#x3;&#x2;ÿÿで～す</original>
+			<edited>そう、みなさんごぞんじ 有名アイドル
+「&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シオカラーズ&#xE;&#x0;&#x3;&#x2;ÿÿ」の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ホタル&#xE;&#x0;&#x3;&#x2;ÿÿで～す</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_05" offset="00" relocatable="true" max_length="0">
+			<original>えっ、知らない？！
+&#xE;&#x1;&#x0;&#x4;K&#x0;&#x0;&#x0;マジで？！</original>
+			<edited>えっ、知らない？！
+&#xE;&#x1;&#x0;&#x4;K&#x0;&#x0;&#x0;マジで？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_06" offset="00" relocatable="true" max_length="0">
+			<original>あ、そう… &#xE;&#x1;&#x0;&#x4;K&#x0;&#x0;&#x0;まあ いいや</original>
+			<edited>あ、そう… &#xE;&#x1;&#x0;&#x4;K&#x0;&#x0;&#x0;まあ いいや</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_07" offset="00" relocatable="true" max_length="0">
+			<original>ちょっと 助けてもらいたいことがあって、
+キミみたいなコを 待ってたんよね</original>
+			<edited>ちょっと 助けてもらいたいことがあって、
+キミみたいなコを 待ってたんよね</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_08" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイカラスクエア&#xE;&#x0;&#x3;&#x2;ÿÿの エネルギー源、
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;オオデンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿが消えた事件、知ってる？&#xE;&#x0;&#x4;&#x0;アレ、じつは タコ軍団、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;オクタリアン&#xE;&#x0;&#x3;&#x2;ÿÿの しわざなんよ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイカラスクエア&#xE;&#x0;&#x3;&#x2;ÿÿの エネルギー源、
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;オオデンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿが消えた事件、知ってる？&#xE;&#x0;&#x4;&#x0;アレ、じつは タコ軍団、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;オクタリアン&#xE;&#x0;&#x3;&#x2;ÿÿの しわざなんよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_09" offset="00" relocatable="true" max_length="0">
+			<original>なんでそんなこと 知ってるかって～と
+アタシ、表の顔はアイドルだけど…&#xE;&#x0;&#x4;&#x0;その正体は… にっくきオクタリアンから世界を守る
+New！カラストンビ部隊、２号なんよ～！&#xE;&#x0;&#x4;&#x0;…てなワケで、ここでオクタリアンを見張ってんだけど
+ちょっと 一人じゃ手に負えなくなってきて…</original>
+			<edited>なんでそんなこと 知ってるかって～と
+アタシ、表の顔はアイドルだけど…&#xE;&#x0;&#x4;&#x0;その正体は… にっくきオクタリアンから世界を守る
+New！カラストンビ部隊、２号なんよ～！&#xE;&#x0;&#x4;&#x0;…てなワケで、ここでオクタリアンを見張ってんだけど
+ちょっと 一人じゃ手に負えなくなってきて…</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_10" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ナマズくんもだけど、アオリちゃんも おらんくなるし…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+あ、こっちの話</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ナマズくんもだけど、アオリちゃんも おらんくなるし…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+あ、こっちの話</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_11" offset="00" relocatable="true" max_length="0">
+			<original>というわけで、お願い！ アタシに協力して
+アイツらから &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;オオデンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ取り返して！</original>
+			<edited>というわけで、お願い！ アタシに協力して
+アイツらから &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;オオデンチナマズ&#xE;&#x0;&#x3;&#x2;ÿÿ取り返して！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_12" offset="00" relocatable="true" max_length="0">
+			<original>…</original>
+			<edited>…</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_13" offset="00" relocatable="true" max_length="0">
+			<original>…&#xE;&#x1;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; …</original>
+			<edited>…&#xE;&#x1;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; …</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_14" offset="00" relocatable="true" max_length="0">
+			<original>…&#xE;&#x1;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; …&#xE;&#x1;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; …</original>
+			<edited>…&#xE;&#x1;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; …&#xE;&#x1;&#x0;&#x4;&#x5;&#x0;&#x0;&#x0; …</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_15" offset="00" relocatable="true" max_length="0">
+			<original>だまってる、ってことは 「YES」ってことやんね</original>
+			<edited>だまってる、ってことは 「YES」ってことやんね</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_16" offset="00" relocatable="true" max_length="0">
+			<original>よし 今日からキミを
+New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#x0;&#x3;&#x2;ÿÿに 任命します！</original>
+			<edited>よし 今日からキミを
+New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#x0;&#x3;&#x2;ÿÿに 任命します！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_17" offset="00" relocatable="true" max_length="0">
+			<original>特製の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーロースーツ&#xE;&#x0;&#x3;&#x2;ÿÿを 用意しといたよ&#xE;&#x0;&#x4;&#x0;サイズもピッタリ！
+&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;(アオリちゃんのおさがりだけど…)&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>特製の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーロースーツ&#xE;&#x0;&#x3;&#x2;ÿÿを 用意しといたよ&#xE;&#x0;&#x4;&#x0;サイズもピッタリ！
+&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;(アオリちゃんのおさがりだけど…)&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_18" offset="00" relocatable="true" max_length="0">
+			<original>ほんじゃ レッツゴ～
+イカ よろしく～</original>
+			<edited>ほんじゃ レッツゴ～
+イカ よろしく～</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_19" offset="00" relocatable="true" max_length="0">
+			<original>ちなみに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;オクタリアン基地&#xE;&#x0;&#x3;&#x2;ÿÿの入口は、トウメイだから
+インクを塗って 見つけてね～</original>
+			<edited>ちなみに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;オクタリアン基地&#xE;&#x0;&#x3;&#x2;ÿÿの入口は、トウメイだから
+インクを塗って 見つけてね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_00_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ん…</original>
+			<edited>ん…</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_01_2nd" offset="00" relocatable="true" max_length="0">
+			<original>あ、４号～</original>
+			<edited>あ、４号～</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_02_2nd" offset="00" relocatable="true" max_length="0">
+			<original>待っとったよ～</original>
+			<edited>待っとったよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_03_2nd" offset="00" relocatable="true" max_length="0">
+			<original>キミのおかげで、オオデンチナマズも アオリちゃんも
+帰ってきて、ハイカラスクエアに 平和がもどったよ&#xE;&#x0;&#x4;&#x0;まぁ 街のみんなは気づいてないから
+だれも感謝してくれんけどね…</original>
+			<edited>キミのおかげで、オオデンチナマズも アオリちゃんも
+帰ってきて、ハイカラスクエアに 平和がもどったよ&#xE;&#x0;&#x4;&#x0;まぁ 街のみんなは気づいてないから
+だれも感謝してくれんけどね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_04_2nd" offset="00" relocatable="true" max_length="0">
+			<original>「ヒーローとは こどくな存在なんじゃ」って
+よく言うっしょ</original>
+			<edited>「ヒーローとは こどくな存在なんじゃ」って
+よく言うっしょ</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_05_2nd" offset="00" relocatable="true" max_length="0">
+			<original>えっ、言わない？！
+&#xE;&#x1;&#x0;&#x4;K&#x0;&#x0;&#x0;マジで？！</original>
+			<edited>えっ、言わない？！
+&#xE;&#x1;&#x0;&#x4;K&#x0;&#x0;&#x0;マジで？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_06_2nd" offset="00" relocatable="true" max_length="0">
+			<original>あ、そう… &#xE;&#x1;&#x0;&#x4;K&#x0;&#x0;&#x0;まあ いいや</original>
+			<edited>あ、そう… &#xE;&#x1;&#x0;&#x4;K&#x0;&#x0;&#x0;まあ いいや</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_07_2nd" offset="00" relocatable="true" max_length="0">
+			<original>…あ、このタコは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;DJタコワサ将軍&#xE;&#x0;&#x3;&#x2;ÿÿだよ
+また悪さしないように 見張ってんだ～</original>
+			<edited>…あ、このタコは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;DJタコワサ将軍&#xE;&#x0;&#x3;&#x2;ÿÿだよ
+また悪さしないように 見張ってんだ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_08_2nd" offset="00" relocatable="true" max_length="0">
+			<original>おじいちゃん… いや&#xE;&#x0;&#x4;&#x0;New！カラストンビ部隊の司令が 帰ってくるまで
+アタシが おきゅうをすえとくし</original>
+			<edited>おじいちゃん… いや&#xE;&#x0;&#x4;&#x0;New！カラストンビ部隊の司令が 帰ってくるまで
+アタシが おきゅうをすえとくし</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_09_2nd_WA" offset="00" relocatable="true" max_length="0">
+			<original>ギギ… ホタルチャン… オナカ スイタゾ！</original>
+			<edited>ギギ… ホタルチャン… オナカ スイタゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_10_2nd" offset="00" relocatable="true" max_length="0">
+			<original>それにしても… キミ、一段とイイ目になったね
+ホント、ありがと…</original>
+			<edited>それにしても… キミ、一段とイイ目になったね
+ホント、ありがと…</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_11_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ん？ あれ 気になる？
+ブキチくんにたのんで 置いてもらったの</original>
+			<edited>ん？ あれ 気になる？
+ブキチくんにたのんで 置いてもらったの</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_12_2nd" offset="00" relocatable="true" max_length="0">
+			<original>なんと！ 近日発売予定の シオカラーズの新曲
+「あさってColor」が、いつでも きき放題！</original>
+			<edited>なんと！ 近日発売予定の シオカラーズの新曲
+「あさってColor」が、いつでも きき放題！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_13_2nd" offset="00" relocatable="true" max_length="0">
+			<original>曲の方も、イカよろしく～</original>
+			<edited>曲の方も、イカよろしく～</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstEntryDemo_14_2nd" offset="00" relocatable="true" max_length="0">
+			<original>ふふ…</original>
+			<edited>ふふ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="GotMainWeaponTalk" offset="00" relocatable="true" max_length="0">
+			<original>ちょっと ブキのログを確認…
+うん！ ちゃんとデータ 取れてるでし！&#xE;&#x0;&#x4;&#x0;キミなら、そのブキを使いこんで
+いいデータを たくさん取ってくれそうでし！&#xE;&#x0;&#x4;&#x0;もっとデータを集めれば、製品化が早まるので
+引き続き ログ収集 お願いするでし！&#xE;&#x0;&#x4;&#x0;くれぐれも 貸すだけであって、タダでは あげないでし！
+そこは、忘れないで欲しいでし！&#xE;&#x0;&#x4;&#x0;それじゃあ、よろしくでし！</original>
+			<edited>ちょっと ブキのログを確認…
+うん！ ちゃんとデータ 取れてるでし！&#xE;&#x0;&#x4;&#x0;キミなら、そのブキを使いこんで
+いいデータを たくさん取ってくれそうでし！&#xE;&#x0;&#x4;&#x0;もっとデータを集めれば、製品化が早まるので
+引き続き ログ収集 お願いするでし！&#xE;&#x0;&#x4;&#x0;くれぐれも 貸すだけであって、タダでは あげないでし！
+そこは、忘れないで欲しいでし！&#xE;&#x0;&#x4;&#x0;それじゃあ、よろしくでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="AllStageCleraByMain" offset="00" relocatable="true" max_length="0">
+			<original>いろんな場所で &#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Íを
+使いこんでくれたみたいでしね！&#xE;&#x0;&#x4;&#x0;データもバッチリ！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ナワバリバトル&#xE;&#x0;&#x3;&#x2;ÿÿで使えるような
+試作品が作れそうでし！&#xE;&#x0;&#x4;&#x0;完成して 認可が下りたら、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイカラスクエア&#xE;&#x0;&#x3;&#x2;ÿÿの
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボクの店&#xE;&#x0;&#x3;&#x2;ÿÿの看板商品に するつもりなんでし！&#xE;&#x0;&#x4;&#x0;うーん、楽しみでし！
+さっそく作業に取りかかるでし！</original>
+			<edited>いろんな場所で &#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Íを
+使いこんでくれたみたいでしね！&#xE;&#x0;&#x4;&#x0;データもバッチリ！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ナワバリバトル&#xE;&#x0;&#x3;&#x2;ÿÿで使えるような
+試作品が作れそうでし！&#xE;&#x0;&#x4;&#x0;完成して 認可が下りたら、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイカラスクエア&#xE;&#x0;&#x3;&#x2;ÿÿの
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボクの店&#xE;&#x0;&#x3;&#x2;ÿÿの看板商品に するつもりなんでし！&#xE;&#x0;&#x4;&#x0;うーん、楽しみでし！
+さっそく作業に取りかかるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GotLobTicketTalk" offset="00" relocatable="true" max_length="0">
+			<original>あ、それってロブくんの店で使える
+チケットじゃね?&#xE;&#x0;&#x4;&#x0;ハイカラスクエアの広場に
+お店が出てるから のぞいてみたら?&#xE;&#x0;&#x4;&#x0;あそこのスイーツ好きなんよね～
+&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;(なんか食べたくなってきた…)&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>あ、それってロブくんの店で使える
+チケットじゃね?&#xE;&#x0;&#x4;&#x0;ハイカラスクエアの広場に
+お店が出てるから のぞいてみたら?&#xE;&#x0;&#x4;&#x0;あそこのスイーツ好きなんよね～
+&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;(なんか食べたくなってきた…)&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="GotLobTicketTalk_StageClearByAllMain" offset="00" relocatable="true" max_length="0">
+			<original>おかげさまで、ここで必要なデータは
+全て取り終えたでし！&#xE;&#x0;&#x4;&#x0;この調子で 他でも、いろんなブキを使いまくって
+データを 集めて欲しいでし！&#xE;&#x0;&#x4;&#x0;これは、モニターのお礼としてあげるでし、
+エンリョせず 受け取って欲しいでし！！</original>
+			<edited>おかげさまで、ここで必要なデータは
+全て取り終えたでし！&#xE;&#x0;&#x4;&#x0;この調子で 他でも、いろんなブキを使いまくって
+データを 集めて欲しいでし！&#xE;&#x0;&#x4;&#x0;これは、モニターのお礼としてあげるでし、
+エンリョせず 受け取って欲しいでし！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BuffMachineOpen" offset="00" relocatable="true" max_length="0">
+			<original>お待たせでし！ シオカラ亭のそばに置いてた
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリボックス&#xE;&#x0;&#x3;&#x2;ÿÿを 使えるようにしたでし！&#xE;&#x0;&#x4;&#x0;ブキ強化やボム追加ができる 便利なマシンでしよ！
+ゼヒゼヒ 使って欲しいでし！&#xE;&#x0;&#x4;&#x0;おカネは要らないでしが、代わりに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イクラ&#xE;&#x0;&#x3;&#x2;ÿÿと
+&#xE;&#x2;+&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イリコニウム&#xE;&#x0;&#x3;&#x2;ÿÿを提供して欲しいでし！&#xE;&#x0;&#x4;&#x0;イクラとイリコニウムは タコツボキャニオンや
+オクタリアンの基地で 入手可能でしからね！</original>
+			<edited>お待たせでし！ シオカラ亭のそばに置いてた
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリボックス&#xE;&#x0;&#x3;&#x2;ÿÿを 使えるようにしたでし！&#xE;&#x0;&#x4;&#x0;ブキ強化やボム追加ができる 便利なマシンでしよ！
+ゼヒゼヒ 使って欲しいでし！&#xE;&#x0;&#x4;&#x0;おカネは要らないでしが、代わりに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イクラ&#xE;&#x0;&#x3;&#x2;ÿÿと
+&#xE;&#x2;+&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イリコニウム&#xE;&#x0;&#x3;&#x2;ÿÿを提供して欲しいでし！&#xE;&#x0;&#x4;&#x0;イクラとイリコニウムは タコツボキャニオンや
+オクタリアンの基地で 入手可能でしからね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BuffMachineUse_01" offset="00" relocatable="true" max_length="0">
+			<original>ちなみに、そのブキも &#xE;&#x2;+&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イリコニウム&#xE;&#x0;&#x3;&#x2;ÿÿと&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イクラ&#xE;&#x0;&#x3;&#x2;ÿÿがあれば
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリボックス&#xE;&#x0;&#x3;&#x2;ÿÿで 強化ができるでし！</original>
+			<edited>ちなみに、そのブキも &#xE;&#x2;+&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イリコニウム&#xE;&#x0;&#x3;&#x2;ÿÿと&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イクラ&#xE;&#x0;&#x3;&#x2;ÿÿがあれば
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリボックス&#xE;&#x0;&#x3;&#x2;ÿÿで 強化ができるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_1_00_HT" offset="00" relocatable="true" max_length="0">
+			<original>グッジョブ、４号～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+アタシが、見こんでた通りのカツヤクだったね</original>
+			<edited>グッジョブ、４号～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+アタシが、見こんでた通りのカツヤクだったね</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_1_01_HT" offset="00" relocatable="true" max_length="0">
+			<original>それにしても、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;戦略タコツボ兵器&#xE;&#x0;&#x3;&#x2;ÿÿまで
+使ってくるなんて、オクタリアンも必死だな～</original>
+			<edited>それにしても、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;戦略タコツボ兵器&#xE;&#x0;&#x3;&#x2;ÿÿまで
+使ってくるなんて、オクタリアンも必死だな～</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_1_02_HT" offset="00" relocatable="true" max_length="0">
+			<original>しかし！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; こ～なることを予想して、
+強力な助っ人を たのんどいたんよね</original>
+			<edited>しかし！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; こ～なることを予想して、
+強力な助っ人を たのんどいたんよね</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_1_03_HT" offset="00" relocatable="true" max_length="0">
+			<original>え～っと、ブキチく～ん、ブキチく～ん
+聞こえてる？ オ～バ～？</original>
+			<edited>え～っと、ブキチく～ん、ブキチく～ん
+聞こえてる？ オ～バ～？</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_1_04_BK" offset="00" relocatable="true" max_length="0">
+			<original>ハイハイ、ホタルさん
+もちろん 聞こえてるでし、オーバー！</original>
+			<edited>ハイハイ、ホタルさん
+もちろん 聞こえてるでし、オーバー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_1_05_BK" offset="00" relocatable="true" max_length="0">
+			<original>いらっしゃいやしー！ ５億４２００万年の信用と実績、
+ブキのことなら ネジ一本からフルカスタムまで、</original>
+			<edited>いらっしゃいやしー！ ５億４２００万年の信用と実績、
+ブキのことなら ネジ一本からフルカスタムまで、</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_1_06_BK" offset="00" relocatable="true" max_length="0">
+			<original>ハイカラスクエア ロビー横のブキショップ
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリアームズ&#xE;&#x0;&#x3;&#x2;ÿÿにオマカセ！ …で おなじみの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ブキチ&#xE;&#x0;&#x3;&#x2;ÿÿでし！</original>
+			<edited>ハイカラスクエア ロビー横のブキショップ
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリアームズ&#xE;&#x0;&#x3;&#x2;ÿÿにオマカセ！ …で おなじみの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ブキチ&#xE;&#x0;&#x3;&#x2;ÿÿでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_1_07_BK" offset="00" relocatable="true" max_length="0">
+			<original>ホタルさんから聞いてるでし！ New！カラストンビ部隊で
+ボクのブキ達を使ってもらえるなんて、光栄でし！</original>
+			<edited>ホタルさんから聞いてるでし！ New！カラストンビ部隊で
+ボクのブキ達を使ってもらえるなんて、光栄でし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_1_08_BK" offset="00" relocatable="true" max_length="0">
+			<original>ただし、ボクの大事なブキ達を
+タダで 貸してあげるわけにはいかないでし！</original>
+			<edited>ただし、ボクの大事なブキ達を
+タダで 貸してあげるわけにはいかないでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_1_09_BK" offset="00" relocatable="true" max_length="0">
+			<original>なので、キミには 開発中のブキ達の
+モニターを して欲しいでし！</original>
+			<edited>なので、キミには 開発中のブキ達の
+モニターを して欲しいでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_1_10_BK" offset="00" relocatable="true" max_length="0">
+			<original>モニターと言っても、キミは ボクのブキ達を使うだけ！
+そうすりゃ自然と データが集まるようになってるでし</original>
+			<edited>モニターと言っても、キミは ボクのブキ達を使うだけ！
+そうすりゃ自然と データが集まるようになってるでし</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_1_11_BK" offset="00" relocatable="true" max_length="0">
+			<original>データをたくさん集めると、認可が下りやすくなって
+ブキを製品化することができるでし！</original>
+			<edited>データをたくさん集めると、認可が下りやすくなって
+ブキを製品化することができるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_1_12_BK" offset="00" relocatable="true" max_length="0">
+			<original>つまり、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ナワバリバトル&#xE;&#x0;&#x3;&#x2;ÿÿで使えるようになるでし！
+まさに Win-Winの関係でしね！ それから…</original>
+			<edited>つまり、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ナワバリバトル&#xE;&#x0;&#x3;&#x2;ÿÿで使えるようになるでし！
+まさに Win-Winの関係でしね！ それから…</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_1_13_HT" offset="00" relocatable="true" max_length="0">
+			<original>え～と、もう 説明ダイジョブだよね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ありがと～、ブキチくん</original>
+			<edited>え～と、もう 説明ダイジョブだよね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ありがと～、ブキチくん</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_1_14_HT" offset="00" relocatable="true" max_length="0">
+			<original>じゃ ４号、そゆことなんで
+イカ よろしくね～</original>
+			<edited>じゃ ４号、そゆことなんで
+イカ よろしくね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_2_00_HT" offset="00" relocatable="true" max_length="0">
+			<original>ふ～、ちょっとアセったわ～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ともあれ ４号、おつかれさま～</original>
+			<edited>ふ～、ちょっとアセったわ～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ともあれ ４号、おつかれさま～</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_2_01_HT" offset="00" relocatable="true" max_length="0">
+			<original>それにしても タコ達の基地
+なんとなくガーリーになってない？ センス変わった？ </original>
+			<edited>それにしても タコ達の基地
+なんとなくガーリーになってない？ センス変わった？ </edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_2_02_AOS" offset="00" relocatable="true" max_length="0">
+			<original>……… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ヒキ… &#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;ヒキ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;セ…</original>
+			<edited>……… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ヒキ… &#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;ヒキ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;セ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_2_03_HT" offset="00" relocatable="true" max_length="0">
+			<original>ん？ なんね？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+無線の調子が、悪いのかな？</original>
+			<edited>ん？ なんね？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+無線の調子が、悪いのかな？</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_2_04_BK" offset="00" relocatable="true" max_length="0">
+			<original>捨てられたガラクタのせいで タコツボキャニオンの
+電波が乱れてるのかもしれないでし！</original>
+			<edited>捨てられたガラクタのせいで タコツボキャニオンの
+電波が乱れてるのかもしれないでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_2_05_BK" offset="00" relocatable="true" max_length="0">
+			<original>IKSMバンドと呼ばれる電波帯は、いろんな製品で
+使われているでし！ 特に電子レンジは強い電波が…</original>
+			<edited>IKSMバンドと呼ばれる電波帯は、いろんな製品で
+使われているでし！ 特に電子レンジは強い電波が…</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_2_06_HT" offset="00" relocatable="true" max_length="0">
+			<original>はいはい…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; じゃ、使わない時は
+無線の電源も 切っとかんとね～</original>
+			<edited>はいはい…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; じゃ、使わない時は
+無線の電源も 切っとかんとね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_3_00_HT" offset="00" relocatable="true" max_length="0">
+			<original>４号、ここまでつきあってくれて
+ありがと…</original>
+			<edited>４号、ここまでつきあってくれて
+ありがと…</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_3_01_HT" offset="00" relocatable="true" max_length="0">
+			<original>そろそろ アタシの もう一つの目的のこと、
+正直に、話さんといかんね…</original>
+			<edited>そろそろ アタシの もう一つの目的のこと、
+正直に、話さんといかんね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_3_02_HT" offset="00" relocatable="true" max_length="0">
+			<original>４号に会った日、アタシ オオデンチナマズを探して
+取りもどそうって言った…</original>
+			<edited>４号に会った日、アタシ オオデンチナマズを探して
+取りもどそうって言った…</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_3_03_HT" offset="00" relocatable="true" max_length="0">
+			<original>でも ホントはそれだけじゃない</original>
+			<edited>でも ホントはそれだけじゃない</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_3_04_HT" offset="00" relocatable="true" max_length="0">
+			<original>アタシ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;オオデンチナマズが消えた日に いなくなった
+もう一人のシオカラーズ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アオリ&#xE;&#x0;&#x3;&#x2;ÿÿちゃんも 探してるんよ！</original>
+			<edited>アタシ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;オオデンチナマズが消えた日に いなくなった
+もう一人のシオカラーズ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アオリ&#xE;&#x0;&#x3;&#x2;ÿÿちゃんも 探してるんよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_3_05_HT" offset="00" relocatable="true" max_length="0">
+			<original>……えっ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 知ってた？！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ええっ！！ あ、そう…</original>
+			<edited>……えっ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 知ってた？！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ええっ！！ あ、そう…</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_3_06_HT" offset="00" relocatable="true" max_length="0">
+			<original>…じゃ 続けるけど、New！カラストンビ部隊の
+２号はアタシで １号がそのアオリちゃんなんよ</original>
+			<edited>…じゃ 続けるけど、New！カラストンビ部隊の
+２号はアタシで １号がそのアオリちゃんなんよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_3_07_HT" offset="00" relocatable="true" max_length="0">
+			<original>３号もいるけど、おじいちゃんのアタリメ司令と
+調査に出てて、しばらく もどらないの</original>
+			<edited>３号もいるけど、おじいちゃんのアタリメ司令と
+調査に出てて、しばらく もどらないの</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_3_08_HT" offset="00" relocatable="true" max_length="0">
+			<original>で、司令代理として 一人で留守番してたら
+オオデンチナマズの事件が 重なっちゃって…</original>
+			<edited>で、司令代理として 一人で留守番してたら
+オオデンチナマズの事件が 重なっちゃって…</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_3_09_HT" offset="00" relocatable="true" max_length="0">
+			<original>今まで だまってて メンゴね…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+でも ４号がいたから ここまで来れたんよ</original>
+			<edited>今まで だまってて メンゴね…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+でも ４号がいたから ここまで来れたんよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_3_10_HT" offset="00" relocatable="true" max_length="0">
+			<original>あとちょっとで きっと アオリちゃんも見つかるはず！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+お願い、もうちょっとだけ アタシにつきあってくれる？</original>
+			<edited>あとちょっとで きっと アオリちゃんも見つかるはず！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+お願い、もうちょっとだけ アタシにつきあってくれる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_3_11_AOS" offset="00" relocatable="true" max_length="0">
+			<original>ヒキ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;セ…&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; ヒキカエセ……！！</original>
+			<edited>ヒキ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;セ…&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; ヒキカエセ……！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_3_12_HT" offset="00" relocatable="true" max_length="0">
+			<original>なんね？ また 無線が乗っ取られてる？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ジャマするなら とっちめるよ～、４号が！</original>
+			<edited>なんね？ また 無線が乗っ取られてる？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ジャマするなら とっちめるよ～、４号が！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_4_00_AOS_R" offset="00" relocatable="true" max_length="0">
+			<original>ヒキカエセ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ココカラ ヒキカエセ…</original>
+			<edited>ヒキカエセ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ココカラ ヒキカエセ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_4_01_HT" offset="00" relocatable="true" max_length="0">
+			<original>………受話器、逆じゃね？</original>
+			<edited>………受話器、逆じゃね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_4_02_AOS" offset="00" relocatable="true" max_length="0">
+			<original>ア！ &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ホント ダ！</original>
+			<edited>ア！ &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ホント ダ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_4_03_HT" offset="00" relocatable="true" max_length="0">
+			<original>アオリちゃん？！</original>
+			<edited>アオリちゃん？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_4_04_AOS" offset="00" relocatable="true" max_length="0">
+			<original>アッ… アオリ デハナイッ！ イイカラ ヒキカエスノダ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+アブナイシ、キケンダゾ…！</original>
+			<edited>アッ… アオリ デハナイッ！ イイカラ ヒキカエスノダ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+アブナイシ、キケンダゾ…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_4_05_HT" offset="00" relocatable="true" max_length="0">
+			<original>それ、意味いっしょじゃね？</original>
+			<edited>それ、意味いっしょじゃね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_4_06_AOS" offset="00" relocatable="true" max_length="0">
+			<original>ト、トニカク ヒキカエスノダーッ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+モウ カケナイカラ！！</original>
+			<edited>ト、トニカク ヒキカエスノダーッ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+モウ カケナイカラ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_4_07_HT" offset="00" relocatable="true" max_length="0">
+			<original>ちょ、ちょっと！ 待って！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+アオリちゃん！ アオリちゃん？！</original>
+			<edited>ちょ、ちょっと！ 待って！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+アオリちゃん！ アオリちゃん？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_4_08_HT" offset="00" relocatable="true" max_length="0">
+			<original>…どうやら、アオリちゃんが タコ達に協力してるみたい&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+４号、アオリちゃんを連れもどすの 手伝ってくれる？</original>
+			<edited>…どうやら、アオリちゃんが タコ達に協力してるみたい&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+４号、アオリちゃんを連れもどすの 手伝ってくれる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_4_09_HT" offset="00" relocatable="true" max_length="0">
+			<original>… … …</original>
+			<edited>… … …</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossSmashFadeTalk_4_10_HT" offset="00" relocatable="true" max_length="0">
+			<original>だまってるってことは、YESってことやね！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+やっぱイカしてる！ それじゃ、レッツゴ～！</original>
+			<edited>だまってるってことは、YESってことやね！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+やっぱイカしてる！ それじゃ、レッツゴ～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_01_00" offset="00" relocatable="true" max_length="0">
+			<original>とりま、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;あやしい場所&#xE;&#x0;&#x3;&#x2;ÿÿを見つけたら 攻撃してみて</original>
+			<edited>とりま、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;あやしい場所&#xE;&#x0;&#x3;&#x2;ÿÿを見つけたら 攻撃してみて</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_01_01" offset="00" relocatable="true" max_length="0">
+			<original>ごくろ～さん♪ この調子で デンチナマズ集めよ～</original>
+			<edited>ごくろ～さん♪ この調子で デンチナマズ集めよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_01_02" offset="00" relocatable="true" max_length="0">
+			<original>おつ～！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーロースーツ&#xE;&#x0;&#x3;&#x2;ÿÿこわれたら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;センプク&#xE;&#x0;&#x3;&#x2;ÿÿで早く復活ね</original>
+			<edited>おつ～！ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーロースーツ&#xE;&#x0;&#x3;&#x2;ÿÿこわれたら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;センプク&#xE;&#x0;&#x3;&#x2;ÿÿで早く復活ね</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_01_03" offset="00" relocatable="true" max_length="0">
+			<original>あっ、ボスヤカン開いた！ たのんだよ、４号</original>
+			<edited>あっ、ボスヤカン開いた！ たのんだよ、４号</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_Boss01" offset="00" relocatable="true" max_length="0">
+			<original>敵強くなるよ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリボックス&#xE;&#x0;&#x3;&#x2;ÿÿのぞいてから行ってみよ～</original>
+			<edited>敵強くなるよ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリボックス&#xE;&#x0;&#x3;&#x2;ÿÿのぞいてから行ってみよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_02_01" offset="00" relocatable="true" max_length="0">
+			<original>おつ～！ …そだ、&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マップ&#xE;&#x0;&#x3;&#x2;ÿÿで エリアを移動できるよ</original>
+			<edited>おつ～！ …そだ、&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マップ&#xE;&#x0;&#x3;&#x2;ÿÿで エリアを移動できるよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_02_02" offset="00" relocatable="true" max_length="0">
+			<original>おつ～！ …そだ、&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;から 今までの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;きろく&#xE;&#x0;&#x3;&#x2;ÿÿも見れるよ</original>
+			<edited>おつ～！ …そだ、&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;から 今までの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;きろく&#xE;&#x0;&#x3;&#x2;ÿÿも見れるよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_02_03" offset="00" relocatable="true" max_length="0">
+			<original>おつ～！ …そだ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ブキを持ちかえる&#xE;&#x0;&#x3;&#x2;ÿÿなら&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で できるよ</original>
+			<edited>おつ～！ …そだ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ブキを持ちかえる&#xE;&#x0;&#x3;&#x2;ÿÿなら&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で できるよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_02_04" offset="00" relocatable="true" max_length="0">
+			<original>…そだ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイカラスクエアへもどる&#xE;&#x0;&#x3;&#x2;ÿÿなら &#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;からの&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ね</original>
+			<edited>…そだ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイカラスクエアへもどる&#xE;&#x0;&#x3;&#x2;ÿÿなら &#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;からの&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ね</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_02_05" offset="00" relocatable="true" max_length="0">
+			<original>おつ～！ …そだ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ブキ強化&#xE;&#x0;&#x3;&#x2;ÿÿなら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリボックス&#xE;&#x0;&#x3;&#x2;ÿÿね</original>
+			<edited>おつ～！ …そだ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ブキ強化&#xE;&#x0;&#x3;&#x2;ÿÿなら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリボックス&#xE;&#x0;&#x3;&#x2;ÿÿね</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_02_06" offset="00" relocatable="true" max_length="0">
+			<original>ボスヤカン開いたね！ 油断せんよ！</original>
+			<edited>ボスヤカン開いたね！ 油断せんよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_Boss02" offset="00" relocatable="true" max_length="0">
+			<original>オオデンチナマズ おらんかったね… 次のエリアかな？</original>
+			<edited>オオデンチナマズ おらんかったね… 次のエリアかな？</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_03_01" offset="00" relocatable="true" max_length="0">
+			<original>おか～♪ デンチナマズあと５コで、ボスヤカン開きそやね</original>
+			<edited>おか～♪ デンチナマズあと５コで、ボスヤカン開きそやね</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_03_02" offset="00" relocatable="true" max_length="0">
+			<original>おつおつ～♪ だいぶ 板についてきたね～</original>
+			<edited>おつおつ～♪ だいぶ 板についてきたね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_03_03" offset="00" relocatable="true" max_length="0">
+			<original>おつかれ～、次も よろ～</original>
+			<edited>おつかれ～、次も よろ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_03_04" offset="00" relocatable="true" max_length="0">
+			<original>サンキュ～♪ まいど助かるわ～</original>
+			<edited>サンキュ～♪ まいど助かるわ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_03_05" offset="00" relocatable="true" max_length="0">
+			<original>オッケ！ ボスヤカンまであと１コ！</original>
+			<edited>オッケ！ ボスヤカンまであと１コ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_03_06" offset="00" relocatable="true" max_length="0">
+			<original>ボスヤカン オ～プン！ 気をつけて行ってら～</original>
+			<edited>ボスヤカン オ～プン！ 気をつけて行ってら～</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_Boss03" offset="00" relocatable="true" max_length="0">
+			<original>４号、アオリちゃんとオオデンチナマズ… この先で探そ</original>
+			<edited>４号、アオリちゃんとオオデンチナマズ… この先で探そ</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_04_01" offset="00" relocatable="true" max_length="0">
+			<original>あり～♪ デンチナマズあと５コ集めよ～</original>
+			<edited>あり～♪ デンチナマズあと５コ集めよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_04_02" offset="00" relocatable="true" max_length="0">
+			<original>おつ～♪ 次も はりきって、よろ～</original>
+			<edited>おつ～♪ 次も はりきって、よろ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_04_03" offset="00" relocatable="true" max_length="0">
+			<original>オケオケ まだまだ気を引きしめてこ～</original>
+			<edited>オケオケ まだまだ気を引きしめてこ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_04_04" offset="00" relocatable="true" max_length="0">
+			<original>イイネ！ この調子ね</original>
+			<edited>イイネ！ この調子ね</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_04_05" offset="00" relocatable="true" max_length="0">
+			<original>お～し… デンチナマズあと１コで ボスヤカン開くかな</original>
+			<edited>お～し… デンチナマズあと１コで ボスヤカン開くかな</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_04_06" offset="00" relocatable="true" max_length="0">
+			<original>ボスヤカン開いた！ オオデンチナマズ、いるかな～？</original>
+			<edited>ボスヤカン開いた！ オオデンチナマズ、いるかな～？</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_Boss04" offset="00" relocatable="true" max_length="0">
+			<original>アオリちゃんとオオデンチナマズはこの先！ 行くよ、４号</original>
+			<edited>アオリちゃんとオオデンチナマズはこの先！ 行くよ、４号</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_05_01" offset="00" relocatable="true" max_length="0">
+			<original>おつかれ～！ デンチナマズ、あと５コ たのんだよ～</original>
+			<edited>おつかれ～！ デンチナマズ、あと５コ たのんだよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_05_02" offset="00" relocatable="true" max_length="0">
+			<original>まいどありがとね、４号</original>
+			<edited>まいどありがとね、４号</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_05_03" offset="00" relocatable="true" max_length="0">
+			<original>サンキュ～♪ 助かるよ</original>
+			<edited>サンキュ～♪ 助かるよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_05_04" offset="00" relocatable="true" max_length="0">
+			<original>ごくろ～さん♪ さすがにキツくなってきたね…</original>
+			<edited>ごくろ～さん♪ さすがにキツくなってきたね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_05_05" offset="00" relocatable="true" max_length="0">
+			<original>ィよし！ ボスヤカン、オープンまで あと１コ</original>
+			<edited>ィよし！ ボスヤカン、オープンまで あと１コ</edited>
+			<subEntries />
+		</entry>
+		<entry name="StageClearTalk_05_06" offset="00" relocatable="true" max_length="0">
+			<original>ボスヤカン… 行くよ！ ４号、気を引きしめて！</original>
+			<edited>ボスヤカン… 行くよ！ ４号、気を引きしめて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W1Guide_100" offset="00" relocatable="true" max_length="0">
+			<original>これは シオカラ亭、おじいちゃんが作ってくれたんよ</original>
+			<edited>これは シオカラ亭、おじいちゃんが作ってくれたんよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W1Guide_101" offset="00" relocatable="true" max_length="0">
+			<original>シオカラ亭 リフォームしたいな～</original>
+			<edited>シオカラ亭 リフォームしたいな～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W1Guide_200" offset="00" relocatable="true" max_length="0">
+			<original>高いとこ、わりと好きなんよね</original>
+			<edited>高いとこ、わりと好きなんよね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W1Guide_300" offset="00" relocatable="true" max_length="0">
+			<original>看板… タコ語で書いてあると わかんないな</original>
+			<edited>看板… タコ語で書いてあると わかんないな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W1Guide_400" offset="00" relocatable="true" max_length="0">
+			<original>遠くにデカ・タワー見えてない？</original>
+			<edited>遠くにデカ・タワー見えてない？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W1Guide_900" offset="00" relocatable="true" max_length="0">
+			<original>この辺は アシサキ前線基地っていうらしいね</original>
+			<edited>この辺は アシサキ前線基地っていうらしいね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_100" offset="00" relocatable="true" max_length="0">
+			<original>オオデンチナマズ 取り返してね</original>
+			<edited>オオデンチナマズ 取り返してね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_101" offset="00" relocatable="true" max_length="0">
+			<original>４号、初めての敵は 相手の出方をうかがうんだ</original>
+			<edited>４号、初めての敵は 相手の出方をうかがうんだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_102" offset="00" relocatable="true" max_length="0">
+			<original>４号って シオカラーズ、知らんのよね…</original>
+			<edited>４号って シオカラーズ、知らんのよね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_103" offset="00" relocatable="true" max_length="0">
+			<original>４号… ゆっくりね、そして 急いで</original>
+			<edited>４号… ゆっくりね、そして 急いで</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_104" offset="00" relocatable="true" max_length="0">
+			<original>ん？ アタシの顔に なんかついとる？</original>
+			<edited>ん？ アタシの顔に なんかついとる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_105" offset="00" relocatable="true" max_length="0">
+			<original>基地の入口はトウメイだから 塗って探してね</original>
+			<edited>基地の入口はトウメイだから 塗って探してね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_100" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ん～… このコ ちょっと なれなれし過ぎ…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ん～… このコ ちょっと なれなれし過ぎ…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_101" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（早くオオデンチナマズを 追って…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（早くオオデンチナマズを 追って…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_102" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…一通り 説明したっしょ？）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…一通り 説明したっしょ？）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W2Guide_100" offset="00" relocatable="true" max_length="0">
+			<original>シオカラ亭、あんな遠くになっちゃった</original>
+			<edited>シオカラ亭、あんな遠くになっちゃった</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W2Guide_200" offset="00" relocatable="true" max_length="0">
+			<original>ここは オクタリアン達の倉庫かな～？</original>
+			<edited>ここは オクタリアン達の倉庫かな～？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W2Guide_300" offset="00" relocatable="true" max_length="0">
+			<original>最近イクラ集めのアルバイト、流行ってるっぽいね…</original>
+			<edited>最近イクラ集めのアルバイト、流行ってるっぽいね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W2Guide_400" offset="00" relocatable="true" max_length="0">
+			<original>あそこに見えるの 知らない街だ…</original>
+			<edited>あそこに見えるの 知らない街だ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W2Guide_900" offset="00" relocatable="true" max_length="0">
+			<original>この辺は キューバン展望台っていうのか…</original>
+			<edited>この辺は キューバン展望台っていうのか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_200" offset="00" relocatable="true" max_length="0">
+			<original>引き続き よろしくたのんだかんね～</original>
+			<edited>引き続き よろしくたのんだかんね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_201" offset="00" relocatable="true" max_length="0">
+			<original>さあ、４号 しまってこ～</original>
+			<edited>さあ、４号 しまってこ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_202" offset="00" relocatable="true" max_length="0">
+			<original>オクタリアンめ… 今度という今度は 許さん…</original>
+			<edited>オクタリアンめ… 今度という今度は 許さん…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_203" offset="00" relocatable="true" max_length="0">
+			<original>アタシが 仕事してる間に… オクタリアンのヤツめ…</original>
+			<edited>アタシが 仕事してる間に… オクタリアンのヤツめ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_204" offset="00" relocatable="true" max_length="0">
+			<original>４号は 高いトコは平気な方？</original>
+			<edited>４号は 高いトコは平気な方？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_200" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…４号、まさか カンブリボックス使ってない？！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…４号、まさか カンブリボックス使ってない？！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_201" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（４号、ナマズを追って はよはよ！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（４号、ナマズを追って はよはよ！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_202" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（一通り 説明はしたぞ、４号…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（一通り 説明はしたぞ、４号…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W3Guide_100" offset="00" relocatable="true" max_length="0">
+			<original>ふふっ… ここ チャージャーには うってつけの高さやね
+</original>
+			<edited>ふふっ… ここ チャージャーには うってつけの高さやね
+</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W3Guide_200" offset="00" relocatable="true" max_length="0">
+			<original>タコ足の岩？ 一体何の目的であるんだろ？</original>
+			<edited>タコ足の岩？ 一体何の目的であるんだろ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W3Guide_300" offset="00" relocatable="true" max_length="0">
+			<original>このカベ… 見たこと無い素材で できとるね</original>
+			<edited>このカベ… 見たこと無い素材で できとるね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W3Guide_400" offset="00" relocatable="true" max_length="0">
+			<original>この箱、重力に逆らって動いとる…</original>
+			<edited>この箱、重力に逆らって動いとる…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W3Guide_900" offset="00" relocatable="true" max_length="0">
+			<original>ロウト配送センターか… オクタリアンもポチるのか？</original>
+			<edited>ロウト配送センターか… オクタリアンもポチるのか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_300" offset="00" relocatable="true" max_length="0">
+			<original>風を感じるね～、エアリ～</original>
+			<edited>風を感じるね～、エアリ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_301" offset="00" relocatable="true" max_length="0">
+			<original>次の任務 よろしく～</original>
+			<edited>次の任務 よろしく～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_302" offset="00" relocatable="true" max_length="0">
+			<original>オクタリアンが強いなら、カンブリボックスで強化してね</original>
+			<edited>オクタリアンが強いなら、カンブリボックスで強化してね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_303" offset="00" relocatable="true" max_length="0">
+			<original>チャージャー使った？ イイっしょ、それ</original>
+			<edited>チャージャー使った？ イイっしょ、それ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_304" offset="00" relocatable="true" max_length="0">
+			<original>タコ退治、慣れてきた？</original>
+			<edited>タコ退治、慣れてきた？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_300" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…かまってチャンは ちょっとこまる）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…かまってチャンは ちょっとこまる）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_301" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…カンブリボックスの説明 したっけ？！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…カンブリボックスの説明 したっけ？！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_302" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（早く行ってくれんかな…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（早く行ってくれんかな…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W4Guide_100" offset="00" relocatable="true" max_length="0">
+			<original>案内図か… オクタリアンって、意外とマメだな～</original>
+			<edited>案内図か… オクタリアンって、意外とマメだな～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W4Guide_200" offset="00" relocatable="true" max_length="0">
+			<original>イカ禁止の標識？ 余計なお世話じゃね？</original>
+			<edited>イカ禁止の標識？ 余計なお世話じゃね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W4Guide_300" offset="00" relocatable="true" max_length="0">
+			<original>ボルダリングのカベか… フジツボスポーツクラブみたい</original>
+			<edited>ボルダリングのカベか… フジツボスポーツクラブみたい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W4Guide_900" offset="00" relocatable="true" max_length="0">
+			<original>この辺はツケネ訓練場… っていうらしいね</original>
+			<edited>この辺はツケネ訓練場… っていうらしいね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_400" offset="00" relocatable="true" max_length="0">
+			<original>今の４号なら、タコたいじは オチャノコサイサイっしょ</original>
+			<edited>今の４号なら、タコたいじは オチャノコサイサイっしょ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_401" offset="00" relocatable="true" max_length="0">
+			<original>４号、お気に入りのブキは見つかった？</original>
+			<edited>４号、お気に入りのブキは見つかった？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_402" offset="00" relocatable="true" max_length="0">
+			<original>あ… 新曲の練習しとかなきゃだわ</original>
+			<edited>あ… 新曲の練習しとかなきゃだわ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_403" offset="00" relocatable="true" max_length="0">
+			<original>オオデンチナマズに 近づいてきたかも… たぶん</original>
+			<edited>オオデンチナマズに 近づいてきたかも… たぶん</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_404" offset="00" relocatable="true" max_length="0">
+			<original>あんま見つめんといて… 照れるっしょ</original>
+			<edited>あんま見つめんといて… 照れるっしょ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_400" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…ピロピロとか、オクタリアンって オチャメ？！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…ピロピロとか、オクタリアンって オチャメ？！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_401" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（あ… シオカラ亭の戸じまりせんと…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（あ… シオカラ亭の戸じまりせんと…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_402" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（アオリちゃん以外の人と話すと つかれる…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（アオリちゃん以外の人と話すと つかれる…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W5Guide_100" offset="00" relocatable="true" max_length="0">
+			<original>ちょ… ここ 水の色 ヤバい…</original>
+			<edited>ちょ… ここ 水の色 ヤバい…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W5Guide_200" offset="00" relocatable="true" max_length="0">
+			<original>オクタリアンのヤツ、ここで何 作ってんだろ…</original>
+			<edited>オクタリアンのヤツ、ここで何 作ってんだろ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W5Guide_300" offset="00" relocatable="true" max_length="0">
+			<original>これ 飛行機でもないし… なんやろね</original>
+			<edited>これ 飛行機でもないし… なんやろね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_W5Guide_900" offset="00" relocatable="true" max_length="0">
+			<original>トーブ中枢司令部か… タコ語の地図、読めた♪</original>
+			<edited>トーブ中枢司令部か… タコ語の地図、読めた♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_500" offset="00" relocatable="true" max_length="0">
+			<original>４号、ごはん ちゃんと食べてる？</original>
+			<edited>４号、ごはん ちゃんと食べてる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_501" offset="00" relocatable="true" max_length="0">
+			<original>４号は オハギとワッフル、どっちが好き？</original>
+			<edited>４号は オハギとワッフル、どっちが好き？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_502" offset="00" relocatable="true" max_length="0">
+			<original>アオリちゃんのニオイがするような しないような…</original>
+			<edited>アオリちゃんのニオイがするような しないような…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_503" offset="00" relocatable="true" max_length="0">
+			<original>４号… この戦いが終わったら コンサート来てね</original>
+			<edited>４号… この戦いが終わったら コンサート来てね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_504" offset="00" relocatable="true" max_length="0">
+			<original>オオデンチナマズ だいぶ近いな… たぶん</original>
+			<edited>オオデンチナマズ だいぶ近いな… たぶん</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_500" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（うぅ… ここのニオイから 解放されたい…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（うぅ… ここのニオイから 解放されたい…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_501" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…ここの水 ハイカラスクエアまで流れてないよね？！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…ここの水 ハイカラスクエアまで流れてないよね？！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_502" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（アオリちゃん 早くもどって来んかな～）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（アオリちゃん 早くもどって来んかな～）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_600" offset="00" relocatable="true" max_length="0">
+			<original>そういえば アオリちゃん、またどっか行ったんかな…</original>
+			<edited>そういえば アオリちゃん、またどっか行ったんかな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_601" offset="00" relocatable="true" max_length="0">
+			<original>おじいちゃん… どこ ほっつき歩いとんやろ</original>
+			<edited>おじいちゃん… どこ ほっつき歩いとんやろ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_602" offset="00" relocatable="true" max_length="0">
+			<original>４号、よかったら ウチらのコンサート来てね</original>
+			<edited>４号、よかったら ウチらのコンサート来てね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_603" offset="00" relocatable="true" max_length="0">
+			<original>…将軍倒してから 一段とイイ目になったね</original>
+			<edited>…将軍倒してから 一段とイイ目になったね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_604" offset="00" relocatable="true" max_length="0">
+			<original>４号… いろいろ ありがとね</original>
+			<edited>４号… いろいろ ありがとね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_600" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（アオリちゃんじゃないと ツッコミの練習できん…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（アオリちゃんじゃないと ツッコミの練習できん…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_601" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（４号は 友達多いのかな？ 気になる…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（４号は 友達多いのかな？ 気になる…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_602" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ふふ、４号… カワイイやつ…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ふふ、４号… カワイイやつ…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_900" offset="00" relocatable="true" max_length="0">
+			<original>デンチナマズは ハイカラスクエアのエネルギー源なんよ</original>
+			<edited>デンチナマズは ハイカラスクエアのエネルギー源なんよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_901" offset="00" relocatable="true" max_length="0">
+			<original>…………ん？ あ、ちょっと考え事してた</original>
+			<edited>…………ん？ あ、ちょっと考え事してた</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_902" offset="00" relocatable="true" max_length="0">
+			<original>４号見てると ３号思い出すわ～</original>
+			<edited>４号見てると ３号思い出すわ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_903" offset="00" relocatable="true" max_length="0">
+			<original>今、イクラ集めのバイトが 流行ってるらしいね</original>
+			<edited>今、イクラ集めのバイトが 流行ってるらしいね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_904" offset="00" relocatable="true" max_length="0">
+			<original>オクタリアンのいるトコって 独特のフンイキやね…</original>
+			<edited>オクタリアンのいるトコって 独特のフンイキやね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_905" offset="00" relocatable="true" max_length="0">
+			<original>４号は ナワバリバトルやってる？</original>
+			<edited>４号は ナワバリバトルやってる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_906" offset="00" relocatable="true" max_length="0">
+			<original>仕事に穴開けて 事務所の社長 おこってっかな～</original>
+			<edited>仕事に穴開けて 事務所の社長 おこってっかな～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_907" offset="00" relocatable="true" max_length="0">
+			<original>４号は ３号と同じくらい イイ目しとるね</original>
+			<edited>４号は ３号と同じくらい イイ目しとるね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_908" offset="00" relocatable="true" max_length="0">
+			<original>４号の得意ブキは なんね？ アタシは チャージャーかな</original>
+			<edited>４号の得意ブキは なんね？ アタシは チャージャーかな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_909" offset="00" relocatable="true" max_length="0">
+			<original>オクタリアンめ… 許すまじ</original>
+			<edited>オクタリアンめ… 許すまじ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_910" offset="00" relocatable="true" max_length="0">
+			<original>持ってるブキ 変更したいなら&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ね</original>
+			<edited>持ってるブキ 変更したいなら&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_911" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;エリアを移動&#xE;&#x0;&#x3;&#x2;ÿÿしたいなら、&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して えらんでね</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;エリアを移動&#xE;&#x0;&#x3;&#x2;ÿÿしたいなら、&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して えらんでね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_912" offset="00" relocatable="true" max_length="0">
+			<original>今までの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;きろく&#xE;&#x0;&#x3;&#x2;ÿÿ見たいなら&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;からね</original>
+			<edited>今までの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;きろく&#xE;&#x0;&#x3;&#x2;ÿÿ見たいなら&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;からね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_913" offset="00" relocatable="true" max_length="0">
+			<original>すぐに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイカラスクエアへもどる&#xE;&#x0;&#x3;&#x2;ÿÿなら &#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;からの&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ね</original>
+			<edited>すぐに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイカラスクエアへもどる&#xE;&#x0;&#x3;&#x2;ÿÿなら &#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;からの&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_914" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリボックス&#xE;&#x0;&#x3;&#x2;ÿÿで &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ブキ強化&#xE;&#x0;&#x3;&#x2;ÿÿ、よろ～</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カンブリボックス&#xE;&#x0;&#x3;&#x2;ÿÿで &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ブキ強化&#xE;&#x0;&#x3;&#x2;ÿÿ、よろ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_915" offset="00" relocatable="true" max_length="0">
+			<original>「カベにかくれて深呼吸！」 戦場の鉄則の基本ね</original>
+			<edited>「カベにかくれて深呼吸！」 戦場の鉄則の基本ね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_916" offset="00" relocatable="true" max_length="0">
+			<original>「カベなら&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打で素早く登る！」 戦場の鉄則ゥ</original>
+			<edited>「カベなら&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打で素早く登る！」 戦場の鉄則ゥ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_917" offset="00" relocatable="true" max_length="0">
+			<original>「&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;かたむけ 左右を見回す！」 戦場の鉄則ね</original>
+			<edited>「&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;かたむけ 左右を見回す！」 戦場の鉄則ね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_918" offset="00" relocatable="true" max_length="0">
+			<original>「見えないトコの ボム注意！」 戦場の鉄則ゥ♪</original>
+			<edited>「見えないトコの ボム注意！」 戦場の鉄則ゥ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_919" offset="00" relocatable="true" max_length="0">
+			<original>「安全なトコから ねらいを付ける！」 戦場の鉄則ゥ </original>
+			<edited>「安全なトコから ねらいを付ける！」 戦場の鉄則ゥ </edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_920" offset="00" relocatable="true" max_length="0">
+			<original>「登る先 指さし確認して登る！」 戦場の鉄則ゥ♪</original>
+			<edited>「登る先 指さし確認して登る！」 戦場の鉄則ゥ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_921" offset="00" relocatable="true" max_length="0">
+			<original>「押してダメなら退いてみよ！」 戦場の鉄則ゥ</original>
+			<edited>「押してダメなら退いてみよ！」 戦場の鉄則ゥ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_922" offset="00" relocatable="true" max_length="0">
+			<original>「右見て、左見て、もっかい右見る」 戦場の鉄則ゥ♪</original>
+			<edited>「右見て、左見て、もっかい右見る」 戦場の鉄則ゥ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_923" offset="00" relocatable="true" max_length="0">
+			<original>「退路は常に意識する！」  …戦場の鉄則の１つね</original>
+			<edited>「退路は常に意識する！」  …戦場の鉄則の１つね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_924" offset="00" relocatable="true" max_length="0">
+			<original>究極の戦場の鉄則、それは…「戦わずして勝つ！ 」</original>
+			<edited>究極の戦場の鉄則、それは…「戦わずして勝つ！ 」</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_925" offset="00" relocatable="true" max_length="0">
+			<original>ライドレール上では ヒトでもイカでも スピードは同じね</original>
+			<edited>ライドレール上では ヒトでもイカでも スピードは同じね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_926" offset="00" relocatable="true" max_length="0">
+			<original>タテ持ち敵のタテは 攻撃し続けたら 壊れるよ</original>
+			<edited>タテ持ち敵のタテは 攻撃し続けたら 壊れるよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_927" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーロースーツ&#xE;&#x0;&#x3;&#x2;ÿÿこわれたら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;センプク&#xE;&#x0;&#x3;&#x2;ÿÿで早く復活するよ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ヒーロースーツ&#xE;&#x0;&#x3;&#x2;ÿÿこわれたら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;センプク&#xE;&#x0;&#x3;&#x2;ÿÿで早く復活するよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_900" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（… … …）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（… … …）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_901" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…チラッ）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…チラッ）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_902" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（これ以上話すことは もう無いぞ、４号）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（これ以上話すことは もう無いぞ、４号）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_903" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（そろそろ空気読んで 次行って欲しい…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（そろそろ空気読んで 次行って欲しい…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_904" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（カフェオレ飲もっかな～…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（カフェオレ飲もっかな～…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_905" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（４号、後はたのんだ… アタシはここで待機…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（４号、後はたのんだ… アタシはここで待機…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_906" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…ひょっとして４号、教えたこと わすれてる？！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…ひょっとして４号、教えたこと わすれてる？！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_907" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（うぅ… 話すこと 無くなった後の間の悪さよ…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（うぅ… 話すこと 無くなった後の間の悪さよ…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_908" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ん～… ４号って ネンチャクするタイプ…？）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（ん～… ４号って ネンチャクするタイプ…？）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_909" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…お話は もうオシマイにしたい）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…お話は もうオシマイにしたい）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Uza_910" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…あっ 今日の仕事 休む電話せんと！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…あっ 今日の仕事 休む電話せんと！）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

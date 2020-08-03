@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>箱マト３０コ 全て壊すのでス</original>
+			<edited>箱マト３０コ 全て壊すのでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>箱マトを１つでものがすと 先に進めなくなりまス</original>
+			<edited>箱マトを１つでものがすと 先に進めなくなりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
+			<original>ダメージをくらうと アウトとなりまス</original>
+			<edited>ダメージをくらうと アウトとなりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="BoxRail_0001" offset="00" relocatable="true" max_length="0">
+			<original>８号！ マトを　のがしとるぞィ！</original>
+			<edited>８号！ マトを　のがしとるぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BoxRail_0002" offset="00" relocatable="true" max_length="0">
+			<original>あと半分だゾ！</original>
+			<edited>あと半分だゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BoxRail_0003" offset="00" relocatable="true" max_length="0">
+			<original>あー…！</original>
+			<edited>あー…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BoxRail_0004" offset="00" relocatable="true" max_length="0">
+			<original>あと少しです！</original>
+			<edited>あと少しです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BoxRail_0005" offset="00" relocatable="true" max_length="0">
+			<original>マトじゃ！ 左ッ！</original>
+			<edited>マトじゃ！ 左ッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BoxRail_0006" offset="00" relocatable="true" max_length="0">
+			<original>動くタコウォッシャーに 気をつけてください！</original>
+			<edited>動くタコウォッシャーに 気をつけてください！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

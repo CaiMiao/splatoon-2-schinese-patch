@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>こちらは、ドライブスルー洗車場でス</original>
+			<edited>こちらは、ドライブスルー洗車場でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>洗車機に巻きこまれないよう ご注意くださイ</original>
+			<edited>洗車機に巻きこまれないよう ご注意くださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>洗車というより、染車でス</original>
+			<edited>洗車というより、染車でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0000" offset="00" relocatable="true" max_length="0">
+			<original>右を見て 左を見て、もう一度 右を…</original>
+			<edited>右を見て 左を見て、もう一度 右を…</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0001" offset="00" relocatable="true" max_length="0">
+			<original>見てる間に 次の車が来ちゃうんだよなー</original>
+			<edited>見てる間に 次の車が来ちゃうんだよなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0002" offset="00" relocatable="true" max_length="0">
+			<original>車の動きをよく見て 飛び移りましょう！</original>
+			<edited>車の動きをよく見て 飛び移りましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0003" offset="00" relocatable="true" max_length="0">
+			<original>ッシャー！ 次行こうぜ！</original>
+			<edited>ッシャー！ 次行こうぜ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0004" offset="00" relocatable="true" max_length="0">
+			<original>ヌリヌリ棒が上がっているうちに くぐりぬけるんじゃ！</original>
+			<edited>ヌリヌリ棒が上がっているうちに くぐりぬけるんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0005" offset="00" relocatable="true" max_length="0">
+			<original>あれ？ 行き止まりか？</original>
+			<edited>あれ？ 行き止まりか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0006" offset="00" relocatable="true" max_length="0">
+			<original>ガレージでしょうか… 車が１台ありますけど</original>
+			<edited>ガレージでしょうか… 車が１台ありますけど</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0007" offset="00" relocatable="true" max_length="0">
+			<original>オープーン！！</original>
+			<edited>オープーン！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0008" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプポイント発見！ 敵に注意されたしーッ！</original>
+			<edited>ジャンプポイント発見！ 敵に注意されたしーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0009" offset="00" relocatable="true" max_length="0">
+			<original>車にセンプクしながら 中央まで近づきましょう！</original>
+			<edited>車にセンプクしながら 中央まで近づきましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0010" offset="00" relocatable="true" max_length="0">
+			<original>それっ ジャーンプ！</original>
+			<edited>それっ ジャーンプ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0011" offset="00" relocatable="true" max_length="0">
+			<original>この車、洗車機に向かっています！</original>
+			<edited>この車、洗車機に向かっています！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0012" offset="00" relocatable="true" max_length="0">
+			<original>ハチ！ 早く乗り移れ！</original>
+			<edited>ハチ！ 早く乗り移れ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0013" offset="00" relocatable="true" max_length="0">
+			<original>この車、プロペラついてんのな！</original>
+			<edited>この車、プロペラついてんのな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0014" offset="00" relocatable="true" max_length="0">
+			<original>インクの使い過ぎに注意です！</original>
+			<edited>インクの使い過ぎに注意です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0015" offset="00" relocatable="true" max_length="0">
+			<original>飛べ、８号！ 洗車機を 飛びこえるんじゃ！</original>
+			<edited>飛べ、８号！ 洗車機を 飛びこえるんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0016" offset="00" relocatable="true" max_length="0">
+			<original>光の道を進むんじゃー！</original>
+			<edited>光の道を進むんじゃー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0017" offset="00" relocatable="true" max_length="0">
+			<original>ゲーーッ！ なんとかしろー！</original>
+			<edited>ゲーーッ！ なんとかしろー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0018" offset="00" relocatable="true" max_length="0">
+			<original>上が空いてます！ 車体を上げて！</original>
+			<edited>上が空いてます！ 車体を上げて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlappyCarWash_0019" offset="00" relocatable="true" max_length="0">
+			<original>とーちゃーく！</original>
+			<edited>とーちゃーく！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

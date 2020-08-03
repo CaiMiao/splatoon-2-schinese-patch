@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="CoopRewardPoint" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Íp</original>
+			<edited>&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Íp</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

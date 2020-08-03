@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_Item_00-T_New_00" offset="00" relocatable="true" max_length="0">
+			<original>NEW!</original>
+			<edited>NEW!</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Item_00-T_SoldOut_00" offset="00" relocatable="true" max_length="0">
+			<original>持ってる</original>
+			<edited>持ってる</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ItemDetail_00-T_Sub_00" offset="00" relocatable="true" max_length="0">
+			<original>サブ</original>
+			<edited>サブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ItemDetail_00-T_Super_00" offset="00" relocatable="true" max_length="0">
+			<original>スペシャル</original>
+			<edited>スペシャル</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ItemDetail_00-T_SpecialPointName_00" offset="00" relocatable="true" max_length="0">
+			<original>スペシャル必要ポイント</original>
+			<edited>スペシャル必要ポイント</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ItemDetail_00-T_TotalScoreName_00" offset="00" relocatable="true" max_length="0">
+			<original>今まで塗った面積</original>
+			<edited>今まで塗った面積</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Lstick_00-T_Sort_00" offset="00" relocatable="true" max_length="0">
+			<original>並べ替え</original>
+			<edited>並べ替え</edited>
+			<subEntries />
+		</entry>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>メイン</original>
+			<edited>メイン</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>サブ</original>
+			<edited>サブ</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>スペシャル</original>
+			<edited>スペシャル</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>カメラオプション</original>
+			<edited>カメラオプション</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_00-T_KeyBtn_00" offset="00" relocatable="true" max_length="0">
+			<original></original>
+			<edited></edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Wpn_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>サブ、スペシャルの説明</original>
+			<edited>サブ、スペシャルの説明</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

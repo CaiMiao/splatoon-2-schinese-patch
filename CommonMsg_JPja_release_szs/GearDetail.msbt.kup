@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="RankExp" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í/&#xE;ú&#x4;&#x4;&#x1;&#x0;&#x1;Í</original>
+			<edited>&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í/&#xE;ú&#x4;&#x4;&#x1;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="TimeStamp" offset="00" relocatable="true" max_length="0">
+			<original>よく使う</original>
+			<edited>最常用</edited>
+			<subEntries />
+		</entry>
+		<entry name="Skill" offset="00" relocatable="true" max_length="0">
+			<original>ギアパワー</original>
+			<edited>装备能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="Brand" offset="00" relocatable="true" max_length="0">
+			<original>ブランド</original>
+			<edited>品牌</edited>
+			<subEntries />
+		</entry>
+		<entry name="AddSlot" offset="00" relocatable="true" max_length="0">
+			<original>スロット追加</original>
+			<edited>添加槽位</edited>
+			<subEntries />
+		</entry>
+		<entry name="ChangeSkill" offset="00" relocatable="true" max_length="0">
+			<original>ギアパワー抽選中</original>
+			<edited>正在抽选装备能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="CleanSkill" offset="00" relocatable="true" max_length="0">
+			<original>クリーニング中</original>
+			<edited>正在清洁</edited>
+			<subEntries />
+		</entry>
+		<entry name="SetSkill" offset="00" relocatable="true" max_length="0">
+			<original>ギアパワーセット中</original>
+			<edited>正在设定装备能力</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearPowerFragmentNum" offset="00" relocatable="true" max_length="0">
+			<original>x&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>x&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

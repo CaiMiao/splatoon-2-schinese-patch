@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>アナタもご存知の 市街地戦となりまス</original>
+			<edited>アナタもご存知の 市街地戦となりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>暗がりでは 何かが出てくるかもしれませン</original>
+			<edited>暗がりでは 何かが出てくるかもしれませン</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>足元はもちろん 頭上にも ご注意くださイ</original>
+			<edited>足元はもちろん 頭上にも ご注意くださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="NightTutorial_0000" offset="00" relocatable="true" max_length="0">
+			<original>ゲ… ここってハイカラスクエアの近くじゃねーか？</original>
+			<edited>ゲ… ここってハイカラスクエアの近くじゃねーか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="NightTutorial_0001" offset="00" relocatable="true" max_length="0">
+			<original>そっくりですけど、ここも実験場のようですね…</original>
+			<edited>そっくりですけど、ここも実験場のようですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="NightTutorial_0002" offset="00" relocatable="true" max_length="0">
+			<original>ぜってーなんか 出てくんだろー…</original>
+			<edited>ぜってーなんか 出てくんだろー…</edited>
+			<subEntries />
+		</entry>
+		<entry name="NightTutorial_0003" offset="00" relocatable="true" max_length="0">
+			<original>上にひきよせポイントが あんゾ！</original>
+			<edited>上にひきよせポイントが あんゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NightTutorial_0004" offset="00" relocatable="true" max_length="0">
+			<original>ボムなら 届きそうですね！</original>
+			<edited>ボムなら 届きそうですね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NightTutorial_0005" offset="00" relocatable="true" max_length="0">
+			<original>デラタコゾネスじゃ 気合でとっちめィ！</original>
+			<edited>デラタコゾネスじゃ 気合でとっちめィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NightTutorial_0006" offset="00" relocatable="true" max_length="0">
+			<original>ふぅ… あせったな！</original>
+			<edited>ふぅ… あせったな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NightTutorial_0007" offset="00" relocatable="true" max_length="0">
+			<original>来たゾ！</original>
+			<edited>来たゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NightTutorial_0008" offset="00" relocatable="true" max_length="0">
+			<original>何か 駅の方で光ってんな！</original>
+			<edited>何か 駅の方で光ってんな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NightTutorial_0009" offset="00" relocatable="true" max_length="0">
+			<original>あれは… ゴールポイントです！</original>
+			<edited>あれは… ゴールポイントです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NightTutorial_0010" offset="00" relocatable="true" max_length="0">
+			<original>あと少しです！</original>
+			<edited>あと少しです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NightTutorial_0011" offset="00" relocatable="true" max_length="0">
+			<original>ファーーッ！！ タコゾネスじゃ！！</original>
+			<edited>ファーーッ！！ タコゾネスじゃ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NightTutorial_0012" offset="00" relocatable="true" max_length="0">
+			<original>ジッ… ジジィ！ デカい声出すんじゃねーよ！</original>
+			<edited>ジッ… ジジィ！ デカい声出すんじゃねーよ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Food_00" offset="00" relocatable="true" max_length="0">
+			<original>フードメニュー</original>
+			<edited>食物菜单</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Drink_00" offset="00" relocatable="true" max_length="0">
+			<original>ドリンクメニュー</original>
+			<edited>饮品菜单</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Change_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>フードメニュー</original>
+			<edited>食物菜单</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Change_00-T_Info_01" offset="00" relocatable="true" max_length="0">
+			<original>ドリンクメニュー</original>
+			<edited>饮品菜单</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>やめとく</original>
+			<edited>不要了</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>注文する！</original>
+			<edited>点单！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Old_00" offset="00" relocatable="true" max_length="0">
+			<original>付いてる効果</original>
+			<edited>附带效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_New_00" offset="00" relocatable="true" max_length="0">
+			<original>注文で付く効果</original>
+			<edited>下单附带的效果</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>このまま</original>
+			<edited>就这样</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_03-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>これにする！</original>
+			<edited>选这个！</edited>
+			<subEntries />
+		</entry>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>バトル後にもらえるケイケン値が
+１．５倍にアゲアゲ！</original>
+			<edited>战斗后获得的经验值
+１．５倍涨涨！</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>バトル後にもらえるケイケン値が
+２倍にバクアゲっしょ！</original>
+			<edited>战斗后获得的经验值
+２倍爆涨！</edited>
+			<subEntries />
+		</entry>
+		<entry name="105" offset="00" relocatable="true" max_length="0">
+			<original>バトル後にもらえるケイケン値が
+２．５倍にバクバクアゲアゲ～！</original>
+			<edited>战斗后获得的经验值
+２．５倍爆爆涨～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>バトル後にもらえるおカネが
+１．５倍にアゲアゲ！</original>
+			<edited>战斗后获得的金钱
+１．５倍涨涨！</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>バトル後にもらえるおカネが
+２倍にバクアゲっしょ！</original>
+			<edited>战斗后获得的金钱
+２倍爆涨！</edited>
+			<subEntries />
+		</entry>
+		<entry name="106" offset="00" relocatable="true" max_length="0">
+			<original>バトル後にもらえるおカネが
+２．５倍にバクバクアゲアゲ～！</original>
+			<edited>战斗后获得的金钱
+２．５倍爆爆涨～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>ギアのケイケン値が多めにもらえて
+ギアパワーアップのときに
+特定のギアパワーが
+少しだけ、つきやすくなるよ！</original>
+			<edited>得到的装备的经验值更多
+装备能力提升的时候
+特定的装备能力
+会变得稍微更容易附加哦！</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>×&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>×&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>持続数：&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>持续数：&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>ロブサンド</original>
+			<edited>ロブサンド</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>グランドロブサンド</original>
+			<edited>グランドロブサンド</edited>
+			<subEntries />
+		</entry>
+		<entry name="110" offset="00" relocatable="true" max_length="0">
+			<original>ギャラクシーロブサンド</original>
+			<edited>ギャラクシーロブサンド</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>アゲホイップ</original>
+			<edited>アゲホイップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>アゲホイップ
+ダブルワッフル</original>
+			<edited>アゲホイップ
+ダブルワッフル</edited>
+			<subEntries />
+		</entry>
+		<entry name="113" offset="00" relocatable="true" max_length="0">
+			<original>アゲホイップ
+ダブルクロス</original>
+			<edited>アゲホイップ
+ダブルクロス</edited>
+			<subEntries />
+		</entry>
+		<entry name="OpInkEffect_Reduction" offset="00" relocatable="true" max_length="0">
+			<original>カンジキグレープ</original>
+			<edited>カンジキグレープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BombDamage_Reduction" offset="00" relocatable="true" max_length="0">
+			<original>バーストアーマーピーチココア</original>
+			<edited>バーストアーマーピーチココア</edited>
+			<subEntries />
+		</entry>
+		<entry name="MainInk_Save" offset="00" relocatable="true" max_length="0">
+			<original>メインセーブレモン</original>
+			<edited>メインセーブレモン</edited>
+			<subEntries />
+		</entry>
+		<entry name="SubInk_Save" offset="00" relocatable="true" max_length="0">
+			<original>サブセーブベリー</original>
+			<edited>サブセーブベリー</edited>
+			<subEntries />
+		</entry>
+		<entry name="InkRecovery_Up" offset="00" relocatable="true" max_length="0">
+			<original>インクチャージメロン</original>
+			<edited>インクチャージメロン</edited>
+			<subEntries />
+		</entry>
+		<entry name="HumanMove_Up" offset="00" relocatable="true" max_length="0">
+			<original>ヒトダッシュトマト</original>
+			<edited>ヒトダッシュトマト</edited>
+			<subEntries />
+		</entry>
+		<entry name="SquidMove_Up" offset="00" relocatable="true" max_length="0">
+			<original>イカダッシュアップル</original>
+			<edited>イカダッシュアップル</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialIncrease_Up" offset="00" relocatable="true" max_length="0">
+			<original>スペシャルチャージラムネ</original>
+			<edited>スペシャルチャージラムネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialTime_Up" offset="00" relocatable="true" max_length="0">
+			<original>スペシャルアップサイダー</original>
+			<edited>スペシャルアップサイダー</edited>
+			<subEntries />
+		</entry>
+		<entry name="RespawnTime_Save" offset="00" relocatable="true" max_length="0">
+			<original>ショートリスタートモカ</original>
+			<edited>ショートリスタートモカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="RespawnSpecialGauge_Save" offset="00" relocatable="true" max_length="0">
+			<original>スペシャルセーブラテ</original>
+			<edited>スペシャルセーブラテ</edited>
+			<subEntries />
+		</entry>
+		<entry name="JumpTime_Save" offset="00" relocatable="true" max_length="0">
+			<original>ショートジャンプオレンジ</original>
+			<edited>ショートジャンプオレンジ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BombDistance_Up" offset="00" relocatable="true" max_length="0">
+			<original>サブアップウォーター</original>
+			<edited>サブアップウォーター</edited>
+			<subEntries />
+		</entry>
+		<entry name="MarkingTime_Reduction" offset="00" relocatable="true" max_length="0">
+			<original>メインアップグァバ</original>
+			<edited>メインアップグァバ</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_TimeTitle_00" offset="00" relocatable="true" max_length="0">
+			<original>持続数</original>
+			<edited>持续数</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

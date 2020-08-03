@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Message_00" offset="00" relocatable="true" max_length="0">
+			<original>イイダ=マリネ</original>
+			<edited>イイダ=マリネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Message_01" offset="00" relocatable="true" max_length="0">
+			<original>・第８３期　タコゾネス工兵（現在行方不明）</original>
+			<edited>・第８３期　タコゾネス工兵（現在行方不明）</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Message_02" offset="00" relocatable="true" max_length="0">
+			<original>経歴</original>
+			<edited>経歴</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Message_03" offset="00" relocatable="true" max_length="0">
+			<original>・6才　ツケネ訓練所初等科課程　入学
+</original>
+			<edited>・6才　ツケネ訓練所初等科課程　入学
+</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Message_04" offset="00" relocatable="true" max_length="0">
+			<original>・9才　飛び級をくり返し高等科を卒業
+</original>
+			<edited>・9才　飛び級をくり返し高等科を卒業
+</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Message_05" offset="00" relocatable="true" max_length="0">
+			<original>・10才　全自動おそうじ兵器：タコドーザーの設計に携わる
+</original>
+			<edited>・10才　全自動おそうじ兵器：タコドーザーの設計に携わる
+</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Message_06" offset="00" relocatable="true" max_length="0">
+			<original>・13才　ツケネ研究所に所属、戦略タコツボ兵器の改造に着手
+</original>
+			<edited>・13才　ツケネ研究所に所属、戦略タコツボ兵器の改造に着手
+</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Message_07" offset="00" relocatable="true" max_length="0">
+			<original>・16才　DJタコワサ将軍のワサビ補給部隊に配属転換
+</original>
+			<edited>・16才　DJタコワサ将軍のワサビ補給部隊に配属転換
+</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Message_08" offset="00" relocatable="true" max_length="0">
+			<original>・同年、New!カラストンビ部隊のシオカラ節をきき
+　　　「ワタシの魂にイカのグルーヴが宿りました」という言葉を
+　　　残し、以後消息不明</original>
+			<edited>・同年、New!カラストンビ部隊のシオカラ節をきき
+　　　「ワタシの魂にイカのグルーヴが宿りました」という言葉を
+　　　残し、以後消息不明</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

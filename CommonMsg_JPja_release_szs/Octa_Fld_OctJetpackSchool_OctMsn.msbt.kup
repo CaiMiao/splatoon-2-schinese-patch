@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>ジェットパックのテクニックを 使いこなしましょウ</original>
+			<edited>ジェットパックのテクニックを 使いこなしましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ジェットパック中、&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で少しうきまス</original>
+			<edited>ジェットパック中、&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で少しうきまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
+			<original>ジェットパックでも インクレールに&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でセンプクできまス</original>
+			<edited>ジェットパックでも インクレールに&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でセンプクできまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0004" offset="00" relocatable="true" max_length="0">
+			<original>インクレールから撃つ時は そのまま&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でス</original>
+			<edited>インクレールから撃つ時は そのまま&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0005" offset="00" relocatable="true" max_length="0">
+			<original>撃った後 すぐセンプクしないと　落ちまス</original>
+			<edited>撃った後 すぐセンプクしないと　落ちまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="JetpackSchool_0001" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で 少しうき上がります！</original>
+			<edited>&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で 少しうき上がります！</edited>
+			<subEntries />
+		</entry>
+		<entry name="JetpackSchool_0002" offset="00" relocatable="true" max_length="0">
+			<original>お、インクレール？</original>
+			<edited>お、インクレール？</edited>
+			<subEntries />
+		</entry>
+		<entry name="JetpackSchool_0003" offset="00" relocatable="true" max_length="0">
+			<original>次、うき上がってけ！</original>
+			<edited>次、うき上がってけ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="JetpackSchool_0004" offset="00" relocatable="true" max_length="0">
+			<original>お？ また何か動いてんな…</original>
+			<edited>お？ また何か動いてんな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="JetpackSchool_0005" offset="00" relocatable="true" max_length="0">
+			<original>インクレール！ 上手く使ってけ！</original>
+			<edited>インクレール！ 上手く使ってけ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="JetpackSchool_0006" offset="00" relocatable="true" max_length="0">
+			<original>インクレールから攻撃だ！ &#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でドッパーン！</original>
+			<edited>インクレールから攻撃だ！ &#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でドッパーン！</edited>
+			<subEntries />
+		</entry>
+		<entry name="JetpackSchool_0007" offset="00" relocatable="true" max_length="0">
+			<original>あー… インクレールにセンプクしないと…</original>
+			<edited>あー… インクレールにセンプクしないと…</edited>
+			<subEntries />
+		</entry>
+		<entry name="JetpackSchool_0008" offset="00" relocatable="true" max_length="0">
+			<original>あ… &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でうき上がらないと…</original>
+			<edited>あ… &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でうき上がらないと…</edited>
+			<subEntries />
+		</entry>
+		<entry name="JetpackSchool_0009" offset="00" relocatable="true" max_length="0">
+			<original>フォー！ 身も心もウキウキじゃ！</original>
+			<edited>フォー！ 身も心もウキウキじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="JetpackSchool_0010" offset="00" relocatable="true" max_length="0">
+			<original>撃ったら すぐに&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でセンプクです！</original>
+			<edited>撃ったら すぐに&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でセンプクです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="JetpackSchool_0011" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で センプクですね </original>
+			<edited>&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で センプクですね </edited>
+			<subEntries />
+		</entry>
+		<entry name="JetpackSchool_0012" offset="00" relocatable="true" max_length="0">
+			<original>お？ なんか出てきたゾ</original>
+			<edited>お？ なんか出てきたゾ</edited>
+			<subEntries />
+		</entry>
+		<entry name="JetpackSchool_0013" offset="00" relocatable="true" max_length="0">
+			<original>…で、どうする？</original>
+			<edited>…で、どうする？</edited>
+			<subEntries />
+		</entry>
+		<entry name="JetpackSchool_0014" offset="00" relocatable="true" max_length="0">
+			<original>とりあえず箱 全部壊しますか…</original>
+			<edited>とりあえず箱 全部壊しますか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="JetpackSchool_0015" offset="00" relocatable="true" max_length="0">
+			<original>インクレールにセンプク そして撃つ！です</original>
+			<edited>インクレールにセンプク そして撃つ！です</edited>
+			<subEntries />
+		</entry>
+		<entry name="JetpackSchool_0016" offset="00" relocatable="true" max_length="0">
+			<original>いよいよゴールじゃ！ センプクで確実に進めィ！</original>
+			<edited>いよいよゴールじゃ！ センプクで確実に進めィ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

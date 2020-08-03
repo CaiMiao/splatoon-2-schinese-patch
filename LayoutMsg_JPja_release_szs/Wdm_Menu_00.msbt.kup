@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>エリア１</original>
+			<edited>区域１</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>エリア２</original>
+			<edited>区域２</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>エリア３</original>
+			<edited>区域３</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>エリア４</original>
+			<edited>区域４</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>エリア５</original>
+			<edited>区域５</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Close_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>とじる</original>
+			<edited>关闭</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_MenuBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>マップ</original>
+			<edited>地图</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_MenuBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>きろく</original>
+			<edited>记录</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_MenuBtn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>ミステリーファイル</original>
+			<edited>神秘文件</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_MenuBtn_03-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>オプション</original>
+			<edited>选项</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_MapBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>エリア１</original>
+			<edited>区域１</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_MapBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>エリア２</original>
+			<edited>区域２</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_MapBtn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>エリア３</original>
+			<edited>区域３</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_MapBtn_03-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>エリア４</original>
+			<edited>区域４</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_MapBtn_04-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>エリア５</original>
+			<edited>区域５</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Back_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>もどる</original>
+			<edited>返回</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Time_00" offset="00" relocatable="true" max_length="0">
+			<original>最佳时间</original>
+			<edited>ベストタイム</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Wpn_00" offset="00" relocatable="true" max_length="0">
+			<original>ブキ</original>
+			<edited>武器</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Get_00" offset="00" relocatable="true" max_length="0">
+			<original>ゲット</original>
+			<edited>获得</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_None_00" offset="00" relocatable="true" max_length="0">
+			<original>きろくがみつかりません</original>
+			<edited>没有找到记录</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_CameraOption_00" offset="00" relocatable="true" max_length="0">
+			<original>カメラオプション</original>
+			<edited>镜头选项</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_OptionBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>TVモード/
+テーブルモード</original>
+			<edited>TV模式/
+桌面模式</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_OptionBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>携帯モード</original>
+			<edited>便携模式</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Exp_01" offset="00" relocatable="true" max_length="0">
+			<original>テレビ画面に映したり Switch本体を置いてプレイするときの
+カメラオプションを設定できます</original>
+			<edited>テレビ画面に映したり Switch本体を置いてプレイするときの
+カメラオプションを設定できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_00-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>ジャイロ操作感度</original>
+			<edited>陀螺仪灵敏度</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_01-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;操作感度</original>
+			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;灵敏度</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_02-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;上下操作</original>
+			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;上下操作</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_02-T_BtnL_00" offset="00" relocatable="true" max_length="0">
+			<original>ノーマル</original>
+			<edited>普通</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_02-T_BtnR_00" offset="00" relocatable="true" max_length="0">
+			<original>リバース</original>
+			<edited>反转</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_03-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;左右操作</original>
+			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;左右操作</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_04-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>ジャイロ操作</original>
+			<edited>陀螺仪操作</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Exp_02" offset="00" relocatable="true" max_length="0">
+			<original>Switch本体を持ってプレイするときの カメラオプションを設定できます</original>
+			<edited>Switch本体を持ってプレイするときの カメラオプションを設定できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_04-T_BtnL_00" offset="00" relocatable="true" max_length="0">
+			<original>ON</original>
+			<edited>ON</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_04-T_BtnR_00" offset="00" relocatable="true" max_length="0">
+			<original>OFF</original>
+			<edited>OFF</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlazaBack_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>ハイカラスクエアへもどる</original>
+			<edited>返回ハイカラスクエア</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_02-T_Msg_00" offset="00" relocatable="true" max_length="0">
+			<original>ジャイロ操作がONの時は無効です</original>
+			<edited>陀螺仪操作为ON时无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_00-T_Msg_00" offset="00" relocatable="true" max_length="0">
+			<original>ジャイロ操作がOFFの時は無効です</original>
+			<edited>陀螺仪操作为OFF时无效</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

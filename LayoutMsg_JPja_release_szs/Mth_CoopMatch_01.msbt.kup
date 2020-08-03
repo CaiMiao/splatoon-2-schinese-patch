@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>ステージとキケン度を選択してください</original>
+			<edited>ステージとキケン度を選択してください</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>親がステージとキケン度を選んでいます</original>
+			<edited>親がステージとキケン度を選んでいます</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>おまかせ</original>
+			<edited>おまかせ</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í%</original>
+			<edited>&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í%</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Start_00" offset="00" relocatable="true" max_length="0">
+			<original>ゲームを開始します！</original>
+			<edited>ゲームを開始します！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Progress_00" offset="00" relocatable="true" max_length="0">
+			<original>金イクラを集めて ３つの WAVEの
+ノルマを クリアしよう！</original>
+			<edited>金イクラを集めて ３つの WAVEの
+ノルマを クリアしよう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_A_00" offset="00" relocatable="true" max_length="0">
+			<original>仲間の準備を待っています</original>
+			<edited>仲間の準備を待っています</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_LevelHeader_00" offset="00" relocatable="true" max_length="0">
+			<original>キケン度</original>
+			<edited>キケン度</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_StageHeader_01" offset="00" relocatable="true" max_length="0">
+			<original>ステージ</original>
+			<edited>ステージ</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_StartBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>準備OK？</original>
+			<edited>準備OK？</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_StartBtn_01-T_Btn_01" offset="00" relocatable="true" max_length="0">
+			<original>OK！</original>
+			<edited>OK！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_StartBtn_01-T_Key_00" offset="00" relocatable="true" max_length="0">
+			<original></original>
+			<edited></edited>
+			<subEntries />
+		</entry>
+		<entry name="L_StartBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>メンバー決定！</original>
+			<edited>メンバー決定！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_BackBtn_00-T_Back_00" offset="00" relocatable="true" max_length="0">
+			<original>カウンターへ</original>
+			<edited>カウンターへ</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CustomizeBtn_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>カスタマイズ</original>
+			<edited>カスタマイズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CustomizeBtn_00-T_KeyBtn_00" offset="00" relocatable="true" max_length="0">
+			<original></original>
+			<edited></edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CancelBtn_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>キャンセル</original>
+			<edited>キャンセル</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_00-T_Wait_00" offset="00" relocatable="true" max_length="0">
+			<original>募集中…</original>
+			<edited>募集中…</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Meter_00-T_NextReward_00" offset="00" relocatable="true" max_length="0">
+			<original>次のレアほうしゅうまで あと</original>
+			<edited>次のレアほうしゅうまで あと</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_LevelHeader_01" offset="00" relocatable="true" max_length="0">
+			<original>キケン度</original>
+			<edited>キケン度</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Meter_00-T_Num_16" offset="00" relocatable="true" max_length="0">
+			<original>400</original>
+			<edited>400</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Meter_00-T_Num_15" offset="00" relocatable="true" max_length="0">
+			<original>300</original>
+			<edited>300</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Meter_00-T_Num_14" offset="00" relocatable="true" max_length="0">
+			<original>200</original>
+			<edited>200</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Meter_00-T_Num_13" offset="00" relocatable="true" max_length="0">
+			<original>100</original>
+			<edited>100</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Meter_00-T_Num_12" offset="00" relocatable="true" max_length="0">
+			<original>0</original>
+			<edited>0</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

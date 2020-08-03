@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>敵をゼンメツさせると 先に進めまス</original>
+			<edited>敵をゼンメツさせると 先に進めまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>戦いは ジョウキョウのハアクが大事でス</original>
+			<edited>戦いは ジョウキョウのハアクが大事でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>サブウェポンを 有効に使いましょウ</original>
+			<edited>サブウェポンを 有効に使いましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0000" offset="00" relocatable="true" max_length="0">
+			<original>上を取ったぞィ！ 地の利をイカすんじゃ！</original>
+			<edited>上を取ったぞィ！ 地の利をイカすんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0001" offset="00" relocatable="true" max_length="0">
+			<original>すっげー おもてなしだな！</original>
+			<edited>すっげー おもてなしだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0002" offset="00" relocatable="true" max_length="0">
+			<original>危なくなったらカベの裏に 張りついてください！</original>
+			<edited>危なくなったらカベの裏に 張りついてください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0003" offset="00" relocatable="true" max_length="0">
+			<original>左は ボムタコプターとな…</original>
+			<edited>左は ボムタコプターとな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0004" offset="00" relocatable="true" max_length="0">
+			<original>右はタココマンダーと タテタコトルーパーですね</original>
+			<edited>右はタココマンダーと タテタコトルーパーですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0005" offset="00" relocatable="true" max_length="0">
+			<original>しゃー！ 全部とっちめた！</original>
+			<edited>しゃー！ 全部とっちめた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0006" offset="00" relocatable="true" max_length="0">
+			<original>っしゃ！ ここは片付いたゾ！</original>
+			<edited>っしゃ！ ここは片付いたゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0007" offset="00" relocatable="true" max_length="0">
+			<original>タコスタンプも落ち着いて対処すれば こわくないですね</original>
+			<edited>タコスタンプも落ち着いて対処すれば こわくないですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0008" offset="00" relocatable="true" max_length="0">
+			<original>ボムタコプターを優先して処理とは… やるのゥ！</original>
+			<edited>ボムタコプターを優先して処理とは… やるのゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0009" offset="00" relocatable="true" max_length="0">
+			<original>ナイスゼンメツだ！</original>
+			<edited>ナイスゼンメツだ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0010" offset="00" relocatable="true" max_length="0">
+			<original>オケオケ！</original>
+			<edited>オケオケ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0011" offset="00" relocatable="true" max_length="0">
+			<original>あとは おくのタココマンダーだけじゃ！</original>
+			<edited>あとは おくのタココマンダーだけじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0012" offset="00" relocatable="true" max_length="0">
+			<original>にぎやかなパーチィーになりそうじゃのゥ！</original>
+			<edited>にぎやかなパーチィーになりそうじゃのゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0013" offset="00" relocatable="true" max_length="0">
+			<original>うっしゃー！ カンペキ！！</original>
+			<edited>うっしゃー！ カンペキ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0014" offset="00" relocatable="true" max_length="0">
+			<original>コッチの坂はキレイになったな！</original>
+			<edited>コッチの坂はキレイになったな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0015" offset="00" relocatable="true" max_length="0">
+			<original>コチラの坂道は おそうじ完了ですね！</original>
+			<edited>コチラの坂道は おそうじ完了ですね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0016" offset="00" relocatable="true" max_length="0">
+			<original>出てくるヤツ 全部ぶっ倒してけー！</original>
+			<edited>出てくるヤツ 全部ぶっ倒してけー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0017" offset="00" relocatable="true" max_length="0">
+			<original>フォー！ パーチィーの始まりじゃ！</original>
+			<edited>フォー！ パーチィーの始まりじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0018" offset="00" relocatable="true" max_length="0">
+			<original>囲まれそうな地形ですね～</original>
+			<edited>囲まれそうな地形ですね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0019" offset="00" relocatable="true" max_length="0">
+			<original>ウカツにツッコむと 大変だゾ！</original>
+			<edited>ウカツにツッコむと 大変だゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0020" offset="00" relocatable="true" max_length="0">
+			<original>まだ 敵が残ってるみたいですね</original>
+			<edited>まだ 敵が残ってるみたいですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0021" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプポイント出ました！</original>
+			<edited>ジャンプポイント出ました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0022" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプポイント出てます～</original>
+			<edited>ジャンプポイント出てます～</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0023" offset="00" relocatable="true" max_length="0">
+			<original>カンゲイされすぎて ナミダが出るわィ！</original>
+			<edited>カンゲイされすぎて ナミダが出るわィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0024" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプポイント出現！ 確認されたしーッ！</original>
+			<edited>ジャンプポイント出現！ 確認されたしーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BattleHill_0025" offset="00" relocatable="true" max_length="0">
+			<original>ハチ、ナイス！</original>
+			<edited>ハチ、ナイス！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

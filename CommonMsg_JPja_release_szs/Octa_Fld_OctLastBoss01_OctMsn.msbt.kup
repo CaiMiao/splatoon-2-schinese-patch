@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="LastBoss01_0000" offset="00" relocatable="true" max_length="0">
+			<original>どうやらこのエリアに ブキがありそうです！</original>
+			<edited>どうやらこのエリアに ブキがありそうです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0001" offset="00" relocatable="true" max_length="0">
+			<original>シャー！ ハチ、塗りたくれー！</original>
+			<edited>シャー！ ハチ、塗りたくれー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0002" offset="00" relocatable="true" max_length="0">
+			<original>あ、タコパトローラーです！ プレスに注意しましょう！</original>
+			<edited>あ、タコパトローラーです！ プレスに注意しましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0003" offset="00" relocatable="true" max_length="0">
+			<original>ドアだ！ カギ、持ってる？</original>
+			<edited>ドアだ！ カギ、持ってる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0004" offset="00" relocatable="true" max_length="0">
+			<original>自分のインクなら、スイッチONできるな！</original>
+			<edited>自分のインクなら、スイッチONできるな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0005" offset="00" relocatable="true" max_length="0">
+			<original>ハチ、カギだ！ ドア、開けに行くゾ！</original>
+			<edited>ハチ、カギだ！ ドア、開けに行くゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0006" offset="00" relocatable="true" max_length="0">
+			<original>うー！ パトパトローラー、ウゼェ！</original>
+			<edited>うー！ パトパトローラー、ウゼェ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0007" offset="00" relocatable="true" max_length="0">
+			<original>『タコ』パトですね… 木箱を壊してもらいましょ～</original>
+			<edited>『タコ』パトですね… 木箱を壊してもらいましょ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0008" offset="00" relocatable="true" max_length="0">
+			<original>ッシャー！ これで先に進めそうだな！</original>
+			<edited>ッシャー！ これで先に進めそうだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0009" offset="00" relocatable="true" max_length="0">
+			<original>インクレールにさそわれるまま 進みましょ～</original>
+			<edited>インクレールにさそわれるまま 進みましょ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0011" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプ後も、センプクを おわすれなく！</original>
+			<edited>ジャンプ後も、センプクを おわすれなく！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0013" offset="00" relocatable="true" max_length="0">
+			<original>ガ… ガガ…</original>
+			<edited>ガ… ガガ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0014" offset="00" relocatable="true" max_length="0">
+			<original>ゲッ！ 行き止まり？！ なんとかなんねーか？</original>
+			<edited>ゲッ！ 行き止まり？！ なんとかなんねーか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0015" offset="00" relocatable="true" max_length="0">
+			<original>やった…！ 進みましょう！</original>
+			<edited>やった…！ 進みましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0016" offset="00" relocatable="true" max_length="0">
+			<original>お！ カンヅメ！</original>
+			<edited>お！ カンヅメ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0017" offset="00" relocatable="true" max_length="0">
+			<original>ナイスです！ 行けるところから行きましょ～</original>
+			<edited>ナイスです！ 行けるところから行きましょ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0018" offset="00" relocatable="true" max_length="0">
+			<original>デンワ？ …空耳かのゥ</original>
+			<edited>デンワ？ …空耳かのゥ</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0019" offset="00" relocatable="true" max_length="0">
+			<original>あの敵、なかなかイカしてんな！ なんて名前？</original>
+			<edited>あの敵、なかなかイカしてんな！ なんて名前？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0020" offset="00" relocatable="true" max_length="0">
+			<original>タコリバーサーです！ 投げてくるコロガリウムに注意です！</original>
+			<edited>タコリバーサーです！ 投げてくるコロガリウムに注意です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0021" offset="00" relocatable="true" max_length="0">
+			<original>スプラッシュボムです！ &#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で投げましょう！</original>
+			<edited>スプラッシュボムです！ &#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で投げましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0022" offset="00" relocatable="true" max_length="0">
+			<original>ハチ！ コロコロお肉に注意だ！</original>
+			<edited>ハチ！ コロコロお肉に注意だ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0023" offset="00" relocatable="true" max_length="0">
+			<original>やった！ オクタシューターですよ！</original>
+			<edited>やった！ オクタシューターですよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0024" offset="00" relocatable="true" max_length="0">
+			<original>あ、ブキカンヅメ！ 手に入れたいですね…</original>
+			<edited>あ、ブキカンヅメ！ 手に入れたいですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0025" offset="00" relocatable="true" max_length="0">
+			<original>『コロガリウム』です…</original>
+			<edited>『コロガリウム』です…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0026" offset="00" relocatable="true" max_length="0">
+			<original>正面にデカい門が見えたゾ！ 出口か？</original>
+			<edited>正面にデカい門が見えたゾ！ 出口か？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0027" offset="00" relocatable="true" max_length="0">
+			<original>その前に、タコスナイパーです！ よけましょう！</original>
+			<edited>その前に、タコスナイパーです！ よけましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0028" offset="00" relocatable="true" max_length="0">
+			<original>シャオラー！ …からの、ジャンプポイント！</original>
+			<edited>シャオラー！ …からの、ジャンプポイント！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0029" offset="00" relocatable="true" max_length="0">
+			<original>次はエネルギーコアを探しますよ！</original>
+			<edited>次はエネルギーコアを探しますよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss01_0030" offset="00" relocatable="true" max_length="0">
+			<original>コ… コロコロおにく…？</original>
+			<edited>コ… コロコロおにく…？</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

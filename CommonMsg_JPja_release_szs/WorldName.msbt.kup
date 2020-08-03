@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="World01" offset="00" relocatable="true" max_length="0">
+			<original>アシサキ前線基地</original>
+			<edited>アシサキ前線基地</edited>
+			<subEntries />
+		</entry>
+		<entry name="World01_2L" offset="00" relocatable="true" max_length="0">
+			<original>アシサキ
+前線基地</original>
+			<edited>アシサキ
+前線基地</edited>
+			<subEntries />
+		</entry>
+		<entry name="World02" offset="00" relocatable="true" max_length="0">
+			<original>キューバン展望台</original>
+			<edited>キューバン展望台</edited>
+			<subEntries />
+		</entry>
+		<entry name="World02_2L" offset="00" relocatable="true" max_length="0">
+			<original>キューバン
+展望台</original>
+			<edited>キューバン
+展望台</edited>
+			<subEntries />
+		</entry>
+		<entry name="World03" offset="00" relocatable="true" max_length="0">
+			<original>ロウト配送センター</original>
+			<edited>ロウト配送センター</edited>
+			<subEntries />
+		</entry>
+		<entry name="World03_2L" offset="00" relocatable="true" max_length="0">
+			<original>ロウト
+配送センター</original>
+			<edited>ロウト
+配送センター</edited>
+			<subEntries />
+		</entry>
+		<entry name="World04" offset="00" relocatable="true" max_length="0">
+			<original>ツケネ訓練所</original>
+			<edited>ツケネ訓練所</edited>
+			<subEntries />
+		</entry>
+		<entry name="World04_2L" offset="00" relocatable="true" max_length="0">
+			<original>ツケネ
+訓練所</original>
+			<edited>ツケネ
+訓練所</edited>
+			<subEntries />
+		</entry>
+		<entry name="World05" offset="00" relocatable="true" max_length="0">
+			<original>トーブ中枢司令部</original>
+			<edited>トーブ中枢司令部</edited>
+			<subEntries />
+		</entry>
+		<entry name="World05_2L" offset="00" relocatable="true" max_length="0">
+			<original>トーブ
+中枢司令部</original>
+			<edited>トーブ
+中枢司令部</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

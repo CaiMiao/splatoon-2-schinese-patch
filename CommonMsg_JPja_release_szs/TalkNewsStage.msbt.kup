@@ -1,0 +1,3163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Ditch_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここのハト、すっげーガン飛ばしてくんだよ！</original>
+			<edited>ここのハト、すっげーガン飛ばしてくんだよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>え～？！ あのかたがた ワタシを見るなり
+アタマに乗ってこようとするんですけど…</original>
+			<edited>え～？！ あのかたがた ワタシを見るなり
+アタマに乗ってこようとするんですけど…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダのマネっ！</original>
+			<edited>イイダのマネっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>あははっ！ そっくり～！</original>
+			<edited>あははっ！ そっくり～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここを ガーッと行って バッと曲がったトコの
+店のケーキ！ チョーウメェ！</original>
+			<edited>ここを ガーッと行って バッと曲がったトコの
+店のケーキ！ チョーウメェ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>どこですか… それ…</original>
+			<edited>どこですか… それ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>中央を ギュンッて トッパして
+ガンガン攻めたら ヨユウっしょ！</original>
+			<edited>中央を ギュンッて トッパして
+ガンガン攻めたら ヨユウっしょ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>左右のルートも 気をつけないと
+うしろ取られちゃいますよ！</original>
+			<edited>左右のルートも 気をつけないと
+うしろ取られちゃいますよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>あ！ また新しいお店ができてるっ！
+イイダ！ 今度のオフに行くか！</original>
+			<edited>あ！ また新しいお店ができてるっ！
+イイダ！ 今度のオフに行くか！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ！ 次のオフは、
+いっしょにテレビゲームするって 約束ですよ！</original>
+			<edited>センパイ！ 次のオフは、
+いっしょにテレビゲームするって 約束ですよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここで 買い物しすぎて
+おこづかい 全部つかっちゃった…</original>
+			<edited>ここで 買い物しすぎて
+おこづかい 全部つかっちゃった…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ、今も おこづかい もらってるんですか？！</original>
+			<edited>センパイ、今も おこづかい もらってるんですか？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここ、マニューバーでバシュッとするの 楽しんだよね！
+ずーっと バシュバシュできちゃうモデル 出ないかなー</original>
+			<edited>ここ、マニューバーでバシュッとするの 楽しんだよね！
+ずーっと バシュバシュできちゃうモデル 出ないかなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>スライドしてるとき
+スッゴイ笑顔ですよね～</original>
+			<edited>スライドしてるとき
+スッゴイ笑顔ですよね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>この前も、 ここらへんで
+ケータイ落としたの思い出した…</original>
+			<edited>この前も、 ここらへんで
+ケータイ落としたの思い出した…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>そういえば、また新しいスマホでしたね…</original>
+			<edited>そういえば、また新しいスマホでしたね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_08_0000" offset="00" relocatable="true" max_length="0">
+			<original>レギュラーマッチだと、
+橋の上も下も 塗りポイントになるぞー</original>
+			<edited>レギュラーマッチだと、
+橋の上も下も 塗りポイントになるぞー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_08_0001" offset="00" relocatable="true" max_length="0">
+			<original>テストに出しますよ～♪</original>
+			<edited>テストに出しますよ～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_09_0000" offset="00" relocatable="true" max_length="0">
+			<original>ダレだよ！ ここのカベに落書きしたヤツ！</original>
+			<edited>ダレだよ！ ここのカベに落書きしたヤツ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_09_0001" offset="00" relocatable="true" max_length="0">
+			<original>こういうの、落書きじゃなくて
+グラフィティって言うんですよ？</original>
+			<edited>こういうの、落書きじゃなくて
+グラフィティって言うんですよ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_10_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここらで売ってるフクとか、全部かっこいいな！</original>
+			<edited>ここらで売ってるフクとか、全部かっこいいな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_10_0001" offset="00" relocatable="true" max_length="0">
+			<original>でも、SSSサイズは売ってないですよ？</original>
+			<edited>でも、SSSサイズは売ってないですよ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>うおお！ 夜のバッテラ！
+もう 店閉まってるー！！</original>
+			<edited>うおお！ 夜のバッテラ！
+もう 店閉まってるー！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>じゃあ こころおきなく
+塗りたくっちゃいましょ～！</original>
+			<edited>じゃあ こころおきなく
+塗りたくっちゃいましょ～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>このステージ見てると
+テンション上がってくるーっ！！</original>
+			<edited>このステージ見てると
+テンション上がってくるーっ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>野外ライブ 思い出しちゃいますよネ～！</original>
+			<edited>野外ライブ 思い出しちゃいますよネ～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>あ、 ガンガゼステージのスタッフさん…
+お世話んなってまーす</original>
+			<edited>あ、 ガンガゼステージのスタッフさん…
+お世話んなってまーす</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ！
+ニュース読んで！ ニュース！！</original>
+			<edited>センパイ！
+ニュース読んで！ ニュース！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここで バトルすると
+スグ 倒されちゃうんだよなー…</original>
+			<edited>ここで バトルすると
+スグ 倒されちゃうんだよなー…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>だってセンパイ、必ず
+マイクスタンドのトコに いるじゃないですか～</original>
+			<edited>だってセンパイ、必ず
+マイクスタンドのトコに いるじゃないですか～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>ア゛ー、 またここでライブしたい…</original>
+			<edited>ア゛ー、 またここでライブしたい…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>真夏のステージ、
+アガりますよね～</original>
+			<edited>真夏のステージ、
+アガりますよね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここでのバトルで気をつけることは？
+はい、イイダ！</original>
+			<edited>ここでのバトルで気をつけることは？
+はい、イイダ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>コ、コードに足を引っかけない？</original>
+			<edited>コ、コードに足を引っかけない？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>おっしゃー、オマエらーっ！
+ステージの上から 塗りたくれーっ！</original>
+			<edited>おっしゃー、オマエらーっ！
+ステージの上から 塗りたくれーっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>マトにされちゃいますよ…</original>
+			<edited>マトにされちゃいますよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ！ このステージにある機材とか
+機械オタクとして どうなん？</original>
+			<edited>イイダ！ このステージにある機材とか
+機械オタクとして どうなん？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>オ… オタクじゃないです！
+マニアですっ！</original>
+			<edited>オ… オタクじゃないです！
+マニアですっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>中央にあんのって ヘラナインデスの
+ギターじゃん？！ チョーイカす！</original>
+			<edited>中央にあんのって ヘラナインデスの
+ギターじゃん？！ チョーイカす！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ！ あのエフェクター…
+スカロップ エレクトロニカの 最新モデルですよ！</original>
+			<edited>センパイ！ あのエフェクター…
+スカロップ エレクトロニカの 最新モデルですよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_08_0000" offset="00" relocatable="true" max_length="0">
+			<original>バトルでアツくなるのもいいけど、
+水分はこまめに とるんだゾ！</original>
+			<edited>バトルでアツくなるのもいいけど、
+水分はこまめに とるんだゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_08_0001" offset="00" relocatable="true" max_length="0">
+			<original>ヒメセンパイの優しさで お腹いっぱいです！</original>
+			<edited>ヒメセンパイの優しさで お腹いっぱいです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_09_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここって意外と海に近いんだよなー</original>
+			<edited>ここって意外と海に近いんだよなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_09_0001" offset="00" relocatable="true" max_length="0">
+			<original>海風が バトルでアツくなった体に
+心地いいですよね～</original>
+			<edited>海風が バトルでアツくなった体に
+心地いいですよね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_10_0000" offset="00" relocatable="true" max_length="0">
+			<original>この辺ってヤシの木も多くて
+南国って感じだなー</original>
+			<edited>この辺ってヤシの木も多くて
+南国って感じだなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_10_0001" offset="00" relocatable="true" max_length="0">
+			<original>電車で来られる南国ですね</original>
+			<edited>電車で来られる南国ですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_11_0000" offset="00" relocatable="true" max_length="0">
+			<original>ヨシッ！ 明日ここでライブやるか！</original>
+			<edited>ヨシッ！ 明日ここでライブやるか！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_11_0001" offset="00" relocatable="true" max_length="0">
+			<original>モロモロの手配が…</original>
+			<edited>モロモロの手配が…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>夜のガンガゼは 風がきもちんだよなー！</original>
+			<edited>夜のガンガゼは 風がきもちんだよなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Venue_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>音のノリ方も けっこう ちがいますよね～</original>
+			<edited>音のノリ方も けっこう ちがいますよね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここのカベ登ってったら
+上からイイダ見下ろせるから 楽しー！</original>
+			<edited>ここのカベ登ってったら
+上からイイダ見下ろせるから 楽しー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>満面の笑みでしたね…</original>
+			<edited>満面の笑みでしたね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ！ ここのカベに付いてる ホールドの数、
+何コあるか 教えてあげよっか？</original>
+			<edited>イイダ！ ここのカベに付いてる ホールドの数、
+何コあるか 教えてあげよっか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>この前 ず～っと カベながめてたの
+それ数えてたんですか？！</original>
+			<edited>この前 ず～っと カベながめてたの
+それ数えてたんですか？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>アタシのが背 高いのに クラゲくんのが
+カベ登るの 速いんだけどー！</original>
+			<edited>アタシのが背 高いのに クラゲくんのが
+カベ登るの 速いんだけどー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>……手のリーチの差じゃないんですか？</original>
+			<edited>……手のリーチの差じゃないんですか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここでもっと筋トレして
+シメたほうがいいのかな…</original>
+			<edited>ここでもっと筋トレして
+シメたほうがいいのかな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>えっ？！
+ワタシ シメられちゃうんですか？！</original>
+			<edited>えっ？！
+ワタシ シメられちゃうんですか？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>うししっ… カベ登ってるクラゲくんたち
+かわいいなぁ～</original>
+			<edited>うししっ… カベ登ってるクラゲくんたち
+かわいいなぁ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>ヒメセンパイ？
+うっちゃダメですヨ？！</original>
+			<edited>ヒメセンパイ？
+うっちゃダメですヨ？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>ジェットパック もうちょい高く飛べたら
+天井、つかまれんじゃね？</original>
+			<edited>ジェットパック もうちょい高く飛べたら
+天井、つかまれんじゃね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>ヒメセンパイ、ホントに高いところ
+好きですよね～</original>
+			<edited>ヒメセンパイ、ホントに高いところ
+好きですよね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>バトルの後は シュワッとソーカイ アロメコーラ！</original>
+			<edited>バトルの後は シュワッとソーカイ アロメコーラ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ、CMの練習は 後でお願いします</original>
+			<edited>センパイ、CMの練習は 後でお願いします</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>アタシ、ここに来るのに
+家から歩いて１時間かかんだよなー</original>
+			<edited>アタシ、ここに来るのに
+家から歩いて１時間かかんだよなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイのおウチ ジムの設備ありますよね？</original>
+			<edited>センパイのおウチ ジムの設備ありますよね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_08_0000" offset="00" relocatable="true" max_length="0">
+			<original>あっ、クラゲくん サンドバッグたたいてる！</original>
+			<edited>あっ、クラゲくん サンドバッグたたいてる！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_08_0001" offset="00" relocatable="true" max_length="0">
+			<original>筋肉ムキムキのクラゲさん、
+見てみたいです～！</original>
+			<edited>筋肉ムキムキのクラゲさん、
+見てみたいです～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_09_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここでレンタルできるクツ 可愛いよな</original>
+			<edited>ここでレンタルできるクツ 可愛いよな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_09_0001" offset="00" relocatable="true" max_length="0">
+			<original>シガニーさんのところでも 同じの売ってましたね～</original>
+			<edited>シガニーさんのところでも 同じの売ってましたね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_10_0000" offset="00" relocatable="true" max_length="0">
+			<original>センパ～～イ♪
+ここでライブしましょうよ～♪</original>
+			<edited>センパ～～イ♪
+ここでライブしましょうよ～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_10_0001" offset="00" relocatable="true" max_length="0">
+			<original>ワタシのマネはともかく、
+ここでライブは 無理があるかと…</original>
+			<edited>ワタシのマネはともかく、
+ここでライブは 無理があるかと…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>この前、ジャッジくんが ボルダリングやっててさー、
+オナカつかえて もがいてんの ウケた！</original>
+			<edited>この前、ジャッジくんが ボルダリングやっててさー、
+オナカつかえて もがいてんの ウケた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>そのとき コジャッジくんが 頂上から
+見てた あの目が忘れられないです…</original>
+			<edited>そのとき コジャッジくんが 頂上から
+見てた あの目が忘れられないです…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここの学祭に呼ばれたときの
+ライブ も～りあがったなー！</original>
+			<edited>ここの学祭に呼ばれたときの
+ライブ も～りあがったなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>あのとき 大変だったんですよ！
+センパイの歌声で 石像が割れちゃって…</original>
+			<edited>あのとき 大変だったんですよ！
+センパイの歌声で 石像が割れちゃって…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>ア マ ビ ジュ ツ ダ イ…
+…なんか しっくりこない！ イイダ、略して！</original>
+			<edited>ア マ ビ ジュ ツ ダ イ…
+…なんか しっくりこない！ イイダ、略して！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>……アマダイ？</original>
+			<edited>……アマダイ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>この前 ジャッジくん ここで見かけたけど
+アイツ 何やってんだ？！</original>
+			<edited>この前 ジャッジくん ここで見かけたけど
+アイツ 何やってんだ？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>フカフカの生き物が めずらしいから
+よく モデルで 呼ばれてるんですって！</original>
+			<edited>フカフカの生き物が めずらしいから
+よく モデルで 呼ばれてるんですって！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>マニューバーで バシュバシュしてると
+ガラスにおでこ ぶつけるんだよな…</original>
+			<edited>マニューバーで バシュバシュしてると
+ガラスにおでこ ぶつけるんだよな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>みなさんも スライドする時は
+前方に注意しましょ～</original>
+			<edited>みなさんも スライドする時は
+前方に注意しましょ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここの食堂 ロブんとこのメニューも
+置いて欲しー！</original>
+			<edited>ここの食堂 ロブんとこのメニューも
+置いて欲しー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>ロブさんの作るワッフル
+アゲアゲジュワ～って感じで 大好きです！</original>
+			<edited>ロブさんの作るワッフル
+アゲアゲジュワ～って感じで 大好きです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>ステージ中央を どう使うかが
+勝利へのカギだな、うん</original>
+			<edited>ステージ中央を どう使うかが
+勝利へのカギだな、うん</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>両サイドのルートも 要注意ですよ～、はい</original>
+			<edited>両サイドのルートも 要注意ですよ～、はい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>オマエらー！ 勉強ばっかしてないで
+たまには バトルで 塗りまくれー！</original>
+			<edited>オマエらー！ 勉強ばっかしてないで
+たまには バトルで 塗りまくれー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>キャンパスを キャンバスにしろ！ ということですね？！
+ヒメセンパイ、深い…！</original>
+			<edited>キャンパスを キャンバスにしろ！ ということですね？！
+ヒメセンパイ、深い…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>ウチらの衣装のデザイナー、ここ出身らしいぞ</original>
+			<edited>ウチらの衣装のデザイナー、ここ出身らしいぞ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>このおっきなファスナーが
+ポイントなんですよね～</original>
+			<edited>このおっきなファスナーが
+ポイントなんですよね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_08_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここって学校だろ？
+インク塗りたくって おこられないかな？</original>
+			<edited>ここって学校だろ？
+インク塗りたくって おこられないかな？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_08_0001" offset="00" relocatable="true" max_length="0">
+			<original>先生には「アート」って言っておけば
+ダイジョウブらしいですよ～</original>
+			<edited>先生には「アート」って言っておけば
+ダイジョウブらしいですよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_09_0000" offset="00" relocatable="true" max_length="0">
+			<original>ダレだよ あんなトコにカップめん置いてんの！
+ちゃんと捨てろよなー</original>
+			<edited>ダレだよ あんなトコにカップめん置いてんの！
+ちゃんと捨てろよなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_09_0001" offset="00" relocatable="true" max_length="0">
+			<original>あれはさすがに、アート作品じゃないですよね…</original>
+			<edited>あれはさすがに、アート作品じゃないですよね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_10_0000" offset="00" relocatable="true" max_length="0">
+			<original>未来にダイブするデザイン 海女美術大学♪</original>
+			<edited>未来にダイブするデザイン 海女美術大学♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_10_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ、CMのモノマネ上手ですよね～</original>
+			<edited>センパイ、CMのモノマネ上手ですよね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_11_0000" offset="00" relocatable="true" max_length="0">
+			<original>この大学、ハイカラニュースのスポンサーだから
+悪い事言えないよな</original>
+			<edited>この大学、ハイカラニュースのスポンサーだから
+悪い事言えないよな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_11_0001" offset="00" relocatable="true" max_length="0">
+			<original>悪い事なんて 無いですよ…</original>
+			<edited>悪い事なんて 無いですよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_12_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ知ってる？
+「海女」って書いて「あま」って読むんだぞ</original>
+			<edited>イイダ知ってる？
+「海女」って書いて「あま」って読むんだぞ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_12_0001" offset="00" relocatable="true" max_length="0">
+			<original>ここは番組のスポンサーなので
+まちがったら大変です！</original>
+			<edited>ここは番組のスポンサーなので
+まちがったら大変です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_13_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここの食堂って
+サラダ 食べ放題らしいぞー！</original>
+			<edited>ここの食堂って
+サラダ 食べ放題らしいぞー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_13_0001" offset="00" relocatable="true" max_length="0">
+			<original>あっ、おひたしも サラダに入りますか？！</original>
+			<edited>あっ、おひたしも サラダに入りますか？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ イイダ！ 夜の学校で
+石像の目が光るの 見ちゃった！</original>
+			<edited>イイダ イイダ！ 夜の学校で
+石像の目が光るの 見ちゃった！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Upland_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>それ、ジャッジくんとコジャッジくんの目ですよ…</original>
+			<edited>それ、ジャッジくんとコジャッジくんの目ですよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここのハネ橋、 
+ちょーサイコーポイントだから！！</original>
+			<edited>ここのハネ橋、 
+ちょーサイコーポイントだから！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ 高いトコ好きですネ～</original>
+			<edited>センパイ 高いトコ好きですネ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ！ 造船所って
+結局 何するトコ？</original>
+			<edited>イイダ！ 造船所って
+結局 何するトコ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>マシンの モーター音を
+ききに来るところじゃ ないんですか？</original>
+			<edited>マシンの モーター音を
+ききに来るところじゃ ないんですか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>造船所って言うけどさー
+どこに船が あんだよー</original>
+			<edited>造船所って言うけどさー
+どこに船が あんだよー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ、このステージ自体が
+造りかけの船なんですよ！</original>
+			<edited>センパイ、このステージ自体が
+造りかけの船なんですよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>バトルの最後に マルチミサイルぶっ放す！
+名付けて…？</original>
+			<edited>バトルの最後に マルチミサイルぶっ放す！
+名付けて…？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>だきしめて☆トゥインクルスター！</original>
+			<edited>だきしめて☆トゥインクルスター！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>なぁ イイダ！
+アタシって ゼッタイ船よい しないんだよ！</original>
+			<edited>なぁ イイダ！
+アタシって ゼッタイ船よい しないんだよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>…う、うらやましい！</original>
+			<edited>…う、うらやましい！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダって ここ来ると
+スッゲーテンション上がるよな？</original>
+			<edited>イイダって ここ来ると
+スッゲーテンション上がるよな？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>ああ～、１２００ｔ級ゴライアスクレーン…
+ウットリしちゃいます～</original>
+			<edited>ああ～、１２００ｔ級ゴライアスクレーン…
+ウットリしちゃいます～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>この前 きかせてくれた トラックって
+ここのモーター音 サンプリングしたやつ？！</original>
+			<edited>この前 きかせてくれた トラックって
+ここのモーター音 サンプリングしたやつ？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>ふふふ… センパイも やっと大型機械の
+ミリョクに 気づいてきましたね！</original>
+			<edited>ふふふ… センパイも やっと大型機械の
+ミリョクに 気づいてきましたね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ知ってる？
+チョウザメってサメの仲間じゃないんだぜ？</original>
+			<edited>イイダ知ってる？
+チョウザメってサメの仲間じゃないんだぜ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>超スゴイ サメかと思ってました…</original>
+			<edited>超スゴイ サメかと思ってました…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_08_0000" offset="00" relocatable="true" max_length="0">
+			<original>向こうにコンテナ船が見えるなー</original>
+			<edited>向こうにコンテナ船が見えるなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_08_0001" offset="00" relocatable="true" max_length="0">
+			<original>あの型のガントリークレーンなら…
+ホッケふ頭ですかね～</original>
+			<edited>あの型のガントリークレーンなら…
+ホッケふ頭ですかね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_09_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダー、ここの映像が映るたびに
+ニヤニヤしてんなー</original>
+			<edited>イイダー、ここの映像が映るたびに
+ニヤニヤしてんなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_09_0001" offset="00" relocatable="true" max_length="0">
+			<original>ひびく金属音… 太い鉄骨…
+すべてがステキです～♪</original>
+			<edited>ひびく金属音… 太い鉄骨…
+すべてがステキです～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここの夜景みると 歌いたくなるんだよなー！
+マ～♪</original>
+			<edited>ここの夜景みると 歌いたくなるんだよなー！
+マ～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nagasaki_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ！ 危ないんで イキナリ歌わないでください！</original>
+			<edited>センパイ！ 危ないんで イキナリ歌わないでください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>この船…
+昔 誕生日にもらったのと同じヤツだ</original>
+			<edited>この船…
+昔 誕生日にもらったのと同じヤツだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>えっ？！</original>
+			<edited>えっ？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>目指すは海の向こう 海外デビューだ！
+な！ イイダ！</original>
+			<edited>目指すは海の向こう 海外デビューだ！
+な！ イイダ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>ヒメセンパイ… 外国語で
+あいさつくらいはできないと…</original>
+			<edited>ヒメセンパイ… 外国語で
+あいさつくらいはできないと…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>いつかこの船で海上ライブだ！！
+な、イイダ！</original>
+			<edited>いつかこの船で海上ライブだ！！
+な、イイダ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>盛り上がって 海にダイブは ダメですよ！</original>
+			<edited>盛り上がって 海にダイブは ダメですよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>海見てたら いいリリックひらめいた！
+イイダ、曲つけてー</original>
+			<edited>海見てたら いいリリックひらめいた！
+イイダ、曲つけてー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>喜んで～♪</original>
+			<edited>喜んで～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>ひゃっほー！ 海だ！ 水着だ！ </original>
+			<edited>ひゃっほー！ 海だ！ 水着だ！ </edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>ワタシは イイダ！</original>
+			<edited>ワタシは イイダ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>この船が出航するたびに
+出会いと別れがあるんだろうな…</original>
+			<edited>この船が出航するたびに
+出会いと別れがあるんだろうな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>たぶんコレ、引退した船ですよ…</original>
+			<edited>たぶんコレ、引退した船ですよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>キレイな海だなー… 
+近くにおサカナさん、いるかな？</original>
+			<edited>キレイな海だなー… 
+近くにおサカナさん、いるかな？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>「さん」付けするセンパイ、かわいい…</original>
+			<edited>「さん」付けするセンパイ、かわいい…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>船長さんとか やってみてーなー！
+オモカジ、トツゲキー！</original>
+			<edited>船長さんとか やってみてーなー！
+オモカジ、トツゲキー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>船、たおれちゃいますよ！</original>
+			<edited>船、たおれちゃいますよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_08_0000" offset="00" relocatable="true" max_length="0">
+			<original>アタシ、ここでバトった後
+いつも風船もらって帰ってるんだー</original>
+			<edited>アタシ、ここでバトった後
+いつも風船もらって帰ってるんだー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_08_0001" offset="00" relocatable="true" max_length="0">
+			<original>え… 毎回アンケート書いてるんですか？</original>
+			<edited>え… 毎回アンケート書いてるんですか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>夜の海と 街の夜景のコントラストやべー！</original>
+			<edited>夜の海と 街の夜景のコントラストやべー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pillar_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>ムードたっぷりの中で バトルするなんて
+も～、サイッコ～ですね！</original>
+			<edited>ムードたっぷりの中で バトルするなんて
+も～、サイッコ～ですね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここで バイク乗り回すと
+チョー気持ちいんだろーなー！</original>
+			<edited>ここで バイク乗り回すと
+チョー気持ちいんだろーなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>まずは 自転車を
+ホジョ輪なしで乗れないと… ですネ</original>
+			<edited>まずは 自転車を
+ホジョ輪なしで乗れないと… ですネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここ見てたら 目が回ってきた…</original>
+			<edited>ここ見てたら 目が回ってきた…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>コースが グルグルしてますからネ～…</original>
+			<edited>コースが グルグルしてますからネ～…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>マニューバーのスライドで
+カベの横からスチャ！ ドドドド！</original>
+			<edited>マニューバーのスライドで
+カベの横からスチャ！ ドドドド！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>カベにかくれてるときのセンパイ、
+キュートすぎます～！</original>
+			<edited>カベにかくれてるときのセンパイ、
+キュートすぎます～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここでレンタルできるチャリ
+サドルが高すぎんだよね…</original>
+			<edited>ここでレンタルできるチャリ
+サドルが高すぎんだよね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>ずっと片足でケンケンしてるのに、自転車を
+追いこしてくセンパイ カッコ良すぎます～！</original>
+			<edited>ずっと片足でケンケンしてるのに、自転車を
+追いこしてくセンパイ カッコ良すぎます～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>ポンプトラップの… げっ！ まちがえた！
+ゴンブトダンクの必勝法！ イイダ、よろしく！</original>
+			<edited>ポンプトラップの… げっ！ まちがえた！
+ゴンブトダンクの必勝法！ イイダ、よろしく！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ、 カミかたが 異常すぎます…</original>
+			<edited>センパイ、 カミかたが 異常すぎます…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ！ この前 新しいバイク注文してたよな？！
+今度 乗らせてよ！</original>
+			<edited>イイダ！ この前 新しいバイク注文してたよな？！
+今度 乗らせてよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>で、でも
+たぶん 足 届かないと思います…</original>
+			<edited>で、でも
+たぶん 足 届かないと思います…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>この前 マニューバーで メチャカッコイイ
+トリック決めたの見てた？</original>
+			<edited>この前 マニューバーで メチャカッコイイ
+トリック決めたの見てた？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ、さんぽで そればっかり
+練習してましたよね～</original>
+			<edited>センパイ、さんぽで そればっかり
+練習してましたよね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>マニューバーのスライドで
+カベの横からスチャ！ ドドドド！</original>
+			<edited>マニューバーのスライドで
+カベの横からスチャ！ ドドドド！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>そうはいきません！
+シェルターでドーン！ です！</original>
+			<edited>そうはいきません！
+シェルターでドーン！ です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_08_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ！ ここでホジョ輪外す 極秘の特訓するぞ！</original>
+			<edited>イイダ！ ここでホジョ輪外す 極秘の特訓するぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_08_0001" offset="00" relocatable="true" max_length="0">
+			<original>番組で言ってる時点で 極秘じゃないですよ…</original>
+			<edited>番組で言ってる時点で 極秘じゃないですよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_09_0000" offset="00" relocatable="true" max_length="0">
+			<original>ちびっこ諸君！ トラックと言っても、
+デカイ車の事じゃないからな！</original>
+			<edited>ちびっこ諸君！ トラックと言っても、
+デカイ車の事じゃないからな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_09_0001" offset="00" relocatable="true" max_length="0">
+			<original>えっ…！ ワタシ、てっきり…</original>
+			<edited>えっ…！ ワタシ、てっきり…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_10_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここの店員さんも みんなクラゲだっけ？
+働き者だなー</original>
+			<edited>ここの店員さんも みんなクラゲだっけ？
+働き者だなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_10_0001" offset="00" relocatable="true" max_length="0">
+			<original>ビゼンさんと言い、イカッチャもそうですよね～</original>
+			<edited>ビゼンさんと言い、イカッチャもそうですよね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_11_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ、こことのタイアップの話
+どうなったんだっけ？</original>
+			<edited>イイダ、こことのタイアップの話
+どうなったんだっけ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_11_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイのホジョ輪が取れたら
+タイアップ来るはずです！</original>
+			<edited>センパイのホジョ輪が取れたら
+タイアップ来るはずです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここって 予想以上に 声がひびいて
+サイッコーに 歌いやすいんだよなー！ マ～♪</original>
+			<edited>ここって 予想以上に 声がひびいて
+サイッコーに 歌いやすいんだよなー！ マ～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>うぅ… ヒメセンパイ、いつも以上に ノッちゃうから
+機材のセッティング 苦労してるんですからね！</original>
+			<edited>うぅ… ヒメセンパイ、いつも以上に ノッちゃうから
+機材のセッティング 苦労してるんですからね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここの花火大会で ライブやりてーなー！</original>
+			<edited>ここの花火大会で ライブやりてーなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>花火で きこえないと思いますけどね…</original>
+			<edited>花火で きこえないと思いますけどね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここ… 子供ん時
+クラスの男の子に 連れて来られたな…</original>
+			<edited>ここ… 子供ん時
+クラスの男の子に 連れて来られたな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>デート？ バトル？
+気になります…！</original>
+			<edited>デート？ バトル？
+気になります…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>うむむむーーっ…
+柱がジャマで 弾 当てにくい！</original>
+			<edited>うむむむーーっ…
+柱がジャマで 弾 当てにくい！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>そんな時は ハイパープレッサー！
+ぶっしゅ～～～！ ですよ！</original>
+			<edited>そんな時は ハイパープレッサー！
+ぶっしゅ～～～！ ですよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>子供ん時 ここで、
+パパとチャリの練習したなぁ～</original>
+			<edited>子供ん時 ここで、
+パパとチャリの練習したなぁ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>ホジョ輪 まだ取れてませんけどね…</original>
+			<edited>ホジョ輪 まだ取れてませんけどね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここは 全員ジェットパックで攻めたてろ！
+名付けて、炎のファイヤーフェニックス！</original>
+			<edited>ここは 全員ジェットパックで攻めたてろ！
+名付けて、炎のファイヤーフェニックス！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>火属性のシナジーですね！</original>
+			<edited>火属性のシナジーですね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>そう言えば、ロブって この辺の出身だっけ？</original>
+			<edited>そう言えば、ロブって この辺の出身だっけ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>…ロブさんはザリガニじゃないですよ？</original>
+			<edited>…ロブさんはザリガニじゃないですよ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここ見てたら 土手で
+バーベキューしたくなってきたー！</original>
+			<edited>ここ見てたら 土手で
+バーベキューしたくなってきたー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>また ロブさんのギャラクシーロブサンド
+食べたいですね～！</original>
+			<edited>また ロブさんのギャラクシーロブサンド
+食べたいですね～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>この川の工事、いつになったら終わるんだ？</original>
+			<edited>この川の工事、いつになったら終わるんだ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>川だけに、お流れにならなければいいですね…</original>
+			<edited>川だけに、お流れにならなければいいですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_08_0000" offset="00" relocatable="true" max_length="0">
+			<original>あっ ショベルカー
+イイダ、ああいうの好きなんだろ？</original>
+			<edited>あっ ショベルカー
+イイダ、ああいうの好きなんだろ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_08_0001" offset="00" relocatable="true" max_length="0">
+			<original>ウネウネ動くバケットに
+シンパシーを感じます～♪</original>
+			<edited>ウネウネ動くバケットに
+シンパシーを感じます～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_09_0000" offset="00" relocatable="true" max_length="0">
+			<original>よーし！ 今からこのアタシが
+ここで ぜってー勝てる方法を オマエらに教えて…</original>
+			<edited>よーし！ 今からこのアタシが
+ここで ぜってー勝てる方法を オマエらに教えて…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_09_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ、尺が足りないです…</original>
+			<edited>センパイ、尺が足りないです…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>カモさん達に夢中になって
+川に落ちんなよー！ カワイーかんな！</original>
+			<edited>カモさん達に夢中になって
+川に落ちんなよー！ カワイーかんな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Kawa_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ、それ今言っちゃいます～？！</original>
+			<edited>センパイ、それ今言っちゃいます～？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>まさに アタシのための ステージだな！</original>
+			<edited>まさに アタシのための ステージだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ、バトル中なのに
+下まで降りてこないの どうにかしてください！</original>
+			<edited>センパイ、バトル中なのに
+下まで降りてこないの どうにかしてください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ、ここの必勝法 知ってる？</original>
+			<edited>イイダ、ここの必勝法 知ってる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>「やられる前に やる～」ですよ！</original>
+			<edited>「やられる前に やる～」ですよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>しっかし パーキングなのに
+クルマ通らないなー</original>
+			<edited>しっかし パーキングなのに
+クルマ通らないなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>広すぎて、下の階で足りてるみたいですよ？</original>
+			<edited>広すぎて、下の階で足りてるみたいですよ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>上空から 一気にバシュっと急降下＆ズドン！
+シャイニング・バシュール！</original>
+			<edited>上空から 一気にバシュっと急降下＆ズドン！
+シャイニング・バシュール！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>ムリに はやらせようとするの 良くないですよ…</original>
+			<edited>ムリに はやらせようとするの 良くないですよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>インクレールで 相手のふところに
+ガガッと 攻めこめー！</original>
+			<edited>インクレールで 相手のふところに
+ガガッと 攻めこめー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>登ってくる相手は
+シュパッと うち落としましょ～</original>
+			<edited>登ってくる相手は
+シュパッと うち落としましょ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>あ、ロブんとこのクルマが 走ってるー
+オーイ、ロブー！</original>
+			<edited>あ、ロブんとこのクルマが 走ってるー
+オーイ、ロブー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>なんか オナカへってきました～！</original>
+			<edited>なんか オナカへってきました～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>そういえば コジャッジくんって
+ジャッジくんと 関係あんの？</original>
+			<edited>そういえば コジャッジくんって
+ジャッジくんと 関係あんの？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>もしかして クローンだったりして？！
+な～んちゃって！</original>
+			<edited>もしかして クローンだったりして？！
+な～んちゃって！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>全国のちびっこ諸君！
+危ないから、駐車場で遊んじゃダメだぞ！</original>
+			<edited>全国のちびっこ諸君！
+危ないから、駐車場で遊んじゃダメだぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>ちびっこを気づかうセンパイ
+ステキです～♪</original>
+			<edited>ちびっこを気づかうセンパイ
+ステキです～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_08_0000" offset="00" relocatable="true" max_length="0">
+			<original>昔シオカラーズが、
+ここで ＭＶとってたよな</original>
+			<edited>昔シオカラーズが、
+ここで ＭＶとってたよな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_08_0001" offset="00" relocatable="true" max_length="0">
+			<original>あれ、３００回観ました！</original>
+			<edited>あれ、３００回観ました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_09_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここは、インクレールを使いこなすのが
+勝利への近道だ！</original>
+			<edited>ここは、インクレールを使いこなすのが
+勝利への近道だ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_09_0001" offset="00" relocatable="true" max_length="0">
+			<original>センプクからの～… ジャ～ンプ！ </original>
+			<edited>センプクからの～… ジャ～ンプ！ </edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_10_0000" offset="00" relocatable="true" max_length="0">
+			<original>カベの高いトコに スプリンクラーつけられると
+マジ キッツイわー…</original>
+			<edited>カベの高いトコに スプリンクラーつけられると
+マジ キッツイわー…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_10_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイの身長でマニューバーだと、
+届かないことが ありますよね～</original>
+			<edited>センパイの身長でマニューバーだと、
+届かないことが ありますよね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>タチウオパーキングの夜景は
+やっぱサイコー！</original>
+			<edited>タチウオパーキングの夜景は
+やっぱサイコー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>ヒメセンパイ、夜景に見とれてたら
+フェス 終わっちゃいますよ？！</original>
+			<edited>ヒメセンパイ、夜景に見とれてたら
+フェス 終わっちゃいますよ？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここは ヨコの通路を使って
+マニューバーで バシュッ ドドドド！ でしょ！！</original>
+			<edited>ここは ヨコの通路を使って
+マニューバーで バシュッ ドドドド！ でしょ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>中央は相手のほうまで 一直線に
+つながってるので 注意ですよ～</original>
+			<edited>中央は相手のほうまで 一直線に
+つながってるので 注意ですよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>フトウってアレだろ？！
+つぶつぶで あまくて おいしいやつだろ？</original>
+			<edited>フトウってアレだろ？！
+つぶつぶで あまくて おいしいやつだろ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>それ、伝説のボケじゃないですか～！</original>
+			<edited>それ、伝説のボケじゃないですか～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>スポンジを イカに利用するかが
+勝利への カギだな！</original>
+			<edited>スポンジを イカに利用するかが
+勝利への カギだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>大きくなったり 小さくなったりって
+お仕事のジャマに ならないんですかね…？</original>
+			<edited>大きくなったり 小さくなったりって
+お仕事のジャマに ならないんですかね…？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ！ スポンジをうまく使うコツ ヨロシク！</original>
+			<edited>イイダ！ スポンジをうまく使うコツ ヨロシク！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>ちゃんと アワ立ててから
+洗うのが 一番です！</original>
+			<edited>ちゃんと アワ立ててから
+洗うのが 一番です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>フトウってアレだろ？
+ニガクて 大人の味のことだろ？</original>
+			<edited>フトウってアレだろ？
+ニガクて 大人の味のことだろ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>ヒメセンパイ、
+それは、ムトウじゃないですか～！</original>
+			<edited>ヒメセンパイ、
+それは、ムトウじゃないですか～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ！
+このステージのミリョクは？</original>
+			<edited>イイダ！
+このステージのミリョクは？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>クレーンをながめながら、バトルできることです！</original>
+			<edited>クレーンをながめながら、バトルできることです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>やっぱ シオの香りがするところは
+落ち着くなー！！</original>
+			<edited>やっぱ シオの香りがするところは
+落ち着くなー！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ、いつ落ち着いてました？</original>
+			<edited>センパイ、いつ落ち着いてました？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここは ヨコの通路を使って
+マニューバーで バシュッ ドドドド！ でしょ！！</original>
+			<edited>ここは ヨコの通路を使って
+マニューバーで バシュッ ドドドド！ でしょ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>シェルターなら 一直線の通路を使って
+バサーッ！バンバーン！ です！</original>
+			<edited>シェルターなら 一直線の通路を使って
+バサーッ！バンバーン！ です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_08_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ！ このステージで使う
+シェルターのミリョクは？</original>
+			<edited>イイダ！ このステージで使う
+シェルターのミリョクは？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_08_0001" offset="00" relocatable="true" max_length="0">
+			<original>ヒメセンパイを 守りぬけることですね！</original>
+			<edited>ヒメセンパイを 守りぬけることですね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_09_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダー、あとで ヤグラに
+スプラッシュシールド置く練習すっぞー</original>
+			<edited>イイダー、あとで ヤグラに
+スプラッシュシールド置く練習すっぞー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_09_0001" offset="00" relocatable="true" max_length="0">
+			<original>またワタシ、
+ヤグラに乗るだけの役ですか～？！</original>
+			<edited>またワタシ、
+ヤグラに乗るだけの役ですか～？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_10_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここだと人少ないし、大声出しても
+メーワクかからなそうだな！ マーー…！！</original>
+			<edited>ここだと人少ないし、大声出しても
+メーワクかからなそうだな！ マーー…！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_10_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ！ スタジオのガラスが割れますよ！</original>
+			<edited>センパイ！ スタジオのガラスが割れますよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_11_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここのコンテナ
+何が入ってんだろなー？</original>
+			<edited>ここのコンテナ
+何が入ってんだろなー？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_11_0001" offset="00" relocatable="true" max_length="0">
+			<original>ワタシたちのグッズだったら
+いいですよね～♪</original>
+			<edited>ワタシたちのグッズだったら
+いいですよね～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>ああっ！！ 夜の ふ頭、ステキすぎる～！
+夜景と機械音のコラボが モ～、ヤバ～イ！</original>
+			<edited>ああっ！！ 夜の ふ頭、ステキすぎる～！
+夜景と機械音のコラボが モ～、ヤバ～イ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Amida_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>ちょ…、イイダ！ 落ち着け！</original>
+			<edited>ちょ…、イイダ！ 落ち着け！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>高台からヒャッハー！ って飛び降りたら
+キューバンボムくらったわ…</original>
+			<edited>高台からヒャッハー！ って飛び降りたら
+キューバンボムくらったわ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>高台の裏にくっついてるキューバンボム…
+あるあるですね～</original>
+			<edited>高台の裏にくっついてるキューバンボム…
+あるあるですね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>この高台、ライブのステージとして使えるな…</original>
+			<edited>この高台、ライブのステージとして使えるな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>ヒメセンパイ 動きまわるから
+落っこちちゃいますよ？</original>
+			<edited>ヒメセンパイ 動きまわるから
+落っこちちゃいますよ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>ちびっこ諸君！ バトルが終わったら
+仲良くするんだぞっ！</original>
+			<edited>ちびっこ諸君！ バトルが終わったら
+仲良くするんだぞっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイは負けたら、
+メッチャ根に持ちますけどね…</original>
+			<edited>センパイは負けたら、
+メッチャ根に持ちますけどね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>オラー！ 高台から、ハイパープレッサー
+ぶっぱなしたれぁー！！</original>
+			<edited>オラー！ 高台から、ハイパープレッサー
+ぶっぱなしたれぁー！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>出たー！ 天上天下☆センパイビーーム！！</original>
+			<edited>出たー！ 天上天下☆センパイビーーム！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>全国のちびっこ諸君！
+テレビゲームもいいけど、もっとバトろうな！</original>
+			<edited>全国のちびっこ諸君！
+テレビゲームもいいけど、もっとバトろうな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>お姉さんとの約束だぞ♪</original>
+			<edited>お姉さんとの約束だぞ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここってせまいから
+すぐ相手とハチ合わせして 楽しー！</original>
+			<edited>ここってせまいから
+すぐ相手とハチ合わせして 楽しー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>あれだけ囲まれてるのに 切り抜けるセンパイ
+ステキすぎます…</original>
+			<edited>あれだけ囲まれてるのに 切り抜けるセンパイ
+ステキすぎます…</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここでバトるなら、回って裏取って、
+高台に登って… うししっ…</original>
+			<edited>ここでバトるなら、回って裏取って、
+高台に登って… うししっ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>結局 最後は登るんですね…</original>
+			<edited>結局 最後は登るんですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>センパァ～～イ♪
+真ん中の高台は 危ないですよぉ～～♪</original>
+			<edited>センパァ～～イ♪
+真ん中の高台は 危ないですよぉ～～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>ワタシ、そんな言い方してますか～？</original>
+			<edited>ワタシ、そんな言い方してますか～？</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_08_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここでリリック思い付いたんだけど、
+はずかしくって言えない…</original>
+			<edited>ここでリリック思い付いたんだけど、
+はずかしくって言えない…</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_08_0001" offset="00" relocatable="true" max_length="0">
+			<original>それ、メッチャ気になります…</original>
+			<edited>それ、メッチャ気になります…</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_09_0000" offset="00" relocatable="true" max_length="0">
+			<original>う～… 今日はなんか ねむいから
+ステージ紹介できねー…</original>
+			<edited>う～… 今日はなんか ねむいから
+ステージ紹介できねー…</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_09_0001" offset="00" relocatable="true" max_length="0">
+			<original>え？！ねむい？ ガンバってください！</original>
+			<edited>え？！ねむい？ ガンバってください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_10_0000" offset="00" relocatable="true" max_length="0">
+			<original>このステージ、いつもボロ勝ち！
+アタシに歯向かうとか １００億光年早ぇよな！</original>
+			<edited>このステージ、いつもボロ勝ち！
+アタシに歯向かうとか １００億光年早ぇよな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_10_0001" offset="00" relocatable="true" max_length="0">
+			<original>「光年」は距離ですよ…</original>
+			<edited>「光年」は距離ですよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>中央の高台から観るプレセペが
+サイコーだよなー！！</original>
+			<edited>中央の高台から観るプレセペが
+サイコーだよなー！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SkatePark_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>バトルの後でゆっくり観ましょうね～♪</original>
+			<edited>バトルの後でゆっくり観ましょうね～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここにある機械とか…
+イイダが ぜってー好きなヤツだ</original>
+			<edited>ここにある機械とか…
+イイダが ぜってー好きなヤツだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>ど、どうしてわかったんですか？！</original>
+			<edited>ど、どうしてわかったんですか？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>オマエら！ カナアミの上でローラー転がしても、
+その下のユカは塗れないぞー</original>
+			<edited>オマエら！ カナアミの上でローラー転がしても、
+その下のユカは塗れないぞー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>塗れないぞ♪</original>
+			<edited>塗れないぞ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここで採れた野菜って、結構ウマいらしいな</original>
+			<edited>ここで採れた野菜って、結構ウマいらしいな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>さすが、無圧ボイラーの温水暖房！</original>
+			<edited>さすが、無圧ボイラーの温水暖房！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここって、なんか いいニオイするよな</original>
+			<edited>ここって、なんか いいニオイするよな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>きっと ミョウガを作ってるからですよ！</original>
+			<edited>きっと ミョウガを作ってるからですよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここって、コーンは育ててるのに
+ヤングコーンは育ててないのかよー…</original>
+			<edited>ここって、コーンは育ててるのに
+ヤングコーンは育ててないのかよー…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>あれって、どっちも同じ実なんですよ～</original>
+			<edited>あれって、どっちも同じ実なんですよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここ、カベの向こうからスッゲー
+バシャバシャくるんだよなー！</original>
+			<edited>ここ、カベの向こうからスッゲー
+バシャバシャくるんだよなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>スロッシャーのインクが
+カベをこえて来ますよね…</original>
+			<edited>スロッシャーのインクが
+カベをこえて来ますよね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>なんかここ いっつも暑い…
+クーラーつけて欲しい…</original>
+			<edited>なんかここ いっつも暑い…
+クーラーつけて欲しい…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>わざと暑くしてるんですよ～</original>
+			<edited>わざと暑くしてるんですよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>センパ～～イ♪
+ここってミョウガ、育ててないんですかぁ～？</original>
+			<edited>センパ～～イ♪
+ここってミョウガ、育ててないんですかぁ～？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ、ワタシのマネ上手すぎです～♪</original>
+			<edited>センパイ、ワタシのマネ上手すぎです～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_08_0000" offset="00" relocatable="true" max_length="0">
+			<original>そーいえば、ウチの庭でも
+家庭菜園してるなー</original>
+			<edited>そーいえば、ウチの庭でも
+家庭菜園してるなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_08_0001" offset="00" relocatable="true" max_length="0">
+			<original>ヘリコプターで水をまいてる
+アレですよね…</original>
+			<edited>ヘリコプターで水をまいてる
+アレですよね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_09_0000" offset="00" relocatable="true" max_length="0">
+			<original>この場を借りて言っとこ！
+ウチらはテンタクル「ズ」だからな！</original>
+			<edited>この場を借りて言っとこ！
+ウチらはテンタクル「ズ」だからな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_09_0001" offset="00" relocatable="true" max_length="0">
+			<original>覚えてくださいね♪</original>
+			<edited>覚えてくださいね♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_10_0000" offset="00" relocatable="true" max_length="0">
+			<original>ちくしょー… ここって
+チャージャー 当たらねぇよな…</original>
+			<edited>ちくしょー… ここって
+チャージャー 当たらねぇよな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_10_0001" offset="00" relocatable="true" max_length="0">
+			<original>たぶん、ここに限らないと思います…</original>
+			<edited>たぶん、ここに限らないと思います…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>夜はジャングルっぽいから
+ワクワクするなー！</original>
+			<edited>夜はジャングルっぽいから
+ワクワクするなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Maze_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>バトルの熱気で
+もっとアツくしていきましょ～！</original>
+			<edited>バトルの熱気で
+もっとアツくしていきましょ～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Warehouse_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ、こないだここで
+カベ裏ボムに やられてただろ</original>
+			<edited>イイダ、こないだここで
+カベ裏ボムに やられてただろ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Warehouse_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>セ、センパイも やられてましたよ！</original>
+			<edited>セ、センパイも やられてましたよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Warehouse_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここって ダンボールの量の割に
+人が少ないよな</original>
+			<edited>ここって ダンボールの量の割に
+人が少ないよな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Warehouse_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>きっと、ロボット化が進んでるんですよ～</original>
+			<edited>きっと、ロボット化が進んでるんですよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Warehouse_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>なぁ、イイダ！
+ここでMV作ると いい感じじゃね？</original>
+			<edited>なぁ、イイダ！
+ここでMV作ると いい感じじゃね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Warehouse_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>なるほど！ よくある無機質な感じの
+MVになりそうですね～！</original>
+			<edited>なるほど！ よくある無機質な感じの
+MVになりそうですね～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Warehouse_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>細い道にスプラッシュシールド置かれると
+進めないんだよなー、チクショー</original>
+			<edited>細い道にスプラッシュシールド置かれると
+進めないんだよなー、チクショー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Warehouse_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>あ、そのワザ
+シェルターでもよく使います…</original>
+			<edited>あ、そのワザ
+シェルターでもよく使います…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Warehouse_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>チャージャーは 高いとこにいるの
+マジやめて欲しい！</original>
+			<edited>チャージャーは 高いとこにいるの
+マジやめて欲しい！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Warehouse_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイもよく高いとこに いますよ？</original>
+			<edited>センパイもよく高いとこに いますよ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Warehouse_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダー、ここの荷物仕分けてる機械とか
+きっと好きなんだろ？</original>
+			<edited>イイダー、ここの荷物仕分けてる機械とか
+きっと好きなんだろ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Warehouse_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>か、勝手に決めつけないでください！
+大好きですから！</original>
+			<edited>か、勝手に決めつけないでください！
+大好きですから！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Warehouse_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ！ ここでライブやったら
+ぜってー話題になると思うけど、どうだ？</original>
+			<edited>イイダ！ ここでライブやったら
+ぜってー話題になると思うけど、どうだ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Warehouse_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>真ん中の高台をステージにするには
+せますぎますよ～</original>
+			<edited>真ん中の高台をステージにするには
+せますぎますよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Warehouse_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここ 電波悪いから バトルの後に
+おむかえの車 すぐ呼べないんだよねー</original>
+			<edited>ここ 電波悪いから バトルの後に
+おむかえの車 すぐ呼べないんだよねー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Warehouse_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>場所的に 電波悪いですよね～</original>
+			<edited>場所的に 電波悪いですよね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Warehouse_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>うおお！ 夜の倉庫は シークレットライブ感ある！
+オマエら！ 準備はできてるかー？！</original>
+			<edited>うおお！ 夜の倉庫は シークレットライブ感ある！
+オマエら！ 準備はできてるかー？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Warehouse_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>ヒメセンパイ！ マイク忘れてますよ～！</original>
+			<edited>ヒメセンパイ！ マイク忘れてますよ～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="UpDown_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>バッテラストリートとは品ぞろえが ちがうから
+こっちも楽しいよなー</original>
+			<edited>バッテラストリートとは品ぞろえが ちがうから
+こっちも楽しいよなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="UpDown_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>SSSサイズ 売ってましたもんね～</original>
+			<edited>SSSサイズ 売ってましたもんね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="UpDown_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>スライドしながら ウィンドウショッピングすると
+効率よく 見て回れるからオススメ！</original>
+			<edited>スライドしながら ウィンドウショッピングすると
+効率よく 見て回れるからオススメ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="UpDown_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>速すぎてちゃんと見てないから
+何周もしてるじゃないですか…</original>
+			<edited>速すぎてちゃんと見てないから
+何周もしてるじゃないですか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="UpDown_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>左右の通路で１on１やるのが
+スンゲーおもしれー！！</original>
+			<edited>左右の通路で１on１やるのが
+スンゲーおもしれー！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="UpDown_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>ヒメセンパイ、中央もちゃんと塗ってくださいよ～！</original>
+			<edited>ヒメセンパイ、中央もちゃんと塗ってくださいよ～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="UpDown_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここ、メチャクチャにスライドしても
+案外落ちないんだよなー！ イェーイ！！</original>
+			<edited>ここ、メチャクチャにスライドしても
+案外落ちないんだよなー！ イェーイ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="UpDown_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>じゃあ落ちちゃうセンパイが見られると
+ラッキー♪ってことですね？！</original>
+			<edited>じゃあ落ちちゃうセンパイが見られると
+ラッキー♪ってことですね？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="UpDown_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ！あの気球にジャンプビーコンよろしく！</original>
+			<edited>イイダ！あの気球にジャンプビーコンよろしく！</edited>
+			<subEntries />
+		</entry>
+		<entry name="UpDown_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>ラフテレーンクレーンでも届かないですよ…</original>
+			<edited>ラフテレーンクレーンでも届かないですよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="UpDown_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>アナタの元へ スーパーチャクチ！
+愛と勝利を届けます！ イイダ、名付けて！</original>
+			<edited>アナタの元へ スーパーチャクチ！
+愛と勝利を届けます！ イイダ、名付けて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="UpDown_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>受けとめて☆ラブメテオ！</original>
+			<edited>受けとめて☆ラブメテオ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="UpDown_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>えーっと、とにかく今日は
+スゲー晴れるらしいぞ！</original>
+			<edited>えーっと、とにかく今日は
+スゲー晴れるらしいぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="UpDown_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>お天気コーナーも ねらってるんですか？！</original>
+			<edited>お天気コーナーも ねらってるんですか？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="UpDown_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>おい！ チャージャー！
+下りてきて正々堂々と勝負しろ！</original>
+			<edited>おい！ チャージャー！
+下りてきて正々堂々と勝負しろ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="UpDown_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>「見晴らしがいい所はチャージャーに気を付けろ！」
+と、センパイは言ってます</original>
+			<edited>「見晴らしがいい所はチャージャーに気を付けろ！」
+と、センパイは言ってます</edited>
+			<subEntries />
+		</entry>
+		<entry name="UpDown_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>飛行船から オマエらのバトル
+盛り上げるかんなー！</original>
+			<edited>飛行船から オマエらのバトル
+盛り上げるかんなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="UpDown_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>船上ライブ、メチャクチャアガります～！</original>
+			<edited>船上ライブ、メチャクチャアガります～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>全国のちびっこ諸君！
+食べ物で遊んじゃダメなんだぞ！</original>
+			<edited>全国のちびっこ諸君！
+食べ物で遊んじゃダメなんだぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>インクは勝手に消えるから いいんだぞ♪</original>
+			<edited>インクは勝手に消えるから いいんだぞ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>スーパーマーケットか… あまり来ないな</original>
+			<edited>スーパーマーケットか… あまり来ないな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイのお家は、買い物は
+お手伝いさんが行ってくれるんでしたっけ…</original>
+			<edited>センパイのお家は、買い物は
+お手伝いさんが行ってくれるんでしたっけ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>いつも食べてるギガピーナッツバター見つけた！
+ウマいんだよなー！</original>
+			<edited>いつも食べてるギガピーナッツバター見つけた！
+ウマいんだよなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>あれ、すごいカロリーですよね…</original>
+			<edited>あれ、すごいカロリーですよね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>おかしがイッパイ！ 食べたい…</original>
+			<edited>おかしがイッパイ！ 食べたい…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>欲望が 直球すぎます…</original>
+			<edited>欲望が 直球すぎます…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>なーイイダ、「ザトウ」って何の意味なんだ？</original>
+			<edited>なーイイダ、「ザトウ」って何の意味なんだ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>大昔にいた ホニュウ類の名前らしいですね～
+お店のロゴにも入ってますよ♪</original>
+			<edited>大昔にいた ホニュウ類の名前らしいですね～
+お店のロゴにも入ってますよ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>ザトウマーケットの… げっ！ まちがえた！
+ガトーカーペットの必勝法！ イイダ、よろしく！</original>
+			<edited>ザトウマーケットの… げっ！ まちがえた！
+ガトーカーペットの必勝法！ イイダ、よろしく！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ、 最初の名前で あってます…</original>
+			<edited>センパイ、 最初の名前で あってます…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>よし、ここはマニューバーの出番だ！</original>
+			<edited>よし、ここはマニューバーの出番だ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイは、ブキも おかしも二刀流ですね～</original>
+			<edited>センパイは、ブキも おかしも二刀流ですね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>センパ～イ♪ ここっていろんな物が安くて
+目移りしちゃいますよね～♪</original>
+			<edited>センパ～イ♪ ここっていろんな物が安くて
+目移りしちゃいますよね～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>あ！ ワタシ、それ 言ってるかもです！</original>
+			<edited>あ！ ワタシ、それ 言ってるかもです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_08_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここで売ってるチョコミントアイス、
+デカくてウマいんだよなー</original>
+			<edited>ここで売ってるチョコミントアイス、
+デカくてウマいんだよなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_08_0001" offset="00" relocatable="true" max_length="0">
+			<original>ハミガキの味がクールですよね～</original>
+			<edited>ハミガキの味がクールですよね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>閉店後のスーパーマーケットでも
+アゲてくぞー！ うりゃあー！！</original>
+			<edited>閉店後のスーパーマーケットでも
+アゲてくぞー！ うりゃあー！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Line_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイのテンションに
+アゲおくれないように トバしていきますよ～♪</original>
+			<edited>センパイのテンションに
+アゲおくれないように トバしていきますよ～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここで発声練習すると、
+よくひびくんだろなー… マー！！</original>
+			<edited>ここで発声練習すると、
+よくひびくんだろなー… マー！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイの声量だと、ひびくどころか
+全壊しますよっ！</original>
+			<edited>センパイの声量だと、ひびくどころか
+全壊しますよっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>うおっ！ あの標本、スゲーホネホネしてるぞ！</original>
+			<edited>うおっ！ あの標本、スゲーホネホネしてるぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ、ステージの解説をお願いします…</original>
+			<edited>センパイ、ステージの解説をお願いします…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ！ ここの化石をバックに
+MV作るぞー！</original>
+			<edited>イイダ！ ここの化石をバックに
+MV作るぞー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>なるほど！ 神秘的に見せる作戦ですね！</original>
+			<edited>なるほど！ 神秘的に見せる作戦ですね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>怪獣の骨、いつ見ても すげーなー！</original>
+			<edited>怪獣の骨、いつ見ても すげーなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>怪獣じゃなくて、恐竜ですね…</original>
+			<edited>怪獣じゃなくて、恐竜ですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>今からこの博物館の歴史を説明するぞー
+イイダ、よろしく！</original>
+			<edited>今からこの博物館の歴史を説明するぞー
+イイダ、よろしく！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>えっ！ ワタシが？！</original>
+			<edited>えっ！ ワタシが？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>今日の天気は 晴れ時々くもり
+ところにより 一時 雨か雪！！</original>
+			<edited>今日の天気は 晴れ時々くもり
+ところにより 一時 雨か雪！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>絶対 当たりますね…</original>
+			<edited>絶対 当たりますね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>うししっ… 上が ガラス張りだから
+下にいるヤツら丸見えだかんなー！</original>
+			<edited>うししっ… 上が ガラス張りだから
+下にいるヤツら丸見えだかんなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>それって下からも丸見えってことですよ～</original>
+			<edited>それって下からも丸見えってことですよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>いずれこの博物館のテーマソング
+考えないとなー</original>
+			<edited>いずれこの博物館のテーマソング
+考えないとなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>そして、今度のEPに入れちゃいましょう！</original>
+			<edited>そして、今度のEPに入れちゃいましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_08_0000" offset="00" relocatable="true" max_length="0">
+			<original>家の庭 ほってたら、ここにある骨みたいな石
+いっぱい出てきたよ</original>
+			<edited>家の庭 ほってたら、ここにある骨みたいな石
+いっぱい出てきたよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_08_0001" offset="00" relocatable="true" max_length="0">
+			<original>それ、調べてもらったほうがよいかと思います！</original>
+			<edited>それ、調べてもらったほうがよいかと思います！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>夜の博物館ってフンイキあるなー！</original>
+			<edited>夜の博物館ってフンイキあるなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tunnel_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>フェスのために特別開館だそうです～</original>
+			<edited>フェスのために特別開館だそうです～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Athletic_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここって、昔 アタシが設計したんだぞー！</original>
+			<edited>ここって、昔 アタシが設計したんだぞー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Athletic_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>パパさん、ここのオーナーですよね！</original>
+			<edited>パパさん、ここのオーナーですよね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Athletic_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>アタシの作詞デビューは
+ここのテーマソングなんだぞ</original>
+			<edited>アタシの作詞デビューは
+ここのテーマソングなんだぞ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Athletic_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>モンモンガララ、モンガララ♪
+ってやつですよね～</original>
+			<edited>モンモンガララ、モンガララ♪
+ってやつですよね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Athletic_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>なんかここって、
+カベ裏ボムに やられやすくないか？</original>
+			<edited>なんかここって、
+カベ裏ボムに やられやすくないか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Athletic_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>気持ちよく ダッシュしてたら
+目の前にボムが あったりしますね…</original>
+			<edited>気持ちよく ダッシュしてたら
+目の前にボムが あったりしますね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Athletic_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここの青空と草原をバックに
+MV作ろうぜー</original>
+			<edited>ここの青空と草原をバックに
+MV作ろうぜー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Athletic_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>ワタシたちって そんなアウトドアなキャラで
+売っていくんでしたっけ？</original>
+			<edited>ワタシたちって そんなアウトドアなキャラで
+売っていくんでしたっけ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Athletic_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここって電波弱いから 電話してると
+勝手に切れんだよなー…</original>
+			<edited>ここって電波弱いから 電話してると
+勝手に切れんだよなー…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Athletic_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ、たまにほっぺで
+通話オフのボタン 押してますよ？</original>
+			<edited>センパイ、たまにほっぺで
+通話オフのボタン 押してますよ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Athletic_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>インクレールを上手く使って
+シャイニング・バシュール！</original>
+			<edited>インクレールを上手く使って
+シャイニング・バシュール！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Athletic_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>推しますね～</original>
+			<edited>推しますね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Athletic_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ！ パパに言って
+ここライブできるように 工事してもらうわ！</original>
+			<edited>イイダ！ パパに言って
+ここライブできるように 工事してもらうわ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Athletic_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>そうなれば、重機 見放題ですね！</original>
+			<edited>そうなれば、重機 見放題ですね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Athletic_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>オマエら！ キャンプ場は
+ポイ捨て禁止な！</original>
+			<edited>オマエら！ キャンプ場は
+ポイ捨て禁止な！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Athletic_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>この番組は 自然にやさしいユニット、
+テンタクルズが お送りします♪</original>
+			<edited>この番組は 自然にやさしいユニット、
+テンタクルズが お送りします♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Athletic_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>夜のキャンプ場って
+なんかワクワクするよなー！</original>
+			<edited>夜のキャンプ場って
+なんかワクワクするよなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Athletic_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>たいまつの炎が ロマンチックですよね～♪</original>
+			<edited>たいまつの炎が ロマンチックですよね～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Quarry_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>なんだあの機械、デケー！</original>
+			<edited>なんだあの機械、デケー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Quarry_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>バケットホイールエクスカベーターです♪
+名前も長～い！</original>
+			<edited>バケットホイールエクスカベーターです♪
+名前も長～い！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Quarry_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここの石コロ見てたら 歌詞、降りてきた！
+イイダ、曲つけてー</original>
+			<edited>ここの石コロ見てたら 歌詞、降りてきた！
+イイダ、曲つけてー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Quarry_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>石を見てたら歌詞が浮かぶなんて…
+さすが センパイ！</original>
+			<edited>石を見てたら歌詞が浮かぶなんて…
+さすが センパイ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Quarry_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここのナナメのベルトコンベヤーに乗ったら
+メッチャ飛ばされたわ…</original>
+			<edited>ここのナナメのベルトコンベヤーに乗ったら
+メッチャ飛ばされたわ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Quarry_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ、軽いですからね…</original>
+			<edited>センパイ、軽いですからね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Quarry_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>ベルトコンベヤー逆走してたら、
+動きがおそくなるから ねらわれやすいぞ！</original>
+			<edited>ベルトコンベヤー逆走してたら、
+動きがおそくなるから ねらわれやすいぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Quarry_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>実際、やられてましたよね…</original>
+			<edited>実際、やられてましたよね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Quarry_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ！ ここで音撮りすると
+面白いの できそうだな！</original>
+			<edited>イイダ！ ここで音撮りすると
+面白いの できそうだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Quarry_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>砂利のノイズで
+ディストーションつけてみましょうか！</original>
+			<edited>砂利のノイズで
+ディストーションつけてみましょうか！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Quarry_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>全国のちびっこ諸君！ 石や砂で遊んだら
+あとで 手洗いするんだぞ！</original>
+			<edited>全国のちびっこ諸君！ 石や砂で遊んだら
+あとで 手洗いするんだぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Quarry_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>うがいも忘れずにね♪</original>
+			<edited>うがいも忘れずにね♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Quarry_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>アタシ… ここのヌシ… 見ちゃった…</original>
+			<edited>アタシ… ここのヌシ… 見ちゃった…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Quarry_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>エ～！ もしかして、湖のヌシ？！</original>
+			<edited>エ～！ もしかして、湖のヌシ？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Quarry_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダのスマホの待ち受け、
+ここの景色ばっかだよなー</original>
+			<edited>イイダのスマホの待ち受け、
+ここの景色ばっかだよなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Quarry_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>じゃあ、 センパイも今度いっしょに
+重機撮りに行きましょう～♪</original>
+			<edited>じゃあ、 センパイも今度いっしょに
+重機撮りに行きましょう～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Quarry_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>テンション上がってきたー！
+オマエら、山ごと塗りたくれー！！</original>
+			<edited>テンション上がってきたー！
+オマエら、山ごと塗りたくれー！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Quarry_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>ワタシ、重機乗ります！重機！！</original>
+			<edited>ワタシ、重機乗ります！重機！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Court_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ、 今年のファイナルゲームも
+ハーフタイムショーに出られるってよ！</original>
+			<edited>イイダ、 今年のファイナルゲームも
+ハーフタイムショーに出られるってよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Court_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>やった～！ ここの音響設備
+いつも最新なんで大好きなんです～♪</original>
+			<edited>やった～！ ここの音響設備
+いつも最新なんで大好きなんです～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Court_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>バスケでも スライドできたほうが
+カッコイーと思うんだけどなー</original>
+			<edited>バスケでも スライドできたほうが
+カッコイーと思うんだけどなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Court_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>それは反則ですよ…</original>
+			<edited>それは反則ですよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Court_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>このステージのポイントは
+やっぱゴールだよなー！</original>
+			<edited>このステージのポイントは
+やっぱゴールだよなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Court_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>バスケでもバトルでも 相手のゴールを
+うばうことが 重要なんですね～！</original>
+			<edited>バスケでもバトルでも 相手のゴールを
+うばうことが 重要なんですね～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Court_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>バスケのゴールと ガチアサリのゴール、
+まちがえやすいから 気をつけろ！</original>
+			<edited>バスケのゴールと ガチアサリのゴール、
+まちがえやすいから 気をつけろ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Court_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>全国のちびっこのみなさん！
+気をつけてくださいね～</original>
+			<edited>全国のちびっこのみなさん！
+気をつけてくださいね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Court_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>なー イイダ、またゴール下に立ってて
+くんねーかな？</original>
+			<edited>なー イイダ、またゴール下に立ってて
+くんねーかな？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Court_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>ワタシにスーパージャンプして ダンクごっこするの
+もう何回目ですか～？</original>
+			<edited>ワタシにスーパージャンプして ダンクごっこするの
+もう何回目ですか～？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Court_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>クラゲくんって ダンクできんのか？</original>
+			<edited>クラゲくんって ダンクできんのか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Court_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>ウデを伸ばしてゴールに入れるので
+正確には ダンクではないような…</original>
+			<edited>ウデを伸ばしてゴールに入れるので
+正確には ダンクではないような…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Court_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここってライブするたびに リニューアルするから
+気合い入るよなー！</original>
+			<edited>ここってライブするたびに リニューアルするから
+気合い入るよなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Court_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイの歌声対策のために
+一階の客席が 強化ガラスに変わってますね…</original>
+			<edited>センパイの歌声対策のために
+一階の客席が 強化ガラスに変わってますね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Court_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>センパ～イ、 機材セッティング終わる前に
+マイクテスト 入んないでください～！</original>
+			<edited>センパ～イ、 機材セッティング終わる前に
+マイクテスト 入んないでください～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Court_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>そっくりですけど～、 ホントに困ってるんですよ～</original>
+			<edited>そっくりですけど～、 ホントに困ってるんですよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Court_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>夜のスタジアムは アタシらのもんだ！
+塗って塗って 塗りまくれー！！！</original>
+			<edited>夜のスタジアムは アタシらのもんだ！
+塗って塗って 塗りまくれー！！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Court_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ！ ゴールに立って歌うと
+バトルのジャマですよ～！</original>
+			<edited>センパイ！ ゴールに立って歌うと
+バトルのジャマですよ～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここでやった ビーチサイドライブは
+スゲー気持ちよかったなー！</original>
+			<edited>ここでやった ビーチサイドライブは
+スゲー気持ちよかったなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>ヒメセンパイ、 風で飛ばされてましたよね…</original>
+			<edited>ヒメセンパイ、 風で飛ばされてましたよね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>フードスペースにロブの店があるぞっ！</original>
+			<edited>フードスペースにロブの店があるぞっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>ここもチケットが必要なんですかね～？</original>
+			<edited>ここもチケットが必要なんですかね～？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>この前 ６時間連続ジェットコースターやったし
+次は ８時間連続フリーフォールやるか！</original>
+			<edited>この前 ６時間連続ジェットコースターやったし
+次は ８時間連続フリーフォールやるか！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>ジェットコースターの次は
+１２時間 観覧車に乗るって約束ですよ！</original>
+			<edited>ジェットコースターの次は
+１２時間 観覧車に乗るって約束ですよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>フリーフォールが なかなか落ちてこねー…</original>
+			<edited>フリーフォールが なかなか落ちてこねー…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>あれって気になり出すと
+バトルに集中できませんよね～</original>
+			<edited>あれって気になり出すと
+バトルに集中できませんよね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>中央に橋がかかるタイミングが
+ぜんぜんわかんねーーー！！！</original>
+			<edited>中央に橋がかかるタイミングが
+ぜんぜんわかんねーーー！！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>スタート地点と中央あたりに タイミングを
+教えてくれるカンバンがありますよ～</original>
+			<edited>スタート地点と中央あたりに タイミングを
+教えてくれるカンバンがありますよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>中央のデカイ地面、 回り出しても
+静かだから 気付かない時あんだよなー…</original>
+			<edited>中央のデカイ地面、 回り出しても
+静かだから 気付かない時あんだよなー…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>ゼッタイ、 いい静音ベアリング使ってます！
+ああいうのって強度出すの 難しいんですよ～</original>
+			<edited>ゼッタイ、 いい静音ベアリング使ってます！
+ああいうのって強度出すの 難しいんですよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>そういえば何でセンパイは ここに来る時だけ
+超厚底のブーツはくんですか～？</original>
+			<edited>そういえば何でセンパイは ここに来る時だけ
+超厚底のブーツはくんですか～？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>よくわかんねーけど、 パパが遊園地行く用に
+プレゼントしてくれたんだよなー</original>
+			<edited>よくわかんねーけど、 パパが遊園地行く用に
+プレゼントしてくれたんだよなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>全国のちびっこ諸君！ 園内で迷ったら
+コインロッカー横の迷子センターへ ＧＯ！ だぞ！！</original>
+			<edited>全国のちびっこ諸君！ 園内で迷ったら
+コインロッカー横の迷子センターへ ＧＯ！ だぞ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>やけにくわしいですね…</original>
+			<edited>やけにくわしいですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_08_0000" offset="00" relocatable="true" max_length="0">
+			<original>センパイが 「ひれおくん」で
+好きなシリーズって なんですか？</original>
+			<edited>センパイが 「ひれおくん」で
+好きなシリーズって なんですか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_08_0001" offset="00" relocatable="true" max_length="0">
+			<original>「劇場版ひれおくん フーセン王国のマイゴ姫」
+かな！ 最後が泣けるんだよなー</original>
+			<edited>「劇場版ひれおくん フーセン王国のマイゴ姫」
+かな！ 最後が泣けるんだよなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>見ろよイイダ！ 観覧車、キラキラしてっぞ！</original>
+			<edited>見ろよイイダ！ 観覧車、キラキラしてっぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Carousel_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>ヒメセンパイの目、
+観覧車以上に キラキラしてます～♪</original>
+			<edited>ヒメセンパイの目、
+観覧車以上に キラキラしてます～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nakasu_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>屋上にプールがあるって 新しーな！！</original>
+			<edited>屋上にプールがあるって 新しーな！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nakasu_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>ハイカラスクエアで いま１番ナウい
+デートスポットらしいですよ～</original>
+			<edited>ハイカラスクエアで いま１番ナウい
+デートスポットらしいですよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nakasu_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここライブする時、 水上ステージまで移動すんのに
+バナナボート使うの ヤバかったな…</original>
+			<edited>ここライブする時、 水上ステージまで移動すんのに
+バナナボート使うの ヤバかったな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nakasu_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>ボートにしがみつくセンパイに
+がんばれコール、 起こってましたね…</original>
+			<edited>ボートにしがみつくセンパイに
+がんばれコール、 起こってましたね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nakasu_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ、このステージの必勝法よろしく！</original>
+			<edited>イイダ、このステージの必勝法よろしく！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nakasu_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>中央をわたるときは シェルターを構えて
+安全確保です！</original>
+			<edited>中央をわたるときは シェルターを構えて
+安全確保です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nakasu_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>中央わたろうとすると すぐチャージャーにやられる…
+スライドやってんのに なんでだよ？！</original>
+			<edited>中央わたろうとすると すぐチャージャーにやられる…
+スライドやってんのに なんでだよ？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nakasu_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ、 スライドする前に「ヨッシャー！」って言うの
+やめたほうがいいかもです…</original>
+			<edited>センパイ、 スライドする前に「ヨッシャー！」って言うの
+やめたほうがいいかもです…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nakasu_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>ステージ中央の砂は ガンガゼ野外音楽堂の
+近くのビーチから わざわざ運んでるらしーな</original>
+			<edited>ステージ中央の砂は ガンガゼ野外音楽堂の
+近くのビーチから わざわざ運んでるらしーな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nakasu_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>こだわりが スゴイです！</original>
+			<edited>こだわりが スゴイです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nakasu_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>トロロン オートロ トロラリラーン♪
+あのＣＭの歌 耳に残るよなー</original>
+			<edited>トロロン オートロ トロラリラーン♪
+あのＣＭの歌 耳に残るよなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nakasu_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>あのグルーヴ感…
+負けてられませんッ！！</original>
+			<edited>あのグルーヴ感…
+負けてられませんッ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nakasu_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>ホテルニューオートロで
+モテる Ｙｏｕ そこそこ！</original>
+			<edited>ホテルニューオートロで
+モテる Ｙｏｕ そこそこ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nakasu_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ、 勝手にＣＭソング作っちゃ
+ダメですよ…</original>
+			<edited>センパイ、 勝手にＣＭソング作っちゃ
+ダメですよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nakasu_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>この前 クラゲくんたちが
+プールでイカスフィアやってんの見たぞ！ </original>
+			<edited>この前 クラゲくんたちが
+プールでイカスフィアやってんの見たぞ！ </edited>
+			<subEntries />
+		</entry>
+		<entry name="Nakasu_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>おそらく ウォーターボールだと思います…</original>
+			<edited>おそらく ウォーターボールだと思います…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nakasu_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>夜景とプールがキラキラしてんなー！
+イイダ、 いっしょに写真とろーぜー！</original>
+			<edited>夜景とプールがキラキラしてんなー！
+イイダ、 いっしょに写真とろーぜー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Nakasu_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>この日のために 自撮りクレーン運んできました～！</original>
+			<edited>この日のために 自撮りクレーン運んできました～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>新しい建物だな！</original>
+			<edited>新しい建物だな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>開発をメインに おこなうために
+新設したらしいですね～</original>
+			<edited>開発をメインに おこなうために
+新設したらしいですね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>やっぱプロペラ楽しーよな！</original>
+			<edited>やっぱプロペラ楽しーよな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>バトルそっちのけで プロペラ回すのは
+やめてくださいよ～</original>
+			<edited>バトルそっちのけで プロペラ回すのは
+やめてくださいよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>なんで オフィスに
+プロペラが あるんでしょう？</original>
+			<edited>なんで オフィスに
+プロペラが あるんでしょう？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>カッコイーからに 決まってんじゃん！</original>
+			<edited>カッコイーからに 決まってんじゃん！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここと似たようなとこで
+バトルしたことあるぞ？！</original>
+			<edited>ここと似たようなとこで
+バトルしたことあるぞ？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>それはおそらく 本社のほうですね～</original>
+			<edited>それはおそらく 本社のほうですね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ、イイダ！ ここの社員食堂って
+アロメコーラが 飲み放題らしーぞ！</original>
+			<edited>イイダ、イイダ！ ここの社員食堂って
+アロメコーラが 飲み放題らしーぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>アロメコーラだけじゃなくって
+ぜ～んぶ 食べ放題みたいですよ♪</original>
+			<edited>アロメコーラだけじゃなくって
+ぜ～んぶ 食べ放題みたいですよ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>新しい建物だけど、
+前のとこと なんか似てるな</original>
+			<edited>新しい建物だけど、
+前のとこと なんか似てるな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>社風らしいですよ～</original>
+			<edited>社風らしいですよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>このステージの注意点
+イイダ、 よろしく！</original>
+			<edited>このステージの注意点
+イイダ、 よろしく！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>プロペラから 飛び散るインクに
+気を付けましょ～♪</original>
+			<edited>プロペラから 飛び散るインクに
+気を付けましょ～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>ウチの ウォークインクローゼットと
+おんなじくらいの 広さだな</original>
+			<edited>ウチの ウォークインクローゼットと
+おんなじくらいの 広さだな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>広さの説明としては
+イメージしづらいですね…</original>
+			<edited>広さの説明としては
+イメージしづらいですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_08_0000" offset="00" relocatable="true" max_length="0">
+			<original>ゲーム開発する会社って
+制服あるんだな！</original>
+			<edited>ゲーム開発する会社って
+制服あるんだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_08_0001" offset="00" relocatable="true" max_length="0">
+			<original>社風じゃないですか～？</original>
+			<edited>社風じゃないですか～？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>天窓から見える 星空が
+サイッコーに アガるな！！</original>
+			<edited>天窓から見える 星空が
+サイッコーに アガるな！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Office_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>中央のサーバールームも
+青く光っててゾクゾクします！</original>
+			<edited>中央のサーバールームも
+青く光っててゾクゾクします！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_00_0000" offset="00" relocatable="true" max_length="0">
+			<original>でっかい建物だなー</original>
+			<edited>でっかい建物だなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_00_0001" offset="00" relocatable="true" max_length="0">
+			<original>ここに来ると ナワバリバトルに勝てるように
+なるって ウワサらしいですよ～</original>
+			<edited>ここに来ると ナワバリバトルに勝てるように
+なるって ウワサらしいですよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_01_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ！ このステージは
+「天体ショー」が トクチョウらしいぞ！</original>
+			<edited>イイダ！ このステージは
+「天体ショー」が トクチョウらしいぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_01_0001" offset="00" relocatable="true" max_length="0">
+			<original>ヒメセンパイ、 それを言うなら
+「線対称」ですよ…</original>
+			<edited>ヒメセンパイ、 それを言うなら
+「線対称」ですよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_02_0000" offset="00" relocatable="true" max_length="0">
+			<original>お庭の模様は クラゲくん達が
+バトルの後に毎回整備してるらしーな</original>
+			<edited>お庭の模様は クラゲくん達が
+バトルの後に毎回整備してるらしーな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_02_0001" offset="00" relocatable="true" max_length="0">
+			<original>クラゲさん達に感謝ですね♪</original>
+			<edited>クラゲさん達に感謝ですね♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_03_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ、 なにソワソワしてんだ？</original>
+			<edited>イイダ、 なにソワソワしてんだ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_03_0001" offset="00" relocatable="true" max_length="0">
+			<original>大がかりな改修工事やってるのに
+重機がどこにも見当たらないんです…</original>
+			<edited>大がかりな改修工事やってるのに
+重機がどこにも見当たらないんです…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_04_0000" offset="00" relocatable="true" max_length="0">
+			<original>全国のちびっこ諸君！ 遠くにいないで
+正々堂々と 近くでバトルするんだぞ！</original>
+			<edited>全国のちびっこ諸君！ 遠くにいないで
+正々堂々と 近くでバトルするんだぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_04_0001" offset="00" relocatable="true" max_length="0">
+			<original>センパイ、 チャージャーに倒されちゃうからって
+ちびっこに変なこと教えちゃ ダメですよ…</original>
+			<edited>センパイ、 チャージャーに倒されちゃうからって
+ちびっこに変なこと教えちゃ ダメですよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_05_0000" offset="00" relocatable="true" max_length="0">
+			<original>このステージの注意点
+ヒメセンパイ、 お願いします！！</original>
+			<edited>このステージの注意点
+ヒメセンパイ、 お願いします！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_05_0001" offset="00" relocatable="true" max_length="0">
+			<original>ここの自販機には アロメコーラ売ってねーから
+飲みたいやつは 自分で持ってこいよ！</original>
+			<edited>ここの自販機には アロメコーラ売ってねーから
+飲みたいやつは 自分で持ってこいよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_06_0000" offset="00" relocatable="true" max_length="0">
+			<original>よく見たら 木彫りのブキとかがあるけど
+アレなんだ？</original>
+			<edited>よく見たら 木彫りのブキとかがあるけど
+アレなんだ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_06_0001" offset="00" relocatable="true" max_length="0">
+			<original>ダレが何のために作ったんでしょうね…</original>
+			<edited>ダレが何のために作ったんでしょうね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_07_0000" offset="00" relocatable="true" max_length="0">
+			<original>あ、足湯ですよセンパイ！
+クラゲさん気持ちよさそ～</original>
+			<edited>あ、足湯ですよセンパイ！
+クラゲさん気持ちよさそ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_07_0001" offset="00" relocatable="true" max_length="0">
+			<original>バトルの後に 相手チームとも足湯で
+仲良くなれるって 評判らしーな！</original>
+			<edited>バトルの後に 相手チームとも足湯で
+仲良くなれるって 評判らしーな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_08_0000" offset="00" relocatable="true" max_length="0">
+			<original>上のほう塗ってたら 下のほう塗られてっし…
+下のほう行ったら 上を塗られて… うぁー！！</original>
+			<edited>上のほう塗ってたら 下のほう塗られてっし…
+下のほう行ったら 上を塗られて… うぁー！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_08_0001" offset="00" relocatable="true" max_length="0">
+			<original>ヒメセンパイは、 仲間と息を合わせて
+動くことが大切だよって言ってます♪</original>
+			<edited>ヒメセンパイは、 仲間と息を合わせて
+動くことが大切だよって言ってます♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_09_0000" offset="00" relocatable="true" max_length="0">
+			<original>バトルの最後に ナイスダマぶん投げる！
+名付けて…？</original>
+			<edited>バトルの最後に ナイスダマぶん投げる！
+名付けて…？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_09_0001" offset="00" relocatable="true" max_length="0">
+			<original>放課後アメイジングスター！！</original>
+			<edited>放課後アメイジングスター！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_Fest00_0000" offset="00" relocatable="true" max_length="0">
+			<original>提灯がいっぱいで メッチャお祭り感でてんな！</original>
+			<edited>提灯がいっぱいで メッチャお祭り感でてんな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mirror_Fest00_0001" offset="00" relocatable="true" max_length="0">
+			<original>これぞフェス！ ですね！！
+浸透圧アガってきました～♪</original>
+			<edited>これぞフェス！ ですね！！
+浸透圧アガってきました～♪</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

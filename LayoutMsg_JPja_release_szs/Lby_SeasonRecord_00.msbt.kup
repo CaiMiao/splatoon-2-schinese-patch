@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>ウデマエキープ！</original>
+			<edited>ウデマエキープ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>ウデマエダウン…</original>
+			<edited>ウデマエダウン…</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Title_00" offset="00" relocatable="true" max_length="0">
+			<original>結果発表</original>
+			<edited>結果発表</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Record_00-T_Max_00" offset="00" relocatable="true" max_length="0">
+			<original>最高：</original>
+			<edited>最高：</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Record_00-T_Fix_00" offset="00" relocatable="true" max_length="0">
+			<original>最終：</original>
+			<edited>最終：</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Record_00-T_NoRecord_00" offset="00" relocatable="true" max_length="0">
+			<original>きろくがありません</original>
+			<edited>きろくがありません</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Record_00-T_Rank_00" offset="00" relocatable="true" max_length="0">
+			<original>推定</original>
+			<edited>推定</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Rule_00" offset="00" relocatable="true" max_length="0">
+			<original>ガチエリア</original>
+			<edited>ガチエリア</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Rule_01" offset="00" relocatable="true" max_length="0">
+			<original>ガチヤグラ</original>
+			<edited>ガチヤグラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Rule_02" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコバトル</original>
+			<edited>ガチホコバトル</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Rule_03" offset="00" relocatable="true" max_length="0">
+			<original>ガチアサリ</original>
+			<edited>ガチアサリ</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Title_01" offset="00" relocatable="true" max_length="0">
+			<original>次のランキング戦が開始されました！</original>
+			<edited>次のランキング戦が開始されました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Msg_00" offset="00" relocatable="true" max_length="0">
+			<original>正確な順位やランキングについては、
+インターネットサービス「イカリング２」を
+ご確認ください。</original>
+			<edited>正確な順位やランキングについては、
+インターネットサービス「イカリング２」を
+ご確認ください。</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Season_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x5;&#x0;&#x2;&#x0;Í のきろく</original>
+			<edited>&#xE;&#x5;&#x0;&#x2;&#x0;Í のきろく</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Season_01" offset="00" relocatable="true" max_length="0">
+			<original>期間　&#xE;&#x5;&#x0;&#x2;&#x0;Í</original>
+			<edited>期間　&#xE;&#x5;&#x0;&#x2;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="LastBoss02_0000" offset="00" relocatable="true" max_length="0">
+			<original>次は エネルギーコアを探します！ 上を目指しましょう！</original>
+			<edited>次は エネルギーコアを探します！ 上を目指しましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0001" offset="00" relocatable="true" max_length="0">
+			<original>８号さんの端末からです！ 地上に近づいてるんですよ！</original>
+			<edited>８号さんの端末からです！ 地上に近づいてるんですよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0002" offset="00" relocatable="true" max_length="0">
+			<original>…いや、行けねーだろ</original>
+			<edited>…いや、行けねーだろ</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0003" offset="00" relocatable="true" max_length="0">
+			<original>右方向にドアを発見！ カギを探しましょう！</original>
+			<edited>右方向にドアを発見！ カギを探しましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0004" offset="00" relocatable="true" max_length="0">
+			<original>ハチ！ 上のインクに頭ぶつけんなよ！</original>
+			<edited>ハチ！ 上のインクに頭ぶつけんなよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0005" offset="00" relocatable="true" max_length="0">
+			<original>向こう岸に ジャンプポイントが見えるな</original>
+			<edited>向こう岸に ジャンプポイントが見えるな</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0006" offset="00" relocatable="true" max_length="0">
+			<original>手すり付きの地面は 落ちてないゾ！</original>
+			<edited>手すり付きの地面は 落ちてないゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0007" offset="00" relocatable="true" max_length="0">
+			<original>ナイスです～！</original>
+			<edited>ナイスです～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0008" offset="00" relocatable="true" max_length="0">
+			<original>どっかから ウチらの音楽がきこえなイカ？</original>
+			<edited>どっかから ウチらの音楽がきこえなイカ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0009" offset="00" relocatable="true" max_length="0">
+			<original>ガ… ガガ… ガピー！</original>
+			<edited>ガ… ガガ… ガピー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0011" offset="00" relocatable="true" max_length="0">
+			<original>わ！ バイソクミサイルタコプターです！</original>
+			<edited>わ！ バイソクミサイルタコプターです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0012" offset="00" relocatable="true" max_length="0">
+			<original>大回りすれば、あちらから行けそうですね</original>
+			<edited>大回りすれば、あちらから行けそうですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0013" offset="00" relocatable="true" max_length="0">
+			<original>ナイスです！ ドアに向かいましょう！</original>
+			<edited>ナイスです！ ドアに向かいましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0014" offset="00" relocatable="true" max_length="0">
+			<original>ハチ！ 足場、よく見ろ！</original>
+			<edited>ハチ！ 足場、よく見ろ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0015" offset="00" relocatable="true" max_length="0">
+			<original>トーチャク！ ハチ、そいつをぶっ倒せ！</original>
+			<edited>トーチャク！ ハチ、そいつをぶっ倒せ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0016" offset="00" relocatable="true" max_length="0">
+			<original>ナイスですっ！ 門が開いてます！</original>
+			<edited>ナイスですっ！ 門が開いてます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0017" offset="00" relocatable="true" max_length="0">
+			<original>シャー！ で、エネルギーコアって何なの？</original>
+			<edited>シャー！ で、エネルギーコアって何なの？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0018" offset="00" relocatable="true" max_length="0">
+			<original>うー！ ミコプター、ウゼェ！</original>
+			<edited>うー！ ミコプター、ウゼェ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0020" offset="00" relocatable="true" max_length="0">
+			<original>ジジィ、なんか言ったか？</original>
+			<edited>ジジィ、なんか言ったか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0021" offset="00" relocatable="true" max_length="0">
+			<original>ナイス！ エネルギーコアまで まっしぐらだ！</original>
+			<edited>ナイス！ エネルギーコアまで まっしぐらだ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0022" offset="00" relocatable="true" max_length="0">
+			<original>手すりのある場所は 落ちないようですね</original>
+			<edited>手すりのある場所は 落ちないようですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0023" offset="00" relocatable="true" max_length="0">
+			<original>カギ、探してけー！</original>
+			<edited>カギ、探してけー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0024" offset="00" relocatable="true" max_length="0">
+			<original>上から来るブロックを 乗りついで行きましょ～</original>
+			<edited>上から来るブロックを 乗りついで行きましょ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0025" offset="00" relocatable="true" max_length="0">
+			<original>ん？ デンワめ、まだ息があるんかの？</original>
+			<edited>ん？ デンワめ、まだ息があるんかの？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0026" offset="00" relocatable="true" max_length="0">
+			<original>いや、なんでもないぞィ</original>
+			<edited>いや、なんでもないぞィ</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss02_0028" offset="00" relocatable="true" max_length="0">
+			<original>そー言えば イイダ</original>
+			<edited>そー言えば イイダ</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="STRM_Versus01" offset="00" relocatable="true" max_length="0">
+			<original>Inkoming! / Wet Floor</original>
+			<edited>Inkoming! / Wet Floor</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Versus02" offset="00" relocatable="true" max_length="0">
+			<original>Rip Entry / Wet Floor</original>
+			<edited>Rip Entry / Wet Floor</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Versus03" offset="00" relocatable="true" max_length="0">
+			<original>Undertow / Wet Floor</original>
+			<edited>Undertow / Wet Floor</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Versus04" offset="00" relocatable="true" max_length="0">
+			<original>Don't Slip / Wet Floor</original>
+			<edited>Don't Slip / Wet Floor</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Versus05" offset="00" relocatable="true" max_length="0">
+			<original>Endolphin Surge / Wet Floor</original>
+			<edited>Endolphin Surge / Wet Floor</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_VersusLast1min" offset="00" relocatable="true" max_length="0">
+			<original>Now or Never! / Wet Floor</original>
+			<edited>Now or Never! / Wet Floor</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_VersusResult_Win" offset="00" relocatable="true" max_length="0">
+			<original>Turf Master / Wet Floor</original>
+			<edited>Turf Master / Wet Floor</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_VersusResult_Lose" offset="00" relocatable="true" max_length="0">
+			<original>Ink Another Day / Wet Floor</original>
+			<edited>Ink Another Day / Wet Floor</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_World_1stTime_Demo" offset="00" relocatable="true" max_length="0">
+			<original>スミソアエの朝</original>
+			<edited>スミソアエの朝</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_World_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>タコツボキャニオン / OCTOTOOL</original>
+			<edited>タコツボキャニオン / OCTOTOOL</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Mission03_Blitz_Joban_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>Eighteen-Legged Concerto / OCTOTOOL</original>
+			<edited>Eighteen-Legged Concerto / OCTOTOOL</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Mission01_Blitz_Bossa_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>The Girl from High-Color / OCTOTOOL</original>
+			<edited>The Girl from High-Color / OCTOTOOL</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Mission02_Blitz_Maji_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>Buoyant Boogie / OCTOTOOL</original>
+			<edited>Buoyant Boogie / OCTOTOOL</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Mission04_Blitz_Spacy_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>Shooting Starfish / OCTOTOOL</original>
+			<edited>Shooting Starfish / OCTOTOOL</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Mission_Boss_Blitz_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>Octarmaments / OCTOTOOL</original>
+			<edited>Octarmaments / OCTOTOOL</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_LastBoss1_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>トキメキ☆ボムラッシュ / DJ Octavio feat. AORI</original>
+			<edited>トキメキ☆ボムラッシュ / DJ Octavio feat. AORI</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_LastBoss2_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>ボムラッシュの夜 / DJ Octavio feat. AORI vs ホタル</original>
+			<edited>ボムラッシュの夜 / DJ Octavio feat. AORI vs ホタル</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Shiokara2017" offset="00" relocatable="true" max_length="0">
+			<original>濃口シオカラ節 / シオカラーズ</original>
+			<edited>濃口シオカラ節 / シオカラーズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_StaffRoll" offset="00" relocatable="true" max_length="0">
+			<original>あさってColor / シオカラーズ</original>
+			<edited>あさってColor / シオカラーズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Plaza_Fes" offset="00" relocatable="true" max_length="0">
+			<original>ウルトラ・カラーパルス / テンタクルズ</original>
+			<edited>ウルトラ・カラーパルス / テンタクルズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_VersusFes01" offset="00" relocatable="true" max_length="0">
+			<original>フルスロットル・テンタクル / テンタクルズ</original>
+			<edited>フルスロットル・テンタクル / テンタクルズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_VersusFes02" offset="00" relocatable="true" max_length="0">
+			<original>リップル・リフレイン / テンタクルズ</original>
+			<edited>リップル・リフレイン / テンタクルズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_VersusFes03" offset="00" relocatable="true" max_length="0">
+			<original>レッド・ホット・エゴイスト / テンタクルズ</original>
+			<edited>レッド・ホット・エゴイスト / テンタクルズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_VersusLast1min_Fes" offset="00" relocatable="true" max_length="0">
+			<original>イマ・ヌラネバー！ / テンタクルズ</original>
+			<edited>イマ・ヌラネバー！ / テンタクルズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_PlayerMake" offset="00" relocatable="true" max_length="0">
+			<original>フェスティバル・ゼスト / テンタクルズ</original>
+			<edited>フェスティバル・ゼスト / テンタクルズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_VersusResult_Fes_Lose" offset="00" relocatable="true" max_length="0">
+			<original>パーティーズ・オーバー / テンタクルズ</original>
+			<edited>パーティーズ・オーバー / テンタクルズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_News_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>ハイカラニュース / テンタクルズ</original>
+			<edited>ハイカラニュース / テンタクルズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Shop_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>New You / DJ Real Sole</original>
+			<edited>New You / DJ Real Sole</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Lobby" offset="00" relocatable="true" max_length="0">
+			<original>Without a Dop Doubt</original>
+			<edited>Without a Dop Doubt</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Matching_Versus" offset="00" relocatable="true" max_length="0">
+			<original>Ika Jamaica （DIY Remix） / Cala Marley</original>
+			<edited>Ika Jamaica （DIY Remix） / Cala Marley</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_LobbyCoop_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>カガヤクンデス・マーチ / クマサン商会</original>
+			<edited>カガヤクンデス・マーチ / クマサン商会</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_CoopMain_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>囂々 / ω-3</original>
+			<edited>囂々 / ω-3</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_CoopEvent_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>竜穴 / ω-3</original>
+			<edited>竜穴 / ω-3</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_CoopResult" offset="00" relocatable="true" max_length="0">
+			<original>キット・モット / クマサン商会</original>
+			<edited>キット・モット / クマサン商会</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_VS01_Gambit" offset="00" relocatable="true" max_length="0">
+			<original>Splattack! / Squid Squad</original>
+			<edited>Splattack! / Squid Squad</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_VS03_Gambit" offset="00" relocatable="true" max_length="0">
+			<original>Seaskape / Squid Squad</original>
+			<edited>Seaskape / Squid Squad</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_VS06_Gambit" offset="00" relocatable="true" max_length="0">
+			<original>Friend List / ABXY</original>
+			<edited>Friend List / ABXY</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_VS07_Gambit" offset="00" relocatable="true" max_length="0">
+			<original>Quick Start / ABXY</original>
+			<edited>Quick Start / ABXY</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_VS08_Gambit" offset="00" relocatable="true" max_length="0">
+			<original>Hooked / Hightide Era</original>
+			<edited>Hooked / Hightide Era</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_VS09_Gambit" offset="00" relocatable="true" max_length="0">
+			<original>Sucker Punch / Hightide Era</original>
+			<edited>Sucker Punch / Hightide Era</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Tokimeki_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>トキメキ☆ボムラッシュ / アオリ</original>
+			<edited>トキメキ☆ボムラッシュ / アオリ</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Sumisoae_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>スミソアエの夜 / ホタル</original>
+			<edited>スミソアエの夜 / ホタル</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Versus06" offset="00" relocatable="true" max_length="0">
+			<original>Shipwreckin’ ～沈まばもろとも～ / From Bottom</original>
+			<edited>Shipwreckin’ ～沈まばもろとも～ / From Bottom</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Versus07" offset="00" relocatable="true" max_length="0">
+			<original>Fins &amp; Fiddles ～深海の喜劇～ / From Bottom</original>
+			<edited>Fins &amp; Fiddles ～深海の喜劇～ / From Bottom</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Versus08" offset="00" relocatable="true" max_length="0">
+			<original>Seafoam Shanty ～荒波ロデオ～ / From Bottom</original>
+			<edited>Seafoam Shanty ～荒波ロデオ～ / From Bottom</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Versus09" offset="00" relocatable="true" max_length="0">
+			<original>可憐なタクティクス / カレントリップ</original>
+			<edited>可憐なタクティクス / カレントリップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Versus10" offset="00" relocatable="true" max_length="0">
+			<original>不意打ちのセオリー / カレントリップ</original>
+			<edited>不意打ちのセオリー / カレントリップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Versus11" offset="00" relocatable="true" max_length="0">
+			<original>Chip Damage / ABXY</original>
+			<edited>Chip Damage / ABXY</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Versus12" offset="00" relocatable="true" max_length="0">
+			<original>Battery Full / ABXY</original>
+			<edited>Battery Full / ABXY</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Versus13" offset="00" relocatable="true" max_length="0">
+			<original>Seasick / 合食禁</original>
+			<edited>Seasick / 合食禁</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Versus14" offset="00" relocatable="true" max_length="0">
+			<original>Eazy Queazy / 合食禁</original>
+			<edited>Eazy Queazy / 合食禁</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Versus15" offset="00" relocatable="true" max_length="0">
+			<original>チャンポン・チャント / SashiMori</original>
+			<edited>チャンポン・チャント / SashiMori</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Versus16" offset="00" relocatable="true" max_length="0">
+			<original>エントロピカル / SashiMori</original>
+			<edited>エントロピカル / SashiMori</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_CoopHeavy_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>鼕々 / ω-3</original>
+			<edited>鼕々 / ω-3</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Departure03_1_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>#5 thirsty / Dedf1sh</original>
+			<edited>#5 thirsty / Dedf1sh</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Stage_StrikeYoke_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>#9 party / Dedf1sh</original>
+			<edited>#9 party / Dedf1sh</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Stage_March_Minigame" offset="00" relocatable="true" max_length="0">
+			<original>#14 crush / Dedf1sh</original>
+			<edited>#14 crush / Dedf1sh</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Daibutsu1_Octa" offset="00" relocatable="true" max_length="0">
+			<original>ナスティ・マジェスティ / テンタクルズ</original>
+			<edited>ナスティ・マジェスティ / テンタクルズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_Daibutsu2_Octa" offset="00" relocatable="true" max_length="0">
+			<original>ミッドナイト・ボルテージ / テンタクルズ</original>
+			<edited>ミッドナイト・ボルテージ / テンタクルズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_3GoBattle_Octa" offset="00" relocatable="true" max_length="0">
+			<original>Splattack! (Octo) / Dedf1sh</original>
+			<edited>Splattack! (Octo) / Dedf1sh</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_LastBoss01_Minigame_Octa" offset="00" relocatable="true" max_length="0">
+			<original>フライ・オクト・フライ ～ フルスロットル・テンタクル（Octo） / テンタクルズ</original>
+			<edited>フライ・オクト・フライ ～ フルスロットル・テンタクル（Octo） / テンタクルズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="STRM_StaffRoll_Octa" offset="00" relocatable="true" max_length="0">
+			<original>フレンド・フロム・ファラウェイ / テンタクルズ</original>
+			<edited>フレンド・フロム・ファラウェイ / テンタクルズ</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

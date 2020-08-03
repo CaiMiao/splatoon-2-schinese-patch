@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>時間内にボールバンパーを 全て壊しましょウ</original>
+			<edited>時間内にボールバンパーを 全て壊しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>右のふみスイッチで右、左のふみスイッチで左へ…</original>
+			<edited>右のふみスイッチで右、左のふみスイッチで左へ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallDDA_0000" offset="00" relocatable="true" max_length="0">
+			<original>ふみスイッチをふんで 操作しましょう！</original>
+			<edited>ふみスイッチをふんで 操作しましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallDDA_0001" offset="00" relocatable="true" max_length="0">
+			<original>半分いったゾ！</original>
+			<edited>半分いったゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallDDA_0002" offset="00" relocatable="true" max_length="0">
+			<original>残り１０コです！</original>
+			<edited>残り１０コです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallDDA_0003" offset="00" relocatable="true" max_length="0">
+			<original>８号、もうちょいじゃ！</original>
+			<edited>８号、もうちょいじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallDDA_0004" offset="00" relocatable="true" max_length="0">
+			<original>しゃー！ ラストー！</original>
+			<edited>しゃー！ ラストー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VBallDDA_0005" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x1A;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しながら&#xE;&#x2;"&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;操作の カニ歩きだと、見やすいゾ</original>
+			<edited>&#xE;&#x2;&#x1A;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しながら&#xE;&#x2;"&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;操作の カニ歩きだと、見やすいゾ</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

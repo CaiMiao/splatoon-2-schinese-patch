@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_BackBtn_00-T_B_00" offset="00" relocatable="true" max_length="0">
+			<original></original>
+			<edited></edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_00-T_Wait_00" offset="00" relocatable="true" max_length="0">
+			<original>集計中…</original>
+			<edited>统计中…</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Record_00" offset="00" relocatable="true" max_length="0">
+			<original>過去のきろく</original>
+			<edited>过往记录</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>つぎへ</original>
+			<edited>下一个</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_00-T_KeyBtn_00" offset="00" relocatable="true" max_length="0">
+			<original></original>
+			<edited></edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_00-T_Day_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x5;&#x0;&#x2;&#x0;Í</original>
+			<edited>&#xE;&#x5;&#x0;&#x2;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

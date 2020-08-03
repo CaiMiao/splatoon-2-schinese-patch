@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Msg_00" offset="00" relocatable="true" max_length="0">
+			<original>カメラマンの心得</original>
+			<edited>カメラマンの心得</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Explain_00" offset="00" relocatable="true" max_length="0">
+			<original>写真をとる</original>
+			<edited>写真をとる</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Explain_01" offset="00" relocatable="true" max_length="0">
+			<original>カメラの移動</original>
+			<edited>カメラの移動</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Explain_02" offset="00" relocatable="true" max_length="0">
+			<original>プレイヤーのポーズ変更</original>
+			<edited>プレイヤーのポーズ変更</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Explain_03" offset="00" relocatable="true" max_length="0">
+			<original>amiibo のポーズ変更</original>
+			<edited>amiibo のポーズ変更</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Explain_04" offset="00" relocatable="true" max_length="0">
+			<original>場所を変える</original>
+			<edited>場所を変える</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Back_00-T_Back_00" offset="00" relocatable="true" max_length="0">
+			<original>もどる</original>
+			<edited>もどる</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Explain_05" offset="00" relocatable="true" max_length="0">
+			<original>ステージの変更</original>
+			<edited>ステージの変更</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Explain_06" offset="00" relocatable="true" max_length="0">
+			<original>フィルターの変更</original>
+			<edited>フィルターの変更</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

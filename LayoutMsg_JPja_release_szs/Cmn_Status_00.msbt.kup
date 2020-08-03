@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_PlayerStatus_00-L_Rank_00-T_Max_00" offset="00" relocatable="true" max_length="0">
+			<original>MAX</original>
+			<edited>MAX</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_Rank_00-T_RankNum_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x0;Í/&#xE;ú&#x5;&#x4;&#x1;&#x0;&#x0;Í</original>
+			<edited>&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x0;Í/&#xE;ú&#x5;&#x4;&#x1;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_Rank_00-T_RankHeader_00" offset="00" relocatable="true" max_length="0">
+			<original>ランク</original>
+			<edited>Rank</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_Udemae_00-T_UdemaeHeader_00" offset="00" relocatable="true" max_length="0">
+			<original>ウデマエ</original>
+			<edited>本事</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_FesRank_00-T_Max_00" offset="00" relocatable="true" max_length="0">
+			<original>MAX</original>
+			<edited>MAX</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_FesRank_00-T_Vote_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェス投票&#xE;&#x0;&#x3;&#x2;ÿÿに向かえ！</original>
+			<edited>前往&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;FES投票&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_FesRank_00-T_PointNum_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í/&#xE;ú&#x2;&#x4;&#x1;&#x0;&#x0;Í</original>
+			<edited>&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í/&#xE;ú&#x2;&#x4;&#x1;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Customize_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>カスタマイズ</original>
+			<edited>自定义</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Menu_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>メニュー</original>
+			<edited>菜单</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_Udemae_00-T_XPowerTitle_00" offset="00" relocatable="true" max_length="0">
+			<original>計測中…</original>
+			<edited>测量中…</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerStatus_00-L_Udemae_00-T_XPowerTitle_01" offset="00" relocatable="true" max_length="0">
+			<original>Xパワー</original>
+			<edited>X能量</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

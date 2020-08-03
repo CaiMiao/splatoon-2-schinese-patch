@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>ヌリヌリ棒を ライドレールですりぬけるチャレンジでス</original>
+			<edited>ヌリヌリ棒を ライドレールですりぬけるチャレンジでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>でんでんスイッチは 同じ攻撃で同じだけ動きまス</original>
+			<edited>でんでんスイッチは 同じ攻撃で同じだけ動きまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>ライドレールでヌリヌリ棒に当たると 落ちてしまいまス</original>
+			<edited>ライドレールでヌリヌリ棒に当たると 落ちてしまいまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriRide_0000" offset="00" relocatable="true" max_length="0">
+			<original>ナイスフライです！</original>
+			<edited>ナイスフライです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriRide_0001" offset="00" relocatable="true" max_length="0">
+			<original>グルグルしてんなー！</original>
+			<edited>グルグルしてんなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriRide_0002" offset="00" relocatable="true" max_length="0">
+			<original>イカフライまで取っちゃうなんて、ヨユウですね～♪</original>
+			<edited>イカフライまで取っちゃうなんて、ヨユウですね～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriRide_0003" offset="00" relocatable="true" max_length="0">
+			<original>オ～プ～ン♪</original>
+			<edited>オ～プ～ン♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriRide_0004" offset="00" relocatable="true" max_length="0">
+			<original>回っておる… でっかいのが回っておるぞィ</original>
+			<edited>回っておる… でっかいのが回っておるぞィ</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriRide_0005" offset="00" relocatable="true" max_length="0">
+			<original>いい感じでグルグルを止めたいですね</original>
+			<edited>いい感じでグルグルを止めたいですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriRide_0006" offset="00" relocatable="true" max_length="0">
+			<original>すごい… イカフライ全部ゲットですね！</original>
+			<edited>すごい… イカフライ全部ゲットですね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriRide_0007" offset="00" relocatable="true" max_length="0">
+			<original>ギャンッ！！</original>
+			<edited>ギャンッ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriRide_0008" offset="00" relocatable="true" max_length="0">
+			<original>ナイスすりぬけじゃッ！</original>
+			<edited>ナイスすりぬけじゃッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriRide_0009" offset="00" relocatable="true" max_length="0">
+			<original>キャッ？！</original>
+			<edited>キャッ？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriRide_0010" offset="00" relocatable="true" max_length="0">
+			<original>ファッ？！</original>
+			<edited>ファッ？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriRide_0011" offset="00" relocatable="true" max_length="0">
+			<original>よし、次だ！</original>
+			<edited>よし、次だ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriRide_0012" offset="00" relocatable="true" max_length="0">
+			<original>めっちゃグルグルしてたな！</original>
+			<edited>めっちゃグルグルしてたな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriRide_0013" offset="00" relocatable="true" max_length="0">
+			<original>もうヘロヘロです…</original>
+			<edited>もうヘロヘロです…</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriRide_0014" offset="00" relocatable="true" max_length="0">
+			<original>進路良好！ 全速前進ーッ！</original>
+			<edited>進路良好！ 全速前進ーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NuriRide_0015" offset="00" relocatable="true" max_length="0">
+			<original>でっかいのの真ん中にも でんでんスイッチありますね</original>
+			<edited>でっかいのの真ん中にも でんでんスイッチありますね</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

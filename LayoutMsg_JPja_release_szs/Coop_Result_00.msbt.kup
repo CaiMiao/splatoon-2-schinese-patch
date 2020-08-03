@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Clear_00" offset="00" relocatable="true" max_length="0">
+			<original>Clear!!</original>
+			<edited>Clear!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Failure_00" offset="00" relocatable="true" max_length="0">
+			<original>Failure</original>
+			<edited>Failure</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Card_00-T_Wave_00" offset="00" relocatable="true" max_length="0">
+			<original>WAVE １</original>
+			<edited>WAVE １</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Card_00-T_Result_00" offset="00" relocatable="true" max_length="0">
+			<original>GJ!</original>
+			<edited>GJ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Card_00-T_Result_01" offset="00" relocatable="true" max_length="0">
+			<original>NG</original>
+			<edited>NG</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Card_01-T_Wave_00" offset="00" relocatable="true" max_length="0">
+			<original>WAVE ２</original>
+			<edited>WAVE ２</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Card_02-T_Wave_00" offset="00" relocatable="true" max_length="0">
+			<original>WAVE ３</original>
+			<edited>WAVE ３</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Name_00-T_MSign_00" offset="00" relocatable="true" max_length="0">
+			<original>x</original>
+			<edited>x</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Rank_01" offset="00" relocatable="true" max_length="0">
+			<original>バイト結果</original>
+			<edited>打工结果</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Rank_00" offset="00" relocatable="true" max_length="0">
+			<original>ほうしゅうメーター</original>
+			<edited>报酬计量器</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Meter_00-T_NextReward_00" offset="00" relocatable="true" max_length="0">
+			<original>次のレアほうしゅうまで あと</original>
+			<edited>离下个稀有报酬 还有</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Meter_00-T_Get_00" offset="00" relocatable="true" max_length="0">
+			<original>Get!!</original>
+			<edited>Get!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Meter_00-T_NextReward_01" offset="00" relocatable="true" max_length="0">
+			<original>次のレアほうしゅうまで あと</original>
+			<edited>离下个稀有报酬 还有</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CoopRank_00-T_assessment_00" offset="00" relocatable="true" max_length="0">
+			<original>バイト評価</original>
+			<edited>打工评价</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Assessment_00" offset="00" relocatable="true" max_length="0">
+			<original>バイト評価</original>
+			<edited>打工评价</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Bonus_00" offset="00" relocatable="true" max_length="0">
+			<original>評価レート</original>
+			<edited>评价评级</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_RankUp_00" offset="00" relocatable="true" max_length="0">
+			<original>評価アップ！！</original>
+			<edited>评价上升！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_RankDown_00" offset="00" relocatable="true" max_length="0">
+			<original>評価ダウン…</original>
+			<edited>评价下降…</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_IkuraBonus_00" offset="00" relocatable="true" max_length="0">
+			<original>バイトスコア</original>
+			<edited>打工分数</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Meter_00-T_Num_16" offset="00" relocatable="true" max_length="0">
+			<original>400</original>
+			<edited>400</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Meter_00-T_Num_15" offset="00" relocatable="true" max_length="0">
+			<original>300</original>
+			<edited>300</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Meter_00-T_Num_14" offset="00" relocatable="true" max_length="0">
+			<original>200</original>
+			<edited>200</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Meter_00-T_Num_13" offset="00" relocatable="true" max_length="0">
+			<original>100</original>
+			<edited>100</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Meter_00-T_Num_12" offset="00" relocatable="true" max_length="0">
+			<original>0</original>
+			<edited>0</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Meter_00-T_Get_01" offset="00" relocatable="true" max_length="0">
+			<original>Get!!</original>
+			<edited>Get!!</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Support_00" offset="00" relocatable="true" max_length="0">
+			<original>サポート</original>
+			<edited>支援</edited>
+			<subEntries />
+		</entry>
+		<entry name="Norma" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í/&#xE;ú&#x1;&#x4;&#x1;&#x0;&#x1;Í</original>
+			<edited>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í/&#xE;ú&#x1;&#x4;&#x1;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="AllDead" offset="00" relocatable="true" max_length="0">
+			<original>ゼンメツ!</original>
+			<edited>全灭!</edited>
+			<subEntries />
+		</entry>
+		<entry name="Rule" offset="00" relocatable="true" max_length="0">
+			<original>時間切れ</original>
+			<edited>时间用尽</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>やめる</original>
+			<edited>やめる</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>次のバイトを探す</original>
+			<edited>找下一份打工</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>バイトをつづけますか？</original>
+			<edited>继续打工吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="IkuraNum" offset="00" relocatable="true" max_length="0">
+			<original>x&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>x&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="Point" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x1;Íp</original>
+			<edited>&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x1;Íp</edited>
+			<subEntries />
+		</entry>
+		<entry name="Percent" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x1;Í%</original>
+			<edited>&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x1;Í%</edited>
+			<subEntries />
+		</entry>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>評価レート</original>
+			<edited>评价评级</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>評価レート</original>
+			<edited>评价评级</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>評価レート</original>
+			<edited>评价评级</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>評価レート</original>
+			<edited>评价评级</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>評価レート</original>
+			<edited>评价评级</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>評価レート</original>
+			<edited>评价评级</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Level_00" offset="00" relocatable="true" max_length="0">
+			<original>キケン度</original>
+			<edited>危险度</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Level_03" offset="00" relocatable="true" max_length="0">
+			<original>キケン度</original>
+			<edited>危险度</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Wait_00" offset="00" relocatable="true" max_length="0">
+			<original>親の選択を待っています</original>
+			<edited>等待主控选择</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Wait_01" offset="00" relocatable="true" max_length="0">
+			<original>つづけてプレイします！</original>
+			<edited>继续游玩！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Level_05" offset="00" relocatable="true" max_length="0">
+			<original>キケン度</original>
+			<edited>危险度</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CoopRank_00-T_Num_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x1;Í/&#xE;ú&#x2;&#x4;&#x1;&#x0;&#x1;Í</original>
+			<edited>&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x1;Í/&#xE;ú&#x2;&#x4;&#x1;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Point_00" offset="00" relocatable="true" max_length="0">
+			<original>今回のクマサンポイント</original>
+			<edited>这次的クマサン点数</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>つづけてプレイしますか？</original>
+			<edited>继续游玩吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>やめる</original>
+			<edited>结束</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>つづける！</original>
+			<edited>继续！</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>再チャレンジしますか？</original>
+			<edited>重新挑战吗？</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>あきらめる</original>
+			<edited>放弃</edited>
+			<subEntries />
+		</entry>
+		<entry name="018" offset="00" relocatable="true" max_length="0">
+			<original>チャレンジする！</original>
+			<edited>挑战！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_RankKeep_00" offset="00" relocatable="true" max_length="0">
+			<original>評価キープ！</original>
+			<edited>评价保持！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,702 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Greeting_Girl" offset="00" relocatable="true" max_length="0">
+			<original>元気？
+調子はどうかな？</original>
+			<edited>元気？
+調子はどうかな？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Greeting_Boy" offset="00" relocatable="true" max_length="0">
+			<original>よっ！
+今日の調子はどう？</original>
+			<edited>よっ！
+今日の調子はどう？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Greeting_Squid" offset="00" relocatable="true" max_length="0">
+			<original>まいど おおきに～
+調子 どないどす？</original>
+			<edited>まいど おおきに～
+調子 どないどす？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Greeting_Aori" offset="00" relocatable="true" max_length="0">
+			<original>ヤッホー！
+今日の調子はどう？</original>
+			<edited>ヤッホー！
+今日の調子はどう？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Greeting_Hotaru" offset="00" relocatable="true" max_length="0">
+			<original>ども～ 調子どう？</original>
+			<edited>ども～ 調子どう？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Greeting_Pearl" offset="00" relocatable="true" max_length="0">
+			<original>Ｙｏ！
+調子はどうだ？</original>
+			<edited>Ｙｏ！
+調子はどうだ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Greeting_Marina" offset="00" relocatable="true" max_length="0">
+			<original>こんにちは～
+今日の調子はどうですか？</original>
+			<edited>こんにちは～
+今日の調子はどうですか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Greeting_OctoGirl" offset="00" relocatable="true" max_length="0">
+			<original>ゲンキハ ドウデスカ？
+チョーシモ イイデショウ？</original>
+			<edited>ゲンキハ ドウデスカ？
+チョーシモ イイデショウ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Greeting_OctoBoy" offset="00" relocatable="true" max_length="0">
+			<original>オゲンキデスカ…？
+キョウハ チョーシサイコーニ ナレマスカ？</original>
+			<edited>オゲンキデスカ…？
+キョウハ チョーシサイコーニ ナレマスカ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Greeting_Octo" offset="00" relocatable="true" max_length="0">
+			<original>… … …
+チョーシハ ドウダ？</original>
+			<edited>… … …
+チョーシハ ドウダ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="OtherGreeting_Girl" offset="00" relocatable="true" max_length="0">
+			<original>こんにちは！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿの
+ところから遊びに来たよ！</original>
+			<edited>こんにちは！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿの
+ところから遊びに来たよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="OtherGreeting_Boy" offset="00" relocatable="true" max_length="0">
+			<original>よっ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿの
+ところから遊びに来たぞ！</original>
+			<edited>よっ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿの
+ところから遊びに来たぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="OtherGreeting_Squid" offset="00" relocatable="true" max_length="0">
+			<original>どうも～&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿの
+ところから遊びに来ました～</original>
+			<edited>どうも～&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿの
+ところから遊びに来ました～</edited>
+			<subEntries />
+		</entry>
+		<entry name="OtherGreeting_Aori" offset="00" relocatable="true" max_length="0">
+			<original>ヤッホー！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿの
+ところから遊びに来たよ！</original>
+			<edited>ヤッホー！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿの
+ところから遊びに来たよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="OtherGreeting_Hotaru" offset="00" relocatable="true" max_length="0">
+			<original>どうも～&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿの
+ところから遊びに来たよ</original>
+			<edited>どうも～&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿの
+ところから遊びに来たよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="OtherGreeting_Pearl" offset="00" relocatable="true" max_length="0">
+			<original>オッス！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿの
+ところから遊びに来たよ！</original>
+			<edited>オッス！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿの
+ところから遊びに来たよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="OtherGreeting_Marina" offset="00" relocatable="true" max_length="0">
+			<original>こんにちは～&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿさんの
+ところから遊びに来ました～</original>
+			<edited>こんにちは～&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿさんの
+ところから遊びに来ました～</edited>
+			<subEntries />
+		</entry>
+		<entry name="OtherGreeting_OctoGirl" offset="00" relocatable="true" max_length="0">
+			<original>ワタシカラ コンニチハ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿノ
+トコロカラ アソブノタメニ イラッシャイマシタヨ？</original>
+			<edited>ワタシカラ コンニチハ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿノ
+トコロカラ アソブノタメニ イラッシャイマシタヨ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="OtherGreeting_OctoBoy" offset="00" relocatable="true" max_length="0">
+			<original>ア、 コンニチハ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿノ
+トコロカラ アソビニ キテミマシタ</original>
+			<edited>ア、 コンニチハ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿノ
+トコロカラ アソビニ キテミマシタ</edited>
+			<subEntries />
+		</entry>
+		<entry name="OtherGreeting_Octo" offset="00" relocatable="true" max_length="0">
+			<original>… … フム&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿノ
+トコロカラ キテミタノダガ</original>
+			<edited>… … フム&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x3;&#x2;&#x2;
+Í&#xE;&#x0;&#x3;&#x2;ÿÿノ
+トコロカラ キテミタノダガ</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGet_Girl" offset="00" relocatable="true" max_length="0">
+			<original>最近、バトルがんばってるみたいだね！
+じゃあコレ、プレゼント！</original>
+			<edited>最近、バトルがんばってるみたいだね！
+じゃあコレ、プレゼント！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGet_Boy" offset="00" relocatable="true" max_length="0">
+			<original>最近、バトルがんばってるみたいだな！
+じゃあコレ、プレゼントだ！</original>
+			<edited>最近、バトルがんばってるみたいだな！
+じゃあコレ、プレゼントだ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGet_Squid" offset="00" relocatable="true" max_length="0">
+			<original>最近、バトル きばってはるみたいどすね～
+ほなコレ、プレゼントどす</original>
+			<edited>最近、バトル きばってはるみたいどすね～
+ほなコレ、プレゼントどす</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGet_Aori" offset="00" relocatable="true" max_length="0">
+			<original>最近、バトルがんばってるよね！
+それじゃあコレ、プレゼントだよ！</original>
+			<edited>最近、バトルがんばってるよね！
+それじゃあコレ、プレゼントだよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGet_Hotaru" offset="00" relocatable="true" max_length="0">
+			<original>バトルがんばってるみたいやね～
+じゃ これ、プレゼントね</original>
+			<edited>バトルがんばってるみたいやね～
+じゃ これ、プレゼントね</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGet_Pearl" offset="00" relocatable="true" max_length="0">
+			<original>バトルがんばってるみたいだな！
+そんじゃー これ、プレゼントだ！</original>
+			<edited>バトルがんばってるみたいだな！
+そんじゃー これ、プレゼントだ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGet_Marina" offset="00" relocatable="true" max_length="0">
+			<original>バトルがんばってるみたいですね～
+これ、プレゼントです♪</original>
+			<edited>バトルがんばってるみたいですね～
+これ、プレゼントです♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGet_OctoGirl" offset="00" relocatable="true" max_length="0">
+			<original>バトル ガンバルノハ ヨイコト！
+コレ、 オクリモノダヨ？</original>
+			<edited>バトル ガンバルノハ ヨイコト！
+コレ、 オクリモノダヨ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGet_OctoBoy" offset="00" relocatable="true" max_length="0">
+			<original>イマモ ムカシモ バトル ガンバッテマスネ！
+コレデ、 バトル モットガンバッテクダサイ</original>
+			<edited>イマモ ムカシモ バトル ガンバッテマスネ！
+コレデ、 バトル モットガンバッテクダサイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="GearGet_Octo" offset="00" relocatable="true" max_length="0">
+			<original>バトルニ アケクレテイル ミタイダナ
+ドウダ、コレヲ ツカッテミナイカ？</original>
+			<edited>バトルニ アケクレテイル ミタイダナ
+ドウダ、コレヲ ツカッテミナイカ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="ShotMenu_Girl" offset="00" relocatable="true" max_length="0">
+			<original>写真とろうよ！</original>
+			<edited>写真とろうよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ShotMenu_Boy" offset="00" relocatable="true" max_length="0">
+			<original>写真とろうぜ！</original>
+			<edited>写真とろうぜ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ShotMenu_Squid" offset="00" relocatable="true" max_length="0">
+			<original>いっしょに写真 とらはります？</original>
+			<edited>いっしょに写真 とらはります？</edited>
+			<subEntries />
+		</entry>
+		<entry name="ShotMenu_Aori" offset="00" relocatable="true" max_length="0">
+			<original>写真とろー！</original>
+			<edited>写真とろー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ShotMenu_Hotaru" offset="00" relocatable="true" max_length="0">
+			<original>写真とる？</original>
+			<edited>写真とる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="NotWritten_Girl" offset="00" relocatable="true" max_length="0">
+			<original>覚えてるギアがないみたいだよ？
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズの 「その他」 で
+できるから やってみて！</original>
+			<edited>覚えてるギアがないみたいだよ？
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズの 「その他」 で
+できるから やってみて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NotWritten_Boy" offset="00" relocatable="true" max_length="0">
+			<original>覚えてるギアがないぞ！
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズの 「その他」 で
+できるから やってみてくれ！</original>
+			<edited>覚えてるギアがないぞ！
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズの 「その他」 で
+できるから やってみてくれ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="NotWritten_Squid" offset="00" relocatable="true" max_length="0">
+			<original>覚えてはるギアがないどすえ
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズの 「その他」 で
+できるやろから やってみておくんなまし～</original>
+			<edited>覚えてはるギアがないどすえ
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズの 「その他」 で
+できるやろから やってみておくんなまし～</edited>
+			<subEntries />
+		</entry>
+		<entry name="NotWritten_OctoGirl" offset="00" relocatable="true" max_length="0">
+			<original>ワタシ ギア オボエテナイデスネ…？
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズ 「その他」 デ
+デキルカラ ヤッテミルノ イイデスネ？</original>
+			<edited>ワタシ ギア オボエテナイデスネ…？
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズ 「その他」 デ
+デキルカラ ヤッテミルノ イイデスネ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="NotWritten_OctoBoy" offset="00" relocatable="true" max_length="0">
+			<original>オマエノ ギア オボエテナインデス…
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズ 「その他」 デ
+オボエルコトデキマスノデ タメシテミテ…</original>
+			<edited>オマエノ ギア オボエテナインデス…
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズ 「その他」 デ
+オボエルコトデキマスノデ タメシテミテ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="NotWritten_Octo" offset="00" relocatable="true" max_length="0">
+			<original>覚えてはるギアがないどすえ
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズの 「その他」 で
+できるやろから やってみておくんなまし～</original>
+			<edited>覚えてはるギアがないどすえ
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カスタマイズの 「その他」 で
+できるやろから やってみておくんなまし～</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_Girl" offset="00" relocatable="true" max_length="0">
+			<original>はじめまして！</original>
+			<edited>はじめまして！</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_Boy" offset="00" relocatable="true" max_length="0">
+			<original>はじめまして！</original>
+			<edited>はじめまして！</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_Squid" offset="00" relocatable="true" max_length="0">
+			<original>お初にお目にかかります～</original>
+			<edited>お初にお目にかかります～</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_Aori" offset="00" relocatable="true" max_length="0">
+			<original>はじめまして！
+シオカラーズのアオリだよ！</original>
+			<edited>はじめまして！
+シオカラーズのアオリだよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_Hotaru" offset="00" relocatable="true" max_length="0">
+			<original>こんちゃ～
+シオカラーズの ホタルで～す</original>
+			<edited>こんちゃ～
+シオカラーズの ホタルで～す</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_Pearl" offset="00" relocatable="true" max_length="0">
+			<original>Ｙｏ！Ｙｏ！Ｙｏ！
+テンタクルズの ヒメだよ！</original>
+			<edited>Ｙｏ！Ｙｏ！Ｙｏ！
+テンタクルズの ヒメだよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_Marina" offset="00" relocatable="true" max_length="0">
+			<original>こんにちは～
+テンタクルズの イイダです！</original>
+			<edited>こんにちは～
+テンタクルズの イイダです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_OctoGirl" offset="00" relocatable="true" max_length="0">
+			<original>アウノ ハジメマシテ デスネ…</original>
+			<edited>アウノ ハジメマシテ デスネ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_OctoBoy" offset="00" relocatable="true" max_length="0">
+			<original>ハジメマシテ デスヨネ…</original>
+			<edited>ハジメマシテ デスヨネ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_Octo" offset="00" relocatable="true" max_length="0">
+			<original>… … ミナイ カオダナ</original>
+			<edited>… … ミナイ カオダナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstContract_Girl" offset="00" relocatable="true" max_length="0">
+			<original>あれれ？
+なんかキミって イカしてる？&#xE;&#x0;&#x4;&#x0;うんうん！ バトルすればするほど
+もっともっと イカしてくると思う！&#xE;&#x0;&#x4;&#x0;キミのこと、これから
+チェックしてったほうが 良さそうだね！&#xE;&#x0;&#x4;&#x0;もし 良かったら キミ公認の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿに
+なりたいんだけど いい？&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、キミが そうびしてる
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられるよ！&#xE;&#x0;&#x4;&#x0;覚えたものは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
+すぐに着替えられるし 便利でしょ？！&#xE;&#x0;&#x4;&#x0;どう？ サポーターにしてくれる？</original>
+			<edited>あれれ？
+なんかキミって イカしてる？&#xE;&#x0;&#x4;&#x0;うんうん！ バトルすればするほど
+もっともっと イカしてくると思う！&#xE;&#x0;&#x4;&#x0;キミのこと、これから
+チェックしてったほうが 良さそうだね！&#xE;&#x0;&#x4;&#x0;もし 良かったら キミ公認の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿに
+なりたいんだけど いい？&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、キミが そうびしてる
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられるよ！&#xE;&#x0;&#x4;&#x0;覚えたものは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
+すぐに着替えられるし 便利でしょ？！&#xE;&#x0;&#x4;&#x0;どう？ サポーターにしてくれる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstContract_Boy" offset="00" relocatable="true" max_length="0">
+			<original>お？ なんかキミ
+けっこう イカしてるね！&#xE;&#x0;&#x4;&#x0;でも、バトルすればするほど
+もっともっと イカしてきそうだぞ！&#xE;&#x0;&#x4;&#x0;うーむ、キミのことは 要チェックだな！&#xE;&#x0;&#x4;&#x0;あのさ、良かったら キミ公認の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿに
+なりたいんだけど いいかな？&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、キミが そうびしてる
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられるぞ！&#xE;&#x0;&#x4;&#x0;覚えたものは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
+すぐに着替えられるし 便利だろ？！&#xE;&#x0;&#x4;&#x0;どう？ 公認のサポーターにしてくれる？</original>
+			<edited>お？ なんかキミ
+けっこう イカしてるね！&#xE;&#x0;&#x4;&#x0;でも、バトルすればするほど
+もっともっと イカしてきそうだぞ！&#xE;&#x0;&#x4;&#x0;うーむ、キミのことは 要チェックだな！&#xE;&#x0;&#x4;&#x0;あのさ、良かったら キミ公認の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿに
+なりたいんだけど いいかな？&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、キミが そうびしてる
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられるぞ！&#xE;&#x0;&#x4;&#x0;覚えたものは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
+すぐに着替えられるし 便利だろ？！&#xE;&#x0;&#x4;&#x0;どう？ 公認のサポーターにしてくれる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstContract_Squid" offset="00" relocatable="true" max_length="0">
+			<original>あらあら？ あんさん、
+なかなか イカしてはりますね～&#xE;&#x0;&#x4;&#x0;でも もっとバトルされたら
+まだまだ イカしてくる気がしますけどな～&#xE;&#x0;&#x4;&#x0;ふふ… 目が はなせまへん お人やわ～&#xE;&#x0;&#x4;&#x0;もし よろしいなら あんさん公認の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿ
+させてもらいたいんどすけど ええどすか？&#xE;&#x0;&#x4;&#x0;サポーターにしてもろたら、そうびしてはる
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えられますよって&#xE;&#x0;&#x4;&#x0;覚えたもんは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
+すぐに着替えられるんどす 便利どすえ～&#xE;&#x0;&#x4;&#x0;どうえ？
+公認サポーターにしてもらえます？</original>
+			<edited>あらあら？ あんさん、
+なかなか イカしてはりますね～&#xE;&#x0;&#x4;&#x0;でも もっとバトルされたら
+まだまだ イカしてくる気がしますけどな～&#xE;&#x0;&#x4;&#x0;ふふ… 目が はなせまへん お人やわ～&#xE;&#x0;&#x4;&#x0;もし よろしいなら あんさん公認の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿ
+させてもらいたいんどすけど ええどすか？&#xE;&#x0;&#x4;&#x0;サポーターにしてもろたら、そうびしてはる
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えられますよって&#xE;&#x0;&#x4;&#x0;覚えたもんは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
+すぐに着替えられるんどす 便利どすえ～&#xE;&#x0;&#x4;&#x0;どうえ？
+公認サポーターにしてもらえます？</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstContract_Aori" offset="00" relocatable="true" max_length="0">
+			<original>あれ？ なんかキミって
+スッゴイ イカしてる？！&#xE;&#x0;&#x4;&#x0;うんうん！ アタシの目に くるいはない！
+たくさんバトルしたら もっと イカしてくと思うよ！&#xE;&#x0;&#x4;&#x0;ハイ！ キミはアタシの
+要チェックリストに 入れとくね！&#xE;&#x0;&#x4;&#x0;そうそう！ ちゃんとチェックしなくちゃ
+いけないし、キミ公認の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿに
+なったほうがいいんだけど オッケー？&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、ナント！ そうびしてる
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられるよ！&#xE;&#x0;&#x4;&#x0;覚えたものは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
+すぐに着替えられる！ カクメイテキ！&#xE;&#x0;&#x4;&#x0;どう？ 公認サポーターにしてくれる？</original>
+			<edited>あれ？ なんかキミって
+スッゴイ イカしてる？！&#xE;&#x0;&#x4;&#x0;うんうん！ アタシの目に くるいはない！
+たくさんバトルしたら もっと イカしてくと思うよ！&#xE;&#x0;&#x4;&#x0;ハイ！ キミはアタシの
+要チェックリストに 入れとくね！&#xE;&#x0;&#x4;&#x0;そうそう！ ちゃんとチェックしなくちゃ
+いけないし、キミ公認の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿに
+なったほうがいいんだけど オッケー？&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、ナント！ そうびしてる
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられるよ！&#xE;&#x0;&#x4;&#x0;覚えたものは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
+すぐに着替えられる！ カクメイテキ！&#xE;&#x0;&#x4;&#x0;どう？ 公認サポーターにしてくれる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstContract_Hotaru" offset="00" relocatable="true" max_length="0">
+			<original>…ん？ なんか
+イカしたオーラ出とるね&#xE;&#x0;&#x4;&#x0;どんどん バトルしてったら
+もっと よくなりそじゃね？&#xE;&#x0;&#x4;&#x0;キミの動向 ちゃんとチェックしたいから
+キミ公認の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿになっちゃお～かな～&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、そうびしてる&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられるし&#xE;&#x0;&#x4;&#x0;そうすりゃ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
+すぐに着替えられるんよ、便利っしょ？&#xE;&#x0;&#x4;&#x0;公認サポーター、どかな？</original>
+			<edited>…ん？ なんか
+イカしたオーラ出とるね&#xE;&#x0;&#x4;&#x0;どんどん バトルしてったら
+もっと よくなりそじゃね？&#xE;&#x0;&#x4;&#x0;キミの動向 ちゃんとチェックしたいから
+キミ公認の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿになっちゃお～かな～&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、そうびしてる&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられるし&#xE;&#x0;&#x4;&#x0;そうすりゃ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
+すぐに着替えられるんよ、便利っしょ？&#xE;&#x0;&#x4;&#x0;公認サポーター、どかな？</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstContract_Pearl" offset="00" relocatable="true" max_length="0">
+			<original>…ん？ なんか
+イカしたオーラ出てんな！&#xE;&#x0;&#x4;&#x0;どんどん バトルしてったら
+もっと イカしたかんじに なりそーじゃね？&#xE;&#x0;&#x4;&#x0;ヨシッ！ がっつりチェックすることに決めた！
+そんじゃー 公認&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿになってみっかな！&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、そうびしてる&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられっしさ！&#xE;&#x0;&#x4;&#x0;そーすりゃ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
+すぐに着替えられんだぜ！ 便利だろ？&#xE;&#x0;&#x4;&#x0;公認サポーター、どーよ？</original>
+			<edited>…ん？ なんか
+イカしたオーラ出てんな！&#xE;&#x0;&#x4;&#x0;どんどん バトルしてったら
+もっと イカしたかんじに なりそーじゃね？&#xE;&#x0;&#x4;&#x0;ヨシッ！ がっつりチェックすることに決めた！
+そんじゃー 公認&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿになってみっかな！&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、そうびしてる&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられっしさ！&#xE;&#x0;&#x4;&#x0;そーすりゃ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
+すぐに着替えられんだぜ！ 便利だろ？&#xE;&#x0;&#x4;&#x0;公認サポーター、どーよ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstContract_Marina" offset="00" relocatable="true" max_length="0">
+			<original>…あれ？ なんだか
+イカしたオーラ出てますね～&#xE;&#x0;&#x4;&#x0;どんどん バトルしていったら
+も～っと よくなりそうじゃないですか？ ウンウン&#xE;&#x0;&#x4;&#x0;アナタの動向 ちゃんとチェックしてみたいので
+公認&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿになるってどうですか？&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、 そうびしてる&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられますし、&#xE;&#x0;&#x4;&#x0;そうすれば &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
+すぐに着替えられて とっても便利ですよ♪&#xE;&#x0;&#x4;&#x0;公認サポーター、どうでしょう？</original>
+			<edited>…あれ？ なんだか
+イカしたオーラ出てますね～&#xE;&#x0;&#x4;&#x0;どんどん バトルしていったら
+も～っと よくなりそうじゃないですか？ ウンウン&#xE;&#x0;&#x4;&#x0;アナタの動向 ちゃんとチェックしてみたいので
+公認&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿになるってどうですか？&#xE;&#x0;&#x4;&#x0;サポーターにしてくれたら、 そうびしてる&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿや
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿを覚えてあげられますし、&#xE;&#x0;&#x4;&#x0;そうすれば &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿで
+すぐに着替えられて とっても便利ですよ♪&#xE;&#x0;&#x4;&#x0;公認サポーター、どうでしょう？</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstContract_OctoGirl" offset="00" relocatable="true" max_length="0">
+			<original>アレ…？ ワタシハ アナタニ
+イカシテルト オモッタ キガイタシマス？&#xE;&#x0;&#x4;&#x0;ソウデスネ… バトルニ アケクレルノデス
+タクサン イカスアナタニ ナルデショウ？&#xE;&#x0;&#x4;&#x0;ワタシ、 アナタヲ チェックシマス
+ソシタラ ナンカ イイカンジデスネ？&#xE;&#x0;&#x4;&#x0;コウイウトキハ アナタ公認ノ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿニ
+ナルッテ キクンデスヨ？&#xE;&#x0;&#x4;&#x0;ワタシ サポーターニナルデショ？ アナタノ ソウビ
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿヲ オボエルデショ？&#xE;&#x0;&#x4;&#x0;ワタシ オボエタノ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿデ
+アナタ スグキガエル コレ、ベンリ！&#xE;&#x0;&#x4;&#x0;イイネ！ サポーター シマス！</original>
+			<edited>アレ…？ ワタシハ アナタニ
+イカシテルト オモッタ キガイタシマス？&#xE;&#x0;&#x4;&#x0;ソウデスネ… バトルニ アケクレルノデス
+タクサン イカスアナタニ ナルデショウ？&#xE;&#x0;&#x4;&#x0;ワタシ、 アナタヲ チェックシマス
+ソシタラ ナンカ イイカンジデスネ？&#xE;&#x0;&#x4;&#x0;コウイウトキハ アナタ公認ノ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿニ
+ナルッテ キクンデスヨ？&#xE;&#x0;&#x4;&#x0;ワタシ サポーターニナルデショ？ アナタノ ソウビ
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿヲ オボエルデショ？&#xE;&#x0;&#x4;&#x0;ワタシ オボエタノ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿデ
+アナタ スグキガエル コレ、ベンリ！&#xE;&#x0;&#x4;&#x0;イイネ！ サポーター シマス！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstContract_OctoBoy" offset="00" relocatable="true" max_length="0">
+			<original>ア… オマエ、 イカシテルカタデスネ？
+タブン ソウデスヨネ、 エエ… キット ソウデス！&#xE;&#x0;&#x4;&#x0;デモオマエ、 バトルノケイケンヲ ツンデイケバ
+タクサンタクサン イカスカタニ ナルトオモイマス！&#xE;&#x0;&#x4;&#x0;ダカラ ボクハ… オマエヲ ミテイタイデス…&#xE;&#x0;&#x4;&#x0;ダカラ ボク、 オマエ公認ノ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿニ
+ナリタイ！ ドウデスカ？&#xE;&#x0;&#x4;&#x0;ア… サポーターニナッタラ、オマエノ ソウビ
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿヲ オボエルノデキマス&#xE;&#x0;&#x4;&#x0;オボエタラ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿデ
+キガエルノハヤイカラ ベンリナンデス！&#xE;&#x0;&#x4;&#x0;ボク… 公認ノ サポーターデ イイデスカ？</original>
+			<edited>ア… オマエ、 イカシテルカタデスネ？
+タブン ソウデスヨネ、 エエ… キット ソウデス！&#xE;&#x0;&#x4;&#x0;デモオマエ、 バトルノケイケンヲ ツンデイケバ
+タクサンタクサン イカスカタニ ナルトオモイマス！&#xE;&#x0;&#x4;&#x0;ダカラ ボクハ… オマエヲ ミテイタイデス…&#xE;&#x0;&#x4;&#x0;ダカラ ボク、 オマエ公認ノ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿニ
+ナリタイ！ ドウデスカ？&#xE;&#x0;&#x4;&#x0;ア… サポーターニナッタラ、オマエノ ソウビ
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿヲ オボエルノデキマス&#xE;&#x0;&#x4;&#x0;オボエタラ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿデ
+キガエルノハヤイカラ ベンリナンデス！&#xE;&#x0;&#x4;&#x0;ボク… 公認ノ サポーターデ イイデスカ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstContract_Octo" offset="00" relocatable="true" max_length="0">
+			<original>ムム… … 、
+ナカナカ イカシタヤツダナ&#xE;&#x0;&#x4;&#x0;ダガ オマエノチカラハ マダマダカクレテイルゾ
+モット バトルヲヤッテミタラドウダ？&#xE;&#x0;&#x4;&#x0;フム… ノビシロヲ カンジルヤツダ&#xE;&#x0;&#x4;&#x0;…ソウダナ ワタシガ公認ノ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿニ
+ナッテミルトイウノハ ドウダ？&#xE;&#x0;&#x4;&#x0;サポーターヲシッテイルカ？ ソウビシテイル
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿヲ ワタシガオボエルゾ&#xE;&#x0;&#x4;&#x0;オボエタモノハ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿデ
+スグニキガエルコトモ カノウダ ベンリデハナイカ？&#xE;&#x0;&#x4;&#x0;サア、 ドウスル？
+公認サポーターニ シテミナイカ？</original>
+			<edited>ムム… … 、
+ナカナカ イカシタヤツダナ&#xE;&#x0;&#x4;&#x0;ダガ オマエノチカラハ マダマダカクレテイルゾ
+モット バトルヲヤッテミタラドウダ？&#xE;&#x0;&#x4;&#x0;フム… ノビシロヲ カンジルヤツダ&#xE;&#x0;&#x4;&#x0;…ソウダナ ワタシガ公認ノ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポーター&#xE;&#x0;&#x3;&#x2;ÿÿニ
+ナッテミルトイウノハ ドウダ？&#xE;&#x0;&#x4;&#x0;サポーターヲシッテイルカ？ ソウビシテイル
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カメラオプション&#xE;&#x0;&#x3;&#x2;ÿÿヲ ワタシガオボエルゾ&#xE;&#x0;&#x4;&#x0;オボエタモノハ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿヤ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿデ
+スグニキガエルコトモ カノウダ ベンリデハナイカ？&#xE;&#x0;&#x4;&#x0;サア、 ドウスル？
+公認サポーターニ シテミナイカ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstGearGet_Girl" offset="00" relocatable="true" max_length="0">
+			<original>ありがとう！
+それじゃあ、公認記念に これあげる！&#xE;&#x0;&#x4;&#x0;いっぱいバトルしてきたら、ほかのプレゼントも
+用意してるから がんばってね！</original>
+			<edited>ありがとう！
+それじゃあ、公認記念に これあげる！&#xE;&#x0;&#x4;&#x0;いっぱいバトルしてきたら、ほかのプレゼントも
+用意してるから がんばってね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstGearGet_Boy" offset="00" relocatable="true" max_length="0">
+			<original>ありがとう！ 公認サポーターにしてもらった
+記念に これあげるよ！&#xE;&#x0;&#x4;&#x0;いっぱいバトルしてきたら、ほかのプレゼントも
+用意してるから がんばってくれよ！</original>
+			<edited>ありがとう！ 公認サポーターにしてもらった
+記念に これあげるよ！&#xE;&#x0;&#x4;&#x0;いっぱいバトルしてきたら、ほかのプレゼントも
+用意してるから がんばってくれよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstGearGet_Squid" offset="00" relocatable="true" max_length="0">
+			<original>おおきに～ 公認サポーターに
+してもろた記念に これどうぞ～&#xE;&#x0;&#x4;&#x0;ぎょうさんバトルしてきたら、ほかのプレゼントも
+用意しとりますから おきばりやす～</original>
+			<edited>おおきに～ 公認サポーターに
+してもろた記念に これどうぞ～&#xE;&#x0;&#x4;&#x0;ぎょうさんバトルしてきたら、ほかのプレゼントも
+用意しとりますから おきばりやす～</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstGearGet_Aori" offset="00" relocatable="true" max_length="0">
+			<original>ありがとー！
+そんじゃあ記念に これどーぞ！&#xE;&#x0;&#x4;&#x0;いっぱいバトルしたら、また来てね！
+すっごいプレゼント 用意しとくから！</original>
+			<edited>ありがとー！
+そんじゃあ記念に これどーぞ！&#xE;&#x0;&#x4;&#x0;いっぱいバトルしたら、また来てね！
+すっごいプレゼント 用意しとくから！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstGearGet_Hotaru" offset="00" relocatable="true" max_length="0">
+			<original>オケオケ～、
+じゃ、記念に コレ&#xE;&#x0;&#x4;&#x0;けっこうバトルしたな～って思ったら
+また来てよ、 ナンカ用意しとくし&#xE;&#x0;&#x4;&#x0;んじゃ、イカ よろしく～</original>
+			<edited>オケオケ～、
+じゃ、記念に コレ&#xE;&#x0;&#x4;&#x0;けっこうバトルしたな～って思ったら
+また来てよ、 ナンカ用意しとくし&#xE;&#x0;&#x4;&#x0;んじゃ、イカ よろしく～</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstGearGet_Pearl" offset="00" relocatable="true" max_length="0">
+			<original>ウッシ、
+そんじゃー、記念に コレ！&#xE;&#x0;&#x4;&#x0;けっこうバトルやったなーって思ったら
+また来いよ、 ナンカ用意しとくかんな！&#xE;&#x0;&#x4;&#x0;んじゃなー！</original>
+			<edited>ウッシ、
+そんじゃー、記念に コレ！&#xE;&#x0;&#x4;&#x0;けっこうバトルやったなーって思ったら
+また来いよ、 ナンカ用意しとくかんな！&#xE;&#x0;&#x4;&#x0;んじゃなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstGearGet_Marina" offset="00" relocatable="true" max_length="0">
+			<original>ありがとうございます～！
+では、記念に コレどうぞ♪&#xE;&#x0;&#x4;&#x0;けっこうバトルしたな～って思ったら
+また来てください！&#xE;&#x0;&#x4;&#x0;ワタシ プレゼント用意して まってますから♪</original>
+			<edited>ありがとうございます～！
+では、記念に コレどうぞ♪&#xE;&#x0;&#x4;&#x0;けっこうバトルしたな～って思ったら
+また来てください！&#xE;&#x0;&#x4;&#x0;ワタシ プレゼント用意して まってますから♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstGearGet_OctoGirl" offset="00" relocatable="true" max_length="0">
+			<original>コウイウトキハ アリガトウデ イインダヨネ？
+ジャア、公認キネンノ オイワイノシナデス！&#xE;&#x0;&#x4;&#x0;タクサン ヨイバトルシタラ、 オイワイノシナヲ
+モッテオキマス！ ガンバルデショ？</original>
+			<edited>コウイウトキハ アリガトウデ イインダヨネ？
+ジャア、公認キネンノ オイワイノシナデス！&#xE;&#x0;&#x4;&#x0;タクサン ヨイバトルシタラ、 オイワイノシナヲ
+モッテオキマス！ ガンバルデショ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstGearGet_OctoBoy" offset="00" relocatable="true" max_length="0">
+			<original>アリガトウ、 公認サポーターニナレテ ウレシイ…
+コレ キネンデス、 モラッテクレマスカ？&#xE;&#x0;&#x4;&#x0;モットモット バトルスル、 ホカノプレゼント
+ボクガ ジュンビスル、 ダカラ ガンバッテ！</original>
+			<edited>アリガトウ、 公認サポーターニナレテ ウレシイ…
+コレ キネンデス、 モラッテクレマスカ？&#xE;&#x0;&#x4;&#x0;モットモット バトルスル、 ホカノプレゼント
+ボクガ ジュンビスル、 ダカラ ガンバッテ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstGearGet_Octo" offset="00" relocatable="true" max_length="0">
+			<original>ウム、 公認サポーターニナレタノダナ…
+カンシャスル、 キネンニ ウケトッテクレ&#xE;&#x0;&#x4;&#x0;コンゴモ バトルニ アケクレルノダ、
+キネンヒンヲ ヨウイシテ マッテイルゾ</original>
+			<edited>ウム、 公認サポーターニナレタノダナ…
+カンシャスル、 キネンニ ウケトッテクレ&#xE;&#x0;&#x4;&#x0;コンゴモ バトルニ アケクレルノダ、
+キネンヒンヲ ヨウイシテ マッテイルゾ</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstExplain_Girl" offset="00" relocatable="true" max_length="0">
+			<original>ヨシ！ サポーターとして何できるかな…
+あ、せっかくだから 写真とろうよ！&#xE;&#x0;&#x4;&#x0;このあたり ステキな場所が たくさんあるし
+イカした写真、いっぱいとれるよ！</original>
+			<edited>ヨシ！ サポーターとして何できるかな…
+あ、せっかくだから 写真とろうよ！&#xE;&#x0;&#x4;&#x0;このあたり ステキな場所が たくさんあるし
+イカした写真、いっぱいとれるよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstExplain_Boy" offset="00" relocatable="true" max_length="0">
+			<original>公認サポーターとしては
+やっぱ 写真とらなくちゃな！&#xE;&#x0;&#x4;&#x0;ここらへん イカした場所が たくさんあるんだ！
+スンゲー写真 いっぱいとろうぜ！</original>
+			<edited>公認サポーターとしては
+やっぱ 写真とらなくちゃな！&#xE;&#x0;&#x4;&#x0;ここらへん イカした場所が たくさんあるんだ！
+スンゲー写真 いっぱいとろうぜ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstExplain_Squid" offset="00" relocatable="true" max_length="0">
+			<original>せっかくやし 写真でもとらはります？&#xE;&#x0;&#x4;&#x0;このへん イカした場所 ぎょうさんあるさかい
+どうえ？</original>
+			<edited>せっかくやし 写真でもとらはります？&#xE;&#x0;&#x4;&#x0;このへん イカした場所 ぎょうさんあるさかい
+どうえ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstExplain_Aori" offset="00" relocatable="true" max_length="0">
+			<original>じゃあ 公認サポーターとしての、
+初仕事！ いっしょに写真とろうよ！</original>
+			<edited>じゃあ 公認サポーターとしての、
+初仕事！ いっしょに写真とろうよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstExplain_Hotaru" offset="00" relocatable="true" max_length="0">
+			<original>サポーターと言ったら 写真っしょ
+さ、写真とろ はよはよ</original>
+			<edited>サポーターと言ったら 写真っしょ
+さ、写真とろ はよはよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstExplain_Pearl" offset="00" relocatable="true" max_length="0">
+			<original>サポーターつったら 写真っしょ！
+ウシシ、 写真とろーぜ！ ほら！</original>
+			<edited>サポーターつったら 写真っしょ！
+ウシシ、 写真とろーぜ！ ほら！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstExplain_Marina" offset="00" relocatable="true" max_length="0">
+			<original>サポーターと言ったら 写真ですよね～
+さ、写真とりましょっか！ ほらほら♪</original>
+			<edited>サポーターと言ったら 写真ですよね～
+さ、写真とりましょっか！ ほらほら♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstExplain_OctoGirl" offset="00" relocatable="true" max_length="0">
+			<original>ハイ、 サポーターハ コウイウトキハ
+写真トローッテ オッシャルンデスヨ！&#xE;&#x0;&#x4;&#x0;ココハ ステキナバショ、 トテモココチヨイデス！
+写真イッパイ、 トリマショウカ？</original>
+			<edited>ハイ、 サポーターハ コウイウトキハ
+写真トローッテ オッシャルンデスヨ！&#xE;&#x0;&#x4;&#x0;ココハ ステキナバショ、 トテモココチヨイデス！
+写真イッパイ、 トリマショウカ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstExplain_OctoBoy" offset="00" relocatable="true" max_length="0">
+			<original>ア… コレデボクハ オマエノ サポーターデス！
+コウイウトキハ シャ…、写真トッテホシイデス！&#xE;&#x0;&#x4;&#x0;オマエ、 イカシタトコロ シッテルフウニ ミエマス
+ボク オマエト タクサン写真 トリタイナ！ デス…</original>
+			<edited>ア… コレデボクハ オマエノ サポーターデス！
+コウイウトキハ シャ…、写真トッテホシイデス！&#xE;&#x0;&#x4;&#x0;オマエ、 イカシタトコロ シッテルフウニ ミエマス
+ボク オマエト タクサン写真 トリタイナ！ デス…</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstExplain_Octo" offset="00" relocatable="true" max_length="0">
+			<original>ソウダナ 写真デモ ドウダ？&#xE;&#x0;&#x4;&#x0;ココハ イカシタトコロデ トルノガ
+レイギ ナノダロウ？</original>
+			<edited>ソウダナ 写真デモ ドウダ？&#xE;&#x0;&#x4;&#x0;ココハ イカシタトコロデ トルノガ
+レイギ ナノダロウ？</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

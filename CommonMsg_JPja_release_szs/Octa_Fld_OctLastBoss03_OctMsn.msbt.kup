@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="LastBoss03_0000" offset="00" relocatable="true" max_length="0">
+			<original>イイダ！ エネルギーコアって 何？</original>
+			<edited>イイダ！ エネルギーコアって 何？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0001" offset="00" relocatable="true" max_length="0">
+			<original>地上へのエレベーターを起動する 動力源です！</original>
+			<edited>地上へのエレベーターを起動する 動力源です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0002" offset="00" relocatable="true" max_length="0">
+			<original>ゲッ！ ヤバそうなトラップだな！</original>
+			<edited>ゲッ！ ヤバそうなトラップだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0003" offset="00" relocatable="true" max_length="0">
+			<original>ガッ… ガガッ… オ…ノ…！</original>
+			<edited>ガッ… ガガッ… オ…ノ…！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0004" offset="00" relocatable="true" max_length="0">
+			<original>ん？ なんじゃなんじゃ？</original>
+			<edited>ん？ なんじゃなんじゃ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0005" offset="00" relocatable="true" max_length="0">
+			<original>ジジィ、どうした？ ３号 起きた？</original>
+			<edited>ジジィ、どうした？ ３号 起きた？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0006" offset="00" relocatable="true" max_length="0">
+			<original>いや、３号はまだ起きんが…</original>
+			<edited>いや、３号はまだ起きんが…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0007" offset="00" relocatable="true" max_length="0">
+			<original>あ、８号さん、ナイスです♪</original>
+			<edited>あ、８号さん、ナイスです♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0009" offset="00" relocatable="true" max_length="0">
+			<original>ん？ ここはトラップが無い？</original>
+			<edited>ん？ ここはトラップが無い？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0010" offset="00" relocatable="true" max_length="0">
+			<original>おくから来ます！</original>
+			<edited>おくから来ます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0011" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプで くぐりぬけろ！</original>
+			<edited>ジャンプで くぐりぬけろ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0012" offset="00" relocatable="true" max_length="0">
+			<original>うわー！ どうすんだこれ！</original>
+			<edited>うわー！ どうすんだこれ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0013" offset="00" relocatable="true" max_length="0">
+			<original>カベです！ カベを塗って上に登ってください！</original>
+			<edited>カベです！ カベを塗って上に登ってください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0014" offset="00" relocatable="true" max_length="0">
+			<original>ナイスです♪ この調子でエネルギーコアを目指しましょう！</original>
+			<edited>ナイスです♪ この調子でエネルギーコアを目指しましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0016" offset="00" relocatable="true" max_length="0">
+			<original>なんじゃ こりゃー！</original>
+			<edited>なんじゃ こりゃー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0017" offset="00" relocatable="true" max_length="0">
+			<original>厳重な警備ですね…</original>
+			<edited>厳重な警備ですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0018" offset="00" relocatable="true" max_length="0">
+			<original>うぉっ！ 底が開いた！</original>
+			<edited>うぉっ！ 底が開いた！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0020" offset="00" relocatable="true" max_length="0">
+			<original>…ガガッ！ …お、オノ</original>
+			<edited>…ガガッ！ …お、オノ</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0021" offset="00" relocatable="true" max_length="0">
+			<original>おのれッ！ 海産物ドモ！ 許さんゾーッ！！</original>
+			<edited>おのれッ！ 海産物ドモ！ 許さんゾーッ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0022" offset="00" relocatable="true" max_length="0">
+			<original>な！ デンワ！！ ３号に何を…</original>
+			<edited>な！ デンワ！！ ３号に何を…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0023" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x2;&#x2;&#x0;ヌワーーーーーーッ！！！&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;ヌワーーーーーーッ！！！&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0024" offset="00" relocatable="true" max_length="0">
+			<original>おい！ ジジィ！ どうした？！ 返事しろッ！</original>
+			<edited>おい！ ジジィ！ どうした？！ 返事しろッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss03_0026" offset="00" relocatable="true" max_length="0">
+			<original>No.10008の他ニ 余計なヤツまでついて来やがッテ！</original>
+			<edited>No.10008の他ニ 余計なヤツまでついて来やがッテ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="ManholeToPlaza" offset="00" relocatable="true" max_length="0">
+			<original>マンホール</original>
+			<edited>マンホール</edited>
+			<subEntries />
+		</entry>
+		<entry name="EasyHide00" offset="00" relocatable="true" max_length="0">
+			<original>オクタリアンふたたび…
+# 取りもどせデンチナマズ</original>
+			<edited>オクタリアンふたたび…
+# 取りもどせデンチナマズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="EasyClimb00" offset="00" relocatable="true" max_length="0">
+			<original>タコリゾートへようこそ
+# 登ってアゲて夏の風</original>
+			<edited>タコリゾートへようこそ
+# 登ってアゲて夏の風</edited>
+			<subEntries />
+		</entry>
+		<entry name="EasyJump00" offset="00" relocatable="true" max_length="0">
+			<original>ゆうやけのタコプター
+# 飛び出せ青春 ダッシュ＆ジャンプ</original>
+			<edited>ゆうやけのタコプター
+# 飛び出せ青春 ダッシュ＆ジャンプ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Gabon00" offset="00" relocatable="true" max_length="0">
+			<original>おうっと登場！ タコリバーサー
+# ぬめぬめ光る コロガリウム</original>
+			<edited>おうっと登場！ タコリバーサー
+# ぬめぬめ光る コロガリウム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Grind00" offset="00" relocatable="true" max_length="0">
+			<original>おいでませ タコパーク
+# フライハイ！ イカフライ！</original>
+			<edited>おいでませ タコパーク
+# フライハイ！ イカフライ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Magnum00" offset="00" relocatable="true" max_length="0">
+			<original>出航！タコッペリン号
+# あすに向かって ボンボヤージュ</original>
+			<edited>出航！タコッペリン号
+# あすに向かって ボンボヤージュ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mega00" offset="00" relocatable="true" max_length="0">
+			<original>大掃除だよ裏通り
+# プロが教えるキレイ術</original>
+			<edited>大掃除だよ裏通り
+# プロが教えるキレイ術</edited>
+			<subEntries />
+		</entry>
+		<entry name="Blowouts00" offset="00" relocatable="true" max_length="0">
+			<original>くるくるのび～るキャンプ場
+# 塗ってピロピロ 戻ってピロピロ</original>
+			<edited>くるくるのび～るキャンプ場
+# 塗ってピロピロ 戻ってピロピロ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Ditch01" offset="00" relocatable="true" max_length="0">
+			<original>しゅうらい！タコゾネス
+# バッタリ！ バッテラストリート</original>
+			<edited>しゅうらい！タコゾネス
+# バッタリ！ バッテラストリート</edited>
+			<subEntries />
+		</entry>
+		<entry name="Flyer00" offset="00" relocatable="true" max_length="0">
+			<original>みまわり先生 タコパトローラー
+# 深夜ハイカイ 気分はハイかい？</original>
+			<edited>みまわり先生 タコパトローラー
+# 深夜ハイカイ 気分はハイかい？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Rundown00" offset="00" relocatable="true" max_length="0">
+			<original>スタコラーの空中庭園
+# せつなさを 追いかけて</original>
+			<edited>スタコラーの空中庭園
+# せつなさを 追いかけて</edited>
+			<subEntries />
+		</entry>
+		<entry name="Jump00" offset="00" relocatable="true" max_length="0">
+			<original>とびはねる タコビーチ
+# ボヨンとしよう そうしよう</original>
+			<edited>とびはねる タコビーチ
+# ボヨンとしよう そうしよう</edited>
+			<subEntries />
+		</entry>
+		<entry name="Spinner00" offset="00" relocatable="true" max_length="0">
+			<original>和ダンスのダンスフロア
+# 引き出し 押し出し でんでんスイッチ</original>
+			<edited>和ダンスのダンスフロア
+# 引き出し 押し出し でんでんスイッチ</edited>
+			<subEntries />
+		</entry>
+		<entry name="UnitField01" offset="00" relocatable="true" max_length="0">
+			<original>タコリーマンの駐車場
+# イカじゃないけどマイカーほしい</original>
+			<edited>タコリーマンの駐車場
+# イカじゃないけどマイカーほしい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Wave00" offset="00" relocatable="true" max_length="0">
+			<original>げきとつ！ タコゾネス
+# 恋人チック！ コンブトラック</original>
+			<edited>げきとつ！ タコゾネス
+# 恋人チック！ コンブトラック</edited>
+			<subEntries />
+		</entry>
+		<entry name="Rock01" offset="00" relocatable="true" max_length="0">
+			<original>秘密のボウリングガーデン
+# ゴロゴロをドロドロにして</original>
+			<edited>秘密のボウリングガーデン
+# ゴロゴロをドロドロにして</edited>
+			<subEntries />
+		</entry>
+		<entry name="Rotation00" offset="00" relocatable="true" max_length="0">
+			<original>タココマンダーの要塞
+# スピナー好きなーナイスガイ</original>
+			<edited>タココマンダーの要塞
+# スピナー好きなーナイスガイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="UnitField02" offset="00" relocatable="true" max_length="0">
+			<original>天国のオクタワー
+＃のぼる すべる バベル</original>
+			<edited>天国のオクタワー
+＃のぼる すべる バベル</edited>
+			<subEntries />
+		</entry>
+		<entry name="UnitField03" offset="00" relocatable="true" max_length="0">
+			<original>浮遊大陸の実験場
+# ユカイ ツーカイ スカイウォーク</original>
+			<edited>浮遊大陸の実験場
+# ユカイ ツーカイ スカイウォーク</edited>
+			<subEntries />
+		</entry>
+		<entry name="UnitField04" offset="00" relocatable="true" max_length="0">
+			<original>魅惑のプロペランド
+# 振ってパラソル ラバーソウル</original>
+			<edited>魅惑のプロペランド
+# 振ってパラソル ラバーソウル</edited>
+			<subEntries />
+		</entry>
+		<entry name="Tuzura00" offset="00" relocatable="true" max_length="0">
+			<original>またまた！ タコゾネス
+# たそがれドライブ！ タチウオパーキング</original>
+			<edited>またまた！ タコゾネス
+# たそがれドライブ！ タチウオパーキング</edited>
+			<subEntries />
+		</entry>
+		<entry name="UnitField05" offset="00" relocatable="true" max_length="0">
+			<original>地下のトウメイ高速道路
+# 塗ってホクサイ 気分は天才</original>
+			<edited>地下のトウメイ高速道路
+# 塗ってホクサイ 気分は天才</edited>
+			<subEntries />
+		</entry>
+		<entry name="UnitField06" offset="00" relocatable="true" max_length="0">
+			<original>クールに決めろ タコギャラクシー
+# ダッシュで奪取 おまえのコスモ</original>
+			<edited>クールに決めろ タコギャラクシー
+# ダッシュで奪取 おまえのコスモ</edited>
+			<subEntries />
+		</entry>
+		<entry name="UnitField07" offset="00" relocatable="true" max_length="0">
+			<original>のりかえジャンクション
+# それは 魂の交差点</original>
+			<edited>のりかえジャンクション
+# それは 魂の交差点</edited>
+			<subEntries />
+		</entry>
+		<entry name="UnitField08" offset="00" relocatable="true" max_length="0">
+			<original>激走！ ベルトコンベヤー
+# 流し流され ベルコン人生</original>
+			<edited>激走！ ベルトコンベヤー
+# 流し流され ベルコン人生</edited>
+			<subEntries />
+		</entry>
+		<entry name="Unduck00" offset="00" relocatable="true" max_length="0">
+			<original>出て来い！ タコゾネス
+# ツボ押し！ フジツボスポーツクラブ！</original>
+			<edited>出て来い！ タコゾネス
+# ツボ押し！ フジツボスポーツクラブ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="UnitField09" offset="00" relocatable="true" max_length="0">
+			<original>夢のボウラーパラダイス
+# ころがりつづけよ 若者よ</original>
+			<edited>夢のボウラーパラダイス
+# ころがりつづけよ 若者よ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossGelidiumKing" offset="00" relocatable="true" max_length="0">
+			<original>豪速 トースト
+# タコツボベーカリー</original>
+			<edited>豪速 トースト
+# タコツボベーカリー</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossRollerKing" offset="00" relocatable="true" max_length="0">
+			<original>スゴイ ドスコイ
+# タコツボザムライ</original>
+			<edited>スゴイ ドスコイ
+# タコツボザムライ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossHangedKing" offset="00" relocatable="true" max_length="0">
+			<original>ゆかげん よかけん
+# タコツボビバノン</original>
+			<edited>ゆかげん よかけん
+# タコツボビバノン</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossStampKingDeco" offset="00" relocatable="true" max_length="0">
+			<original>みなぎる くちびる
+# タコツボックス</original>
+			<edited>みなぎる くちびる
+# タコツボックス</edited>
+			<subEntries />
+		</entry>
+		<entry name="BossLastKing" offset="00" relocatable="true" max_length="0">
+			<original>トキメキ☆ボムラッシュ
+# Tide Goes Out</original>
+			<edited>トキメキ☆ボムラッシュ
+# Tide Goes Out</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

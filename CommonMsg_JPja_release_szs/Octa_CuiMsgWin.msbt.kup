@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Msg_Download_Info_Octa" offset="00" relocatable="true" max_length="0">
+			<original>ここから先を遊ぶためには、
+追加コンテンツ「スプラトゥーン2 オクト・エキスパンション」を
+購入する必要があります。
+ニンテンドーeショップに行けば、
+追加コンテンツの内容の確認と
+購入をすることができます。</original>
+			<edited>ここから先を遊ぶためには、
+追加コンテンツ「スプラトゥーン2 オクト・エキスパンション」を
+購入する必要があります。
+ニンテンドーeショップに行けば、
+追加コンテンツの内容の確認と
+購入をすることができます。</edited>
+			<subEntries />
+		</entry>
+		<entry name="BtnL_Download_Info_Octa" offset="00" relocatable="true" max_length="0">
+			<original>もどる</original>
+			<edited>もどる</edited>
+			<subEntries />
+		</entry>
+		<entry name="BtnR_Download_Info_Octa" offset="00" relocatable="true" max_length="0">
+			<original>eショップ</original>
+			<edited>eショップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Msg_Downloaded_Octa" offset="00" relocatable="true" max_length="0">
+			<original>追加コンテンツを購入された場合は、
+ダウンロードが完了したあと 「スプラトゥーン2」を終了し、
+もう一度ゲームを始めると適用されます。</original>
+			<edited>追加コンテンツを購入された場合は、
+ダウンロードが完了したあと 「スプラトゥーン2」を終了し、
+もう一度ゲームを始めると適用されます。</edited>
+			<subEntries />
+		</entry>
+		<entry name="Btn_Downloaded_Octa" offset="00" relocatable="true" max_length="0">
+			<original>OK！</original>
+			<edited>OK！</edited>
+			<subEntries />
+		</entry>
+		<entry name="AllClear_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x1;&#x4;333?深海メトロのどこかで、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+とびらの開く音が聞こえた...</original>
+			<edited>&#xE;&#x1;&#x1;&#x4;333?深海メトロのどこかで、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+とびらの開く音が聞こえた...</edited>
+			<subEntries />
+		</entry>
+		<entry name="AllClear_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x1;&#x4;333?よみがえる　あこがれのキミ　その勇姿&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+シオカラ節の　グルーヴに乗せて…</original>
+			<edited>&#xE;&#x1;&#x1;&#x4;333?よみがえる　あこがれのキミ　その勇姿&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+シオカラ節の　グルーヴに乗せて…</edited>
+			<subEntries />
+		</entry>
+		<entry name="AllClear_02" offset="00" relocatable="true" max_length="0">
+			<original>心のなかの ヒーローをたおしたぞ！
+真のイカしたタコに なった気がする…！！</original>
+			<edited>心のなかの ヒーローをたおしたぞ！
+真のイカしたタコに なった気がする…！！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

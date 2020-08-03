@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>スロット増やす！</original>
+			<edited>スロット増やす！</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>付け直す！</original>
+			<edited>付け直す！</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>キレイにする！</original>
+			<edited>キレイにする！</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>付ける！</original>
+			<edited>付ける！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>やめとく</original>
+			<edited>不要了</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>買わない</original>
+			<edited>買わない</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>買う！</original>
+			<edited>買う！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Piece_00" offset="00" relocatable="true" max_length="0">
+			<original>必要なかけらの数：&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í</original>
+			<edited>必要なかけらの数：&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Introduction_0001" offset="00" relocatable="true" max_length="0">
+			<original>なんじゃここは… &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;とりあえず、進んでみるかのゥ</original>
+			<edited>なんじゃここは… &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;とりあえず、進んでみるかのゥ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Introduction_0002" offset="00" relocatable="true" max_length="0">
+			<original>あれに見えるは オクタリアンの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿじゃ！ &#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿで開くぞィ</original>
+			<edited>あれに見えるは オクタリアンの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿじゃ！ &#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿで開くぞィ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Introduction_0003" offset="00" relocatable="true" max_length="0">
+			<original>おヌシもオクタリアンなら ここに見覚えはないか？</original>
+			<edited>おヌシもオクタリアンなら ここに見覚えはないか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Introduction_0004" offset="00" relocatable="true" max_length="0">
+			<original>しかし、オクタリアンの気配は せんのゥ…</original>
+			<edited>しかし、オクタリアンの気配は せんのゥ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Introduction_0005" offset="00" relocatable="true" max_length="0">
+			<original>それはさておき、まずは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿを探さんとな…</original>
+			<edited>それはさておき、まずは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カギ&#xE;&#x0;&#x3;&#x2;ÿÿを探さんとな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Introduction_0006" offset="00" relocatable="true" max_length="0">
+			<original>フォー！ &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;その機械で ブキをゲットできるようじゃな</original>
+			<edited>フォー！ &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;その機械で ブキをゲットできるようじゃな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Introduction_0007" offset="00" relocatable="true" max_length="0">
+			<original>カギじゃ！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;さっきの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿを開けに もどるぞィ！</original>
+			<edited>カギじゃ！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;さっきの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドア&#xE;&#x0;&#x3;&#x2;ÿÿを開けに もどるぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Introduction_0008" offset="00" relocatable="true" max_length="0">
+			<original>ファッ！ ブキを外されたか… 不思議な機械じゃな…</original>
+			<edited>ファッ！ ブキを外されたか… 不思議な機械じゃな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Introduction_0009" offset="00" relocatable="true" max_length="0">
+			<original>フム… 不気味な場所じゃが 進むしかないのゥ</original>
+			<edited>フム… 不気味な場所じゃが 進むしかないのゥ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Introduction_0010" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でインクレールに乗ったら、向こうへ わたるんじゃ</original>
+			<edited>&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でインクレールに乗ったら、向こうへ わたるんじゃ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Introduction_0011" offset="00" relocatable="true" max_length="0">
+			<original>上に ひきよせポイントじゃ！ 撃ってみィ！</original>
+			<edited>上に ひきよせポイントじゃ！ 撃ってみィ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

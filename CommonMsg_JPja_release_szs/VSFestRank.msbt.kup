@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Rank_Boy_00" offset="00" relocatable="true" max_length="0">
+			<original>ふつうの&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íボーイ</original>
+			<edited>ふつうの&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íボーイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Rank_Boy_01" offset="00" relocatable="true" max_length="0">
+			<original>まことの&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íボーイ</original>
+			<edited>まことの&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íボーイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Rank_Boy_02" offset="00" relocatable="true" max_length="0">
+			<original>スーパー&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íボーイ</original>
+			<edited>スーパー&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íボーイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Rank_Boy_03" offset="00" relocatable="true" max_length="0">
+			<original>カリスマ&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íボーイ</original>
+			<edited>カリスマ&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íボーイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Rank_Boy_04" offset="00" relocatable="true" max_length="0">
+			<original>えいえんの&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íボーイ</original>
+			<edited>えいえんの&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íボーイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Rank_Girl_00" offset="00" relocatable="true" max_length="0">
+			<original>ふつうの&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íガール</original>
+			<edited>ふつうの&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íガール</edited>
+			<subEntries />
+		</entry>
+		<entry name="Rank_Girl_01" offset="00" relocatable="true" max_length="0">
+			<original>まことの&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íガール</original>
+			<edited>まことの&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íガール</edited>
+			<subEntries />
+		</entry>
+		<entry name="Rank_Girl_02" offset="00" relocatable="true" max_length="0">
+			<original>スーパー&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íガール</original>
+			<edited>スーパー&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íガール</edited>
+			<subEntries />
+		</entry>
+		<entry name="Rank_Girl_03" offset="00" relocatable="true" max_length="0">
+			<original>カリスマ&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íガール</original>
+			<edited>カリスマ&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íガール</edited>
+			<subEntries />
+		</entry>
+		<entry name="Rank_Girl_04" offset="00" relocatable="true" max_length="0">
+			<original>えいえんの&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íガール</original>
+			<edited>えいえんの&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x4;Íガール</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

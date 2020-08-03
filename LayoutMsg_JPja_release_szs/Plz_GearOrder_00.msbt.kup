@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="040" offset="00" relocatable="true" max_length="0">
+			<original>納品待ち</original>
+			<edited>納品待ち</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Order_00" offset="00" relocatable="true" max_length="0">
+			<original>発注！</original>
+			<edited>発注！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_BtnL_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>やめとく</original>
+			<edited>不要了</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>注文リスト</original>
+			<edited>注文リスト</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Back_00-T_Back_00" offset="00" relocatable="true" max_length="0">
+			<original>プラザへ</original>
+			<edited>プラザへ</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>取り消すギア</original>
+			<edited>取り消すギア</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Info_01" offset="00" relocatable="true" max_length="0">
+			<original>注文するギア</original>
+			<edited>注文するギア</edited>
+			<subEntries />
+		</entry>
+		<entry name="100" offset="00" relocatable="true" max_length="0">
+			<original>オッス、ナンか注文しちゃうのか？</original>
+			<edited>オッス、ナンか注文しちゃうのか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="101" offset="00" relocatable="true" max_length="0">
+			<original>コレ、注文しちゃうのか？</original>
+			<edited>コレ、注文しちゃうのか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="102" offset="00" relocatable="true" max_length="0">
+			<original>ヨシ、注文くれたギアは 順番に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;１日１コずつ&#xE;&#x0;&#x3;&#x2;ÿÿ
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;受け取れる&#xE;&#x0;&#x3;&#x2;ÿÿから また来いよナ 待ってるからナ！</original>
+			<edited>ヨシ、注文くれたギアは 順番に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;１日１コずつ&#xE;&#x0;&#x3;&#x2;ÿÿ
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;受け取れる&#xE;&#x0;&#x3;&#x2;ÿÿから また来いよナ 待ってるからナ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="103" offset="00" relocatable="true" max_length="0">
+			<original>ちょ… オマエさぁ、注文多すぎナ…
+新しく注文するならさ どれか取り消してくれナ</original>
+			<edited>ちょ… オマエさぁ、注文多すぎナ…
+新しく注文するならさ どれか取り消してくれナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="104" offset="00" relocatable="true" max_length="0">
+			<original>コレとコレ、注文入れ替えちゃうけどイイのか？</original>
+			<edited>コレとコレ、注文入れ替えちゃうけどイイのか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="105" offset="00" relocatable="true" max_length="0">
+			<original>受け取り可能なギアってさ、取り消しはできないって
+決まりなんだ、ごめんナ</original>
+			<edited>受け取り可能なギアってさ、取り消しはできないって
+決まりなんだ、ごめんナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="106" offset="00" relocatable="true" max_length="0">
+			<original>ちょ、それ注文済みだからナ！</original>
+			<edited>ちょ、それ注文済みだからナ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="107" offset="00" relocatable="true" max_length="0">
+			<original>それな、非売品だから注文できないんだ</original>
+			<edited>それな、非売品だから注文できないんだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="108" offset="00" relocatable="true" max_length="0">
+			<original>ちょ、オマエなんも注文してないからナ！</original>
+			<edited>ちょ、オマエなんも注文してないからナ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="109" offset="00" relocatable="true" max_length="0">
+			<original>今、注文もらってんのはこれナ！</original>
+			<edited>今、注文もらってんのはこれナ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="110" offset="00" relocatable="true" max_length="0">
+			<original>この注文、取り消しちゃうのか？</original>
+			<edited>この注文、取り消しちゃうのか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="111" offset="00" relocatable="true" max_length="0">
+			<original>ヨシヨシ、ちゃんと取り消しておいたからナ！</original>
+			<edited>ヨシヨシ、ちゃんと取り消しておいたからナ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Delivery_03" offset="00" relocatable="true" max_length="0">
+			<original>注文リスト</original>
+			<edited>注文リスト</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Name_00" offset="00" relocatable="true" max_length="0">
+			<original>スパイキー</original>
+			<edited>スパイキー</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Btn_00-T_Num_00" offset="00" relocatable="true" max_length="0">
+			<original>注文リスト</original>
+			<edited>注文リスト</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>注文</original>
+			<edited>注文</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>注文済</original>
+			<edited>注文済</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>非売品</original>
+			<edited>非売品</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>取り消す</original>
+			<edited>取り消す</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>受取可能</original>
+			<edited>受取可能</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;のそうび</original>
+			<edited>&#xE;&#x3;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;のそうび</edited>
+			<subEntries />
+		</entry>
+		<entry name="030" offset="00" relocatable="true" max_length="0">
+			<original>注文する！</original>
+			<edited>注文する！</edited>
+			<subEntries />
+		</entry>
+		<entry name="031" offset="00" relocatable="true" max_length="0">
+			<original>取り消す</original>
+			<edited>取り消す</edited>
+			<subEntries />
+		</entry>
+		<entry name="032" offset="00" relocatable="true" max_length="0">
+			<original>入れ替える！</original>
+			<edited>入れ替える！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

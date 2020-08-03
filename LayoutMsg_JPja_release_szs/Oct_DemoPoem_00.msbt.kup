@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Poem_00" offset="00" relocatable="true" max_length="0">
+			<original>蛸壺や　はかなき夢を　夏の月</original>
+			<edited>蛸壺や　はかなき夢を　夏の月</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

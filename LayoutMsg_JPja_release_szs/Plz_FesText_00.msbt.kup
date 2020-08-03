@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_FesDays_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x5;&#x1;&#x2;&#x0;Í開催</original>
+			<edited>&#xE;&#x5;&#x1;&#x2;&#x0;Í開催</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

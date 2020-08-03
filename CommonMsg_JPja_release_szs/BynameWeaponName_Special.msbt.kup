@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="SuperMissile" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="SuperArmor" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="LauncherSplash" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="LauncherSuction" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="LauncherQuick" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="LauncherCurling" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="LauncherRobo" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="WaterCutter" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Jetpack" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="SuperLanding" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="RainCloud" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="AquaBall" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="SuperBubble" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="SuperBall" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="SuperStamp" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;
+&#x0;</original>
+			<edited>&#xE;&#x3;
+&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>アップデート情報</original>
+			<edited>アップデート情報</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>ステージ紹介</original>
+			<edited>ステージ紹介</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>フェス告知</original>
+			<edited>フェス告知</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>フェス開催中！</original>
+			<edited>フェス開催中！</edited>
+			<subEntries />
+		</entry>
+		<entry name="004" offset="00" relocatable="true" max_length="0">
+			<original>フェス終了！</original>
+			<edited>フェス終了！</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>フェス結果発表</original>
+			<edited>フェス結果発表</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>クマサン商会からのお知らせ</original>
+			<edited>来自熊先生商会的通知</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>オオデンチナマズ行方不明</original>
+			<edited>オオデンチナマズ行方不明</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>アオリちゃんも行方不明？！</original>
+			<edited>アオリちゃんも行方不明？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>おかえり オオデンチナマズ！</original>
+			<edited>おかえり オオデンチナマズ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>おかえり アオリちゃん！！</original>
+			<edited>おかえり アオリちゃん！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Name_00" offset="00" relocatable="true" max_length="0">
+			<original>ヒメ</original>
+			<edited>ヒメ</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Name_01" offset="00" relocatable="true" max_length="0">
+			<original>イイダ</original>
+			<edited>イイダ</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

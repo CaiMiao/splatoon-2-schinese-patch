@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="LastBoss06_0000" offset="00" relocatable="true" max_length="0">
+			<original>あれが中央エレベーターです！ 電源… 入ってますね！</original>
+			<edited>あれが中央エレベーターです！ 電源… 入ってますね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0001" offset="00" relocatable="true" max_length="0">
+			<original>アタリメさんと３号さんの反応も、近いです！</original>
+			<edited>アタリメさんと３号さんの反応も、近いです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0002" offset="00" relocatable="true" max_length="0">
+			<original>ジジィ、ひょっとして 先に地上で待ってんじゃねーの？</original>
+			<edited>ジジィ、ひょっとして 先に地上で待ってんじゃねーの？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0003" offset="00" relocatable="true" max_length="0">
+			<original>ハチ！ ヘリでむかえに行くから、ジジィと地上で待ってろよ</original>
+			<edited>ハチ！ ヘリでむかえに行くから、ジジィと地上で待ってろよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0004" offset="00" relocatable="true" max_length="0">
+			<original>初対面の方にも ヘリ出しちゃうセンパイ、ステキです♪</original>
+			<edited>初対面の方にも ヘリ出しちゃうセンパイ、ステキです♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0005" offset="00" relocatable="true" max_length="0">
+			<original>まー、『神がかったヘリ』とか ゆーヤツ？</original>
+			<edited>まー、『神がかったヘリ』とか ゆーヤツ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0006" offset="00" relocatable="true" max_length="0">
+			<original>それを言うなら『乗りかかった船』ですね…</original>
+			<edited>それを言うなら『乗りかかった船』ですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0007" offset="00" relocatable="true" max_length="0">
+			<original>…最近は、そうとも言うみたいだな</original>
+			<edited>…最近は、そうとも言うみたいだな</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0008" offset="00" relocatable="true" max_length="0">
+			<original>あれ？ エレベーターが…</original>
+			<edited>あれ？ エレベーターが…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0009" offset="00" relocatable="true" max_length="0">
+			<original>止まったゾ？！</original>
+			<edited>止まったゾ？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0010" offset="00" relocatable="true" max_length="0">
+			<original>…ん？ だれかいんゾ？</original>
+			<edited>…ん？ だれかいんゾ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0011" offset="00" relocatable="true" max_length="0">
+			<original>あれ、３号さんですよ？！ でも、なんだか様子が…</original>
+			<edited>あれ、３号さんですよ？！ でも、なんだか様子が…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0012" offset="00" relocatable="true" max_length="0">
+			<original>ファーーーッ！！ ８号か？！ 助けてくれーィ！！！</original>
+			<edited>ファーーーッ！！ ８号か？！ 助けてくれーィ！！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0013" offset="00" relocatable="true" max_length="0">
+			<original>３号のヤツ、デンワに意識を乗っ取られたんじゃー！</original>
+			<edited>３号のヤツ、デンワに意識を乗っ取られたんじゃー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0014" offset="00" relocatable="true" max_length="0">
+			<original>ゲーーッ！！ おそってきやがった！</original>
+			<edited>ゲーーッ！！ おそってきやがった！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0015" offset="00" relocatable="true" max_length="0">
+			<original>８号ーーッ！ やられる前にやれィ！ 戦場の鉄則ゥ！！</original>
+			<edited>８号ーーッ！ やられる前にやれィ！ 戦場の鉄則ゥ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0016" offset="00" relocatable="true" max_length="0">
+			<original>３号をとっちめ、頭のネリモノを 落とすんじゃーーッ！</original>
+			<edited>３号をとっちめ、頭のネリモノを 落とすんじゃーーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0017" offset="00" relocatable="true" max_length="0">
+			<original>やったか？！</original>
+			<edited>やったか？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0018" offset="00" relocatable="true" max_length="0">
+			<original>まだじゃーッ！ まだ終わっとらーーん！</original>
+			<edited>まだじゃーッ！ まだ終わっとらーーん！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0019" offset="00" relocatable="true" max_length="0">
+			<original>あっぱれじゃ、８号！</original>
+			<edited>あっぱれじゃ、８号！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0020" offset="00" relocatable="true" max_length="0">
+			<original>でもまた気絶したゾ… 目覚めたら おそってこないよな？</original>
+			<edited>でもまた気絶したゾ… 目覚めたら おそってこないよな？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0021" offset="00" relocatable="true" max_length="0">
+			<original>ネリモノも取れたし、ダイジョ～ブだと思いますよ♪</original>
+			<edited>ネリモノも取れたし、ダイジョ～ブだと思いますよ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0022" offset="00" relocatable="true" max_length="0">
+			<original>…早くヒモを ほどいてくれーィ！！</original>
+			<edited>…早くヒモを ほどいてくれーィ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0023" offset="00" relocatable="true" max_length="0">
+			<original>マジかよ？！ スペシャルてんこ盛りすぎンだろ！</original>
+			<edited>マジかよ？！ スペシャルてんこ盛りすぎンだろ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0024" offset="00" relocatable="true" max_length="0">
+			<original>３号さん、リミッターを外されちゃってるみたいです…</original>
+			<edited>３号さん、リミッターを外されちゃってるみたいです…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0025" offset="00" relocatable="true" max_length="0">
+			<original>カーリングボムピッチャー、来ます！</original>
+			<edited>カーリングボムピッチャー、来ます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0026" offset="00" relocatable="true" max_length="0">
+			<original>ボムにひるむなーッ、トツゲキーッ！</original>
+			<edited>ボムにひるむなーッ、トツゲキーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0027" offset="00" relocatable="true" max_length="0">
+			<original>箱の上に にげろーーーッ！！</original>
+			<edited>箱の上に にげろーーーッ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0028" offset="00" relocatable="true" max_length="0">
+			<original>撃って撃って、撃ちまくれーーーィ！</original>
+			<edited>撃って撃って、撃ちまくれーーーィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0029" offset="00" relocatable="true" max_length="0">
+			<original>おらおらー、ンなもん割っちまえーーーッ！</original>
+			<edited>おらおらー、ンなもん割っちまえーーーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0030" offset="00" relocatable="true" max_length="0">
+			<original>爆発に巻きこまれないよう 注意です！</original>
+			<edited>爆発に巻きこまれないよう 注意です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0031" offset="00" relocatable="true" max_length="0">
+			<original>８号ーーッ！ ワシに構わず、３号を撃てーーィ！</original>
+			<edited>８号ーーッ！ ワシに構わず、３号を撃てーーィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0032" offset="00" relocatable="true" max_length="0">
+			<original>よけろーーーッ！</original>
+			<edited>よけろーーーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0033" offset="00" relocatable="true" max_length="0">
+			<original>８号さ～ん！ ボムを使って～！</original>
+			<edited>８号さ～ん！ ボムを使って～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0034" offset="00" relocatable="true" max_length="0">
+			<original>連続スーパーチャクチ、来るぞ！</original>
+			<edited>連続スーパーチャクチ、来るぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0035" offset="00" relocatable="true" max_length="0">
+			<original>カベにかくれて深呼吸！ 戦場の鉄則ゥ！</original>
+			<edited>カベにかくれて深呼吸！ 戦場の鉄則ゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0036" offset="00" relocatable="true" max_length="0">
+			<original>チャクチの後の スキをねらってください！</original>
+			<edited>チャクチの後の スキをねらってください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0037" offset="00" relocatable="true" max_length="0">
+			<original>ハチーーーッ！！ やっちまえーーーッ！！</original>
+			<edited>ハチーーーッ！！ やっちまえーーーッ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0038" offset="00" relocatable="true" max_length="0">
+			<original>負けないで～！！ ８号さ～ん！！ </original>
+			<edited>負けないで～！！ ８号さ～ん！！ </edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0039" offset="00" relocatable="true" max_length="0">
+			<original>８号ーーッ！ 気合じゃーーッ！</original>
+			<edited>８号ーーッ！ 気合じゃーーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0040" offset="00" relocatable="true" max_length="0">
+			<original>じゃ、これで地上まで 行けそーだな！</original>
+			<edited>じゃ、これで地上まで 行けそーだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBoss06_0041" offset="00" relocatable="true" max_length="0">
+			<original>お二人とも、無事ならいいですけどね～</original>
+			<edited>お二人とも、無事ならいいですけどね～</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="System_Date" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í/&#xE;ú&#x1;&#x4;&#x1;&#x0;&#x0;Í</original>
+			<edited>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í/&#xE;ú&#x1;&#x4;&#x1;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="System_Time" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú	&#x4;&#x0;&#x0;&#x0;Í:&#xE;ú	&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x5;&#x7;&#x4;&#x0;&#x0;&#x0;&#x0;</original>
+			<edited>&#xE;ú	&#x4;&#x0;&#x0;&#x0;Í:&#xE;ú	&#x4;&#x1;&#x0;&#x0;Í&#xE;&#x5;&#x7;&#x4;&#x0;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

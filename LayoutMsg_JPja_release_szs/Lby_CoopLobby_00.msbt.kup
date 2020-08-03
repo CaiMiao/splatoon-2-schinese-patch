@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>けんしゅう
+その１</original>
+			<edited>实习
+其１</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>けんしゅう
+その２</original>
+			<edited>实习
+其２</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>アルバイト キホンの「キ」</original>
+			<edited>兼职 基础之「一」</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>アルバイト キホンの「ホ」</original>
+			<edited>兼职 基础之「二」</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_BackBtn_00-T_Back_00" offset="00" relocatable="true" max_length="0">
+			<original>広場へ</original>
+			<edited>前往广场</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Menu_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>メニュー</original>
+			<edited>菜单</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ModeButton_00-T_ModeName_00" offset="00" relocatable="true" max_length="0">
+			<original>バイトに
+参加</original>
+			<edited>参加
+打工</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ModeButton_00-T_Exp_00" offset="00" relocatable="true" max_length="0">
+			<original>新しいジブン きっとミツカル</original>
+			<edited>一定能发现 新的自己</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ModeButton_01-T_ModeName_00" offset="00" relocatable="true" max_length="0">
+			<original>フレンドと
+バイト</original>
+			<edited>和朋友
+打工</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ModeButton_01-T_Exp_00" offset="00" relocatable="true" max_length="0">
+			<original>気の合う仲間と バイトしよう！</original>
+			<edited>和合得来的同伴一起打工吧！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ModeButton_02-T_ModeName_00" offset="00" relocatable="true" max_length="0">
+			<original>Online
+ラウンジ</original>
+			<edited>Online
+等候室</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ModeButton_02-T_Exp_00" offset="00" relocatable="true" max_length="0">
+			<original>友だちをさそって ボイスチャット</original>
+			<edited>叫上朋友 一起语音</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Manual_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>バイトマニュアル</original>
+			<edited>打工手册</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_StageHeader_00" offset="00" relocatable="true" max_length="0">
+			<original>ステージ</original>
+			<edited>场地</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_WeaponHeader_00" offset="00" relocatable="true" max_length="0">
+			<original>支給ブキ</original>
+			<edited>配给武器</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Customize_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>ほうしゅうと
+ポイントの確認</original>
+			<edited>报酬与
+点数确认</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CoopRank_00-T_assessment_00" offset="00" relocatable="true" max_length="0">
+			<original>バイト評価</original>
+			<edited>打工评价</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CoopRank_00-T_Num_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x1;Í/&#xE;ú&#x2;&#x4;&#x1;&#x0;&#x1;Í</original>
+			<edited>&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x1;Í/&#xE;ú&#x2;&#x4;&#x1;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CoopRank_00-L_RankReset_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>評価リセット</original>
+			<edited>重置评价</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

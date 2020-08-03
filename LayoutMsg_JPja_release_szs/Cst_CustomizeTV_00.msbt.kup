@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_CustomIconBtn_00-T_Category_00" offset="00" relocatable="true" max_length="0">
+			<original>ブキ</original>
+			<edited>武器</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CustomIconBtn_00-T_New_00" offset="00" relocatable="true" max_length="0">
+			<original>NEW!</original>
+			<edited>NEW!</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CustomIconBtn_01-T_Category_00" offset="00" relocatable="true" max_length="0">
+			<original>アタマ</original>
+			<edited>头部</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CustomIconBtn_02-T_Category_00" offset="00" relocatable="true" max_length="0">
+			<original>フク</original>
+			<edited>服装</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CustomIconBtn_03-T_Category_00" offset="00" relocatable="true" max_length="0">
+			<original>クツ</original>
+			<edited>鞋子</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>表示切替</original>
+			<edited>切换显示</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_01-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>試しうち</original>
+			<edited>试射</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Rstick_00-T_Rotation_00" offset="00" relocatable="true" max_length="0">
+			<original>回転</original>
+			<edited>旋转</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Rstick_00-T_Rotation_01" offset="00" relocatable="true" max_length="0">
+			<original></original>
+			<edited></edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_02-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>もどる</original>
+			<edited>返回</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Fes_00" offset="00" relocatable="true" max_length="0">
+			<original>フェス中はフクを
+着替えることができません</original>
+			<edited>FES中无法更换服装</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_ItemBtn_00-T_New_00" offset="00" relocatable="true" max_length="0">
+			<original>NEW!</original>
+			<edited>NEW!</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Lstick_00-T_Sort_00" offset="00" relocatable="true" max_length="0">
+			<original>並べ替え</original>
+			<edited>排序</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CustomIconBtn_04-T_Category_00" offset="00" relocatable="true" max_length="0">
+			<original>その他</original>
+			<edited>其他</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Menu_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>TVモード/
+テーブルモード</original>
+			<edited>TV模式/
+桌面模式</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Menu_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>携帯モード</original>
+			<edited>便携モード</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Menu_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>スタイル</original>
+			<edited>风格</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Menu_03-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>amiibo</original>
+			<edited>amiibo</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_OptionBtn_01-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;左右操作</original>
+			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;左右操作</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_OptionBtn_00-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;上下操作</original>
+			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;上下操作</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_OptionBtn_00-T_BtnL_00" offset="00" relocatable="true" max_length="0">
+			<original>ノーマル</original>
+			<edited>普通</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_OptionBtn_00-T_BtnR_00" offset="00" relocatable="true" max_length="0">
+			<original>リバース</original>
+			<edited>反转</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Scroll_01-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;操作感度</original>
+			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;灵敏度</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Scroll_00-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>ジャイロ操作感度</original>
+			<edited>灵敏度</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_OptionBtn_02-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>ジャイロ操作</original>
+			<edited>陀螺仪操作</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_OptionBtn_02-T_BtnL_00" offset="00" relocatable="true" max_length="0">
+			<original>ＯＮ</original>
+			<edited>ＯＮ</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_OptionBtn_02-T_BtnR_00" offset="00" relocatable="true" max_length="0">
+			<original>ＯＦＦ</original>
+			<edited>ＯＦＦ</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_text_00" offset="00" relocatable="true" max_length="0">
+			<original>現在のそうび情報、プレイヤー設定、
+カメラオプションの情報を
+ａｍｉiｂｏに書きこむことができます</original>
+			<edited>現在のそうび情報、プレイヤー設定、
+カメラオプションの情報を
+ａｍｉiｂｏに書きこむことができます</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_text_01" offset="00" relocatable="true" max_length="0">
+			<original>ヘアスタイル</original>
+			<edited>发型</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_text_02" offset="00" relocatable="true" max_length="0">
+			<original>ボトムス</original>
+			<edited>裤子</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_AmiiboBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>書きこむ！</original>
+			<edited>写入！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_OptionBtn_00-T_Msg_00" offset="00" relocatable="true" max_length="0">
+			<original>ジャイロ操作がONの時は無効です</original>
+			<edited>陀螺仪操作为ON时无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_OptionBtn_03-T_Msg_00" offset="00" relocatable="true" max_length="0">
+			<original>ジャイロ操作がONの時は無効です</original>
+			<edited>陀螺仪操作为ON时无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Scroll_00-T_Msg_00" offset="00" relocatable="true" max_length="0">
+			<original>ジャイロ操作がOFFの時は無効です</original>
+			<edited>陀螺仪操作为OF时无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Scroll_02-T_Msg_00" offset="00" relocatable="true" max_length="0">
+			<original>ジャイロ操作がOFFの時は無効です</original>
+			<edited>陀螺仪操作为OF时无效</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Back_00-T_Back_00" offset="00" relocatable="true" max_length="0">
+			<original>もどる</original>
+			<edited>返回</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

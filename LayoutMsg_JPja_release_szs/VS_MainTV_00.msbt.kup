@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>＋&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í</original>
+			<edited>＋&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>カモン</original>
+			<edited>カモン</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>やられた</original>
+			<edited>やられた</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Rest_00" offset="00" relocatable="true" max_length="0">
+			<original>のこり</original>
+			<edited>のこり</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Nice_00" offset="00" relocatable="true" max_length="0">
+			<original>ナイス</original>
+			<edited>ナイス</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Timer_00-T_Extend_00" offset="00" relocatable="true" max_length="0">
+			<original>延長中！</original>
+			<edited>延長中！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Timer_00-T_Time_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í:&#xE;ú	&#x4;&#x1;&#x0;&#x1;Í</original>
+			<edited>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í:&#xE;ú	&#x4;&#x1;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Balloon_01" offset="00" relocatable="true" max_length="0">
+			<original>ピンチ!</original>
+			<edited>ピンチ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Balloon_00" offset="00" relocatable="true" max_length="0">
+			<original>ピンチ!</original>
+			<edited>ピンチ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_SuperGauge_00-T_Press_00" offset="00" relocatable="true" max_length="0">
+			<original>押しこみ</original>
+			<edited>押しこみ</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_SuperGauge_00-T_Max_00" offset="00" relocatable="true" max_length="0">
+			<original>フルチャージ!</original>
+			<edited>フルチャージ!</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PaintNumbers_00-T_Unit_00" offset="00" relocatable="true" max_length="0">
+			<original>p</original>
+			<edited>p</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Info_00-T_KeyBtn_00" offset="00" relocatable="true" max_length="0">
+			<original></original>
+			<edited></edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Info_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>ポーズ</original>
+			<edited>ポーズ</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

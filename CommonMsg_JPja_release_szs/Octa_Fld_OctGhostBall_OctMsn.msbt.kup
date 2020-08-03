@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>時間内にゴールに到達してくださイ</original>
+			<edited>時間内にゴールに到達してくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
+			<original>最終エリアで、ボールバンパーを早く壊すのが ポイントでス</original>
+			<edited>最終エリアで、ボールバンパーを早く壊すのが ポイントでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0004" offset="00" relocatable="true" max_length="0">
+			<original>なので、エイトボールは 多く持って行くほど 有利でス</original>
+			<edited>なので、エイトボールは 多く持って行くほど 有利でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0005" offset="00" relocatable="true" max_length="0">
+			<original>ただし、エイトボールは１つでも落とすと 失敗でス</original>
+			<edited>ただし、エイトボールは１つでも落とすと 失敗でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="GhostBall_0000" offset="00" relocatable="true" max_length="0">
+			<original>おしゃべり無用！ カウントダウン、始まっとるぞィ！</original>
+			<edited>おしゃべり無用！ カウントダウン、始まっとるぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GhostBall_0001" offset="00" relocatable="true" max_length="0">
+			<original>バンパー壊して、ジャンプポイント出すゾ！</original>
+			<edited>バンパー壊して、ジャンプポイント出すゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GhostBall_0002" offset="00" relocatable="true" max_length="0">
+			<original>ボールバンパーの裏に ジャンプポイントがかくれてます！</original>
+			<edited>ボールバンパーの裏に ジャンプポイントがかくれてます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GhostBall_0003" offset="00" relocatable="true" max_length="0">
+			<original>ボールもう１コあるゾ！ 持ってこーぜ</original>
+			<edited>ボールもう１コあるゾ！ 持ってこーぜ</edited>
+			<subEntries />
+		</entry>
+		<entry name="GhostBall_0004" offset="00" relocatable="true" max_length="0">
+			<original>了解！ 敵は無視して、エイトボールを運んでください！</original>
+			<edited>了解！ 敵は無視して、エイトボールを運んでください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GhostBall_0005" offset="00" relocatable="true" max_length="0">
+			<original>あの大量のバンパーを壊す時に 役立ちそうですね</original>
+			<edited>あの大量のバンパーを壊す時に 役立ちそうですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="GhostBall_0006" offset="00" relocatable="true" max_length="0">
+			<original>正面に、別のボールがあるゾ！</original>
+			<edited>正面に、別のボールがあるゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GhostBall_0007" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプポイント発見！ 確認されたしーッ！</original>
+			<edited>ジャンプポイント発見！ 確認されたしーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GhostBall_0008" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプポイントを発見しました！</original>
+			<edited>ジャンプポイントを発見しました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GhostBall_0009" offset="00" relocatable="true" max_length="0">
+			<original>なんか いっぱい積まれてたな！</original>
+			<edited>なんか いっぱい積まれてたな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GhostBall_0010" offset="00" relocatable="true" max_length="0">
+			<original>バンパーなら後で、エイトボールで 壊しまくりましょ～</original>
+			<edited>バンパーなら後で、エイトボールで 壊しまくりましょ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="GhostBall_0011" offset="00" relocatable="true" max_length="0">
+			<original>グッドじゃった！</original>
+			<edited>グッドじゃった！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GhostBall_0012" offset="00" relocatable="true" max_length="0">
+			<original>お！ ジャンプポイント、行けんじゃね？</original>
+			<edited>お！ ジャンプポイント、行けんじゃね？</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

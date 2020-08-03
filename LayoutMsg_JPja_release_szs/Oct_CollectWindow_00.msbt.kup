@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í / &#xE;ú&#x1;&#x4;&#x1;&#x0;&#x0;Í</original>
+			<edited>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í / &#xE;ú&#x1;&#x4;&#x1;&#x0;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Rotate_00-T_Rotation_00" offset="00" relocatable="true" max_length="0">
+			<original>回転</original>
+			<edited>回転</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Back_00-T_Back_00" offset="00" relocatable="true" max_length="0">
+			<original>もどる</original>
+			<edited>もどる</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>ズームアウト</original>
+			<edited>ズームアウト</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_00-T_Info_01" offset="00" relocatable="true" max_length="0">
+			<original>ズームイン</original>
+			<edited>ズームイン</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

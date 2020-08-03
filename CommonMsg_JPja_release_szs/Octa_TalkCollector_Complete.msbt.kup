@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="LineComp_Before_00" offset="00" relocatable="true" max_length="0">
+			<original>ちょ… ちょっと待って……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+キミ、 そのシリーズ 全部あつめたの…？&#xE;&#x0;&#x4;&#x0;すごいね キミ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+もっと近くで ネリメモリー見てみたいなぁ…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; なんて…</original>
+			<edited>ちょ… ちょっと待って……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+キミ、 そのシリーズ 全部あつめたの…？&#xE;&#x0;&#x4;&#x0;すごいね キミ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+もっと近くで ネリメモリー見てみたいなぁ…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; なんて…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_Before_01" offset="00" relocatable="true" max_length="0">
+			<original>キミ… シリーズそろえたの これで２回目だよね…&#xE;&#x0;&#x4;&#x0;オレ… こんなデキる子 初めて見たよ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+その努力に&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; オールAを あげたい気分だ……</original>
+			<edited>キミ… シリーズそろえたの これで２回目だよね…&#xE;&#x0;&#x4;&#x0;オレ… こんなデキる子 初めて見たよ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+その努力に&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; オールAを あげたい気分だ……</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_Before_02" offset="00" relocatable="true" max_length="0">
+			<original>oh no…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; キミ… ３シリーズも そろえちゃったの…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+毎度おどろかせてくれるね… まことに…&#xE;&#x0;&#x4;&#x0;キミは… おじさんのハートを つかむのが上手…</original>
+			<edited>oh no…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; キミ… ３シリーズも そろえちゃったの…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+毎度おどろかせてくれるね… まことに…&#xE;&#x0;&#x4;&#x0;キミは… おじさんのハートを つかむのが上手…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_Before_03" offset="00" relocatable="true" max_length="0">
+			<original>４シリーズ目…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; だと…？！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+さては… もはや楽しんでいるな？？&#xE;&#x0;&#x4;&#x0;まったく… キミは 夢に 情熱的なんだね…</original>
+			<edited>４シリーズ目…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; だと…？！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+さては… もはや楽しんでいるな？？&#xE;&#x0;&#x4;&#x0;まったく… キミは 夢に 情熱的なんだね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_Before_04" offset="00" relocatable="true" max_length="0">
+			<original>５種類も コンプしたの…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ちょっと 涙が 出そうだなぁ…&#xE;&#x0;&#x4;&#x0;ホントはあげたくないけど…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+イイモノあげるから… キミのメモリー… 見たい…</original>
+			<edited>５種類も コンプしたの…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ちょっと 涙が 出そうだなぁ…&#xE;&#x0;&#x4;&#x0;ホントはあげたくないけど…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+イイモノあげるから… キミのメモリー… 見たい…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_Before_05" offset="00" relocatable="true" max_length="0">
+			<original>６路線クリアか…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+もう 「キミ」 なんて 言えないなぁ…&#xE;&#x0;&#x4;&#x0;これからは…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+「ハチくん」 って…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 呼んでもいいかな…？</original>
+			<edited>６路線クリアか…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+もう 「キミ」 なんて 言えないなぁ…&#xE;&#x0;&#x4;&#x0;これからは…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+「ハチくん」 って…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 呼んでもいいかな…？</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_Before_06" offset="00" relocatable="true" max_length="0">
+			<original>７種の海のメモリー…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+おじさんの ココロの名作劇場 増えました…&#xE;&#x0;&#x4;&#x0;夢を あきらめちゃいけない…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+あきらめたら…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 夢の方も オレたちをあきらめてしまう…</original>
+			<edited>７種の海のメモリー…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+おじさんの ココロの名作劇場 増えました…&#xE;&#x0;&#x4;&#x0;夢を あきらめちゃいけない…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+あきらめたら…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 夢の方も オレたちをあきらめてしまう…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_Before_07" offset="00" relocatable="true" max_length="0">
+			<original>“８”という数…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+それは、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ハチくんの ハチだね…&#xE;&#x0;&#x4;&#x0;おじさんも ハチくんみたいに、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+強く 生きられたらいいのになぁ……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; なんて…</original>
+			<edited>“８”という数…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+それは、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ハチくんの ハチだね…&#xE;&#x0;&#x4;&#x0;おじさんも ハチくんみたいに、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+強く 生きられたらいいのになぁ……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; なんて…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_Before_08" offset="00" relocatable="true" max_length="0">
+			<original>あと １シリーズで…
+すべてのネリメモリーが 手に入るんだね…&#xE;&#x0;&#x4;&#x0;すべての昨日があったから 今日のハチくんがいる…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+のこりの昨日も はやく取りもどせることを いのるよ…</original>
+			<edited>あと １シリーズで…
+すべてのネリメモリーが 手に入るんだね…&#xE;&#x0;&#x4;&#x0;すべての昨日があったから 今日のハチくんがいる…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+のこりの昨日も はやく取りもどせることを いのるよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_Before_09" offset="00" relocatable="true" max_length="0">
+			<original>ついに…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ついに…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+すべてのネリメモリーが キミの手に…&#xE;&#x0;&#x4;&#x0;Ah…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ハチくんは もう&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+この世界に もどって 来ないのかなぁ……</original>
+			<edited>ついに…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ついに…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+すべてのネリメモリーが キミの手に…&#xE;&#x0;&#x4;&#x0;Ah…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ハチくんは もう&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+この世界に もどって 来ないのかなぁ……</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_After_00" offset="00" relocatable="true" max_length="0">
+			<original>キミが チャレンジに 出かけている間は、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+オレからのおくり物、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; あの じいさんに 預けておくよ&#xE;&#x0;&#x4;&#x0;この調子で ネリメモリーのシリーズを集めたら、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+オレのところに 見せに来てくれたらうれしいな…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;なんて…</original>
+			<edited>キミが チャレンジに 出かけている間は、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+オレからのおくり物、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; あの じいさんに 預けておくよ&#xE;&#x0;&#x4;&#x0;この調子で ネリメモリーのシリーズを集めたら、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+オレのところに 見せに来てくれたらうれしいな…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;なんて…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_After_01" offset="00" relocatable="true" max_length="0">
+			<original>オレなんて
+２つしか ゲットできなかったからね…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ネリメモリー…&#xE;&#x0;&#x4;&#x0;２つで十分じゃ ないんですよ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+分かってくださいよ…</original>
+			<edited>オレなんて
+２つしか ゲットできなかったからね…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ネリメモリー…&#xE;&#x0;&#x4;&#x0;２つで十分じゃ ないんですよ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+分かってくださいよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_After_02" offset="00" relocatable="true" max_length="0">
+			<original>夢見ぬタコは…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ただのタコだ…</original>
+			<edited>夢見ぬタコは…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ただのタコだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_After_03" offset="00" relocatable="true" max_length="0">
+			<original>情熱なしに 達成されたイギョウはない……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+キミは軽々と オレの想像を こえていくんだね…</original>
+			<edited>情熱なしに 達成されたイギョウはない……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+キミは軽々と オレの想像を こえていくんだね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_After_04" offset="00" relocatable="true" max_length="0">
+			<original>夢をみるキミ… それは おじさんの太陽…</original>
+			<edited>夢をみるキミ… それは おじさんの太陽…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_After_05" offset="00" relocatable="true" max_length="0">
+			<original>こんなナリだけど…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+おじさんにも、 夢を追う日が あったんだよ…</original>
+			<edited>こんなナリだけど…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+おじさんにも、 夢を追う日が あったんだよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_After_06" offset="00" relocatable="true" max_length="0">
+			<original>夢見る者を、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 笑っちゃいけない…</original>
+			<edited>夢見る者を、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 笑っちゃいけない…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_After_07" offset="00" relocatable="true" max_length="0">
+			<original>夢は 夜にだけ見るものではない…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+昼に見られる者だけが わかる世界もあるんだ…</original>
+			<edited>夢は 夜にだけ見るものではない…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+昼に見られる者だけが わかる世界もあるんだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_After_08" offset="00" relocatable="true" max_length="0">
+			<original>ハチくんの未来が どうなるか、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+おじさんには 分からない…&#xE;&#x0;&#x4;&#x0;だけど……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; キミの集めた過去は、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+きっと未来に 希望をあたえてくれるはずだ…</original>
+			<edited>ハチくんの未来が どうなるか、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+おじさんには 分からない…&#xE;&#x0;&#x4;&#x0;だけど……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; キミの集めた過去は、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+きっと未来に 希望をあたえてくれるはずだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_After_09" offset="00" relocatable="true" max_length="0">
+			<original>ハチくん…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 思い出を 胸に秘めながら……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+未来へむかって…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 羽ばたいていってくれ…&#xE;&#x0;&#x4;&#x0;アディオス……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 達者でな…</original>
+			<edited>ハチくん…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 思い出を 胸に秘めながら……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+未来へむかって…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 羽ばたいていってくれ…&#xE;&#x0;&#x4;&#x0;アディオス……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 達者でな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_00" offset="00" relocatable="true" max_length="0">
+			<original>oh no…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ネリメモリーには、
+こんなシリーズも あったんだね…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; フニフニ…&#xE;&#x0;&#x4;&#x0;キミが見せてくれた 夢へのお返しに…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+地上に出たら 使ってみてくれ…</original>
+			<edited>oh no…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ネリメモリーには、
+こんなシリーズも あったんだね…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; フニフニ…&#xE;&#x0;&#x4;&#x0;キミが見せてくれた 夢へのお返しに…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+地上に出たら 使ってみてくれ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineComp_01" offset="00" relocatable="true" max_length="0">
+			<original>wow…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; こんなシリーズも あったんだ…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+おじさん感無量… 並べたい… ドキドキ…&#xE;&#x0;&#x4;&#x0;おじさんの 心をゆさぶってくれた お礼に…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+地上に出たら 使ってみてくれ…</original>
+			<edited>wow…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; こんなシリーズも あったんだ…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+おじさん感無量… 並べたい… ドキドキ…&#xE;&#x0;&#x4;&#x0;おじさんの 心をゆさぶってくれた お礼に…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+地上に出たら 使ってみてくれ…</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="0" offset="00" relocatable="true" max_length="0">
+			<original>PLAY/STOP</original>
+			<edited>PLAY/STOP</edited>
+			<subEntries />
+		</entry>
+		<entry name="1" offset="00" relocatable="true" max_length="0">
+			<original>LV SELECT</original>
+			<edited>LV SELECT</edited>
+			<subEntries />
+		</entry>
+		<entry name="2" offset="00" relocatable="true" max_length="0">
+			<original>MUSIC SELECT</original>
+			<edited>MUSIC SELECT</edited>
+			<subEntries />
+		</entry>
+		<entry name="3" offset="00" relocatable="true" max_length="0">
+			<original>？？？</original>
+			<edited>？？？</edited>
+			<subEntries />
+		</entry>
+		<entry name="4" offset="00" relocatable="true" max_length="0">
+			<original>LV : NORMAL</original>
+			<edited>LV : NORMAL</edited>
+			<subEntries />
+		</entry>
+		<entry name="5" offset="00" relocatable="true" max_length="0">
+			<original>LV : HARD</original>
+			<edited>LV : HARD</edited>
+			<subEntries />
+		</entry>
+		<entry name="6" offset="00" relocatable="true" max_length="0">
+			<original>RETURN</original>
+			<edited>RETURN</edited>
+			<subEntries />
+		</entry>
+		<entry name="7" offset="00" relocatable="true" max_length="0">
+			<original>どのボタンでもＯＫ</original>
+			<edited>按任意键皆可</edited>
+			<subEntries />
+		</entry>
+		<entry name="8" offset="00" relocatable="true" max_length="0">
+			<original>さゆう どうじおし！</original>
+			<edited>左右同时按！</edited>
+			<subEntries />
+		</entry>
+		<entry name="9" offset="00" relocatable="true" max_length="0">
+			<original>STYLE CHANGE</original>
+			<edited>STYLE CHANGE</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

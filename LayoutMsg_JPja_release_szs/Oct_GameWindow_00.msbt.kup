@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_Window_00-T_Char_00" offset="00" relocatable="true" max_length="0">
+			<original>文</original>
+			<edited>文</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Window_01-T_Char_00" offset="00" relocatable="true" max_length="0">
+			<original>文</original>
+			<edited>文</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Window_02-T_Char_00" offset="00" relocatable="true" max_length="0">
+			<original>文</original>
+			<edited>文</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Window_03-T_Char_00" offset="00" relocatable="true" max_length="0">
+			<original>文</original>
+			<edited>文</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

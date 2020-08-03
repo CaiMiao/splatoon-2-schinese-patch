@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="RockPop" offset="00" relocatable="true" max_length="0">
+			<original>ロック/ポップ</original>
+			<edited>ロック/ポップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PotatoNugget" offset="00" relocatable="true" max_length="0">
+			<original>マックフライポテト/チキンマックナゲット</original>
+			<edited>マックフライポテト/チキンマックナゲット</edited>
+			<subEntries />
+		</entry>
+		<entry name="InstantEndurance" offset="00" relocatable="true" max_length="0">
+			<original>瞬発力/持久力</original>
+			<edited>瞬発力/持久力</edited>
+			<subEntries />
+		</entry>
+		<entry name="LemonNolemon" offset="00" relocatable="true" max_length="0">
+			<original>レモンかける/かけない</original>
+			<edited>レモンかける/かけない</edited>
+			<subEntries />
+		</entry>
+		<entry name="InnerOuter" offset="00" relocatable="true" max_length="0">
+			<original>インナー/アウター</original>
+			<edited>インナー/アウター</edited>
+			<subEntries />
+		</entry>
+		<entry name="ChampionChallanger" offset="00" relocatable="true" max_length="0">
+			<original>王者/挑戦者</original>
+			<edited>王者/挑戦者</edited>
+			<subEntries />
+		</entry>
+		<entry name="HanaDango" offset="00" relocatable="true" max_length="0">
+			<original>花/団子</original>
+			<edited>花/団子</edited>
+			<subEntries />
+		</entry>
+		<entry name="LatestClassic" offset="00" relocatable="true" max_length="0">
+			<original>最新/人気</original>
+			<edited>最新/人気</edited>
+			<subEntries />
+		</entry>
+		<entry name="MichiSenshin" offset="00" relocatable="true" max_length="0">
+			<original>未知の生物/先進の技術</original>
+			<edited>未知の生物/先進の技術</edited>
+			<subEntries />
+		</entry>
+		<entry name="KittyCinnamon" offset="00" relocatable="true" max_length="0">
+			<original>ハローキティ/シナモロール</original>
+			<edited>ハローキティ/シナモロール</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mymelopurin" offset="00" relocatable="true" max_length="0">
+			<original>マイメロディ/ポムポムプリン</original>
+			<edited>マイメロディ/ポムポムプリン</edited>
+			<subEntries />
+		</entry>
+		<entry name="KinokoTakenoko" offset="00" relocatable="true" max_length="0">
+			<original>きのこの山/たけのこの里</original>
+			<edited>きのこの山/たけのこの里</edited>
+			<subEntries />
+		</entry>
+		<entry name="TsubuanKoshian" offset="00" relocatable="true" max_length="0">
+			<original>つぶあん/こしあん</original>
+			<edited>つぶあん/こしあん</edited>
+			<subEntries />
+		</entry>
+		<entry name="PockeyGokuboso" offset="00" relocatable="true" max_length="0">
+			<original>ポッキー/ポッキー&lt;極細&gt;</original>
+			<edited>ポッキー/ポッキー&lt;極細&gt;</edited>
+			<subEntries />
+		</entry>
+		<entry name="BokeTsukkomi" offset="00" relocatable="true" max_length="0">
+			<original>ボケ/ツッコミ</original>
+			<edited>ボケ/ツッコミ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SePa" offset="00" relocatable="true" max_length="0">
+			<original>セ・リーグ/パ・リーグ</original>
+			<edited>セ・リーグ/パ・リーグ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PineArinaNashi" offset="00" relocatable="true" max_length="0">
+			<original>パインなし/あり</original>
+			<edited>パインなし/あり</edited>
+			<subEntries />
+		</entry>
+		<entry name="VampireWarewolf" offset="00" relocatable="true" max_length="0">
+			<original>吸血鬼/狼人間</original>
+			<edited>吸血鬼/狼人間</edited>
+			<subEntries />
+		</entry>
+		<entry name="ScifiFantasy" offset="00" relocatable="true" max_length="0">
+			<original>SF/ファンタジー</original>
+			<edited>SF/ファンタジー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SweaterSocks" offset="00" relocatable="true" max_length="0">
+			<original>セーター/ソックス</original>
+			<edited>セーター/ソックス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MoneyLove" offset="00" relocatable="true" max_length="0">
+			<original>お金/愛</original>
+			<edited>お金/愛</edited>
+			<subEntries />
+		</entry>
+		<entry name="BaseballSoccer" offset="00" relocatable="true" max_length="0">
+			<original>野球/サッカー</original>
+			<edited>野球/サッカー</edited>
+			<subEntries />
+		</entry>
+		<entry name="ForkSpoon" offset="00" relocatable="true" max_length="0">
+			<original>フォーク/スプーン</original>
+			<edited>フォーク/スプーン</edited>
+			<subEntries />
+		</entry>
+		<entry name="SalsaGuacamole" offset="00" relocatable="true" max_length="0">
+			<original>サルサ/ワカモレ</original>
+			<edited>サルサ/ワカモレ</edited>
+			<subEntries />
+		</entry>
+		<entry name="UnicornIkkaku" offset="00" relocatable="true" max_length="0">
+			<original>ユニコーン/イッカク</original>
+			<edited>ユニコーン/イッカク</edited>
+			<subEntries />
+		</entry>
+		<entry name="FrontBack" offset="00" relocatable="true" max_length="0">
+			<original>トイレットペーパー表/裏</original>
+			<edited>トイレットペーパー表/裏</edited>
+			<subEntries />
+		</entry>
+		<entry name="WarmCold" offset="00" relocatable="true" max_length="0">
+			<original>朝食あたたかい/つめたい</original>
+			<edited>朝食あたたかい/つめたい</edited>
+			<subEntries />
+		</entry>
+		<entry name="MovieBook" offset="00" relocatable="true" max_length="0">
+			<original>映画/本</original>
+			<edited>映画/本</edited>
+			<subEntries />
+		</entry>
+		<entry name="GherkoutGherkin" offset="00" relocatable="true" max_length="0">
+			<original>ピクルス抜き/入り</original>
+			<edited>ピクルス抜き/入り</edited>
+			<subEntries />
+		</entry>
+		<entry name="SoltCharamel" offset="00" relocatable="true" max_length="0">
+			<original>塩味/甘味</original>
+			<edited>塩味/甘味</edited>
+			<subEntries />
+		</entry>
+		<entry name="OutdoorRelax" offset="00" relocatable="true" max_length="0">
+			<original>冒険/リラックス</original>
+			<edited>冒険/リラックス</edited>
+			<subEntries />
+		</entry>
+		<entry name="EatitSaveit" offset="00" relocatable="true" max_length="0">
+			<original>好きなもの最初に食べる/最後に食べる</original>
+			<edited>好きなもの最初に食べる/最後に食べる</edited>
+			<subEntries />
+		</entry>
+		<entry name="AdultChild" offset="00" relocatable="true" max_length="0">
+			<original>子供/大人</original>
+			<edited>子供/大人</edited>
+			<subEntries />
+		</entry>
+		<entry name="MayoKetcha" offset="00" relocatable="true" max_length="0">
+			<original>マヨ/ケチャ</original>
+			<edited>マヨ/ケチャ</edited>
+			<subEntries />
+		</entry>
+		<entry name="ActionComedy" offset="00" relocatable="true" max_length="0">
+			<original>アクション/コメディ</original>
+			<edited>アクション/コメディ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SquidOctopus" offset="00" relocatable="true" max_length="0">
+			<original>イカ/タコ</original>
+			<edited>イカ/タコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="TrickTreat" offset="00" relocatable="true" max_length="0">
+			<original>トリック/トリート</original>
+			<edited>トリック/トリート</edited>
+			<subEntries />
+		</entry>
+		<entry name="HeloVillain" offset="00" relocatable="true" max_length="0">
+			<original>ヒーロー/ヴィラン</original>
+			<edited>ヒーロー/ヴィラン</edited>
+			<subEntries />
+		</entry>
+		<entry name="FamilyFriend" offset="00" relocatable="true" max_length="0">
+			<original>家族/仲間</original>
+			<edited>家族/仲間</edited>
+			<subEntries />
+		</entry>
+		<entry name="KnightMagician" offset="00" relocatable="true" max_length="0">
+			<original>騎士/魔法使い</original>
+			<edited>騎士/魔法使い</edited>
+			<subEntries />
+		</entry>
+		<entry name="UsagiKame" offset="00" relocatable="true" max_length="0">
+			<original>ウサギ/カメ</original>
+			<edited>ウサギ/カメ</edited>
+			<subEntries />
+		</entry>
+		<entry name="ChaosOrder" offset="00" relocatable="true" max_length="0">
+			<original>混沌/秩序</original>
+			<edited>混沌/秩序</edited>
+			<subEntries />
+		</entry>
+		<entry name="CakeIce" offset="00" relocatable="true" max_length="0">
+			<original>ケーキ/アイス</original>
+			<edited>ケーキ/アイス</edited>
+			<subEntries />
+		</entry>
+		<entry name="FlightInvisible" offset="00" relocatable="true" max_length="0">
+			<original>飛行/透明</original>
+			<edited>飛行/透明</edited>
+			<subEntries />
+		</entry>
+		<entry name="ChickenEgg" offset="00" relocatable="true" max_length="0">
+			<original>ニワトリ/たまご</original>
+			<edited>ニワトリ/たまご</edited>
+			<subEntries />
+		</entry>
+		<entry name="RaphLeo" offset="00" relocatable="true" max_length="0">
+			<original>ニンジャレッド/ニンジャブルー</original>
+			<edited>ニンジャレッド/ニンジャブルー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MikeyDonnie" offset="00" relocatable="true" max_length="0">
+			<original>ニンジャオレンジ/ニンジャパープル</original>
+			<edited>ニンジャオレンジ/ニンジャパープル</edited>
+			<subEntries />
+		</entry>
+		<entry name="PulpNopulp" offset="00" relocatable="true" max_length="0">
+			<original>果粒入り/なし</original>
+			<edited>果粒入り/なし</edited>
+			<subEntries />
+		</entry>
+		<entry name="RetroModern" offset="00" relocatable="true" max_length="0">
+			<original>レトロ/モダン</original>
+			<edited>レトロ/モダン</edited>
+			<subEntries />
+		</entry>
+		<entry name="PancakeWaffle" offset="00" relocatable="true" max_length="0">
+			<original>パンケーキ/ワッフル</original>
+			<edited>パンケーキ/ワッフル</edited>
+			<subEntries />
+		</entry>
+		<entry name="TimetravelTeleportation" offset="00" relocatable="true" max_length="0">
+			<original>タイムトラベル/テレポーテーション</original>
+			<edited>タイムトラベル/テレポーテーション</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

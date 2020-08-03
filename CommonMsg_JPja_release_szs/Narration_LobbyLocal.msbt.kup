@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="First_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカッチャ&#xE;&#x0;&#x3;&#x2;ÿÿへようこそ！ ここは Switch本体どうしを
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ローカル通信&#xE;&#x0;&#x3;&#x2;ÿÿでつないで 遊ぶことができるスペースだ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;プライベートマッチ &#xE;&#x0;&#x3;&#x2;ÿÿと &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;SALMON RUN &#xE;&#x0;&#x3;&#x2;ÿÿから 好きなほうを選んで
+仲間といっしょに エンジョイしてくれ！&#xE;&#x0;&#x4;&#x0;イカッチャで遊ぶと &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカッチャスタンプ &#xE;&#x0;&#x3;&#x2;ÿÿを押してもらえるぞ！
+スタンプがたまったら イカした景品もゲットできるっちゃ！</original>
+			<edited>欢迎来到&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;贼能行&#xE;&#x0;&#x3;&#x2;ÿÿ！ 这里是可以让 Switch本体之间
+通过&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;本地通讯&#xE;&#x0;&#x3;&#x2;ÿÿ连接在一起游玩的空间！&#xE;&#x0;&#x4;&#x0;从 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;私人比赛 &#xE;&#x0;&#x3;&#x2;ÿÿ和 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;SALMON RUN &#xE;&#x0;&#x3;&#x2;ÿÿ里 选喜欢的一项
+和同伴一起 快乐享受吧！&#xE;&#x0;&#x4;&#x0;游玩贼能行 可以集 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;贼能行印章 &#xE;&#x0;&#x3;&#x2;ÿÿ哦！
+积攒印章 可以拿到贼好康的奖品哦！</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_01" offset="00" relocatable="true" max_length="0">
+			<original>それじゃあ、はじめて入店した記念に
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イカッチャスタンプ&#xE;&#x0;&#x3;&#x2;ÿÿを１つ プレゼントしよう！</original>
+			<edited>那么，作为初次进店纪念
+送上１个&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;贼能行印章&#xE;&#x0;&#x3;&#x2;ÿÿ吧！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

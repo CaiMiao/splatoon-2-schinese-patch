@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで ボムをきちんと投げましょウ</original>
+			<edited>&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで ボムをきちんと投げましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>インクレールの上で ジャンプすれば高くとべまス</original>
+			<edited>インクレールの上で ジャンプすれば高くとべまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプしながら ボムを投げル…</original>
+			<edited>ジャンプしながら ボムを投げル…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_0001" offset="00" relocatable="true" max_length="0">
+			<original>そのボムで 箱マトを壊すようですね…</original>
+			<edited>そのボムで 箱マトを壊すようですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_0002" offset="00" relocatable="true" max_length="0">
+			<original>門が開いたゾ！</original>
+			<edited>門が開いたゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_0003" offset="00" relocatable="true" max_length="0">
+			<original>…イヤな 予感がします</original>
+			<edited>…イヤな 予感がします</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_0004" offset="00" relocatable="true" max_length="0">
+			<original>ゲッ… ヤバそーなのが出た！</original>
+			<edited>ゲッ… ヤバそーなのが出た！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_0006" offset="00" relocatable="true" max_length="0">
+			<original>フォー！  まーべらすじゃ！</original>
+			<edited>フォー！  まーべらすじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_0007" offset="00" relocatable="true" max_length="0">
+			<original>お！ ジャンプポイント、出たゾ！</original>
+			<edited>お！ ジャンプポイント、出たゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_0008" offset="00" relocatable="true" max_length="0">
+			<original>インクレールです！ センプクして&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でジャ～ンプ♪</original>
+			<edited>インクレールです！ センプクして&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でジャ～ンプ♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_0009" offset="00" relocatable="true" max_length="0">
+			<original>…何か いるゾ</original>
+			<edited>…何か いるゾ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_0010" offset="00" relocatable="true" max_length="0">
+			<original>ここも ジャンプしながら、ボム乗せていきましょ～♪</original>
+			<edited>ここも ジャンプしながら、ボム乗せていきましょ～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_0011" offset="00" relocatable="true" max_length="0">
+			<original>敵じゃ！ 肉を切らせて骨を断つ、戦場の鉄則ゥ！</original>
+			<edited>敵じゃ！ 肉を切らせて骨を断つ、戦場の鉄則ゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Bomb_0012" offset="00" relocatable="true" max_length="0">
+			<original>ここはジャンプして、ボムを投げましょ～♪</original>
+			<edited>ここはジャンプして、ボムを投げましょ～♪</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

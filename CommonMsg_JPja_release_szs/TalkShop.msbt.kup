@@ -1,0 +1,710 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Weapon_Welcome" offset="00" relocatable="true" max_length="0">
+			<original>いらっしゃいやし～！
+バトルでイカせるブキを 見ていくでし！</original>
+			<edited>いらっしゃいやし～！
+バトルでイカせるブキを 見ていくでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Weapon_First" offset="00" relocatable="true" max_length="0">
+			<original>いらっしゃいやし～！
+バトルのブキなら 何でもそろう
+カンブリアームズに ようこそでし！&#xE;&#x0;&#x4;&#x0;ブキは&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で使う &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;メインウェポン&#xE;&#x0;&#x3;&#x2;ÿÿと
+&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サブウェポン&#xE;&#x0;&#x3;&#x2;ÿÿ、そして
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スペシャルウェポン&#xE;&#x0;&#x3;&#x2;ÿÿから 成り立つでし！&#xE;&#x0;&#x4;&#x0;お店のブキは いつでも
+&#xE;&#x2;&#x1A;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; で 試しうちできるので、
+気軽に 試してくれたら いいでし&#xE;&#x0;&#x4;&#x0;試しうちでは、 &#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で ブキチェンジもできて
+ブキを選んでいるときに &#xE;&#x2;!&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押せば
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サブとスペシャルの説明&#xE;&#x0;&#x3;&#x2;ÿÿも確認できるでし！&#xE;&#x0;&#x4;&#x0;メインウェポンのくわしい性能は、
+お店の中で&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押してくれたら
+しっかり 説明させてもらうでし！</original>
+			<edited>いらっしゃいやし～！
+バトルのブキなら 何でもそろう
+カンブリアームズに ようこそでし！&#xE;&#x0;&#x4;&#x0;ブキは&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で使う &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;メインウェポン&#xE;&#x0;&#x3;&#x2;ÿÿと
+&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サブウェポン&#xE;&#x0;&#x3;&#x2;ÿÿ、そして
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スペシャルウェポン&#xE;&#x0;&#x3;&#x2;ÿÿから 成り立つでし！&#xE;&#x0;&#x4;&#x0;お店のブキは いつでも
+&#xE;&#x2;&#x1A;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; で 試しうちできるので、
+気軽に 試してくれたら いいでし&#xE;&#x0;&#x4;&#x0;試しうちでは、 &#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で ブキチェンジもできて
+ブキを選んでいるときに &#xE;&#x2;!&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押せば
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サブとスペシャルの説明&#xE;&#x0;&#x3;&#x2;ÿÿも確認できるでし！&#xE;&#x0;&#x4;&#x0;メインウェポンのくわしい性能は、
+お店の中で&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押してくれたら
+しっかり 説明させてもらうでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Weapon_Offline" offset="00" relocatable="true" max_length="0">
+			<original>いらっしゃいやし～！&#xE;&#x0;&#x4;&#x0;…ってキミ、オフラインじゃないでしか！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インターネット&#xE;&#x0;&#x3;&#x2;ÿÿに つなげてから来るでし！</original>
+			<edited>いらっしゃいやし～！&#xE;&#x0;&#x4;&#x0;…ってキミ、オフラインじゃないでしか！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インターネット&#xE;&#x0;&#x3;&#x2;ÿÿに つなげてから来るでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Weapon_RankShortage" offset="00" relocatable="true" max_length="0">
+			<original>いらっしゃいやし～！
+…ってキミ！ もしかして
+そのブキしか 持ってないんでしか？&#xE;&#x0;&#x4;&#x0;新しいブキを 使いこなして
+早くイカしたヤツに なるでし！&#xE;&#x0;&#x4;&#x0;…と言いたいところでしが、
+ランク１とか 経験足りなさ過ぎでし！&#xE;&#x0;&#x4;&#x0;ボクのブキを かわいがるには
+せめて&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク２&#xE;&#x0;&#x3;&#x2;ÿÿに
+なってて欲しいでしから、&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿに行って
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ナワバリバトル&#xE;&#x0;&#x3;&#x2;ÿÿを何回かやって
+ランクを 上げてくるでし</original>
+			<edited>いらっしゃいやし～！
+…ってキミ！ もしかして
+そのブキしか 持ってないんでしか？&#xE;&#x0;&#x4;&#x0;新しいブキを 使いこなして
+早くイカしたヤツに なるでし！&#xE;&#x0;&#x4;&#x0;…と言いたいところでしが、
+ランク１とか 経験足りなさ過ぎでし！&#xE;&#x0;&#x4;&#x0;ボクのブキを かわいがるには
+せめて&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク２&#xE;&#x0;&#x3;&#x2;ÿÿに
+なってて欲しいでしから、&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿに行って
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ナワバリバトル&#xE;&#x0;&#x3;&#x2;ÿÿを何回かやって
+ランクを 上げてくるでし</edited>
+			<subEntries />
+		</entry>
+		<entry name="Weapon_Buy" offset="00" relocatable="true" max_length="0">
+			<original>買ってくでしか？</original>
+			<edited>買ってくでしか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Weapon_Equip" offset="00" relocatable="true" max_length="0">
+			<original>そうびしてくでしか？</original>
+			<edited>そうびしてくでしか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Weapon_Shortage" offset="00" relocatable="true" max_length="0">
+			<original>おカネ、足りないでし…
+そんなんじゃ ボクの宝物は
+売れないでし…</original>
+			<edited>おカネ、足りないでし…
+そんなんじゃ ボクの宝物は
+売れないでし…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Weapon_SoldOut" offset="00" relocatable="true" max_length="0">
+			<original>そのブキは もう持ってるはずでし！</original>
+			<edited>そのブキは もう持ってるはずでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Weapon_ThankYou" offset="00" relocatable="true" max_length="0">
+			<original>ありがとうございやしたー！
+ブキを変えたいなら
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿから 変えられるでし！</original>
+			<edited>ありがとうございやしたー！
+ブキを変えたいなら
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿから 変えられるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Weapon_ShootingRange" offset="00" relocatable="true" max_length="0">
+			<original>試しうち、してくでしか？</original>
+			<edited>試しうち、してくでしか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Weapon_Unlock_00" offset="00" relocatable="true" max_length="0">
+			<original>キミのランクで あつかえる
+新しいブキが あるでし！
+早く買って たくさんかわいがるでし！</original>
+			<edited>キミのランクで あつかえる
+新しいブキが あるでし！
+早く買って たくさんかわいがるでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Weapon_Unlock_01" offset="00" relocatable="true" max_length="0">
+			<original>キミのランクなら
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿを
+あつかってもいいころでし！</original>
+			<edited>キミのランクなら
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿを
+あつかってもいいころでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Weapon_Unlock_02" offset="00" relocatable="true" max_length="0">
+			<original>さらに… キミのランクなら
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿも
+あつかってもいいころでし！</original>
+			<edited>さらに… キミのランクなら
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿも
+あつかってもいいころでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Weapon_Hero_00" offset="00" relocatable="true" max_length="0">
+			<original>そういえば、とある場所で
+ブキの モニターテストを やっていたのでしが
+そのデータが 取り終わったんでし！&#xE;&#x0;&#x4;&#x0;ちょうど 製品化できたところなので
+ぜひとも 見ていって欲しいでし！</original>
+			<edited>そういえば、とある場所で
+ブキの モニターテストを やっていたのでしが
+そのデータが 取り終わったんでし！&#xE;&#x0;&#x4;&#x0;ちょうど 製品化できたところなので
+ぜひとも 見ていって欲しいでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Weapon_Hero_01" offset="00" relocatable="true" max_length="0">
+			<original>キミのランクなら
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿを
+使いこなせるころでし！</original>
+			<edited>キミのランクなら
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿを
+使いこなせるころでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Weapon_Hero_02" offset="00" relocatable="true" max_length="0">
+			<original>さらに… キミのランクなら
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿも
+使いこなせるころでし！</original>
+			<edited>さらに… キミのランクなら
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í&#xE;&#x0;&#x3;&#x2;ÿÿも
+使いこなせるころでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Weapon_Hero_03" offset="00" relocatable="true" max_length="0">
+			<original>データも取り終えて 製品化できたでしが
+キミが かわいがるには
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク&#xE;&#x0;&#x3;&#x2;ÿÿが足りないでし！&#xE;&#x0;&#x4;&#x0;取っといてあげるから、
+もっと &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク&#xE;&#x0;&#x3;&#x2;ÿÿを上げてから
+買いに来るでし！</original>
+			<edited>データも取り終えて 製品化できたでしが
+キミが かわいがるには
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク&#xE;&#x0;&#x3;&#x2;ÿÿが足りないでし！&#xE;&#x0;&#x4;&#x0;取っといてあげるから、
+もっと &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク&#xE;&#x0;&#x3;&#x2;ÿÿを上げてから
+買いに来るでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Weapon_Hero_04" offset="00" relocatable="true" max_length="0">
+			<original>ムムム…
+かわいがるには キミの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク&#xE;&#x0;&#x3;&#x2;ÿÿが
+足りないブキが あるでし！&#xE;&#x0;&#x4;&#x0;そっちは ちゃんと&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク&#xE;&#x0;&#x3;&#x2;ÿÿを上げてから
+買いに来るでし！</original>
+			<edited>ムムム…
+かわいがるには キミの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク&#xE;&#x0;&#x3;&#x2;ÿÿが
+足りないブキが あるでし！&#xE;&#x0;&#x4;&#x0;そっちは ちゃんと&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク&#xE;&#x0;&#x3;&#x2;ÿÿを上げてから
+買いに来るでし！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_Welcome" offset="00" relocatable="true" max_length="0">
+			<original>ゥン…？ あ～、いらっはあ～い</original>
+			<edited>ゥン…？ あ～、いらっはあ～い</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_Welcome_s" offset="00" relocatable="true" max_length="0">
+			<original>……</original>
+			<edited>……</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_Offline" offset="00" relocatable="true" max_length="0">
+			<original>ゥン…？ あ～、いらっはあ～い
+あっれえ～？イカちゃん、オフラインじゃん？
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インターネット&#xE;&#x0;&#x3;&#x2;ÿÿに つないだら また来てね～</original>
+			<edited>ゥン…？ あ～、いらっはあ～い
+あっれえ～？イカちゃん、オフラインじゃん？
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インターネット&#xE;&#x0;&#x3;&#x2;ÿÿに つないだら また来てね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_Offline_s" offset="00" relocatable="true" max_length="0">
+			<original>…またきてね</original>
+			<edited>…またきてね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_RankShortage" offset="00" relocatable="true" max_length="0">
+			<original>ゥン…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; あ～、いらっはあ～い
+えっ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;あ～、えっと～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;ここのお店は、イカしたイカちゃんたちに
+向けて売るカンジなんらよね～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+イカしてないコには、ちょっとねぇ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;う～ん…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク４&#xE;&#x0;&#x3;&#x2;ÿÿになれば
+ちょっとは イカしたイカちゃんに
+なれそうな気がするじゃん？&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿに行って、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ナワバリバトル&#xE;&#x0;&#x3;&#x2;ÿÿを
+ピャ～っと やってみ？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+そしたら ランクが上がると思うよお？</original>
+			<edited>ゥン…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; あ～、いらっはあ～い
+えっ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;あ～、えっと～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;ここのお店は、イカしたイカちゃんたちに
+向けて売るカンジなんらよね～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+イカしてないコには、ちょっとねぇ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;う～ん…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク４&#xE;&#x0;&#x3;&#x2;ÿÿになれば
+ちょっとは イカしたイカちゃんに
+なれそうな気がするじゃん？&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿに行って、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ナワバリバトル&#xE;&#x0;&#x3;&#x2;ÿÿを
+ピャ～っと やってみ？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+そしたら ランクが上がると思うよお？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_RankShortage_s" offset="00" relocatable="true" max_length="0">
+			<original>…ゴメンナサイ</original>
+			<edited>…ゴメンナサイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_LineupLevel_01" offset="00" relocatable="true" max_length="0">
+			<original>ゥン…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; あ～、いらっはあ～い
+あっれえ～？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; かわいいイカちゃんじゃあん
+エボシ・エボシに ようこそお&#xE;&#x0;&#x4;&#x0;それぞれのギアにはね、
+バトルで 効果を発揮してくれる
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿが ついてるんらよぉ？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;ま～、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;くわしいこた&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押したら
+ゼンブわかっしい、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;そっち見てくれたら
+バッチリだからあ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; あとはよろしく～～</original>
+			<edited>ゥン…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; あ～、いらっはあ～い
+あっれえ～？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; かわいいイカちゃんじゃあん
+エボシ・エボシに ようこそお&#xE;&#x0;&#x4;&#x0;それぞれのギアにはね、
+バトルで 効果を発揮してくれる
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿが ついてるんらよぉ？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;ま～、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;くわしいこた&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押したら
+ゼンブわかっしい、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;そっち見てくれたら
+バッチリだからあ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; あとはよろしく～～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_LineupLevel_01_s" offset="00" relocatable="true" max_length="0">
+			<original>…ヨロシクね</original>
+			<edited>…ヨロシクね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_LineupLevel_02" offset="00" relocatable="true" max_length="0">
+			<original>ゥン…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; あ～、いらっはあ～い
+あっれえ～？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; イカちゃんじゃあん！
+エボシ・エボシに ようこそお&#xE;&#x0;&#x4;&#x0;なかなか、イカしてんじゃ～ん？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+お似合いのギア、探しとこっかねぇ？</original>
+			<edited>ゥン…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; あ～、いらっはあ～い
+あっれえ～？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; イカちゃんじゃあん！
+エボシ・エボシに ようこそお&#xE;&#x0;&#x4;&#x0;なかなか、イカしてんじゃ～ん？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+お似合いのギア、探しとこっかねぇ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_LineupLevel_02_s" offset="00" relocatable="true" max_length="0">
+			<original>…イカしてるっ！</original>
+			<edited>…イカしてるっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_LineupLevel_03" offset="00" relocatable="true" max_length="0">
+			<original>ゥン…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; あ～、いらっはあ～い
+あれぇ？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; イカちゃん…？&#xE;&#x0;&#x4;&#x0;すごぉい、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;もうどこもかしこも
+一人前じゃあ～ん！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+これからもウチの店、ひいきにしてねぇ</original>
+			<edited>ゥン…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; あ～、いらっはあ～い
+あれぇ？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; イカちゃん…？&#xE;&#x0;&#x4;&#x0;すごぉい、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;もうどこもかしこも
+一人前じゃあ～ん！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+これからもウチの店、ひいきにしてねぇ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_LineupLevel_03_s" offset="00" relocatable="true" max_length="0">
+			<original>わあ…スゴイっ…</original>
+			<edited>わあ…スゴイっ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_LineupLevel_04" offset="00" relocatable="true" max_length="0">
+			<original>ゥン…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; あ～、いらっはあ～い
+エボシ・エボシに ようこそお&#xE;&#x0;&#x4;&#x0;ヤバヤバッ！ けっこうイカしてきたんじゃん？
+イカちゃんのために 在庫がんばって
+そろえとくわ～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;</original>
+			<edited>ゥン…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; あ～、いらっはあ～い
+エボシ・エボシに ようこそお&#xE;&#x0;&#x4;&#x0;ヤバヤバッ！ けっこうイカしてきたんじゃん？
+イカちゃんのために 在庫がんばって
+そろえとくわ～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_LineupLevel_04_s" offset="00" relocatable="true" max_length="0">
+			<original>ザイコ…みてくるっ！</original>
+			<edited>ザイコ…みてくるっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_LineupLevel_05" offset="00" relocatable="true" max_length="0">
+			<original>ゥン…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; あ～、いらっはあ～い
+エボシ・エボシに ようこそお&#xE;&#x0;&#x4;&#x0;あっれえぇ…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; イカちゃん？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+んもお～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ちょおイカしてるじゃん？！
+もぅ、何でも似合うカンジじゃ～ん？</original>
+			<edited>ゥン…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; あ～、いらっはあ～い
+エボシ・エボシに ようこそお&#xE;&#x0;&#x4;&#x0;あっれえぇ…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; イカちゃん？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+んもお～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ちょおイカしてるじゃん？！
+もぅ、何でも似合うカンジじゃ～ん？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_LineupLevel_05_s" offset="00" relocatable="true" max_length="0">
+			<original>…なんでもタメしてみて！</original>
+			<edited>…なんでもタメしてみて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_LineupLevel_06" offset="00" relocatable="true" max_length="0">
+			<original>ゥン…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; あ～、いらっはあ～い
+エボシ・エボシに ようこそお&#xE;&#x0;&#x4;&#x0;ヴェ～～～！！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; あのかわいいイカちゃんが
+こんなに イカしたイカちゃんになるなんて…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+次からは イカちゃんなんて呼べないねぇ</original>
+			<edited>ゥン…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; あ～、いらっはあ～い
+エボシ・エボシに ようこそお&#xE;&#x0;&#x4;&#x0;ヴェ～～～！！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; あのかわいいイカちゃんが
+こんなに イカしたイカちゃんになるなんて…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+次からは イカちゃんなんて呼べないねぇ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_LineupLevel_06_s" offset="00" relocatable="true" max_length="0">
+			<original>…ま、まぶしいです！</original>
+			<edited>…ま、まぶしいです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_RepeatInfo" offset="00" relocatable="true" max_length="0">
+			<original>あ～、そういえばねぇ
+最近新しいサービス始めたんらよ～&#xE;&#x0;&#x4;&#x0;ゲソタウンで買ったギアって
+ギアパワーが ちがうっしょ～？&#xE;&#x0;&#x4;&#x0;だからぁ、買い替えできるようにしたんじゃん？
+買い替えられるギアには&#xE;&#x2;,&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;が
+付いてるから～、まぁ見てってちょうだいねぇ</original>
+			<edited>あ～、そういえばねぇ
+最近新しいサービス始めたんらよ～&#xE;&#x0;&#x4;&#x0;ゲソタウンで買ったギアって
+ギアパワーが ちがうっしょ～？&#xE;&#x0;&#x4;&#x0;だからぁ、買い替えできるようにしたんじゃん？
+買い替えられるギアには&#xE;&#x2;,&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;が
+付いてるから～、まぁ見てってちょうだいねぇ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_Buy" offset="00" relocatable="true" max_length="0">
+			<original>買ってく～～？</original>
+			<edited>買ってく～～？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_Equip" offset="00" relocatable="true" max_length="0">
+			<original>そうびしてく～～？</original>
+			<edited>そうびしてく～～？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_Shortage" offset="00" relocatable="true" max_length="0">
+			<original>ヴェ～～～！ ちょっとお！
+おカネ 足りないんらけど！！</original>
+			<edited>ヴェ～～～！ ちょっとお！
+おカネ 足りないんらけど！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_Shortage_s" offset="00" relocatable="true" max_length="0">
+			<original>…つぎは わすれないでね</original>
+			<edited>…つぎは わすれないでね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_SoldOut" offset="00" relocatable="true" max_length="0">
+			<original>…あれぇ？
+それもう 持ってんじゃあ～ん</original>
+			<edited>…あれぇ？
+それもう 持ってんじゃあ～ん</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_SoldOut_s" offset="00" relocatable="true" max_length="0">
+			<original>もってる もってる</original>
+			<edited>もってる もってる</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_RepeatBuy" offset="00" relocatable="true" max_length="0">
+			<original>あっれぇ～？
+ギアパワーが ちがうの持ってんじゃ～ん
+ウチのと買い替えてく～？</original>
+			<edited>あっれぇ～？
+ギアパワーが ちがうの持ってんじゃ～ん
+ウチのと買い替えてく～？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_ThankYou" offset="00" relocatable="true" max_length="0">
+			<original>ありがとね～
+ギアを変えたいなら
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿから いけるから～</original>
+			<edited>ありがとね～
+ギアを変えたいなら
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿから いけるから～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Head_ThankYou_s" offset="00" relocatable="true" max_length="0">
+			<original>また、おねがいします！</original>
+			<edited>また、おねがいします！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clothes_Welcome" offset="00" relocatable="true" max_length="0">
+			<original>これやこの よくきた、よくきた</original>
+			<edited>これやこの よくきた、よくきた</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clothes_Offline" offset="00" relocatable="true" max_length="0">
+			<original>入店感謝に そうらへども
+オフラインにて そうろう
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インターネット&#xE;&#x0;&#x3;&#x2;ÿÿ接続し
+ひとたびご来店で いとをかし</original>
+			<edited>入店感謝に そうらへども
+オフラインにて そうろう
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インターネット&#xE;&#x0;&#x3;&#x2;ÿÿ接続し
+ひとたびご来店で いとをかし</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clothes_RankShortage" offset="00" relocatable="true" max_length="0">
+			<original>フエール・ボン・クレーにて 入店感謝
+…されど、入店オコトワリ なり&#xE;&#x0;&#x4;&#x0;ナンジのイカしてなさ この上無し
+まずは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク４&#xE;&#x0;&#x3;&#x2;ÿÿ 目指したまへ
+そして ちょっとイカせば いとをかし&#xE;&#x0;&#x4;&#x0;ランク上ぐるには
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ナワバリバトル&#xE;&#x0;&#x3;&#x2;ÿÿくり返してたまへ
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿからです かしこ</original>
+			<edited>フエール・ボン・クレーにて 入店感謝
+…されど、入店オコトワリ なり&#xE;&#x0;&#x4;&#x0;ナンジのイカしてなさ この上無し
+まずは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク４&#xE;&#x0;&#x3;&#x2;ÿÿ 目指したまへ
+そして ちょっとイカせば いとをかし&#xE;&#x0;&#x4;&#x0;ランク上ぐるには
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ナワバリバトル&#xE;&#x0;&#x3;&#x2;ÿÿくり返してたまへ
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿからです かしこ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clothes_LineupLevel_01" offset="00" relocatable="true" max_length="0">
+			<original>フエール・ボン・クレーにて 入店感謝
+ナンジ買う 我 いとをかし&#xE;&#x0;&#x4;&#x0;ギアに付くは すなはちギアパワー
+ギアパワーで ナンジ有利になるらむ
+そしてバトルあり 勝利せば
+ナンジまたフク買う 我 いとをかし&#xE;&#x0;&#x4;&#x0;くわしくは、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して
+確認したまへ</original>
+			<edited>フエール・ボン・クレーにて 入店感謝
+ナンジ買う 我 いとをかし&#xE;&#x0;&#x4;&#x0;ギアに付くは すなはちギアパワー
+ギアパワーで ナンジ有利になるらむ
+そしてバトルあり 勝利せば
+ナンジまたフク買う 我 いとをかし&#xE;&#x0;&#x4;&#x0;くわしくは、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して
+確認したまへ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clothes_LineupLevel_02" offset="00" relocatable="true" max_length="0">
+			<original>フエール・ボン・クレーにて 入店感謝&#xE;&#x0;&#x4;&#x0;今まさにナンジ イカしたり
+わが店にてフク 買ひそろふれば
+なほイカすこと この上無し</original>
+			<edited>フエール・ボン・クレーにて 入店感謝&#xE;&#x0;&#x4;&#x0;今まさにナンジ イカしたり
+わが店にてフク 買ひそろふれば
+なほイカすこと この上無し</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clothes_LineupLevel_03" offset="00" relocatable="true" max_length="0">
+			<original>フエール・ボン・クレーにて 入店感謝&#xE;&#x0;&#x4;&#x0;ナンジ、一人前と 認めざるを得なき
+さらなるバトル 要求しはべり
+フク なほ買ひたまへ</original>
+			<edited>フエール・ボン・クレーにて 入店感謝&#xE;&#x0;&#x4;&#x0;ナンジ、一人前と 認めざるを得なき
+さらなるバトル 要求しはべり
+フク なほ買ひたまへ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clothes_LineupLevel_04" offset="00" relocatable="true" max_length="0">
+			<original>フエール・ボン・クレーにて 入店感謝&#xE;&#x0;&#x4;&#x0;ナンジ 中々イカしそうろう
+我入荷 頑張ること さらなり
+フク なほ買ひたまへ</original>
+			<edited>フエール・ボン・クレーにて 入店感謝&#xE;&#x0;&#x4;&#x0;ナンジ 中々イカしそうろう
+我入荷 頑張ること さらなり
+フク なほ買ひたまへ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clothes_LineupLevel_05" offset="00" relocatable="true" max_length="0">
+			<original>フエール・ボン・クレーにて 入店感謝&#xE;&#x0;&#x4;&#x0;嗚呼、イカしき人 入店せり！
+ワレ 支援する事を 約束す
+ナンジ 近き日のファッショニスタなり</original>
+			<edited>フエール・ボン・クレーにて 入店感謝&#xE;&#x0;&#x4;&#x0;嗚呼、イカしき人 入店せり！
+ワレ 支援する事を 約束す
+ナンジ 近き日のファッショニスタなり</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clothes_LineupLevel_06" offset="00" relocatable="true" max_length="0">
+			<original>フエール・ボン・クレーにて 入店感謝&#xE;&#x0;&#x4;&#x0;嗚呼、いとイカしき人
+我 感動隠し切れず！
+ナンジこそ 真の手本なる ファッショニスタ</original>
+			<edited>フエール・ボン・クレーにて 入店感謝&#xE;&#x0;&#x4;&#x0;嗚呼、いとイカしき人
+我 感動隠し切れず！
+ナンジこそ 真の手本なる ファッショニスタ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clothes_RepeatInfo" offset="00" relocatable="true" max_length="0">
+			<original>我 新しき商い 始めたり&#xE;&#x0;&#x4;&#x0;ナンジ ゲソタウンで買いしギア
+こことは 似て非なるものなり
+それすなわち ギアパワーなり&#xE;&#x0;&#x4;&#x0;我扱いしフク 買い替えを可能とす
+買い替えらるるギアには &#xE;&#x2;,&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;が付くなり
+ナンジまたフク買う 我 いとをかし</original>
+			<edited>我 新しき商い 始めたり&#xE;&#x0;&#x4;&#x0;ナンジ ゲソタウンで買いしギア
+こことは 似て非なるものなり
+それすなわち ギアパワーなり&#xE;&#x0;&#x4;&#x0;我扱いしフク 買い替えを可能とす
+買い替えらるるギアには &#xE;&#x2;,&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;が付くなり
+ナンジまたフク買う 我 いとをかし</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clothes_Buy" offset="00" relocatable="true" max_length="0">
+			<original>かいたまへ</original>
+			<edited>かいたまへ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clothes_Equip" offset="00" relocatable="true" max_length="0">
+			<original>そうびしたまへ</original>
+			<edited>そうびしたまへ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clothes_CannotEquipDurFes" offset="00" relocatable="true" max_length="0">
+			<original>ありがたし
+されども、フェス中 フク着替えるは
+できぬのが 世のコトワリなり</original>
+			<edited>ありがたし
+されども、フェス中 フク着替えるは
+できぬのが 世のコトワリなり</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clothes_Shortage" offset="00" relocatable="true" max_length="0">
+			<original>ゼニ、いとココロもとなし</original>
+			<edited>ゼニ、いとココロもとなし</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clothes_SoldOut" offset="00" relocatable="true" max_length="0">
+			<original>そのフク 売り切れなり</original>
+			<edited>そのフク 売り切れなり</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clothes_RepeatBuy" offset="00" relocatable="true" max_length="0">
+			<original>ナンジ、同じギア 持ちつつも
+ギアパワー 異なるは いとをかし
+願うならば 買い替えたまへ</original>
+			<edited>ナンジ、同じギア 持ちつつも
+ギアパワー 異なるは いとをかし
+願うならば 買い替えたまへ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clothes_ThankYou" offset="00" relocatable="true" max_length="0">
+			<original>購入ありがたし
+ギア変化 願うなれば
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿ 押すべし</original>
+			<edited>購入ありがたし
+ギア変化 願うなれば
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿ 押すべし</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shoes_Welcome" offset="00" relocatable="true" max_length="0">
+			<original>ようこそ、 ドゥーラックシューズへ…</original>
+			<edited>ようこそ、 ドゥーラックシューズへ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shoes_Offline" offset="00" relocatable="true" max_length="0">
+			<original>ようこそ …アレ？
+オフラインだね、キミ
+またおいで そう… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インターネット&#xE;&#x0;&#x3;&#x2;ÿÿにつないで、ね</original>
+			<edited>ようこそ …アレ？
+オフラインだね、キミ
+またおいで そう… &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インターネット&#xE;&#x0;&#x3;&#x2;ÿÿにつないで、ね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shoes_RankShortage" offset="00" relocatable="true" max_length="0">
+			<original>ようこそ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ドゥーラックシューズへ…
+&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;…うん？&#xE;&#x0;&#x4;&#x0;…キミ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;どっちかというとイカしてないね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+そうだな…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク４&#xE;&#x0;&#x3;&#x2;ÿÿに上げてから
+もう一度来てごらん？&#xE;&#x0;&#x4;&#x0;そのほうが 探してあげられると 思うんだ&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+キミに ピッタリのクツをさ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;ランクを上げるなら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿに行ってから
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ナワバリバトル&#xE;&#x0;&#x3;&#x2;ÿÿするといいよ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク４&#xE;&#x0;&#x3;&#x2;ÿÿになったら
+キミにぴったりのクツが きっと、見つかるから…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+またおいで</original>
+			<edited>ようこそ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ドゥーラックシューズへ…
+&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;…うん？&#xE;&#x0;&#x4;&#x0;…キミ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;どっちかというとイカしてないね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+そうだな…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク４&#xE;&#x0;&#x3;&#x2;ÿÿに上げてから
+もう一度来てごらん？&#xE;&#x0;&#x4;&#x0;そのほうが 探してあげられると 思うんだ&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+キミに ピッタリのクツをさ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;&#xE;&#x0;&#x4;&#x0;ランクを上げるなら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ロビー&#xE;&#x0;&#x3;&#x2;ÿÿに行ってから
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ナワバリバトル&#xE;&#x0;&#x3;&#x2;ÿÿするといいよ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク４&#xE;&#x0;&#x3;&#x2;ÿÿになったら
+キミにぴったりのクツが きっと、見つかるから…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+またおいで</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shoes_LineupLevel_01" offset="00" relocatable="true" max_length="0">
+			<original>ようこそ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ドゥーラックシューズへ…&#xE;&#x0;&#x4;&#x0;…フフッ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;イカした若者 一年生って感じだね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+けどさ、 キミは もっとかがやけるよ
+ウチのクツをはいたら、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ね…？&#xE;&#x0;&#x4;&#x0;そう、 それぞれのギアには
+キミの 本当のミリョクを 引き出してくれる
+ギアパワーを付けられるからね&#xE;&#x0;&#x4;&#x0;くわしいことは ゆっくり確認するといいよ
+ほら、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押してさ…</original>
+			<edited>ようこそ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ドゥーラックシューズへ…&#xE;&#x0;&#x4;&#x0;…フフッ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;イカした若者 一年生って感じだね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+けどさ、 キミは もっとかがやけるよ
+ウチのクツをはいたら、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ね…？&#xE;&#x0;&#x4;&#x0;そう、 それぞれのギアには
+キミの 本当のミリョクを 引き出してくれる
+ギアパワーを付けられるからね&#xE;&#x0;&#x4;&#x0;くわしいことは ゆっくり確認するといいよ
+ほら、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; &#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押してさ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shoes_LineupLevel_02" offset="00" relocatable="true" max_length="0">
+			<original>ようこそ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ドゥーラックシューズへ…&#xE;&#x0;&#x4;&#x0;…フフッ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;まあまあイカしたお客さんだね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+これからの成長が 楽しみだな&#xE;&#x0;&#x4;&#x0;まぁ、ゆっくり見ていってほしいな
+&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;キミは きっとまだまだ かがやける、
+そう ウチのクツをはけば、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; きっと…</original>
+			<edited>ようこそ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ドゥーラックシューズへ…&#xE;&#x0;&#x4;&#x0;…フフッ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;まあまあイカしたお客さんだね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+これからの成長が 楽しみだな&#xE;&#x0;&#x4;&#x0;まぁ、ゆっくり見ていってほしいな
+&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;キミは きっとまだまだ かがやける、
+そう ウチのクツをはけば、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; きっと…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shoes_LineupLevel_03" offset="00" relocatable="true" max_length="0">
+			<original>ようこそ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ドゥーラックシューズへ…&#xE;&#x0;&#x4;&#x0;あれっ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; なかなかイカしてるね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+自分の かがやける場所を
+見つけた って顔してるよ、キミ&#xE;&#x0;&#x4;&#x0;ねえ、いいクツ使って
+目指してみたくはないか？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+さらに イカしたルーキーってやつをさ…</original>
+			<edited>ようこそ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ドゥーラックシューズへ…&#xE;&#x0;&#x4;&#x0;あれっ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; なかなかイカしてるね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+自分の かがやける場所を
+見つけた って顔してるよ、キミ&#xE;&#x0;&#x4;&#x0;ねえ、いいクツ使って
+目指してみたくはないか？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+さらに イカしたルーキーってやつをさ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shoes_LineupLevel_04" offset="00" relocatable="true" max_length="0">
+			<original>ようこそ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ドゥーラックシューズへ…&#xE;&#x0;&#x4;&#x0;フフッ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; キミ、イカしてるね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+自信にみちあふれて、 キラキラしてる…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ステキな足だね&#xE;&#x0;&#x4;&#x0;オレも がんばって、
+イカしたクツ 仕入れないとね</original>
+			<edited>ようこそ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ドゥーラックシューズへ…&#xE;&#x0;&#x4;&#x0;フフッ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; キミ、イカしてるね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+自信にみちあふれて、 キラキラしてる…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ステキな足だね&#xE;&#x0;&#x4;&#x0;オレも がんばって、
+イカしたクツ 仕入れないとね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shoes_LineupLevel_05" offset="00" relocatable="true" max_length="0">
+			<original>ようこそ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ドゥーラックシューズへ…&#xE;&#x0;&#x4;&#x0;ああ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; まぶしいな…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+キミ、 かなりイカしているね？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+その目の かがやき、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; まるで プレセペのようだ…</original>
+			<edited>ようこそ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ドゥーラックシューズへ…&#xE;&#x0;&#x4;&#x0;ああ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; まぶしいな…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+キミ、 かなりイカしているね？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+その目の かがやき、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; まるで プレセペのようだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shoes_LineupLevel_06" offset="00" relocatable="true" max_length="0">
+			<original>ようこそ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ドゥーラックシューズへ…&#xE;&#x0;&#x4;&#x0;キミ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 最高にイカしてるよ…！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+オレの目には まぶしすぎて
+ミソが とろけちゃいそうさ…</original>
+			<edited>ようこそ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ドゥーラックシューズへ…&#xE;&#x0;&#x4;&#x0;キミ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 最高にイカしてるよ…！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+オレの目には まぶしすぎて
+ミソが とろけちゃいそうさ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shoes_RepeatInfo" offset="00" relocatable="true" max_length="0">
+			<original>あぁ… そういえばね、
+新しいサービスを始めたんだ…&#xE;&#x0;&#x4;&#x0;ゲソタウンで買ったギアが あるだろう…？
+あれは オレが扱っているものとは
+ギアパワーが ちがうものになっているんだ&#xE;&#x0;&#x4;&#x0;だからさ… 買い替えできるようにしたんだ…
+買い替えられるギアには&#xE;&#x2;,&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;が
+付くようになってるからね</original>
+			<edited>あぁ… そういえばね、
+新しいサービスを始めたんだ…&#xE;&#x0;&#x4;&#x0;ゲソタウンで買ったギアが あるだろう…？
+あれは オレが扱っているものとは
+ギアパワーが ちがうものになっているんだ&#xE;&#x0;&#x4;&#x0;だからさ… 買い替えできるようにしたんだ…
+買い替えられるギアには&#xE;&#x2;,&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;が
+付くようになってるからね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shoes_Buy" offset="00" relocatable="true" max_length="0">
+			<original>それ、買うかい？</original>
+			<edited>それ、買うかい？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shoes_Equip" offset="00" relocatable="true" max_length="0">
+			<original>はかせてあげようか？</original>
+			<edited>はかせてあげようか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shoes_Shortage" offset="00" relocatable="true" max_length="0">
+			<original>足りないんじゃないかな… おカネ</original>
+			<edited>足りないんじゃないかな… おカネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shoes_SoldOut" offset="00" relocatable="true" max_length="0">
+			<original>キミは もう持っているはずだよ、 そのクツを…</original>
+			<edited>キミは もう持っているはずだよ、 そのクツを…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shoes_RepeatBuy" offset="00" relocatable="true" max_length="0">
+			<original>おや…？ それはキミが持っているクツとは
+ギアパワーが ちがうものだね…
+こっちと買い替えていくかい…？</original>
+			<edited>おや…？ それはキミが持っているクツとは
+ギアパワーが ちがうものだね…
+こっちと買い替えていくかい…？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shoes_ThankYou" offset="00" relocatable="true" max_length="0">
+			<original>オーケー…！ ありがとう
+ギアを変えたいときは
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿから できるからね</original>
+			<edited>オーケー…！ ありがとう
+ギアを変えたいときは
+&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カスタマイズ&#xE;&#x0;&#x3;&#x2;ÿÿから できるからね</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

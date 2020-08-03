@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_Button_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>チェックポイントからやり直す</original>
+			<edited>チェックポイントからやり直す</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Text_00" offset="00" relocatable="true" max_length="0">
+			<original>次のエリアへ進みます</original>
+			<edited>次のエリアへ進みます</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Text_01" offset="00" relocatable="true" max_length="0">
+			<original>本当に死闘をくりひろげますか？</original>
+			<edited>本当に死闘をくりひろげますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Button_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>やっぱ自力でがんばる</original>
+			<edited>やっぱ自力でがんばる</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Button_03-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>本当に死闘をくりひろげる</original>
+			<edited>本当に死闘をくりひろげる</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>死闘をくりひろげる</original>
+			<edited>死闘をくりひろげる</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_00-T_Info_01" offset="00" relocatable="true" max_length="0">
+			<original>グルーヴチャージ中</original>
+			<edited>グルーヴチャージ中</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_Progress_00" offset="00" relocatable="true" max_length="0">
+			<original>バイト仲間を待っています</original>
+			<edited>バイト仲間を待っています</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_RuleHeader_00" offset="00" relocatable="true" max_length="0">
+			<original>支給ブキ</original>
+			<edited>配给武器</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_StageHeader_00" offset="00" relocatable="true" max_length="0">
+			<original>ステージ</original>
+			<edited>场地</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_BackBtn_00-T_Back_00" offset="00" relocatable="true" max_length="0">
+			<original>小屋へ</original>
+			<edited>前往小屋</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_00-T_Wait_00" offset="00" relocatable="true" max_length="0">
+			<original>募集中…</original>
+			<edited>募集中…</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_00-T_CoopRank_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_01-T_CoopRank_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_02-T_CoopRank_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_PlayerName_03-T_CoopRank_00" offset="00" relocatable="true" max_length="0">
+			<original>WWWWWWWWWWWWWWWWWWWWWW</original>
+			<edited>WWWWWWWWWWWWWWWWWWWWWW</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_OtherBtn_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>他の仲間をあつめる</original>
+			<edited>他の仲間をあつめる</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_OtherBtn_00-T_KeyBtn_00" offset="00" relocatable="true" max_length="0">
+			<original></original>
+			<edited></edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Start_00" offset="00" relocatable="true" max_length="0">
+			<original>アルバイトの時間です！</original>
+			<edited>アルバイトの時間です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Meter_00-T_NextReward_00" offset="00" relocatable="true" max_length="0">
+			<original>次のレアほうしゅうまで あと</original>
+			<edited>次のレアほうしゅうまで あと</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_CoopRank_00-T_Num_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x1;Í/&#xE;ú&#x2;&#x4;&#x1;&#x0;&#x1;Í</original>
+			<edited>&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x1;Í/&#xE;ú&#x2;&#x4;&#x1;&#x0;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_StartBtn_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>バイトを開始する！</original>
+			<edited>バイトを開始する！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

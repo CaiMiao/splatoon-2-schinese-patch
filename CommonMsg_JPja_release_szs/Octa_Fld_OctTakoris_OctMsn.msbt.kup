@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>ログポイントを８コ全て 集めてくださイ</original>
+			<edited>ログポイントを８コ全て 集めてくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ログポイントは、壊して触れれば ゲットとなりまス</original>
+			<edited>ログポイントは、壊して触れれば ゲットとなりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>カベを塗って 登れる場所を探しましょウ</original>
+			<edited>カベを塗って 登れる場所を探しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
+			<original>インクショットの曲射も 有効に使いましょウ</original>
+			<edited>インクショットの曲射も 有効に使いましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Takoris_00" offset="00" relocatable="true" max_length="0">
+			<original>ここ、頭使うヤツか… あとは任せたっ！</original>
+			<edited>ここ、頭使うヤツか… あとは任せたっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Takoris_01" offset="00" relocatable="true" max_length="0">
+			<original>スイッチONで ぐるっと90度回るみたいです！</original>
+			<edited>スイッチONで ぐるっと90度回るみたいです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Takoris_02" offset="00" relocatable="true" max_length="0">
+			<original>１コ目！ 適当に回せば 何とかなりそうだな！</original>
+			<edited>１コ目！ 適当に回せば 何とかなりそうだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Takoris_03" offset="00" relocatable="true" max_length="0">
+			<original>２コ目です！ 順調ですね♪</original>
+			<edited>２コ目です！ 順調ですね♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Takoris_04" offset="00" relocatable="true" max_length="0">
+			<original>３コ目っ！ となりの部屋からカナアミごしに撃てー！</original>
+			<edited>３コ目っ！ となりの部屋からカナアミごしに撃てー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Takoris_05" offset="00" relocatable="true" max_length="0">
+			<original>４コ目です♪ 半分まできました！</original>
+			<edited>４コ目です♪ 半分まできました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Takoris_06" offset="00" relocatable="true" max_length="0">
+			<original>５コ目！ 頭グルグルするー</original>
+			<edited>５コ目！ 頭グルグルするー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Takoris_07" offset="00" relocatable="true" max_length="0">
+			<original>６コ目です！ 頭回ってきましたね…</original>
+			<edited>６コ目です！ 頭回ってきましたね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Takoris_08" offset="00" relocatable="true" max_length="0">
+			<original>ふぃー ７コ目だ！ あと１コ！</original>
+			<edited>ふぃー ７コ目だ！ あと１コ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Takoris_09" offset="00" relocatable="true" max_length="0">
+			<original>後づめじゃ！ 敵が増えおったぞィ！</original>
+			<edited>後づめじゃ！ 敵が増えおったぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Takoris_10" offset="00" relocatable="true" max_length="0">
+			<original>また敵に加勢じゃ！ 気をつけィ！</original>
+			<edited>また敵に加勢じゃ！ 気をつけィ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

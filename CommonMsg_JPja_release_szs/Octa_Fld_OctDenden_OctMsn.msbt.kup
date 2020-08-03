@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>でんでんスイッチを撃てば、何かが起こりまス</original>
+			<edited>でんでんスイッチを撃てば、何かが起こりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>でんでんスイッチを よく探すのでス</original>
+			<edited>でんでんスイッチを よく探すのでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>足をふみ外さないようにしましょウ</original>
+			<edited>足をふみ外さないようにしましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Denden_0000" offset="00" relocatable="true" max_length="0">
+			<original>ハチ、行けー！</original>
+			<edited>ハチ、行けー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Denden_0001" offset="00" relocatable="true" max_length="0">
+			<original>あめぃじん！</original>
+			<edited>あめぃじん！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Denden_0002" offset="00" relocatable="true" max_length="0">
+			<original>うぉ！ びびった！</original>
+			<edited>うぉ！ びびった！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Denden_0003" offset="00" relocatable="true" max_length="0">
+			<original>ワシも、それを使うと思っとったぞィ！</original>
+			<edited>ワシも、それを使うと思っとったぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Denden_0004" offset="00" relocatable="true" max_length="0">
+			<original>ここは撃ちながら、キヨブタじゃ！</original>
+			<edited>ここは撃ちながら、キヨブタじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Denden_0005" offset="00" relocatable="true" max_length="0">
+			<original>グッドじゃッ！</original>
+			<edited>グッドじゃッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Denden_0006" offset="00" relocatable="true" max_length="0">
+			<original>ホントかー…？</original>
+			<edited>ホントかー…？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Denden_0007" offset="00" relocatable="true" max_length="0">
+			<original>思い切って飛びこめ、ってことですね？</original>
+			<edited>思い切って飛びこめ、ってことですね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Denden_0008" offset="00" relocatable="true" max_length="0">
+			<original>ジジィ、ちょいちょい からんでくるなー…</original>
+			<edited>ジジィ、ちょいちょい からんでくるなー…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Denden_0009" offset="00" relocatable="true" max_length="0">
+			<original>ふぁびゅらすじゃ！</original>
+			<edited>ふぁびゅらすじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Denden_0010" offset="00" relocatable="true" max_length="0">
+			<original>ホメる時のアタリメさん、イキイキしていますね…</original>
+			<edited>ホメる時のアタリメさん、イキイキしていますね…</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

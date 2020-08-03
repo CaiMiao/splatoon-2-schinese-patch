@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>エイトカプセルを守ってくださイ</original>
+			<edited>エイトカプセルを守ってくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>エイトカプセルが破壊されるとアウトでス</original>
+			<edited>エイトカプセルが破壊されるとアウトでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>エイトカプセルを撃つと 少し回復できまス</original>
+			<edited>エイトカプセルを撃つと 少し回復できまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
+			<original>敵がたまる前に、一体ずつ 確実に仕留めましょウ</original>
+			<edited>敵がたまる前に、一体ずつ 確実に仕留めましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseZones_0000" offset="00" relocatable="true" max_length="0">
+			<original>フム… 敵さんが待ち構えておるのゥ</original>
+			<edited>フム… 敵さんが待ち構えておるのゥ</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseZones_0001" offset="00" relocatable="true" max_length="0">
+			<original>己の信じるメインウェポンを選ぶんじゃ</original>
+			<edited>己の信じるメインウェポンを選ぶんじゃ</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseZones_0002" offset="00" relocatable="true" max_length="0">
+			<original>シャー！ どんどん倒せー！</original>
+			<edited>シャー！ どんどん倒せー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseZones_0003" offset="00" relocatable="true" max_length="0">
+			<original>『エイトカプセルを守る』のが 最優先です！</original>
+			<edited>『エイトカプセルを守る』のが 最優先です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseZones_0004" offset="00" relocatable="true" max_length="0">
+			<original>ワシの竹筒なら ２０キルはヨユーじゃぞィ！</original>
+			<edited>ワシの竹筒なら ２０キルはヨユーじゃぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseZones_0005" offset="00" relocatable="true" max_length="0">
+			<original>まだまだ来るぞ！ ふんばれー！</original>
+			<edited>まだまだ来るぞ！ ふんばれー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseZones_0006" offset="00" relocatable="true" max_length="0">
+			<original>あと少し 耐えてください！</original>
+			<edited>あと少し 耐えてください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseZones_0007" offset="00" relocatable="true" max_length="0">
+			<original>防衛の鉄則１！ 最初は敵の着地点をねらえ！</original>
+			<edited>防衛の鉄則１！ 最初は敵の着地点をねらえ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseZones_0008" offset="00" relocatable="true" max_length="0">
+			<original>防衛の鉄則２！ 周囲をこまめに確認！</original>
+			<edited>防衛の鉄則２！ 周囲をこまめに確認！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseZones_0009" offset="00" relocatable="true" max_length="0">
+			<original>防衛の鉄則３！ 耳も使え！ 木箱は壊れてなイカ？</original>
+			<edited>防衛の鉄則３！ 耳も使え！ 木箱は壊れてなイカ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseZones_0010" offset="00" relocatable="true" max_length="0">
+			<original>防衛の鉄則４！ 中ばんは遠くからボムでけん制です！</original>
+			<edited>防衛の鉄則４！ 中ばんは遠くからボムでけん制です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseZones_0011" offset="00" relocatable="true" max_length="0">
+			<original>防衛の鉄則５！ 最後は自分をオトリにして守れ！</original>
+			<edited>防衛の鉄則５！ 最後は自分をオトリにして守れ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseZones_0012" offset="00" relocatable="true" max_length="0">
+			<original>ダメージ たまってきたゾ！</original>
+			<edited>ダメージ たまってきたゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseZones_0013" offset="00" relocatable="true" max_length="0">
+			<original>あ！ エイトカプセルを回復しないと！</original>
+			<edited>あ！ エイトカプセルを回復しないと！</edited>
+			<subEntries />
+		</entry>
+		<entry name="DefenseZones_0014" offset="00" relocatable="true" max_length="0">
+			<original>ふぁんたすてぃっく！ 全員倒したようじゃ！</original>
+			<edited>ふぁんたすてぃっく！ 全員倒したようじゃ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

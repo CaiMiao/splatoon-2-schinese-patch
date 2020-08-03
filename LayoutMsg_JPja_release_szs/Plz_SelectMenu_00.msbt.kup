@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_MenuBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>注文の受け取り</original>
+			<edited>注文の受け取り</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_MenuBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>スロットを増やす/付け直す</original>
+			<edited>スロットを増やす/付け直す</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_MenuBtn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>スロットクリーニング</original>
+			<edited>スロットクリーニング</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_MenuBtn_03-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>ギアパワーの復元</original>
+			<edited>ギアパワーの復元</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_MenuBtn_04-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>ゲソタウンの配達確認</original>
+			<edited>ゲソタウンの配達確認</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Back_00-T_B_00" offset="00" relocatable="true" max_length="0">
+			<original></original>
+			<edited></edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="SyasyoUza_0000" offset="00" relocatable="true" max_length="0">
+			<original>…</original>
+			<edited>…</edited>
+			<subEntries />
+		</entry>
+		<entry name="SyasyoUza_0001" offset="00" relocatable="true" max_length="0">
+			<original>…お気をつけて行ってらっしゃいまセ</original>
+			<edited>…お気をつけて行ってらっしゃいまセ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SyasyoUza_0002" offset="00" relocatable="true" max_length="0">
+			<original>……</original>
+			<edited>……</edited>
+			<subEntries />
+		</entry>
+		<entry name="SyasyoUza_0003" offset="00" relocatable="true" max_length="0">
+			<original>もう一度 言いまス…</original>
+			<edited>もう一度 言いまス…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_BaseCamp_0000" offset="00" relocatable="true" max_length="0">
+			<original>いつもご乗車　ありがとうございまス</original>
+			<edited>いつもご乗車　ありがとうございまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_BaseCamp_0001" offset="00" relocatable="true" max_length="0">
+			<original>NAMACO端末を　お持ちの方は
+&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で路線図を　ご覧になれまス</original>
+			<edited>NAMACO端末を　お持ちの方は
+&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で路線図を　ご覧になれまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_BaseCamp_0002" offset="00" relocatable="true" max_length="0">
+			<original>……</original>
+			<edited>……</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_BaseCamp_0003" offset="00" relocatable="true" max_length="0">
+			<original>お忘れ物のないよう　ご注意くださイ…</original>
+			<edited>お忘れ物のないよう　ご注意くださイ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_BaseCamp_0004" offset="00" relocatable="true" max_length="0">
+			<original>………</original>
+			<edited>………</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_Medal_0000" offset="00" relocatable="true" max_length="0">
+			<original>いつもご利用 ありがとうございまス…&#xE;&#x0;&#x4;&#x0;さまざまな駅に 訪れていただいたことに 感謝をこめテ
+&#xE;&#x2;1&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ネルメダル&#xE;&#x0;&#x3;&#x2;ÿÿ をおわたしいたしまス&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;深海メトロ中央駅&#xE;&#x0;&#x3;&#x2;ÿÿ でアイテムと交換できますのデ
+ぜひ ご利用くださイ…</original>
+			<edited>いつもご利用 ありがとうございまス…&#xE;&#x0;&#x4;&#x0;さまざまな駅に 訪れていただいたことに 感謝をこめテ
+&#xE;&#x2;1&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ネルメダル&#xE;&#x0;&#x3;&#x2;ÿÿ をおわたしいたしまス&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;深海メトロ中央駅&#xE;&#x0;&#x3;&#x2;ÿÿ でアイテムと交換できますのデ
+ぜひ ご利用くださイ…</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

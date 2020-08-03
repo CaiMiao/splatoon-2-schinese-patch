@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Talk_Free_00" offset="00" relocatable="true" max_length="0">
+			<original>「ワガハイはタコである 名前はまだない」&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+…ってか？</original>
+			<edited>「ワガハイはタコである 名前はまだない」&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+…ってか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_01" offset="00" relocatable="true" max_length="0">
+			<original>ふるさとはいつも 心のなかにある…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+はなれていても キミは恐れることなんてない…</original>
+			<edited>ふるさとはいつも 心のなかにある…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+はなれていても キミは恐れることなんてない…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_02" offset="00" relocatable="true" max_length="0">
+			<original>ハチくんは 暗い海の底に差しこんだ 一筋の光…</original>
+			<edited>ハチくんは 暗い海の底に差しこんだ 一筋の光…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_03" offset="00" relocatable="true" max_length="0">
+			<original>ハチくんの ネリメモリーは、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+キラキラした あこがれに 満ちているね…</original>
+			<edited>ハチくんの ネリメモリーは、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+キラキラした あこがれに 満ちているね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_04" offset="00" relocatable="true" max_length="0">
+			<original>あのじいさん… オレのぬいぐるみを
+じっと見つめていたんだけど…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 好きなのかな……</original>
+			<edited>あのじいさん… オレのぬいぐるみを
+じっと見つめていたんだけど…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 好きなのかな……</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_05" offset="00" relocatable="true" max_length="0">
+			<original>じいさんから ラップを習ったけど、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+オレには ゆっくりと、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 夢について語ることしかできない…</original>
+			<edited>じいさんから ラップを習ったけど、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+オレには ゆっくりと、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 夢について語ることしかできない…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_06" offset="00" relocatable="true" max_length="0">
+			<original>オレは 深海のそうじ屋…</original>
+			<edited>オレは 深海のそうじ屋…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_07" offset="00" relocatable="true" max_length="0">
+			<original>オレは 夢見がちな おじさん…</original>
+			<edited>オレは 夢見がちな おじさん…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_08" offset="00" relocatable="true" max_length="0">
+			<original>おじさんよりも、若い子と話したかったって…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+………ごめん</original>
+			<edited>おじさんよりも、若い子と話したかったって…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+………ごめん</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_09" offset="00" relocatable="true" max_length="0">
+			<original>井の中のグソク、大海を知らず…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+されど 深海のヤミの深さは よく知っている…</original>
+			<edited>井の中のグソク、大海を知らず…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+されど 深海のヤミの深さは よく知っている…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_10" offset="00" relocatable="true" max_length="0">
+			<original>このアタッシュケースには 何が入ってるかって？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+……夢と希望だよ</original>
+			<edited>このアタッシュケースには 何が入ってるかって？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+……夢と希望だよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_11" offset="00" relocatable="true" max_length="0">
+			<original>おじさんは すこやかな毎日を 送りたいだけなんだ…</original>
+			<edited>おじさんは すこやかな毎日を 送りたいだけなんだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_12" offset="00" relocatable="true" max_length="0">
+			<original>おじさんの チャームポイントはどこかって…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+………おヒゲだよ</original>
+			<edited>おじさんの チャームポイントはどこかって…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+………おヒゲだよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_13" offset="00" relocatable="true" max_length="0">
+			<original>おじさんが　今いるココは　ドコなんだろう…</original>
+			<edited>おじさんが　今いるココは　ドコなんだろう…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_14" offset="00" relocatable="true" max_length="0">
+			<original>欲望という名の　メトロに乗って…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+ハイカラという名の　駅で降りたい…</original>
+			<edited>欲望という名の　メトロに乗って…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+ハイカラという名の　駅で降りたい…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_15" offset="00" relocatable="true" max_length="0">
+			<original>深海メトロは 下車するときに 料金を払うんだ…</original>
+			<edited>深海メトロは 下車するときに 料金を払うんだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_16" offset="00" relocatable="true" max_length="0">
+			<original>路線によって 車窓の風景は移ろう…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+それもまた 乗りかえの一興…</original>
+			<edited>路線によって 車窓の風景は移ろう…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+それもまた 乗りかえの一興…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_17" offset="00" relocatable="true" max_length="0">
+			<original>Find your Memory,&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 深海メトロ…</original>
+			<edited>Find your Memory,&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 深海メトロ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_18" offset="00" relocatable="true" max_length="0">
+			<original>乗ってる路線によって 客層は変わる…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+みんな 帰る場所が あるんだね…</original>
+			<edited>乗ってる路線によって 客層は変わる…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+みんな 帰る場所が あるんだね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_19" offset="00" relocatable="true" max_length="0">
+			<original>この列車に 終点はあるのかな…</original>
+			<edited>この列車に 終点はあるのかな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_20" offset="00" relocatable="true" max_length="0">
+			<original>夢を見れないヤツは&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 他人の夢を笑っちゃいけない…</original>
+			<edited>夢を見れないヤツは&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 他人の夢を笑っちゃいけない…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_21" offset="00" relocatable="true" max_length="0">
+			<original>上ばかり向いていると、首が痛くなってしまうだろ？&#xE;&#x0;&#x4;&#x0;…幸せって 案外、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+足元に 転がっていたり するのかもね……</original>
+			<edited>上ばかり向いていると、首が痛くなってしまうだろ？&#xE;&#x0;&#x4;&#x0;…幸せって 案外、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+足元に 転がっていたり するのかもね……</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_22" offset="00" relocatable="true" max_length="0">
+			<original>夢を見すぎると…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; つかれることも、あるよね…</original>
+			<edited>夢を見すぎると…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; つかれることも、あるよね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_23" offset="00" relocatable="true" max_length="0">
+			<original>「レールの しかれた 人生」 …&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+それもまた ひとつの夢の形なのかもしれないね…</original>
+			<edited>「レールの しかれた 人生」 …&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+それもまた ひとつの夢の形なのかもしれないね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_24" offset="00" relocatable="true" max_length="0">
+			<original>生きる意味も 幸せも、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+夢のなかで 見つかるのかもしれないね…</original>
+			<edited>生きる意味も 幸せも、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+夢のなかで 見つかるのかもしれないね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_25" offset="00" relocatable="true" max_length="0">
+			<original>キレイはきたない　きたないはキレイ…&#xE;&#x0;&#x4;&#x0;不完全なものも　美しいと思えるようになったとき、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+この世界は ずっと かがやいて見えるようになる…</original>
+			<edited>キレイはきたない　きたないはキレイ…&#xE;&#x0;&#x4;&#x0;不完全なものも　美しいと思えるようになったとき、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+この世界は ずっと かがやいて見えるようになる…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_26" offset="00" relocatable="true" max_length="0">
+			<original>どんなに遠くへ 旅をしても、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+自分自身から にげることは できない…</original>
+			<edited>どんなに遠くへ 旅をしても、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+自分自身から にげることは できない…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_27" offset="00" relocatable="true" max_length="0">
+			<original>この列車の 外には、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+いったい どんな世界が 広がっているんだろう…</original>
+			<edited>この列車の 外には、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+いったい どんな世界が 広がっているんだろう…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_28" offset="00" relocatable="true" max_length="0">
+			<original>オレが旅をするのは、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+どこかに　たどり着くためじゃあない…&#xE;&#x0;&#x4;&#x0;それはただ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;　旅そのものが、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 楽しいからなんだ…</original>
+			<edited>オレが旅をするのは、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+どこかに　たどり着くためじゃあない…&#xE;&#x0;&#x4;&#x0;それはただ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;　旅そのものが、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 楽しいからなんだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_29" offset="00" relocatable="true" max_length="0">
+			<original>おじさんが 旅に出る理由は、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+けっこう たくさん あるんだけど…&#xE;&#x0;&#x4;&#x0;強いて ひとつ理由を挙げるなら…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+“旅する理由”を 見つけるためなんだ…</original>
+			<edited>おじさんが 旅に出る理由は、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+けっこう たくさん あるんだけど…&#xE;&#x0;&#x4;&#x0;強いて ひとつ理由を挙げるなら…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+“旅する理由”を 見つけるためなんだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_30" offset="00" relocatable="true" max_length="0">
+			<original>ナマコくんのことは 昔から知っているよ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+だってオレ… ずっと列車、乗ってるからね…</original>
+			<edited>ナマコくんのことは 昔から知っているよ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+だってオレ… ずっと列車、乗ってるからね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_31" offset="00" relocatable="true" max_length="0">
+			<original>ナマコくんは 働き者だよ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+おじさんの 100倍くらい、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 働き者だよ…</original>
+			<edited>ナマコくんは 働き者だよ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+おじさんの 100倍くらい、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 働き者だよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_32" offset="00" relocatable="true" max_length="0">
+			<original>ネリメモリーそろえたら 見せてくれよな…</original>
+			<edited>ネリメモリーそろえたら 見せてくれよな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_33" offset="00" relocatable="true" max_length="0">
+			<original>ネリメモリーはね、夢みたいなものなんだ…</original>
+			<edited>ネリメモリーはね、夢みたいなものなんだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_34" offset="00" relocatable="true" max_length="0">
+			<original>コレクションに、実用性なんて求めちゃいけない…</original>
+			<edited>コレクションに、実用性なんて求めちゃいけない…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Free_35" offset="00" relocatable="true" max_length="0">
+			<original>だれかにとっての ガラクタは、 だれかにとっては 宝物…&#xE;&#x1;&#x0;&#x4;-&#x0;&#x0;&#x0;
+その価値を決めるのは、 “愛” …</original>
+			<edited>だれかにとっての ガラクタは、 だれかにとっては 宝物…&#xE;&#x1;&#x0;&#x4;-&#x0;&#x0;&#x0;
+その価値を決めるのは、 “愛” …</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

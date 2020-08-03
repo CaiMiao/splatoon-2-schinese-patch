@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="PaintUp" offset="00" relocatable="true" max_length="0">
+			<original>塗り性能がアップします。</original>
+			<edited>提高涂地性能。</edited>
+			<subEntries />
+		</entry>
+		<entry name="DamageUp" offset="00" relocatable="true" max_length="0">
+			<original>あたえるダメージが大きくなります。</original>
+			<edited>造成伤害变大。</edited>
+			<subEntries />
+		</entry>
+		<entry name="ReduceDegJump" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプして射撃したときの弾が
+ブレにくくなります。</original>
+			<edited>跳跃射击时子弹变得
+不易射偏。</edited>
+			<subEntries />
+		</entry>
+		<entry name="RangeUp" offset="00" relocatable="true" max_length="0">
+			<original>弾がわずかに遠くまで
+飛ぶようになります。</original>
+			<edited>子弹变得飞得
+稍微更远。</edited>
+			<subEntries />
+		</entry>
+		<entry name="DamageAreaUp" offset="00" relocatable="true" max_length="0">
+			<original>爆風で大ダメージをあたえる
+範囲が広がります。</original>
+			<edited>扩大因爆炸而造成大伤害
+的范围。</edited>
+			<subEntries />
+		</entry>
+		<entry name="BrushSpeedUp" offset="00" relocatable="true" max_length="0">
+			<original>塗りながら進む速度が
+わずかにアップします。</original>
+			<edited>稍微提升边涂边前进的
+速度。</edited>
+			<subEntries />
+		</entry>
+		<entry name="DamageReductionDown" offset="00" relocatable="true" max_length="0">
+			<original>最大ダメージをあたえられる
+距離が長くなります。</original>
+			<edited>能造成最大伤害的距离
+变远。</edited>
+			<subEntries />
+		</entry>
+		<entry name="ShootingFrameUp" offset="00" relocatable="true" max_length="0">
+			<original>射撃継続時間が
+長くなります。</original>
+			<edited>射击持续时间变得
+更长。</edited>
+			<subEntries />
+		</entry>
+		<entry name="CanopyHPUp" offset="00" relocatable="true" max_length="0">
+			<original>カサの耐久力がアップします。</original>
+			<edited>提高护伞的耐久力。</edited>
+			<subEntries />
+		</entry>
+		<entry name="CanopyRecoveryUp" offset="00" relocatable="true" max_length="0">
+			<original>カサが復活するまでの時間が
+短くなります。</original>
+			<edited>护伞下次复活的时间
+变短。</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

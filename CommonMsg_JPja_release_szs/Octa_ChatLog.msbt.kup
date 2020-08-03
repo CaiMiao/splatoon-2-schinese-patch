@@ -1,0 +1,1857 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Name_Hime" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Name_Iida" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Name_Atarime" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Name_Admin" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Name_Hotaru" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_Title" offset="00" relocatable="true" max_length="0">
+			<original>session#1</original>
+			<edited>session#1</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_02" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;こんにちは～＞ALL</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;こんにちは～＞ALL</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_03" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あれ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あれ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_04" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おーい</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おーい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_05" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_06" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;yo!</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;yo!</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_07" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;センパイようこそ～♪</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;センパイようこそ～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_08" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;tesuto</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;tesuto</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_09" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;オッケーぽいですね♪</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;オッケーぽいですね♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_10" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;てすと</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;てすと</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_11" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;オッケー！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;オッケー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_12" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_13" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジジィそれ マジフルネームじゃん…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジジィそれ マジフルネームじゃん…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_14" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;アタリメさん、こんにちは♪お持ちのケータイからこのチャ
+ットルーム見れてますか？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;アタリメさん、こんにちは♪お持ちのケータイからこのチャ
+ットルーム見れてますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_15" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;hankakusikautenai</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;hankakusikautenai</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_16" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;miretemasu</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;miretemasu</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_17" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;全角にできねーの？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;全角にできねーの？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_18" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;左下のボタンで全角にできると思います。</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;左下のボタンで全角にできると思います。</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_19" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;とりあえず、８号さんもワタシ達のチャットログを見られる
+ようにNAMACO端末をハッキングしておきました。</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;とりあえず、８号さんもワタシ達のチャットログを見られる
+ようにNAMACO端末をハッキングしておきました。</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_20" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ﾃｽﾄ､ﾜﾀｼﾊｱﾀﾘﾒﾖｼｵﾃﾞｽ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ﾃｽﾄ､ﾜﾀｼﾊｱﾀﾘﾒﾖｼｵﾃﾞｽ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_21" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;いくつかチャレンジをクリアしたら最新のログをお送り
+しますので、チェックよろしくです！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;いくつかチャレンジをクリアしたら最新のログをお送り
+しますので、チェックよろしくです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log01_22" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;半角カタカナって…どうやんのか、むしろ教えてほし
+いわ…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;半角カタカナって…どうやんのか、むしろ教えてほし
+いわ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log02_Title" offset="00" relocatable="true" max_length="0">
+			<original>session#2</original>
+			<edited>session#2</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log02_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ちょっとおかし買ってくる</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ちょっとおかし買ってくる</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log02_02" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;了解です。</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;了解です。</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log02_03" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log02_04" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ぎょい</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ぎょい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log02_05" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そうそう８号さんがチャレンジをクリアしている間、
+NAMACO端末の座標を元に、そちらの状況を調べてみました。</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そうそう８号さんがチャレンジをクリアしている間、
+NAMACO端末の座標を元に、そちらの状況を調べてみました。</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log02_06" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;結果、そこは地下は地下なのですが、この世ではあり得ない
+強度の磁場が出ていまして…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;結果、そこは地下は地下なのですが、この世ではあり得ない
+強度の磁場が出ていまして…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log02_07" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そのため時間の進みがおそいというか、空間がゆがんでいる
+というか…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そのため時間の進みがおそいというか、空間がゆがんでいる
+というか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log02_08" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;アタリメさん、周囲を見た感じ何かおかしな物とかあります
+か？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;アタリメさん、周囲を見た感じ何かおかしな物とかあります
+か？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log02_09" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あべつく　ぺあるつく</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あべつく　ぺあるつく</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log02_10" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;…ふむふむ、何かのパスワードかも知れませんね。</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;…ふむふむ、何かのパスワードかも知れませんね。</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log02_11" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;いけいけ　わけわかめ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;いけいけ　わけわかめ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log02_12" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;う～ん、なんだかよく分かりませんが、まがまがしいひびき
+を感じますね～</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;う～ん、なんだかよく分かりませんが、まがまがしいひびき
+を感じますね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log02_13" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あとわよろぴく　ばいなら</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あとわよろぴく　ばいなら</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log02_14" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;むむむ… なんだか聞いてて、こちらがはずかしくなりそう
+な感じです…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;むむむ… なんだか聞いてて、こちらがはずかしくなりそう
+な感じです…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log02_15" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;とにかく、そこはハイカラスクエアとはちがう次元に存在
+するようです。</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;とにかく、そこはハイカラスクエアとはちがう次元に存在
+するようです。</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log02_16" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;８号さんがチャレンジをクリアしていけば、新たに何か分か
+るかもしれません。</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;８号さんがチャレンジをクリアしていけば、新たに何か分か
+るかもしれません。</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log02_17" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;なので、ワタシ達が案内しますので、引き続きお願いします
+ね♪</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;なので、ワタシ達が案内しますので、引き続きお願いします
+ね♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log03_Title" offset="00" relocatable="true" max_length="0">
+			<original>session#3</original>
+			<edited>session#3</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log03_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ちょっとジュース買ってくる</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ちょっとジュース買ってくる</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log03_02" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;了解です。</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;了解です。</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log03_03" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log03_04" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;８号さん、チャレンジのクリア、おつかれ様です。</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;８号さん、チャレンジのクリア、おつかれ様です。</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log03_05" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;でも、あれから調べたのですが、これ以上何も情報が入って
+こなくてですね…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;でも、あれから調べたのですが、これ以上何も情報が入って
+こなくてですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log03_06" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;完全に手づまり、というやつです…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;完全に手づまり、というやつです…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log03_07" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;やることが無くなっちゃったし、せっかくなのでこの場を
+お借りして自己紹介用の画像をはらせていただきますね。</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;やることが無くなっちゃったし、せっかくなのでこの場を
+お借りして自己紹介用の画像をはらせていただきますね。</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log03_08" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;えいっ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;えいっ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log03_09" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;&#xE;&#x3;&#x3;&#x2;&#x0;Í</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;&#xE;&#x3;&#x3;&#x2;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log03_10" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あっ！誤爆！！！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あっ！誤爆！！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log03_11" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;これはだれですか</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;これはだれですか</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log03_12" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;これは、センパイの昔の写真です！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;これは、センパイの昔の写真です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log03_13" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;カッコいい…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;カッコいい…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log03_14" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;スイマセン、ワタシの自己紹介はまたおりを見て…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;スイマセン、ワタシの自己紹介はまたおりを見て…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_Title" offset="00" relocatable="true" max_length="0">
+			<original>session#4</original>
+			<edited>session#4</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_02" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;たっだーー！！！！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;たっだーー！！！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_03" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おかえりなさい</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おかえりなさい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_04" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あれ？イイダは？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あれ？イイダは？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_05" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;せっちん</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;せっちん</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_06" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;せっちん？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;せっちん？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_07" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ああ、トイレか…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ああ、トイレか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_08" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ってかなんでアタシの写真がのってんだよ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ってかなんでアタシの写真がのってんだよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_09" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;こういうのって、情報ろーえー とかっていうんじゃね
+ーの？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;こういうのって、情報ろーえー とかっていうんじゃね
+ーの？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_10" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あ、自己紹介タイムなのか</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あ、自己紹介タイムなのか</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_11" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;じゃ、しかえしにイイダのをのせちゃお！えいっ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;じゃ、しかえしにイイダのをのせちゃお！えいっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_12" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;&#xE;&#x3;&#x3;&#x2;&#x1;Í</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;&#xE;&#x3;&#x3;&#x2;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_13" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;これ会ってすぐの時のヤツだなー！若いなー</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;これ会ってすぐの時のヤツだなー！若いなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_14" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ついでにこれも</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ついでにこれも</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_15" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;&#xE;&#x3;&#x3;&#x2;&#x2;Í</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;&#xE;&#x3;&#x3;&#x2;&#x2;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_16" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;わはは！寝顔ヤベー！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;わはは！寝顔ヤベー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_17" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_18" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;セ…センパイ…？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;セ…センパイ…？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log04_19" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log05_Title" offset="00" relocatable="true" max_length="0">
+			<original>session#5</original>
+			<edited>session#5</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log05_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あ、ちょっと、電池が切れそうなので、バッテリーを取りに
+帰りますね。</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あ、ちょっと、電池が切れそうなので、バッテリーを取りに
+帰りますね。</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log05_02" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;りょ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;りょ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log05_03" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log05_04" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;う～ん、ジジィと２人でいても、やることねーな</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;う～ん、ジジィと２人でいても、やることねーな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log05_05" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そうですね</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そうですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log05_06" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ヒマだ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ヒマだ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log05_07" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ヒマすぎるから、ジジィについて調べてみよっと</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ヒマすぎるから、ジジィについて調べてみよっと</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log05_08" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;はずかしい</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;はずかしい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log05_09" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;うおっ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;うおっ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log05_10" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;&#xE;&#x3;&#x3;&#x2;&#x3;Í</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;&#xE;&#x3;&#x3;&#x2;&#x3;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log05_11" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;なんだこれ？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;なんだこれ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log05_12" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;「大縄張大戦　アロワナ城籠城戦　辺目少尉ヒキイル
+烏鳶部隊　獅子奮迅ノ　活躍ニテ　敵ヲ殲滅」…って</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;「大縄張大戦　アロワナ城籠城戦　辺目少尉ヒキイル
+烏鳶部隊　獅子奮迅ノ　活躍ニテ　敵ヲ殲滅」…って</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log05_13" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;なつかしい</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;なつかしい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log05_14" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジジィって、なんかすごい人なんだな…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジジィって、なんかすごい人なんだな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_Title" offset="00" relocatable="true" max_length="0">
+			<original>session#6</original>
+			<edited>session#6</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;イイダのヤツまだ帰ってこないな</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;イイダのヤツまだ帰ってこないな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_02" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;てかさー、ウチらはハチのカメラでそっちの様子わかる
+けど、ジジィはウチらのこと見えないよな？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;てかさー、ウチらはハチのカメラでそっちの様子わかる
+けど、ジジィはウチらのこと見えないよな？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_03" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;みえません</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;みえません</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_04" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ここだけのハナシ、イイダって変わってんだよー
+なんつーか背、たけーし、すげーメカにくわしいし</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ここだけのハナシ、イイダって変わってんだよー
+なんつーか背、たけーし、すげーメカにくわしいし</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_05" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;この前もさ！自作メカで、チョーでかい岩がういてる
+バトルステージ作っちゃったんだぜ？やばくね？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;この前もさ！自作メカで、チョーでかい岩がういてる
+バトルステージ作っちゃったんだぜ？やばくね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_06" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;いわ が うく</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;いわ が うく</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_07" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;それは おくたりあんの ぎじゅつ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;それは おくたりあんの ぎじゅつ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_08" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ん？オクタリアンて何？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ん？オクタリアンて何？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_09" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;たこ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;たこ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_10" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あー、100年前の大ナワバリバトルで負けて、今は遠い
+とこに住んでるって習った</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あー、100年前の大ナワバリバトルで負けて、今は遠い
+とこに住んでるって習った</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_11" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ん？ それってつまり、イイダがオクタリアンって事？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ん？ それってつまり、イイダがオクタリアンって事？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_12" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;わしのしりょう おくたりあん ひみつふぁいる で しら
+べる　</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;わしのしりょう おくたりあん ひみつふぁいる で しら
+べる　</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_13" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x2;&#x0;Í</original>
+			<edited>&#xE;&#x3;&#x5;&#x2;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_14" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;いいだまりね</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;いいだまりね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_15" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おそうじ兵器 タコドーザー…？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おそうじ兵器 タコドーザー…？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_16" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;それかなりやばい　さんごうなんかいもやられた</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;それかなりやばい　さんごうなんかいもやられた</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_17" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;え！まじかよ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;え！まじかよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_18" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おくたりあん　ゆるすまじ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おくたりあん　ゆるすまじ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_19" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;習った時「オクタリアンはマジメでかしこい」って
+書いてあったけど、イイダはたしかに頭いいしマジメだな…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;習った時「オクタリアンはマジメでかしこい」って
+書いてあったけど、イイダはたしかに頭いいしマジメだな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_20" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;それ　おくたりあんの　とくちょう</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;それ　おくたりあんの　とくちょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_21" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そー言えば、アイツが作るバトルステージの、体がうい
+たりするワナ？ とかも、他んトコでは見かけないな…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そー言えば、アイツが作るバトルステージの、体がうい
+たりするワナ？ とかも、他んトコでは見かけないな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_22" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;それ　ひゃくおくぱーせんと　おくたりあんの
+ぎじゅつ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;それ　ひゃくおくぱーせんと　おくたりあんの
+ぎじゅつ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_23" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;やっぱイイダは オクタリアンなんだ…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;やっぱイイダは オクタリアンなんだ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_24" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;でもでもよー、シオカラ節をきいて「魂にイカのグルー
+ヴが宿りました」って書いてるゾ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;でもでもよー、シオカラ節をきいて「魂にイカのグルー
+ヴが宿りました」って書いてるゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_25" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;しおからぶしが　すきなものに　わるいものはおらん</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;しおからぶしが　すきなものに　わるいものはおらん</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_26" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そーだな！昔、ちょいワルぶってたかもしんねーけど、
+今のイイダとは関係ねーからなー</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そーだな！昔、ちょいワルぶってたかもしんねーけど、
+今のイイダとは関係ねーからなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_27" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ごきょうりょく　たすかっております</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ごきょうりょく　たすかっております</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_28" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジジィ、街でイイダに出会っても、攻撃すんなよ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジジィ、街でイイダに出会っても、攻撃すんなよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_29" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ぎょい</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ぎょい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log06_30" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そんじゃ引き続き、ハチ、よろしくな！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そんじゃ引き続き、ハチ、よろしくな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_Title" offset="00" relocatable="true" max_length="0">
+			<original>session#7</original>
+			<edited>session#7</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_02" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ただいま～♪</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ただいま～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_03" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おかー！おそかったな！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おかー！おそかったな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_04" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;すいません、家で少しチャージしてました。</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;すいません、家で少しチャージしてました。</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_05" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おかえりなさい</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おかえりなさい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_06" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あっ…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あっ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_07" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;…バレた。ジジィが「ひみつふぁいる」とかのせるから</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;…バレた。ジジィが「ひみつふぁいる」とかのせるから</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_08" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_09" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ワリィ、過去をセンサクする気は無かったんだよ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ワリィ、過去をセンサクする気は無かったんだよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_10" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ワタシ…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ワタシ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_11" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジジィはさ、昔タコと戦ってたみたいだけど、</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジジィはさ、昔タコと戦ってたみたいだけど、</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_12" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;しおからぶしが　すきなものに　わるいものはおらん</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;しおからぶしが　すきなものに　わるいものはおらん</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_13" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;だろ？ジジィはもう気にしてないぜ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;だろ？ジジィはもう気にしてないぜ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_14" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_15" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;しおからぶしが　すきなものに　わるいものはおらん</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;しおからぶしが　すきなものに　わるいものはおらん</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_16" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あの…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あの…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_17" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ま、アタシはイイダの事ずっとイカだと思ってたから、
+今更タコって言われてもなーって感じだけどな</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ま、アタシはイイダの事ずっとイカだと思ってたから、
+今更タコって言われてもなーって感じだけどな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_18" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あのワタシ…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あのワタシ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_19" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;イカさん達の世界にいていいんでしょうか？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;イカさん達の世界にいていいんでしょうか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_20" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;いいに決まってるだろー！！！！1</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;いいに決まってるだろー！！！！1</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_21" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ううっ、ありがとうございます；；</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ううっ、ありがとうございます；；</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_22" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;泣くなよなー</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;泣くなよなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_23" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;８ごうも　たこ　だけど　しおからぶしが　すき</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;８ごうも　たこ　だけど　しおからぶしが　すき</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_24" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そーいえばハチってなんか見た目イイダと似てるなー、
+って思ってたんだよ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そーいえばハチってなんか見た目イイダと似てるなー、
+って思ってたんだよ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_25" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ワタシは認識してました。８号さんは、ワタシと同じで「魂
+にシオカラ節のグルーヴを宿す者」…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ワタシは認識してました。８号さんは、ワタシと同じで「魂
+にシオカラ節のグルーヴを宿す者」…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_26" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;イカの世界を目指すオクタリアン…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;イカの世界を目指すオクタリアン…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_27" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;だったら、なおさら協力しないとな！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;だったら、なおさら協力しないとな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_28" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;了解です…！それでは引き続き案内しますので、８号さんは
+続けてチャレンジのクリアをお願いしますね。</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;了解です…！それでは引き続き案内しますので、８号さんは
+続けてチャレンジのクリアをお願いしますね。</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_29" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ち～～～～～～～ん！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ち～～～～～～～ん！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log07_30" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;鼻かんだ音、チャットに書かなくていーから…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;鼻かんだ音、チャットに書かなくていーから…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_Title" offset="00" relocatable="true" max_length="0">
+			<original>session#8</original>
+			<edited>session#8</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;居間空カエル</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;居間空カエル</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_02" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;「いまから」で一回、漢字にするんだ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;「いまから」で一回、漢字にするんだ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_03" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;今から帰る</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;今から帰る</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_04" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;イイゾ、その調子！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;イイゾ、その調子！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_05" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_06" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;センパイ、何してるんですか？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;センパイ、何してるんですか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_07" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジジィに漢字のやりかた教えてんの。ジジィのレス、
+ひらがなばっかで読みにくいし</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジジィに漢字のやりかた教えてんの。ジジィのレス、
+ひらがなばっかで読みにくいし</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_08" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;センパイってなんだかんだで、教えるの上手ですよね～♪</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;センパイってなんだかんだで、教えるの上手ですよね～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_09" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;えっ、そう？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;えっ、そう？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_10" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おんぷは　どうやったら　できますか</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おんぷは　どうやったら　できますか</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_11" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おんぷマークは「おんぷ」って入れればすぐ出てくるぞ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おんぷマークは「おんぷ」って入れればすぐ出てくるぞ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_12" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そう言えば、ワタシがイカさんの世界に来た時、言葉が話
+せなくって、センパイに言葉を教えてもらいましたよね～♪</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そう言えば、ワタシがイカさんの世界に来た時、言葉が話
+せなくって、センパイに言葉を教えてもらいましたよね～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_13" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あー思い出した！昔、ナンタイ山で初めて会った時、
+イイダ、カタコトだったな</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あー思い出した！昔、ナンタイ山で初めて会った時、
+イイダ、カタコトだったな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_14" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;♪</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_15" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そうそう！あの時ワタシ２週間くらいずっとナンタイ山に
+通って、センパイが来るのを待ってたんですよ～</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そうそう！あの時ワタシ２週間くらいずっとナンタイ山に
+通って、センパイが来るのを待ってたんですよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_16" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;思い出した！山でノドのウォームアップしてたらいきな
+り「アナタ探シテタ ユニット組ミタイ」って言われて、ストーカーかと
+思ったわ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;思い出した！山でノドのウォームアップしてたらいきな
+り「アナタ探シテタ ユニット組ミタイ」って言われて、ストーカーかと
+思ったわ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_17" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ごめんなさい…でもあの時センパイに会ってなかったら今ワ
+タシはここにいなかったですね～。</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ごめんなさい…でもあの時センパイに会ってなかったら今ワ
+タシはここにいなかったですね～。</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_18" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そーいえばあん時、イイダ、自分で作った曲、持ってき
+てたよな！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そーいえばあん時、イイダ、自分で作った曲、持ってき
+てたよな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_19" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;アタシまだファイル持ってるぜ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;アタシまだファイル持ってるぜ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_20" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ほい</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ほい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_21" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;&#xE;&#x3;&#x4;&#x2;&#x0;Í</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;&#xE;&#x3;&#x4;&#x2;&#x0;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_22" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;わー！なつかしいです！フルスロットル・テンタクルのデモ
+版！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;わー！なつかしいです！フルスロットル・テンタクルのデモ
+版！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_23" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;はてなは　どうやったら　できますか</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;はてなは　どうやったら　できますか</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_24" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おっと、ジジィ放置してた</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おっと、ジジィ放置してた</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_25" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;はてなマークは右下らへんのキー何回か押してみ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;はてなマークは右下らへんのキー何回か押してみ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_26" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ポンコツのキーボード一台で作ったって言ってたけど、
+なんかひきつけられるものがあったんだよなー、このデモ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ポンコツのキーボード一台で作ったって言ってたけど、
+なんかひきつけられるものがあったんだよなー、このデモ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_27" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;その節はおウチのスタジオ貸していただいて、ありがとうご
+ざいました、センパイ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;その節はおウチのスタジオ貸していただいて、ありがとうご
+ざいました、センパイ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_28" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_29" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;だから、ひきつけられるものがあった、っつってんじゃ
+ん＞ジジィ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;だから、ひきつけられるものがあった、っつってんじゃ
+ん＞ジジィ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_30" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;アタリメさんは「？」を打つ練習をしてるのでは…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;アタリメさんは「？」を打つ練習をしてるのでは…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_31" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あ、そっか</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あ、そっか</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_32" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ワタシもセンパイのラップをきいた時、すごいと思いました
+よ～。小節をまたぎながらの、拍ウラウラの連続とか…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ワタシもセンパイのラップをきいた時、すごいと思いました
+よ～。小節をまたぎながらの、拍ウラウラの連続とか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_33" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;アタシ、そんな事してんの？難しいことはわかんねーな</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;アタシ、そんな事してんの？難しいことはわかんねーな</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_34" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_35" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;だから、アタシにもわかんねー、つってんじゃん！＞ジ
+ジィ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;だから、アタシにもわかんねー、つってんじゃん！＞ジ
+ジィ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log08_36" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;え～と、アタリメさんはまた「？」を打つ練習をしてるんだと
+思います…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;え～と、アタリメさんはまた「？」を打つ練習をしてるんだと
+思います…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_Title" offset="00" relocatable="true" max_length="0">
+			<original>session#10</original>
+			<edited>session#10</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_02" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ただー！！！！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ただー！！！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_03" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おか～</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おか～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_04" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おかえりなさい♪</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おかえりなさい♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_05" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジュース買いにハイカラスクエアまで行ってたんだけど
+さー</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジュース買いにハイカラスクエアまで行ってたんだけど
+さー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_06" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;なんか、タコめっちゃ増えてんのな！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;なんか、タコめっちゃ増えてんのな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_07" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;たこ　が　きよる</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;たこ　が　きよる</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_08" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;それは、みなさんタコの世界をぬけ出した「魂にシオカラ節
+のグルーヴを宿した者」ですよ～</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;それは、みなさんタコの世界をぬけ出した「魂にシオカラ節
+のグルーヴを宿した者」ですよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_09" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;しおからぶしが　すきなものに　わるいものはおらん</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;しおからぶしが　すきなものに　わるいものはおらん</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_10" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;じゃ、仲間だな！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;じゃ、仲間だな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_11" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あの子たちもすぐ、イカさんの文化を吸収していくと思いま
+す♪</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あの子たちもすぐ、イカさんの文化を吸収していくと思いま
+す♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_12" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おー！タコの音楽とか、もっときいてみてー！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おー！タコの音楽とか、もっときいてみてー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_13" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;イカの文化を吸収ってことは、ヤツらとナワバリバトル
+とかもやっちゃうのか？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;イカの文化を吸収ってことは、ヤツらとナワバリバトル
+とかもやっちゃうのか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_14" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;もちろん！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;もちろん！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_15" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おー！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_16" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;だいなわばりばとるが　また　はじまる？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;だいなわばりばとるが　また　はじまる？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_17" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そんなヤバくないだろ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そんなヤバくないだろ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_18" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ウチら世代のナワバリバトルは、スポーツみたいなもん
+だからな！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ウチら世代のナワバリバトルは、スポーツみたいなもん
+だからな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_19" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そうですか♪</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そうですか♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_20" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;クマサン商会でアルバイトしているオクタリアンもいるみた
+いですね</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;クマサン商会でアルバイトしているオクタリアンもいるみた
+いですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_21" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おお？敵の敵は味方、ってヤツ？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おお？敵の敵は味方、ってヤツ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_22" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;敵じゃないです…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;敵じゃないです…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log10_23" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ハチ！オマエも早くそこ出て、アタシらとバトろうぜ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ハチ！オマエも早くそこ出て、アタシらとバトろうぜ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_Title" offset="00" relocatable="true" max_length="0">
+			<original>session#9</original>
+			<edited>session#9</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;わしは　あたりめ　めしは　あたりまえ
+ぼけて　４にんまえ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;わしは　あたりめ　めしは　あたりまえ
+ぼけて　４にんまえ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_02" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そのリリック、なんかひびかねーなー…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そのリリック、なんかひびかねーなー…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_03" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_04" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;こんにちは～♪</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;こんにちは～♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_05" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;うーす</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;うーす</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_06" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;こんにちは</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;こんにちは</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_07" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;リリックの指導ですか？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;リリックの指導ですか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_08" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そうなんだよー</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そうなんだよー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_09" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジジィ、シュミでラップの作詞してるらしーんだけど
+なんかこう、魂をゆさぶられないっつーか…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジジィ、シュミでラップの作詞してるらしーんだけど
+なんかこう、魂をゆさぶられないっつーか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_10" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;らっぷすきに わるいものは おらん</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;らっぷすきに わるいものは おらん</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_11" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;お手本でセンパイが昔作ったリリック、のせちゃいます！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;お手本でセンパイが昔作ったリリック、のせちゃいます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_12" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x3;&#x5;&#x2;&#x1;Í</original>
+			<edited>&#xE;&#x3;&#x5;&#x2;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_13" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;えもい</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;えもい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_14" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;これ、イイダと出会う前のピンの時のヤツだよ…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;これ、イイダと出会う前のピンの時のヤツだよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_15" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ディスクとダウンロード合わせても1000本
+売れなかったヤツ…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ディスクとダウンロード合わせても1000本
+売れなかったヤツ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_16" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あ、これこれ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あ、これこれ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_17" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;&#xE;&#x3;&#x4;&#x2;&#x1;Í</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;&#xE;&#x3;&#x4;&#x2;&#x1;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_18" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ワタシはかっこいいと思いますけどね～…ところで、
+タイトル何でしたっけ？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ワタシはかっこいいと思いますけどね～…ところで、
+タイトル何でしたっけ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_19" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;「 ※＄％＠れたヤツは ※＄％＠して寝ろ」</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;「 ※＄％＠れたヤツは ※＄％＠して寝ろ」</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_20" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;放送禁止用語がふくまれているので、文字化けしてますね…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;放送禁止用語がふくまれているので、文字化けしてますね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_21" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;でもテンタクルズ組んでから、デビュー曲の「フルスロ
+ットル・テンタクル」が売れたから！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;でもテンタクルズ組んでから、デビュー曲の「フルスロ
+ットル・テンタクル」が売れたから！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_22" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;てんたくるず？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;てんたくるず？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_23" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;言ってなかったっけ？アタシとイイダで「テンタクルズ」
+ってユニット組んでんの</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;言ってなかったっけ？アタシとイイダで「テンタクルズ」
+ってユニット組んでんの</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_24" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;いかす？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;いかす？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_25" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;超いかす！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;超いかす！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_26" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そーいや、初ライブした後の反応、ヤバかったな！！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そーいや、初ライブした後の反応、ヤバかったな！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_27" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ワタシ「ヒメちゃんの横のデカいヤツ」って書かれてました…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ワタシ「ヒメちゃんの横のデカいヤツ」って書かれてました…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_28" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あはは！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あはは！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_29" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;昔からのアタシのファンは、ライブ見た後</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;昔からのアタシのファンは、ライブ見た後</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_30" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;「※＄％＠れたヤツは ※＄％＠して寝ろ」と同じヤツと
+は思えない、って書かれてたなー</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;「※＄％＠れたヤツは ※＄％＠して寝ろ」と同じヤツと
+は思えない、って書かれてたなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_31" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あ、ハイカラニュースの仕事が来たのはいつだっけ？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あ、ハイカラニュースの仕事が来たのはいつだっけ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_32" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;4thシングルくらいの時だったですね</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;4thシングルくらいの時だったですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_33" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;前の司会はシオカラーズだったんだよな！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;前の司会はシオカラーズだったんだよな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_34" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;しおからーず？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;しおからーず？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_35" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジジィの事調べてる時に見たけど、アンタの孫だよ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ジジィの事調べてる時に見たけど、アンタの孫だよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_36" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ほれ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ほれ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_37" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;&#xE;&#x3;&#x3;&#x2;&#x4;Í</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;&#xE;&#x3;&#x3;&#x2;&#x4;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_38" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おお　すごい　ありがとう</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おお　すごい　ありがとう</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_39" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;孫の仕事くらい覚えとけよ…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;孫の仕事くらい覚えとけよ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_40" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;シオカラーズさんはソロ活動やCM出演でいそがしいので、
+ハイカラニュースを卒業されたんですよ～</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;シオカラーズさんはソロ活動やCM出演でいそがしいので、
+ハイカラニュースを卒業されたんですよ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_41" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;うーし、ウチらもじゃんじゃんタイアップして、どんど
+ん仕事増やしてくゾ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;うーし、ウチらもじゃんじゃんタイアップして、どんど
+ん仕事増やしてくゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_42" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;はい！センパイの補助輪が取れたら、コンブトラックのCM
+に出してもらえるそうですよ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;はい！センパイの補助輪が取れたら、コンブトラックのCM
+に出してもらえるそうですよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log09_43" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;よーし、イイダ！これ終わったら、極秘でチャリの特訓
+だー！！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;よーし、イイダ！これ終わったら、極秘でチャリの特訓
+だー！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_Title" offset="00" relocatable="true" max_length="0">
+			<original>bonus track</original>
+			<edited>bonus track</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;フェスでカンテツしたからねむぃ…ちょっと寝るー</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;フェスでカンテツしたからねむぃ…ちょっと寝るー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_02" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;
+&#x0;MC Princess&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_03" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;すいません、ワタシも…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;すいません、ワタシも…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_04" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ぎょい</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ぎょい</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_05" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;それじゃAFKで～</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;それじゃAFKで～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_06" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;DJ E-DA&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_07" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;てすと</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;てすと</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_08" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_09" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ん？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ん？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_10" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;こんちゃ～？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;こんちゃ～？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_11" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;にごう</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;にごう</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_12" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あれ？あたりめよしおって…おじいちゃん？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;あれ？あたりめよしおって…おじいちゃん？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_13" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_14" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが入室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_15" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おじいちゃん、テンパりすぎっしょ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おじいちゃん、テンパりすぎっしょ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_16" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ってか、このチャットルーム何なん？まさか出会い系？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ってか、このチャットルーム何なん？まさか出会い系？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_17" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;なワケないか</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;なワケないか</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_18" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;３号は？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;３号は？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_19" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;今どこにおるん？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;今どこにおるん？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_20" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;げんきです</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;げんきです</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_21" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そっか。とりま、無事そうでよかったわ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;そっか。とりま、無事そうでよかったわ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_22" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;パトロールは何時ごろ終わりそう？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;パトロールは何時ごろ終わりそう？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_23" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;わかりません</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;わかりません</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_24" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ばんごはん、どうしよ？</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;ばんごはん、どうしよ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_25" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;もうたべた</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;もうたべた</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_26" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;いや、まだ食べてないっしょ…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;いや、まだ食べてないっしょ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_27" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;はよ帰ってきてくれんと、アタシも仕事に穴、開けとるし…</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;はよ帰ってきてくれんと、アタシも仕事に穴、開けとるし…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_28" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おひたし</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おひたし</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_29" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;わかりました</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;atarimeyosio&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;わかりました</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_30" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おひたし了解。用意しとくね。</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;おひたし了解。用意しとくね。</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_31" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;じゃ、アタシこのままシオカラ亭にいるから。そんじゃ、
+イカよろしく～</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;ÿÿ&gt;じゃ、アタシこのままシオカラ亭にいるから。そんじゃ、
+イカよろしく～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Log11_32" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;■管理人■&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;&gt; &#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;&#xF;&#x0;２号&#xE;&#x0;&#x3;&#x2;&#xD;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0; さんが退室しました。&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

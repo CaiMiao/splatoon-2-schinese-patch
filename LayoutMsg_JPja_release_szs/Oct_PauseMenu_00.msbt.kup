@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_Button_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>つづける</original>
+			<edited>つづける</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_OptionBtn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>設定完了</original>
+			<edited>設定完了</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_OptionBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>携帯モード</original>
+			<edited>携帯モード</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_OptionBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>TVモード/
+テーブルモード</original>
+			<edited>TVモード/
+テーブルモード</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Exp_01" offset="00" relocatable="true" max_length="0">
+			<original>テレビ画面に映したり Switch本体を置いてプレイするときの
+カメラオプションを設定できます</original>
+			<edited>テレビ画面に映したり Switch本体を置いてプレイするときの
+カメラオプションを設定できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_00-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>ジャイロ操作感度</original>
+			<edited>ジャイロ操作感度</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_00-T_Msg_00" offset="00" relocatable="true" max_length="0">
+			<original>ジャイロ操作がOFFの時は無効です</original>
+			<edited>ジャイロ操作がOFFの時は無効です</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_01-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;操作感度</original>
+			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;操作感度</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_02-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;上下操作</original>
+			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;上下操作</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_02-T_BtnL_00" offset="00" relocatable="true" max_length="0">
+			<original>ノーマル</original>
+			<edited>ノーマル</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_02-T_BtnR_00" offset="00" relocatable="true" max_length="0">
+			<original>リバース</original>
+			<edited>リバース</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_02-T_Msg_00" offset="00" relocatable="true" max_length="0">
+			<original>ジャイロ操作がONの時は無効です</original>
+			<edited>ジャイロ操作がONの時は無効です</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_03-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;左右操作</original>
+			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;左右操作</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_04-T_Header_00" offset="00" relocatable="true" max_length="0">
+			<original>ジャイロ操作</original>
+			<edited>ジャイロ操作</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_04-T_BtnL_00" offset="00" relocatable="true" max_length="0">
+			<original>ON</original>
+			<edited>ON</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_04-T_BtnR_00" offset="00" relocatable="true" max_length="0">
+			<original>OFF</original>
+			<edited>OFF</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_Exp_02" offset="00" relocatable="true" max_length="0">
+			<original>Switch本体を持ってプレイするときの
+カメラオプションを設定できます</original>
+			<edited>Switch本体を持ってプレイするときの
+カメラオプションを設定できます</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_05-T_Msg_00" offset="00" relocatable="true" max_length="0">
+			<original>ジャイロ操作がOFFの時は無効です</original>
+			<edited>ジャイロ操作がOFFの時は無効です</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_Option_07-T_Msg_00" offset="00" relocatable="true" max_length="0">
+			<original>ジャイロ操作がONの時は無効です</original>
+			<edited>ジャイロ操作がONの時は無効です</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_BackBtn_05-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>もどる</original>
+			<edited>もどる</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
+			<original>カメラオプション</original>
+			<edited>カメラオプション</edited>
+			<subEntries />
+		</entry>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>電車へもどる</original>
+			<edited>電車へもどる</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>ハイカラスクエアへ想いをはせる</original>
+			<edited>ハイカラスクエアへ想いをはせる</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>駅のホームからやり直す</original>
+			<edited>駅のホームからやり直す</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>深海メトロ中央駅へもどる</original>
+			<edited>深海メトロ中央駅へもどる</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_title_00" offset="00" relocatable="true" max_length="0">
+			<original>PAUSED</original>
+			<edited>PAUSED</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_CameraOption_00" offset="00" relocatable="true" max_length="0">
+			<original>カメラオプション</original>
+			<edited>カメラオプション</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

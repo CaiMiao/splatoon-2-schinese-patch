@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Stall_00" offset="00" relocatable="true" max_length="0">
+			<original>おっ、いらっしゃ～い！</original>
+			<edited>おっ、いらっしゃ～い！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Stall_01" offset="00" relocatable="true" max_length="0">
+			<original>ロブズ・１０・プラーにようこそ！&#xE;&#x0;&#x4;&#x0;ウチの店で飲み食いすれば
+バトルでゲットできる おカネや ケイケン値が
+バクアゲじゃ～ん？&#xE;&#x0;&#x4;&#x0;注文は おカネじゃなくて
+チケットが必要だから 気をつけてね～
+どうだい アゲてっちゃう？</original>
+			<edited>ロブズ・１０・プラーにようこそ！&#xE;&#x0;&#x4;&#x0;ウチの店で飲み食いすれば
+バトルでゲットできる おカネや ケイケン値が
+バクアゲじゃ～ん？&#xE;&#x0;&#x4;&#x0;注文は おカネじゃなくて
+チケットが必要だから 気をつけてね～
+どうだい アゲてっちゃう？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Stall_02" offset="00" relocatable="true" max_length="0">
+			<original>チケット、持ってないから
+注文できないっしょ～！</original>
+			<edited>チケット、持ってないから
+注文できないっしょ～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Stall_03" offset="00" relocatable="true" max_length="0">
+			<original>…って アレアレ？
+前に飲み食いしたヤツの効果が
+まだ残ってんじゃ～ん？&#xE;&#x0;&#x4;&#x0;新しいのでアゲちゃったら
+そっちの効果に 変わっちゃうけど…
+新しいのにアゲ直しちゃって OK？</original>
+			<edited>…って アレアレ？
+前に飲み食いしたヤツの効果が
+まだ残ってんじゃ～ん？&#xE;&#x0;&#x4;&#x0;新しいのでアゲちゃったら
+そっちの効果に 変わっちゃうけど…
+新しいのにアゲ直しちゃって OK？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Stall_04" offset="00" relocatable="true" max_length="0">
+			<original>また来てね～</original>
+			<edited>また来てね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Stall_Short_00" offset="00" relocatable="true" max_length="0">
+			<original>どれでアゲてく？</original>
+			<edited>どれでアゲてく？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Stall_Short_01" offset="00" relocatable="true" max_length="0">
+			<original>これでアゲとく？</original>
+			<edited>これでアゲとく？</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

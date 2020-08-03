@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>とちゅうから エイトボールを運ぶコースとなりまス</original>
+			<edited>とちゅうから エイトボールを運ぶコースとなりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>やや長めのチャレンジとなりまス</original>
+			<edited>やや長めのチャレンジとなりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>集中力を切らさないようにしましょウ</original>
+			<edited>集中力を切らさないようにしましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0000" offset="00" relocatable="true" max_length="0">
+			<original>目の前にエイトボールのゴールが ありますね</original>
+			<edited>目の前にエイトボールのゴールが ありますね</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0001" offset="00" relocatable="true" max_length="0">
+			<original>んじゃ、ボール探そーぜ！</original>
+			<edited>んじゃ、ボール探そーぜ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0002" offset="00" relocatable="true" max_length="0">
+			<original>ってこたぁ、カギを探さねーとな！</original>
+			<edited>ってこたぁ、カギを探さねーとな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0003" offset="00" relocatable="true" max_length="0">
+			<original>カギ発見！ 確認されたしーッ！</original>
+			<edited>カギ発見！ 確認されたしーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0004" offset="00" relocatable="true" max_length="0">
+			<original>ゲットしたら、ドアに向かいましょう！</original>
+			<edited>ゲットしたら、ドアに向かいましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0005" offset="00" relocatable="true" max_length="0">
+			<original>ドアの中に、エイトボールを発見しました！</original>
+			<edited>ドアの中に、エイトボールを発見しました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0006" offset="00" relocatable="true" max_length="0">
+			<original>タマコロちゃんゲットじゃ！ …して、ゴールはどこじゃ？</original>
+			<edited>タマコロちゃんゲットじゃ！ …して、ゴールはどこじゃ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0007" offset="00" relocatable="true" max_length="0">
+			<original>そして&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで、ボムを遠くに投げられます！</original>
+			<edited>そして&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで、ボムを遠くに投げられます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0008" offset="00" relocatable="true" max_length="0">
+			<original>フォー！ ふぁんたすてぃっくじゃッ！</original>
+			<edited>フォー！ ふぁんたすてぃっくじゃッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0010" offset="00" relocatable="true" max_length="0">
+			<original>橋、かかったぞィ！ 確認されたしーッ！</original>
+			<edited>橋、かかったぞィ！ 確認されたしーッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0011" offset="00" relocatable="true" max_length="0">
+			<original>エイトボールのゴールは 改札の方向です！</original>
+			<edited>エイトボールのゴールは 改札の方向です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0012" offset="00" relocatable="true" max_length="0">
+			<original>うむ、グッドじゃ！</original>
+			<edited>うむ、グッドじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0013" offset="00" relocatable="true" max_length="0">
+			<original>ボムピッチャー！ &#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で発動！ &#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で投げろ！</original>
+			<edited>ボムピッチャー！ &#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で発動！ &#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で投げろ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0014" offset="00" relocatable="true" max_length="0">
+			<original>ってこたぁ、とりま カンヅメの方に行けばいいな！</original>
+			<edited>ってこたぁ、とりま カンヅメの方に行けばいいな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0015" offset="00" relocatable="true" max_length="0">
+			<original>わっ！ イカフライ！</original>
+			<edited>わっ！ イカフライ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0016" offset="00" relocatable="true" max_length="0">
+			<original>落ちちゃいましたね… ボールランチャーで もどせますか？</original>
+			<edited>落ちちゃいましたね… ボールランチャーで もどせますか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0017" offset="00" relocatable="true" max_length="0">
+			<original>次は、リフトですね… シンチョ～に行きましょう</original>
+			<edited>次は、リフトですね… シンチョ～に行きましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0018" offset="00" relocatable="true" max_length="0">
+			<original>ふぇーー… 見ててハラハラしたゾ</original>
+			<edited>ふぇーー… 見ててハラハラしたゾ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SpecialBall_0019" offset="00" relocatable="true" max_length="0">
+			<original>ナイスです！ この先を落ちたところが ゴールです！</original>
+			<edited>ナイスです！ この先を落ちたところが ゴールです！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

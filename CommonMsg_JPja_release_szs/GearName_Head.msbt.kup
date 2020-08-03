@@ -1,0 +1,827 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="FST000" offset="00" relocatable="true" max_length="0">
+			<original>ヘッドバンド ホワイト</original>
+			<edited>ヘッドバンド ホワイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP000" offset="00" relocatable="true" max_length="0">
+			<original>ウーニーズBBキャップ</original>
+			<edited>ウーニーズBBキャップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP001" offset="00" relocatable="true" max_length="0">
+			<original>キャンプキャップ</original>
+			<edited>キャンプキャップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP002" offset="00" relocatable="true" max_length="0">
+			<original>ヤコメッシュ</original>
+			<edited>ヤコメッシュ</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP003" offset="00" relocatable="true" max_length="0">
+			<original>ビバレッジキャップ</original>
+			<edited>ビバレッジキャップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP004" offset="00" relocatable="true" max_length="0">
+			<original>チドリキャップ</original>
+			<edited>チドリキャップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP005" offset="00" relocatable="true" max_length="0">
+			<original>イカベーダーキャップ</original>
+			<edited>イカベーダーキャップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP006" offset="00" relocatable="true" max_length="0">
+			<original>カモメッシュ</original>
+			<edited>カモメッシュ</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP007" offset="00" relocatable="true" max_length="0">
+			<original>5パネルキャップ</original>
+			<edited>5パネルキャップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP008" offset="00" relocatable="true" max_length="0">
+			<original>エゾッコメッシュ</original>
+			<edited>エゾッコメッシュ</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP009" offset="00" relocatable="true" max_length="0">
+			<original>バックワードキャップ</original>
+			<edited>バックワードキャップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP010" offset="00" relocatable="true" max_length="0">
+			<original>2ラインメッシュ</original>
+			<edited>2ラインメッシュ</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP011" offset="00" relocatable="true" max_length="0">
+			<original>ジェットキャップ</original>
+			<edited>ジェットキャップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP012" offset="00" relocatable="true" max_length="0">
+			<original>テッカサイクルキャップ</original>
+			<edited>テッカサイクルキャップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP014" offset="00" relocatable="true" max_length="0">
+			<original>チャリキング帽</original>
+			<edited>チャリキング帽</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP015" offset="00" relocatable="true" max_length="0">
+			<original>でんせつのぼうし</original>
+			<edited>でんせつのぼうし</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP018" offset="00" relocatable="true" max_length="0">
+			<original>ロングビルキャップ</original>
+			<edited>ロングビルキャップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP019" offset="00" relocatable="true" max_length="0">
+			<original>キングフリップメッシュ</original>
+			<edited>キングフリップメッシュ</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP020" offset="00" relocatable="true" max_length="0">
+			<original>ヒッコリーワークキャップ</original>
+			<edited>ヒッコリーワークキャップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP021" offset="00" relocatable="true" max_length="0">
+			<original>ウールウーニーズクラシック</original>
+			<edited>ウールウーニーズクラシック</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP023" offset="00" relocatable="true" max_length="0">
+			<original>クラゲーダーキャップ</original>
+			<edited>クラゲーダーキャップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP024" offset="00" relocatable="true" max_length="0">
+			<original>ハウスタグデニムCAP</original>
+			<edited>ハウスタグデニムCAP</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP025" offset="00" relocatable="true" max_length="0">
+			<original>フグハンチング</original>
+			<edited>フグハンチング</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP026" offset="00" relocatable="true" max_length="0">
+			<original>ドゥーラグキャップガサネ</original>
+			<edited>ドゥーラグキャップガサネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="CAP027" offset="00" relocatable="true" max_length="0">
+			<original>フライトぼう</original>
+			<edited>フライトぼう</edited>
+			<subEntries />
+		</entry>
+		<entry name="NCP000" offset="00" relocatable="true" max_length="0">
+			<original>ボンボンニット</original>
+			<edited>ボンボンニット</edited>
+			<subEntries />
+		</entry>
+		<entry name="NCP001" offset="00" relocatable="true" max_length="0">
+			<original>ショートビーニー</original>
+			<edited>ショートビーニー</edited>
+			<subEntries />
+		</entry>
+		<entry name="NCP002" offset="00" relocatable="true" max_length="0">
+			<original>ボーダービーニー</original>
+			<edited>ボーダービーニー</edited>
+			<subEntries />
+		</entry>
+		<entry name="NCP003" offset="00" relocatable="true" max_length="0">
+			<original>ウインターボンボン</original>
+			<edited>ウインターボンボン</edited>
+			<subEntries />
+		</entry>
+		<entry name="NCP004" offset="00" relocatable="true" max_length="0">
+			<original>モンゴウベレー</original>
+			<edited>モンゴウベレー</edited>
+			<subEntries />
+		</entry>
+		<entry name="NCP005" offset="00" relocatable="true" max_length="0">
+			<original>イカノルディック</original>
+			<edited>イカノルディック</edited>
+			<subEntries />
+		</entry>
+		<entry name="NCP006" offset="00" relocatable="true" max_length="0">
+			<original>センニューボンボン</original>
+			<edited>センニューボンボン</edited>
+			<subEntries />
+		</entry>
+		<entry name="NCP008" offset="00" relocatable="true" max_length="0">
+			<original>リブニット</original>
+			<edited>リブニット</edited>
+			<subEntries />
+		</entry>
+		<entry name="NCP009" offset="00" relocatable="true" max_length="0">
+			<original>アナアキアンピンベレー</original>
+			<edited>アナアキアンピンベレー</edited>
+			<subEntries />
+		</entry>
+		<entry name="NCP010" offset="00" relocatable="true" max_length="0">
+			<original>ヤマギリビーニー</original>
+			<edited>ヤマギリビーニー</edited>
+			<subEntries />
+		</entry>
+		<entry name="NCP011" offset="00" relocatable="true" max_length="0">
+			<original>オシノビニット</original>
+			<edited>オシノビニット</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE000" offset="00" relocatable="true" max_length="0">
+			<original>クロブチ レトロ</original>
+			<edited>クロブチ レトロ</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE001" offset="00" relocatable="true" max_length="0">
+			<original>スプラッシュゴーグル</original>
+			<edited>スプラッシュゴーグル</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE002" offset="00" relocatable="true" max_length="0">
+			<original>パイロットゴーグル</original>
+			<edited>パイロットゴーグル</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE003" offset="00" relocatable="true" max_length="0">
+			<original>イロメガネ</original>
+			<edited>イロメガネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE004" offset="00" relocatable="true" max_length="0">
+			<original>アローバンド ブラック</original>
+			<edited>アローバンド ブラック</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE005" offset="00" relocatable="true" max_length="0">
+			<original>ダイバーゴーグル</original>
+			<edited>ダイバーゴーグル</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE006" offset="00" relocatable="true" max_length="0">
+			<original>アローバンド ホワイト</original>
+			<edited>アローバンド ホワイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE007" offset="00" relocatable="true" max_length="0">
+			<original>ダテコンタクト</original>
+			<edited>ダテコンタクト</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE008" offset="00" relocatable="true" max_length="0">
+			<original>タレサン18K</original>
+			<edited>タレサン18K</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE009" offset="00" relocatable="true" max_length="0">
+			<original>マルベッコー</original>
+			<edited>マルベッコー</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE010" offset="00" relocatable="true" max_length="0">
+			<original>オクタグラス</original>
+			<edited>オクタグラス</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE011" offset="00" relocatable="true" max_length="0">
+			<original>セルブロウ</original>
+			<edited>セルブロウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE012" offset="00" relocatable="true" max_length="0">
+			<original>ダブルエッグサングラス</original>
+			<edited>ダブルエッグサングラス</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE013" offset="00" relocatable="true" max_length="0">
+			<original>エゾッコフリッパー</original>
+			<edited>エゾッコフリッパー</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE014" offset="00" relocatable="true" max_length="0">
+			<original>マルサンSV925</original>
+			<edited>マルサンSV925</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE015" offset="00" relocatable="true" max_length="0">
+			<original>アナアキバスクベレー</original>
+			<edited>アナアキバスクベレー</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE016" offset="00" relocatable="true" max_length="0">
+			<original>スイミングモーグル</original>
+			<edited>スイミングモーグル</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE017" offset="00" relocatable="true" max_length="0">
+			<original>スミガードゴーグル</original>
+			<edited>スミガードゴーグル</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE018" offset="00" relocatable="true" max_length="0">
+			<original>モーグル タタキベッチュー</original>
+			<edited>モーグル タタキベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE019" offset="00" relocatable="true" max_length="0">
+			<original>センニューゴーグル</original>
+			<edited>センニューゴーグル</edited>
+			<subEntries />
+		</entry>
+		<entry name="EYE020" offset="00" relocatable="true" max_length="0">
+			<original>センニュークロブチ</original>
+			<edited>センニュークロブチ</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAT000" offset="00" relocatable="true" max_length="0">
+			<original>ロブスターブーニー</original>
+			<edited>ロブスターブーニー</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAT001" offset="00" relocatable="true" max_length="0">
+			<original>サファリハット</original>
+			<edited>サファリハット</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAT002" offset="00" relocatable="true" max_length="0">
+			<original>キャンプハット</original>
+			<edited>キャンプハット</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAT003" offset="00" relocatable="true" max_length="0">
+			<original>フグベルハット</original>
+			<edited>フグベルハット</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAT004" offset="00" relocatable="true" max_length="0">
+			<original>スゲ</original>
+			<edited>スゲ</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAT005" offset="00" relocatable="true" max_length="0">
+			<original>イカンカン</original>
+			<edited>イカンカン</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAT006" offset="00" relocatable="true" max_length="0">
+			<original>イカンカン クラシック</original>
+			<edited>イカンカン クラシック</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAT007" offset="00" relocatable="true" max_length="0">
+			<original>トレジャーメット</original>
+			<edited>トレジャーメット</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAT008" offset="00" relocatable="true" max_length="0">
+			<original>イカバケット</original>
+			<edited>イカバケット</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAT009" offset="00" relocatable="true" max_length="0">
+			<original>パッチハット</original>
+			<edited>パッチハット</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAT010" offset="00" relocatable="true" max_length="0">
+			<original>パラソルチューリップ</original>
+			<edited>パラソルチューリップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAT011" offset="00" relocatable="true" max_length="0">
+			<original>フグベルベルハット</original>
+			<edited>フグベルベルハット</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAT012" offset="00" relocatable="true" max_length="0">
+			<original>カイガラスゲ</original>
+			<edited>カイガラスゲ</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAT013" offset="00" relocatable="true" max_length="0">
+			<original>ホタプラントハット</original>
+			<edited>ホタプラントハット</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAT014" offset="00" relocatable="true" max_length="0">
+			<original>ヤマハット</original>
+			<edited>ヤマハット</edited>
+			<subEntries />
+		</entry>
+		<entry name="HDP000" offset="00" relocatable="true" max_length="0">
+			<original>スタジオヘッドホン</original>
+			<edited>スタジオヘッドホン</edited>
+			<subEntries />
+		</entry>
+		<entry name="HDP001" offset="00" relocatable="true" max_length="0">
+			<original>オーロラヘッドホン</original>
+			<edited>オーロラヘッドホン</edited>
+			<subEntries />
+		</entry>
+		<entry name="HDP002" offset="00" relocatable="true" max_length="0">
+			<original>イヤーマフ</original>
+			<edited>イヤーマフ</edited>
+			<subEntries />
+		</entry>
+		<entry name="HDP003" offset="00" relocatable="true" max_length="0">
+			<original>エンペラフックHDP</original>
+			<edited>エンペラフックHDP</edited>
+			<subEntries />
+		</entry>
+		<entry name="HDP004" offset="00" relocatable="true" max_length="0">
+			<original>ステカセヘッドホン</original>
+			<edited>ステカセヘッドホン</edited>
+			<subEntries />
+		</entry>
+		<entry name="HDP005" offset="00" relocatable="true" max_length="0">
+			<original>スタジオオクトホン</original>
+			<edited>スタジオオクトホン</edited>
+			<subEntries />
+		</entry>
+		<entry name="HDP006" offset="00" relocatable="true" max_length="0">
+			<original>センニューヘッドホン</original>
+			<edited>センニューヘッドホン</edited>
+			<subEntries />
+		</entry>
+		<entry name="VIS000" offset="00" relocatable="true" max_length="0">
+			<original>キャディ サンバイザー</original>
+			<edited>キャディ サンバイザー</edited>
+			<subEntries />
+		</entry>
+		<entry name="VIS001" offset="00" relocatable="true" max_length="0">
+			<original>ヤキフグ サンバイザー</original>
+			<edited>ヤキフグ サンバイザー</edited>
+			<subEntries />
+		</entry>
+		<entry name="VIS002" offset="00" relocatable="true" max_length="0">
+			<original>サンサンサンバイザー</original>
+			<edited>サンサンサンバイザー</edited>
+			<subEntries />
+		</entry>
+		<entry name="VIS003" offset="00" relocatable="true" max_length="0">
+			<original>ヤコバイザー</original>
+			<edited>ヤコバイザー</edited>
+			<subEntries />
+		</entry>
+		<entry name="VIS004" offset="00" relocatable="true" max_length="0">
+			<original>フェイスバイザー</original>
+			<edited>フェイスバイザー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MET000" offset="00" relocatable="true" max_length="0">
+			<original>サイクルメット</original>
+			<edited>サイクルメット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MET002" offset="00" relocatable="true" max_length="0">
+			<original>ナイトビジョン</original>
+			<edited>ナイトビジョン</edited>
+			<subEntries />
+		</entry>
+		<entry name="MET003" offset="00" relocatable="true" max_length="0">
+			<original>テンタクルズメット</original>
+			<edited>テンタクルズメット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MET004" offset="00" relocatable="true" max_length="0">
+			<original>スケボーメット</original>
+			<edited>スケボーメット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MET005" offset="00" relocatable="true" max_length="0">
+			<original>バイザーメット</original>
+			<edited>バイザーメット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MET006" offset="00" relocatable="true" max_length="0">
+			<original>ロゴヅクシMTBメット</original>
+			<edited>ロゴヅクシMTBメット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MET007" offset="00" relocatable="true" max_length="0">
+			<original>イカロスHKメット</original>
+			<edited>イカロスHKメット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MET008" offset="00" relocatable="true" max_length="0">
+			<original>ツヤケシMTBメット</original>
+			<edited>ツヤケシMTBメット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MET009" offset="00" relocatable="true" max_length="0">
+			<original>オクトメットプライズデコ</original>
+			<edited>オクトメットプライズデコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MET010" offset="00" relocatable="true" max_length="0">
+			<original>モイストワカメット</original>
+			<edited>モイストワカメット</edited>
+			<subEntries />
+		</entry>
+		<entry name="MET011" offset="00" relocatable="true" max_length="0">
+			<original>デカメットアイシールド</original>
+			<edited>デカメットアイシールド</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSK000" offset="00" relocatable="true" max_length="0">
+			<original>タコマスク</original>
+			<edited>タコマスク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSK001" offset="00" relocatable="true" max_length="0">
+			<original>フェイスゴーグル</original>
+			<edited>フェイスゴーグル</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSK002" offset="00" relocatable="true" max_length="0">
+			<original>エイズリーバンダナ</original>
+			<edited>エイズリーバンダナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSK003" offset="00" relocatable="true" max_length="0">
+			<original>イカスカルマスク</original>
+			<edited>イカスカルマスク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSK004" offset="00" relocatable="true" max_length="0">
+			<original>ペインターマスク</original>
+			<edited>ペインターマスク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSK005" offset="00" relocatable="true" max_length="0">
+			<original>アナアキマスク</original>
+			<edited>アナアキマスク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSK006" offset="00" relocatable="true" max_length="0">
+			<original>キングタコスターマスク</original>
+			<edited>キングタコスターマスク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSK007" offset="00" relocatable="true" max_length="0">
+			<original>イカバッテンガード</original>
+			<edited>イカバッテンガード</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSK008" offset="00" relocatable="true" max_length="0">
+			<original>マスクドホッコリー</original>
+			<edited>マスクドホッコリー</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSK009" offset="00" relocatable="true" max_length="0">
+			<original>キングオブマスク</original>
+			<edited>キングオブマスク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSK010" offset="00" relocatable="true" max_length="0">
+			<original>ノーズガードモトクロス</original>
+			<edited>ノーズガードモトクロス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSK011" offset="00" relocatable="true" max_length="0">
+			<original>フォーリマスク</original>
+			<edited>フォーリマスク</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSK012" offset="00" relocatable="true" max_length="0">
+			<original>フォーリマスク デジカモ</original>
+			<edited>フォーリマスク デジカモ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSK013" offset="00" relocatable="true" max_length="0">
+			<original>こうしえんバンダナ</original>
+			<edited>こうしえんバンダナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="HBD001" offset="00" relocatable="true" max_length="0">
+			<original>バスケバンド</original>
+			<edited>バスケバンド</edited>
+			<subEntries />
+		</entry>
+		<entry name="HBD002" offset="00" relocatable="true" max_length="0">
+			<original>スカッシュバンド</original>
+			<edited>スカッシュバンド</edited>
+			<subEntries />
+		</entry>
+		<entry name="HBD003" offset="00" relocatable="true" max_length="0">
+			<original>テニスバンド</original>
+			<edited>テニスバンド</edited>
+			<subEntries />
+		</entry>
+		<entry name="HBD004" offset="00" relocatable="true" max_length="0">
+			<original>ランニングバンド</original>
+			<edited>ランニングバンド</edited>
+			<subEntries />
+		</entry>
+		<entry name="HBD005" offset="00" relocatable="true" max_length="0">
+			<original>サッカーバンド</original>
+			<edited>サッカーバンド</edited>
+			<subEntries />
+		</entry>
+		<entry name="HBD007" offset="00" relocatable="true" max_length="0">
+			<original>ヤキフグビスケットバンダナ</original>
+			<edited>ヤキフグビスケットバンダナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="HBD008" offset="00" relocatable="true" max_length="0">
+			<original>クロヤキフグバンダナ</original>
+			<edited>クロヤキフグバンダナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB000" offset="00" relocatable="true" max_length="0">
+			<original>イカパッチン</original>
+			<edited>イカパッチン</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB001" offset="00" relocatable="true" max_length="0">
+			<original>サムライヘルメット</original>
+			<edited>サムライヘルメット</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB002" offset="00" relocatable="true" max_length="0">
+			<original>パワードマスク</original>
+			<edited>パワードマスク</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB003" offset="00" relocatable="true" max_length="0">
+			<original>イカクリップ</original>
+			<edited>イカクリップ</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB004" offset="00" relocatable="true" max_length="0">
+			<original>イカカゲマスク</original>
+			<edited>イカカゲマスク</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB005" offset="00" relocatable="true" max_length="0">
+			<original>パワードマスク オリジン</original>
+			<edited>パワードマスク オリジン</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB006" offset="00" relocatable="true" max_length="0">
+			<original>ヒメイトクラウン</original>
+			<edited>ヒメイトクラウン</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB007" offset="00" relocatable="true" max_length="0">
+			<original>イイダチヘッドホン</original>
+			<edited>イイダチヘッドホン</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB008" offset="00" relocatable="true" max_length="0">
+			<original>エンチャントハット</original>
+			<edited>エンチャントハット</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB009" offset="00" relocatable="true" max_length="0">
+			<original>タコティカルなヘルム</original>
+			<edited>タコティカルなヘルム</edited>
+			<subEntries />
+		</entry>
+		<entry name="AMB010" offset="00" relocatable="true" max_length="0">
+			<original>ひれおくん</original>
+			<edited>ひれおくん</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSN000" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローヘッズ レプリカ</original>
+			<edited>ヒーローヘッズ レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSN004" offset="00" relocatable="true" max_length="0">
+			<original>アーマーメット レプリカ</original>
+			<edited>アーマーメット レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSN101" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローレシーバー レプリカ</original>
+			<edited>ヒーローレシーバー レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSN104" offset="00" relocatable="true" max_length="0">
+			<original>タコゾネスサングラス</original>
+			<edited>タコゾネスサングラス</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSN105" offset="00" relocatable="true" max_length="0">
+			<original>ネルメット レプリカ</original>
+			<edited>ネルメット レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSN106" offset="00" relocatable="true" max_length="0">
+			<original>グランパなアタマ</original>
+			<edited>グランパなアタマ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSN107" offset="00" relocatable="true" max_length="0">
+			<original>メトロぼう</original>
+			<edited>メトロぼう</edited>
+			<subEntries />
+		</entry>
+		<entry name="MSN108" offset="00" relocatable="true" max_length="0">
+			<original>金のつまようじ</original>
+			<edited>金のつまようじ</edited>
+			<subEntries />
+		</entry>
+		<entry name="RVL000" offset="00" relocatable="true" max_length="0">
+			<original>タコゾネススコープ</original>
+			<edited>タコゾネススコープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="COP100" offset="00" relocatable="true" max_length="0">
+			<original>ヘッドライトヘルム</original>
+			<edited>ヘッドライトヘルム</edited>
+			<subEntries />
+		</entry>
+		<entry name="COP101" offset="00" relocatable="true" max_length="0">
+			<original>ダストブロッカー 2.5</original>
+			<edited>ダストブロッカー 2.5</edited>
+			<subEntries />
+		</entry>
+		<entry name="COP102" offset="00" relocatable="true" max_length="0">
+			<original>アイアンマスカレイド</original>
+			<edited>アイアンマスカレイド</edited>
+			<subEntries />
+		</entry>
+		<entry name="COP103" offset="00" relocatable="true" max_length="0">
+			<original>ガーディアンアーミーハット</original>
+			<edited>ガーディアンアーミーハット</edited>
+			<subEntries />
+		</entry>
+		<entry name="COP104" offset="00" relocatable="true" max_length="0">
+			<original>ゾネスティックスコープ</original>
+			<edited>ゾネスティックスコープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="COP105" offset="00" relocatable="true" max_length="0">
+			<original>レジェンドのぼうし</original>
+			<edited>レジェンドのぼうし</edited>
+			<subEntries />
+		</entry>
+		<entry name="COP106" offset="00" relocatable="true" max_length="0">
+			<original>オーシャンズヘルム</original>
+			<edited>オーシャンズヘルム</edited>
+			<subEntries />
+		</entry>
+		<entry name="COP107" offset="00" relocatable="true" max_length="0">
+			<original>アセストップソシナ</original>
+			<edited>アセストップソシナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="COP108" offset="00" relocatable="true" max_length="0">
+			<original>スペボウ レプリカ</original>
+			<edited>スペボウ レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="COP109" offset="00" relocatable="true" max_length="0">
+			<original>マリリンハットウィズピンズ</original>
+			<edited>マリリンハットウィズピンズ</edited>
+			<subEntries />
+		</entry>
+		<entry name="ACC001" offset="00" relocatable="true" max_length="0">
+			<original>カイザーカフ</original>
+			<edited>カイザーカフ</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP000" offset="00" relocatable="true" max_length="0">
+			<original>キョンキョンぼう</original>
+			<edited>キョンキョンぼう</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP001" offset="00" relocatable="true" max_length="0">
+			<original>ウミウシカチューシャ</original>
+			<edited>ウミウシカチューシャ</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP002" offset="00" relocatable="true" max_length="0">
+			<original>ホッケかめん</original>
+			<edited>ホッケかめん</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP003" offset="00" relocatable="true" max_length="0">
+			<original>アンコウラバーマスク</original>
+			<edited>アンコウラバーマスク</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP004" offset="00" relocatable="true" max_length="0">
+			<original>パーティーコーンデコ</original>
+			<edited>パーティーコーンデコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP005" offset="00" relocatable="true" max_length="0">
+			<original>ニューイヤーグラスDX</original>
+			<edited>ニューイヤーグラスDX</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP006" offset="00" relocatable="true" max_length="0">
+			<original>ねじりゴージャス</original>
+			<edited>ねじりゴージャス</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP007" offset="00" relocatable="true" max_length="0">
+			<original>ハッピーチンアナゴハット</original>
+			<edited>ハッピーチンアナゴハット</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP008" offset="00" relocatable="true" max_length="0">
+			<original>ノベルティバイザールピナス</original>
+			<edited>ノベルティバイザールピナス</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP009" offset="00" relocatable="true" max_length="0">
+			<original>ノベルティバイザーナズナ</original>
+			<edited>ノベルティバイザーナズナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP010" offset="00" relocatable="true" max_length="0">
+			<original>ノベルティバイザーポピー</original>
+			<edited>ノベルティバイザーポピー</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP011" offset="00" relocatable="true" max_length="0">
+			<original>ノベルティバイザーナデシコ</original>
+			<edited>ノベルティバイザーナデシコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP012" offset="00" relocatable="true" max_length="0">
+			<original>バーニングブロイラー</original>
+			<edited>バーニングブロイラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP013" offset="00" relocatable="true" max_length="0">
+			<original>ギガギョコツ</original>
+			<edited>ギガギョコツ</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP014" offset="00" relocatable="true" max_length="0">
+			<original>コズミックアンテナ</original>
+			<edited>コズミックアンテナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="HAP015" offset="00" relocatable="true" max_length="0">
+			<original>ジャスティスブレイン </original>
+			<edited>ジャスティスブレイン </edited>
+			<subEntries />
+		</entry>
+		<entry name="CRC000" offset="00" relocatable="true" max_length="0">
+			<original>メカヘッド・HTR</original>
+			<edited>メカヘッド・HTR</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

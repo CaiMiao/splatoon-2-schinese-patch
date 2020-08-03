@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>ガチヤグラを、相手のゴールまで導いてくださイ</original>
+			<edited>ガチヤグラを、相手のゴールまで導いてくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ヤグラは、乗ると移動を始めまス</original>
+			<edited>ヤグラは、乗ると移動を始めまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>カンモンでは、一定時間 ヤグラが停止しまス</original>
+			<edited>カンモンでは、一定時間 ヤグラが停止しまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0000" offset="00" relocatable="true" max_length="0">
+			<original>ガチヤグラを ゴールまで運ぶみたいですね～</original>
+			<edited>ガチヤグラを ゴールまで運ぶみたいですね～</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0001" offset="00" relocatable="true" max_length="0">
+			<original>ハチ！ ヤグラに向かえー！</original>
+			<edited>ハチ！ ヤグラに向かえー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0002" offset="00" relocatable="true" max_length="0">
+			<original>時間内なら、何度でもやり直せるぞ！</original>
+			<edited>時間内なら、何度でもやり直せるぞ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0003" offset="00" relocatable="true" max_length="0">
+			<original>あそこから ヤグラにジャンプできますよ！</original>
+			<edited>あそこから ヤグラにジャンプできますよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0004" offset="00" relocatable="true" max_length="0">
+			<original>ぬゥ… また始めから仕切り直しじゃ！</original>
+			<edited>ぬゥ… また始めから仕切り直しじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0005" offset="00" relocatable="true" max_length="0">
+			<original>残り1分です！</original>
+			<edited>残り1分です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0006" offset="00" relocatable="true" max_length="0">
+			<original>もうダメだーっ！！</original>
+			<edited>もうダメだーっ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0007" offset="00" relocatable="true" max_length="0">
+			<original>ライドーン！</original>
+			<edited>ライドーン！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0008" offset="00" relocatable="true" max_length="0">
+			<original>おい、どこ行くんだ！ ヤグラに乗れって！</original>
+			<edited>おい、どこ行くんだ！ ヤグラに乗れって！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0009" offset="00" relocatable="true" max_length="0">
+			<original>ヤグラは 矢印の示す方向にありますよ！</original>
+			<edited>ヤグラは 矢印の示す方向にありますよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0010" offset="00" relocatable="true" max_length="0">
+			<original>ゴールまで あと半分じゃ！</original>
+			<edited>ゴールまで あと半分じゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0011" offset="00" relocatable="true" max_length="0">
+			<original>こないだのライブ 最高だったよなー！</original>
+			<edited>こないだのライブ 最高だったよなー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0012" offset="00" relocatable="true" max_length="0">
+			<original>ですね～…って、それどころじゃないですよ！</original>
+			<edited>ですね～…って、それどころじゃないですよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0013" offset="00" relocatable="true" max_length="0">
+			<original>ゲッ！ 乗ってきやがった！！</original>
+			<edited>ゲッ！ 乗ってきやがった！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0014" offset="00" relocatable="true" max_length="0">
+			<original>ときには降りて、体勢を整えるのも大事です！</original>
+			<edited>ときには降りて、体勢を整えるのも大事です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0015" offset="00" relocatable="true" max_length="0">
+			<original>８号さん、ヤグラにもどりましょう！</original>
+			<edited>８号さん、ヤグラにもどりましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0016" offset="00" relocatable="true" max_length="0">
+			<original>先に 敵どもをとっちめても いいゾ！</original>
+			<edited>先に 敵どもをとっちめても いいゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0017" offset="00" relocatable="true" max_length="0">
+			<original>ゴールは近いです！ 落ち着いて行きましょう！</original>
+			<edited>ゴールは近いです！ 落ち着いて行きましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0018" offset="00" relocatable="true" max_length="0">
+			<original>っしゃ 行っけー！</original>
+			<edited>っしゃ 行っけー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0019" offset="00" relocatable="true" max_length="0">
+			<original>今度こそ 行っけー！</original>
+			<edited>今度こそ 行っけー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="VenueYagura_0020" offset="00" relocatable="true" max_length="0">
+			<original>…ファッ！ タコゾネスじゃ！</original>
+			<edited>…ファッ！ タコゾネスじゃ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

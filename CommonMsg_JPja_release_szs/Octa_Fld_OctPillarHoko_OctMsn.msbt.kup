@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコを、相手のゴールまで運んでくださイ</original>
+			<edited>ガチホコを、相手のゴールまで運んでくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ホコを持って&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで、強力なショットが撃てまス</original>
+			<edited>ホコを持って&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで、強力なショットが撃てまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>ホコを持っていると ボムは使えないので、注意でス</original>
+			<edited>ホコを持っていると ボムは使えないので、注意でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0000" offset="00" relocatable="true" max_length="0">
+			<original>…ってか ここ、マンタマリア号そっくりじゃねーか</original>
+			<edited>…ってか ここ、マンタマリア号そっくりじゃねーか</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0001" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコを運ぶようですね… では、ホコをゲットしましょう</original>
+			<edited>ガチホコを運ぶようですね… では、ホコをゲットしましょう</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0025" offset="00" relocatable="true" max_length="0">
+			<original>ホコのバリアをインクショットで割り、ホコにさわってください</original>
+			<edited>ホコのバリアをインクショットで割り、ホコにさわってください</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0002" offset="00" relocatable="true" max_length="0">
+			<original>時間内ならやり直せるゾ！ ホコを取りもどせー！</original>
+			<edited>時間内ならやり直せるゾ！ ホコを取りもどせー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0003" offset="00" relocatable="true" max_length="0">
+			<original>やり直しじゃな… 気をしっかり持つんじゃ！</original>
+			<edited>やり直しじゃな… 気をしっかり持つんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0004" offset="00" relocatable="true" max_length="0">
+			<original>急げ！ 残り１分を切ったゾ！</original>
+			<edited>急げ！ 残り１分を切ったゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0005" offset="00" relocatable="true" max_length="0">
+			<original>キエーッ！ ままよッ！</original>
+			<edited>キエーッ！ ままよッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0006" offset="00" relocatable="true" max_length="0">
+			<original>ッシャー！ 相手のゴールまで運べー！</original>
+			<edited>ッシャー！ 相手のゴールまで運べー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0007" offset="00" relocatable="true" max_length="0">
+			<original>ホレ、おいでなすったぞィ！</original>
+			<edited>ホレ、おいでなすったぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0008" offset="00" relocatable="true" max_length="0">
+			<original>動きを読んで、フルチャージの爆発に巻きこみましょう！</original>
+			<edited>動きを読んで、フルチャージの爆発に巻きこみましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0009" offset="00" relocatable="true" max_length="0">
+			<original>おい、何してんだ！ ホコを運べって！</original>
+			<edited>おい、何してんだ！ ホコを運べって！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0010" offset="00" relocatable="true" max_length="0">
+			<original>ホコは ガイドの示す方向にあるはずです！</original>
+			<edited>ホコは ガイドの示す方向にあるはずです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0011" offset="00" relocatable="true" max_length="0">
+			<original>ゴールまで あと半分じゃ！</original>
+			<edited>ゴールまで あと半分じゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0013" offset="00" relocatable="true" max_length="0">
+			<original>８号さん、ホコを取りもどしましょう！</original>
+			<edited>８号さん、ホコを取りもどしましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0014" offset="00" relocatable="true" max_length="0">
+			<original>ホコを取る前に、ブキでとっちめるのもアリだゾ！</original>
+			<edited>ホコを取る前に、ブキでとっちめるのもアリだゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0015" offset="00" relocatable="true" max_length="0">
+			<original>ゴールは目の前じゃ！ 気合でトッパせィ！</original>
+			<edited>ゴールは目の前じゃ！ 気合でトッパせィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0016" offset="00" relocatable="true" max_length="0">
+			<original>８号さん、がんばって～！</original>
+			<edited>８号さん、がんばって～！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0017" offset="00" relocatable="true" max_length="0">
+			<original>これでどうだーっ！</original>
+			<edited>これでどうだーっ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0018" offset="00" relocatable="true" max_length="0">
+			<original>バリアが割れました！ 急いでホコを取りましょう！</original>
+			<edited>バリアが割れました！ 急いでホコを取りましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0019" offset="00" relocatable="true" max_length="0">
+			<original>バリアが割れたら、ホコを放っとくなよ！</original>
+			<edited>バリアが割れたら、ホコを放っとくなよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0020" offset="00" relocatable="true" max_length="0">
+			<original>取らないと、最初の位置にもどっちゃうんですよね…</original>
+			<edited>取らないと、最初の位置にもどっちゃうんですよね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0021" offset="00" relocatable="true" max_length="0">
+			<original>おい、またホコが もどったゾ！</original>
+			<edited>おい、またホコが もどったゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0022" offset="00" relocatable="true" max_length="0">
+			<original>この船、下のデッキは立ち入り禁止なんだよな…</original>
+			<edited>この船、下のデッキは立ち入り禁止なんだよな…</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0023" offset="00" relocatable="true" max_length="0">
+			<original>そんなところまで、そっくりに作ってあるんですね…</original>
+			<edited>そんなところまで、そっくりに作ってあるんですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="PillarHoko_0024" offset="00" relocatable="true" max_length="0">
+			<original>ゲッ！ ヤバそーなヤツらが いんゾ！</original>
+			<edited>ゲッ！ ヤバそーなヤツらが いんゾ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

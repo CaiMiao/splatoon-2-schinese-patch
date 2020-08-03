@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Clear_05" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í本目の路線&#xE;&#x0;&#x3;&#x2;ÿÿ にたどり着きましタ…
+路線図に 表示いたしまス</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í本目の路線&#xE;&#x0;&#x3;&#x2;ÿÿ にたどり着きましタ…
+路線図に 表示いたしまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clear_06" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x2;0&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で示している場所に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４つのアレ &#xE;&#x0;&#x3;&#x2;ÿÿがあるようでス…
+そこを目指してくださイ</original>
+			<edited>&#xE;&#x2;0&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で示している場所に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４つのアレ &#xE;&#x0;&#x3;&#x2;ÿÿがあるようでス…
+そこを目指してくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clear_07" offset="00" relocatable="true" max_length="0">
+			<original>ちなみに この路線には &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４つのアレ &#xE;&#x0;&#x3;&#x2;ÿÿはないようでス…
+また 新しい路線を 探してくださイ</original>
+			<edited>ちなみに この路線には &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４つのアレ &#xE;&#x0;&#x3;&#x2;ÿÿはないようでス…
+また 新しい路線を 探してくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clear_08" offset="00" relocatable="true" max_length="0">
+			<original>新たな路線を見つけたので &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボーナス &#xE;&#x0;&#x3;&#x2;ÿÿを差し上げまス
+ワタクシのところまで おこしくださイ…</original>
+			<edited>新たな路線を見つけたので &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボーナス &#xE;&#x0;&#x3;&#x2;ÿÿを差し上げまス
+ワタクシのところまで おこしくださイ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clear_03" offset="00" relocatable="true" max_length="0">
+			<original>あ、そういえば… ８号さんがチャレンジがんばってる間、
+アタリメさん 「ヒマじゃ！」 って言ってたので、&#xE;&#x0;&#x4;&#x0;ワタシたち チャットでおしゃべり してたんですよ～
+&#xE;&#x0;&#x4;&#x0;そんな &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;チャットログ&#xE;&#x0;&#x3;&#x2;ÿÿ せっかくなので、
+８号さんも見られるように 改造しておきました！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x1B;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で切りかえて、
+息ぬきに 見てみてくださいね♪</original>
+			<edited>あ、そういえば… ８号さんがチャレンジがんばってる間、
+アタリメさん 「ヒマじゃ！」 って言ってたので、&#xE;&#x0;&#x4;&#x0;ワタシたち チャットでおしゃべり してたんですよ～
+&#xE;&#x0;&#x4;&#x0;そんな &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;チャットログ&#xE;&#x0;&#x3;&#x2;ÿÿ せっかくなので、
+８号さんも見られるように 改造しておきました！&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x1B;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で切りかえて、
+息ぬきに 見てみてくださいね♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clear_04" offset="00" relocatable="true" max_length="0">
+			<original>新しい &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;チャットログ &#xE;&#x0;&#x3;&#x2;ÿÿを送信しておきました！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+息ぬきに 見てみてくださいね♪</original>
+			<edited>新しい &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;チャットログ &#xE;&#x0;&#x3;&#x2;ÿÿを送信しておきました！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+息ぬきに 見てみてくださいね♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="Clear_09" offset="00" relocatable="true" max_length="0">
+			<original>あら… どうやら 知らない方から　
+チャットログへの 書きこみがあったようです…&#xE;&#x0;&#x4;&#x0;まぁ せっかくなので、
+８号さんも見られるように しておきますね♪</original>
+			<edited>あら… どうやら 知らない方から　
+チャットログへの 書きこみがあったようです…&#xE;&#x0;&#x4;&#x0;まぁ せっかくなので、
+８号さんも見られるように しておきますね♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="GameOver_00" offset="00" relocatable="true" max_length="0">
+			<original>ポイント 足りなくなっちゃいましたね…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+他にチャレンジできる駅を 探してみましょ！</original>
+			<edited>ポイント 足りなくなっちゃいましたね…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+他にチャレンジできる駅を 探してみましょ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GameOver_01" offset="00" relocatable="true" max_length="0">
+			<original>あら…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;　もしかしてポイント…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+足りなくなっちゃいました…？</original>
+			<edited>あら…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;　もしかしてポイント…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+足りなくなっちゃいました…？</edited>
+			<subEntries />
+		</entry>
+		<entry name="GameOver_02" offset="00" relocatable="true" max_length="0">
+			<original>ギョギョ…ッ？！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; おヌシ、ちと
+カネづかいが あらすぎるんじゃないか…？</original>
+			<edited>ギョギョ…ッ？！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; おヌシ、ちと
+カネづかいが あらすぎるんじゃないか…？</edited>
+			<subEntries />
+		</entry>
+		<entry name="GameOver_03" offset="00" relocatable="true" max_length="0">
+			<original>チャレンジクリア、おめでとうございますっ！
+でも、新しい駅に行くには ポイント足りなそうですね…</original>
+			<edited>チャレンジクリア、おめでとうございますっ！
+でも、新しい駅に行くには ポイント足りなそうですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="GameOver_04" offset="00" relocatable="true" max_length="0">
+			<original>ありゃりゃ… まぁ、ときにはそういう不運もあるじゃろう…</original>
+			<edited>ありゃりゃ… まぁ、ときにはそういう不運もあるじゃろう…</edited>
+			<subEntries />
+		</entry>
+		<entry name="GameOver_05" offset="00" relocatable="true" max_length="0">
+			<original>ったく しゃーねーな！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+パパのポケットマネーから送ってやるから　ちょっと待ってな！</original>
+			<edited>ったく しゃーねーな！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+パパのポケットマネーから送ってやるから　ちょっと待ってな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GameOver_06" offset="00" relocatable="true" max_length="0">
+			<original>もぉセンパイったら…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; こっちのおカネ送ってもしょうがない
+から、 NAMACOポイントに 変換しておきますね…</original>
+			<edited>もぉセンパイったら…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; こっちのおカネ送ってもしょうがない
+から、 NAMACOポイントに 変換しておきますね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="GameOver_07" offset="00" relocatable="true" max_length="0">
+			<original>お、さすがイイダッ！ デキる女はちがうなッ！</original>
+			<edited>お、さすがイイダッ！ デキる女はちがうなッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GameOver_08" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;はい、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x0;&#x3;&#x2;ÿÿ 送っておきました♪</original>
+			<edited>&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;はい、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x4;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x0;&#x3;&#x2;ÿÿ 送っておきました♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="GameOver_09" offset="00" relocatable="true" max_length="0">
+			<original>ネル社のシステムの セキュリティホールを見つけたので、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+これくらいなら バレずにできちゃいます！</original>
+			<edited>ネル社のシステムの セキュリティホールを見つけたので、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+これくらいなら バレずにできちゃいます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GameOver_10" offset="00" relocatable="true" max_length="0">
+			<original>…にしても、 パパのマネー 勝手にとっちゃ ダメじゃろ！</original>
+			<edited>…にしても、 パパのマネー 勝手にとっちゃ ダメじゃろ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GameOver_11" offset="00" relocatable="true" max_length="0">
+			<original>まぁ、あとで返しときゃいーだろ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+返すときは とりま ジジィに声かけろよッ！</original>
+			<edited>まぁ、あとで返しときゃいーだろ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+返すときは とりま ジジィに声かけろよッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GameOver_12" offset="00" relocatable="true" max_length="0">
+			<original>これからも おカネ足りなくなったら、
+いつでもアタシに 言ってくれよなッ！</original>
+			<edited>これからも おカネ足りなくなったら、
+いつでもアタシに 言ってくれよなッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GameOver_13" offset="00" relocatable="true" max_length="0">
+			<original>おヌシは ちと ８号を甘やかしすぎじゃと ワシは思う！</original>
+			<edited>おヌシは ちと ８号を甘やかしすぎじゃと ワシは思う！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GameOver_14" offset="00" relocatable="true" max_length="0">
+			<original>８号さんも 借金返せるときは、
+ちゃんと 返してくださいね！</original>
+			<edited>８号さんも 借金返せるときは、
+ちゃんと 返してくださいね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GameOver_15" offset="00" relocatable="true" max_length="0">
+			<original>まぁ、いつか返しとけば 別にいいけどな！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+返すときは とりま ジジィに声かけろよッ！</original>
+			<edited>まぁ、いつか返しとけば 別にいいけどな！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+返すときは とりま ジジィに声かけろよッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="GameOver_16" offset="00" relocatable="true" max_length="0">
+			<original>「借りたものは返す」　…これ人生の鉄則じゃ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…ワシは ネコババなんて せんぞ？）&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
+			<edited>「借りたものは返す」　…これ人生の鉄則じゃ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…ワシは ネコババなんて せんぞ？）&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineOpen_After_00" offset="00" relocatable="true" max_length="0">
+			<original>新たな路線に たどり着いたことを評価し、
+NAMACOポイントを おわたししまス…&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿをお受け取りくださイ</original>
+			<edited>新たな路線に たどり着いたことを評価し、
+NAMACOポイントを おわたししまス…&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿをお受け取りくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineOpen_After_01" offset="00" relocatable="true" max_length="0">
+			<original>No.10008は 全ての路線を 見つけましタ
+最後のNAMACOポイントを おわたししまス…&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿをお受け取りくださイ</original>
+			<edited>No.10008は 全ての路線を 見つけましタ
+最後のNAMACOポイントを おわたししまス…&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿをお受け取りくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineOpen_After_02" offset="00" relocatable="true" max_length="0">
+			<original>新たな路線に たどり着いたことを評価し、
+NAMACOポイントを おわたししまス…&#xE;&#x0;&#x4;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;たまっていた分も 合わせて、
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿをお受け取りくださイ</original>
+			<edited>新たな路線に たどり着いたことを評価し、
+NAMACOポイントを おわたししまス…&#xE;&#x0;&#x4;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;たまっていた分も 合わせて、
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿをお受け取りくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="LineOpen_After_03" offset="00" relocatable="true" max_length="0">
+			<original>No.10008は 全ての路線を 見つけましタ
+最後のNAMACOポイントを おわたししまス…&#xE;&#x0;&#x4;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;たまっていた分も 合わせて、
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿをお受け取りくださイ</original>
+			<edited>No.10008は 全ての路線を 見つけましタ
+最後のNAMACOポイントを おわたししまス…&#xE;&#x0;&#x4;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;たまっていた分も 合わせて、
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿをお受け取りくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_00" offset="00" relocatable="true" max_length="0">
+			<original>おおッ！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;なんじゃこれは？！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+最近のメカは すごいのゥ…</original>
+			<edited>おおッ！ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;なんじゃこれは？！&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+最近のメカは すごいのゥ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;路線図&#xE;&#x0;&#x3;&#x2;ÿÿ が うかび上がりましタ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+行きたい駅を お選びくださイ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;路線図&#xE;&#x0;&#x3;&#x2;ÿÿ が うかび上がりましタ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+行きたい駅を お選びくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_02" offset="00" relocatable="true" max_length="0">
+			<original>そこは 先ほど乗車された 深海メトロ中央駅でス…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+次は &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;となりの駅&#xE;&#x0;&#x3;&#x2;ÿÿ へ行かれてみてはいかがでしょウ…？</original>
+			<edited>そこは 先ほど乗車された 深海メトロ中央駅でス…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+次は &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;となりの駅&#xE;&#x0;&#x3;&#x2;ÿÿ へ行かれてみてはいかがでしょウ…？</edited>
+			<subEntries />
+		</entry>
+		<entry name="First_03" offset="00" relocatable="true" max_length="0">
+			<original>それでは 初めてのチャレンジへ 出発いたしまス</original>
+			<edited>それでは 初めてのチャレンジへ 出発いたしまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstClear_00" offset="00" relocatable="true" max_length="0">
+			<original>おめでとうございまス…
+１つ目のチャレンジを クリアしましタ&#xE;&#x0;&#x4;&#x0;あなたが 帰りのホームで 受け取ったこのアイテムは、
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ネリメモリー &#xE;&#x0;&#x3;&#x2;ÿÿといいまス&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ネリメモリー &#xE;&#x0;&#x3;&#x2;ÿÿとは　あなたのココロを読みとり、
+それを練り上げたモノ</original>
+			<edited>おめでとうございまス…
+１つ目のチャレンジを クリアしましタ&#xE;&#x0;&#x4;&#x0;あなたが 帰りのホームで 受け取ったこのアイテムは、
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ネリメモリー &#xE;&#x0;&#x3;&#x2;ÿÿといいまス&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ネリメモリー &#xE;&#x0;&#x3;&#x2;ÿÿとは　あなたのココロを読みとり、
+それを練り上げたモノ</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstClear_01" offset="00" relocatable="true" max_length="0">
+			<original>チャレンジをクリアする度に、
+ネル社から 記念として 差し上げまス&#xE;&#x0;&#x4;&#x0;NAMACO端末メニューを &#xE;&#x2;&#x1B;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; で切りかえれば、
+ネリメモリーの取得具合を 確認できまス</original>
+			<edited>チャレンジをクリアする度に、
+ネル社から 記念として 差し上げまス&#xE;&#x0;&#x4;&#x0;NAMACO端末メニューを &#xE;&#x2;&#x1B;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; で切りかえれば、
+ネリメモリーの取得具合を 確認できまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="FirstClear_02" offset="00" relocatable="true" max_length="0">
+			<original>あなたの チャレンジできる駅が 増えましタ&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;/&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; で示された駅を 自由にえらんで 進んでくださイ&#xE;&#x0;&#x4;&#x0;それでは よい旅ヲ…</original>
+			<edited>あなたの チャレンジできる駅が 増えましタ&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;/&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; で示された駅を 自由にえらんで 進んでくださイ&#xE;&#x0;&#x4;&#x0;それでは よい旅ヲ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="FakeClear_00" offset="00" relocatable="true" max_length="0">
+			<original>……ん？！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; なんかこのネリメモリー 色うすくね？</original>
+			<edited>……ん？！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; なんかこのネリメモリー 色うすくね？</edited>
+			<subEntries />
+		</entry>
+		<entry name="FakeClear_01" offset="00" relocatable="true" max_length="0">
+			<original>ホントですね…&#xE;&#x0;&#x4;&#x0;おそらくハッキングの影響で、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ８号さんのキオクが
+ちゃんと練られなかったんだと 思います…</original>
+			<edited>ホントですね…&#xE;&#x0;&#x4;&#x0;おそらくハッキングの影響で、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ８号さんのキオクが
+ちゃんと練られなかったんだと 思います…</edited>
+			<subEntries />
+		</entry>
+		<entry name="FakeClear_02" offset="00" relocatable="true" max_length="0">
+			<original>へぇー……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;　
+まぁ よく分かんねーけど クリアはクリアっしょ！！</original>
+			<edited>へぇー……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;　
+まぁ よく分かんねーけど クリアはクリアっしょ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="FakeClear_03" offset="00" relocatable="true" max_length="0">
+			<original>そうですね！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 色のついたネリメモリーが 欲しかったら
+またチャレンジすれば いいだけですし♪</original>
+			<edited>そうですね！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 色のついたネリメモリーが 欲しかったら
+またチャレンジすれば いいだけですし♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="FakeClear_04" offset="00" relocatable="true" max_length="0">
+			<original>だなっ！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; そんじゃ 気にせず次いこーぜ！</original>
+			<edited>だなっ！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; そんじゃ 気にせず次いこーぜ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBossClear_00" offset="00" relocatable="true" max_length="0">
+			<original>久しぶりじゃのゥ、８号！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;　この前は 大変じゃったのゥ！&#xE;&#x0;&#x4;&#x0;ワシもふと気になって 再びここへ来てみたんじゃが……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+なんだか 居心地が良くてのゥ…&#xE;&#x0;&#x4;&#x0;…３号か？&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ヤツならまだ やり残したことが
+あるっちゅーて またパトロールにもどったわィ！&#xE;&#x0;&#x4;&#x0;もしここで おヌシも やり残したことがあるなら、
+ワシも付き合ってやるぞィ！</original>
+			<edited>久しぶりじゃのゥ、８号！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;　この前は 大変じゃったのゥ！&#xE;&#x0;&#x4;&#x0;ワシもふと気になって 再びここへ来てみたんじゃが……&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+なんだか 居心地が良くてのゥ…&#xE;&#x0;&#x4;&#x0;…３号か？&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ヤツならまだ やり残したことが
+あるっちゅーて またパトロールにもどったわィ！&#xE;&#x0;&#x4;&#x0;もしここで おヌシも やり残したことがあるなら、
+ワシも付き合ってやるぞィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBossClear_01" offset="00" relocatable="true" max_length="0">
+			<original>No.10008… 毎度ご乗車 ありがとうございまス&#xE;&#x0;&#x4;&#x0;先日は ご苦労さまでしタ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+無事に 目的は達成されたようですネ</original>
+			<edited>No.10008… 毎度ご乗車 ありがとうございまス&#xE;&#x0;&#x4;&#x0;先日は ご苦労さまでしタ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+無事に 目的は達成されたようですネ</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBossClear_02" offset="00" relocatable="true" max_length="0">
+			<original>残念ながら、
+ネル社は バラバラになってしまいましたガ…&#xE;&#x0;&#x4;&#x0;深海メトロは 相も変わらず運行しておりまス…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+すべては お客サマの 満足のたメ…</original>
+			<edited>残念ながら、
+ネル社は バラバラになってしまいましたガ…&#xE;&#x0;&#x4;&#x0;深海メトロは 相も変わらず運行しておりまス…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+すべては お客サマの 満足のたメ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBossClear_03" offset="00" relocatable="true" max_length="0">
+			<original>…そこでさっそク、
+新しいサービスを 開始することにいたしましタ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;NAMACOポイントとアイテムを交換するサービス&#xE;&#x0;&#x3;&#x2;ÿÿ でス&#xE;&#x0;&#x4;&#x0;アナタの お役に立つ、
+貴重なアイテムを 取りそろえておりまス</original>
+			<edited>…そこでさっそク、
+新しいサービスを 開始することにいたしましタ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;NAMACOポイントとアイテムを交換するサービス&#xE;&#x0;&#x3;&#x2;ÿÿ でス&#xE;&#x0;&#x4;&#x0;アナタの お役に立つ、
+貴重なアイテムを 取りそろえておりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBossClear_04" offset="00" relocatable="true" max_length="0">
+			<original>このサービスは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;深海メトロ中央駅&#xE;&#x0;&#x3;&#x2;ÿÿ にて
+展開しておりますので ぜひご利用くださイ…&#xE;&#x0;&#x4;&#x0;ご案内は 以上となりまス…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+お気をつけて 行ってらっしゃいまセ</original>
+			<edited>このサービスは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;深海メトロ中央駅&#xE;&#x0;&#x3;&#x2;ÿÿ にて
+展開しておりますので ぜひご利用くださイ…&#xE;&#x0;&#x4;&#x0;ご案内は 以上となりまス…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+お気をつけて 行ってらっしゃいまセ</edited>
+			<subEntries />
+		</entry>
+		<entry name="LastBossClear_05" offset="00" relocatable="true" max_length="0">
+			<original>No.10008… お気づきでしょうカ？&#xE;&#x0;&#x4;&#x0;路線図上に &#xE;&#x2;1&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ネルメダル&#xE;&#x0;&#x3;&#x2;ÿÿ の情報を追加しましタ
+こちらも 新しいサービスの ひとつでありまス&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;1&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;の印がついた駅に行くと 良いことがありまス…
+ホームにいるワタクシに 声をかけてみてくださイ&#xE;&#x0;&#x4;&#x0;それでは 引きつづき よい旅ヲ…</original>
+			<edited>No.10008… お気づきでしょうカ？&#xE;&#x0;&#x4;&#x0;路線図上に &#xE;&#x2;1&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ネルメダル&#xE;&#x0;&#x3;&#x2;ÿÿ の情報を追加しましタ
+こちらも 新しいサービスの ひとつでありまス&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;1&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;の印がついた駅に行くと 良いことがありまス…
+ホームにいるワタクシに 声をかけてみてくださイ&#xE;&#x0;&#x4;&#x0;それでは 引きつづき よい旅ヲ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="AllChallengeClear_00" offset="00" relocatable="true" max_length="0">
+			<original>No.10008…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ついに 全てのチャレンジを クリアしたのですネ…&#xE;&#x0;&#x4;&#x0;すばらしいでス…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+これまでに 達成できた実験体は いませんでしタ…&#xE;&#x0;&#x4;&#x0;何かワタクシから お祝いをしたいでス……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+少々 お待ちくださイ…&#xE;&#x0;&#x4;&#x0;…&#xE;&#x0;&#x4;&#x0;……&#xE;&#x0;&#x4;&#x0;すみませン……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ワタクシには これくらいしか 用意できませんでしタ…</original>
+			<edited>No.10008…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ついに 全てのチャレンジを クリアしたのですネ…&#xE;&#x0;&#x4;&#x0;すばらしいでス…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
+これまでに 達成できた実験体は いませんでしタ…&#xE;&#x0;&#x4;&#x0;何かワタクシから お祝いをしたいでス……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+少々 お待ちくださイ…&#xE;&#x0;&#x4;&#x0;…&#xE;&#x0;&#x4;&#x0;……&#xE;&#x0;&#x4;&#x0;すみませン……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+ワタクシには これくらいしか 用意できませんでしタ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="AllChallengeClear_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿをお受け取りくださイ</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;&#xE;&#x2;-&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;ú&#x5;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x3;&#x2;&#x2;&#x2;Í &#xE;&#x0;&#x3;&#x2;ÿÿをお受け取りくださイ</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

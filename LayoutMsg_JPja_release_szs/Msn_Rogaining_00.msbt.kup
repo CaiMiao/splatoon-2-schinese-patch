@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>あと&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Íコ！！</original>
+			<edited>还有&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í个！！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

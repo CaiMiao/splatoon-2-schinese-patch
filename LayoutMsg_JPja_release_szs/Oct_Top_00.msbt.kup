@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_RespawnCountOcta_00-T_text_00" offset="00" relocatable="true" max_length="0">
+			<original>min</original>
+			<edited>min</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_RespawnCountOcta_00-T_Point_00" offset="00" relocatable="true" max_length="0">
+			<original>NAMACOポイントが足りません</original>
+			<edited>NAMACOポイントが足りません</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,817 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Shooter_Short_00" offset="00" relocatable="true" max_length="0">
+			<original>ボールドマーカー</original>
+			<edited>ボールドマーカー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Short_01" offset="00" relocatable="true" max_length="0">
+			<original>ボールドマーカーネオ</original>
+			<edited>ボールドマーカーネオ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Short_02" offset="00" relocatable="true" max_length="0">
+			<original>ボールドマーカー7</original>
+			<edited>ボールドマーカー7</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_First_00" offset="00" relocatable="true" max_length="0">
+			<original>わかばシューター</original>
+			<edited>わかばシューター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_First_01" offset="00" relocatable="true" max_length="0">
+			<original>もみじシューター</original>
+			<edited>もみじシューター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_First_02" offset="00" relocatable="true" max_length="0">
+			<original>おちばシューター</original>
+			<edited>おちばシューター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Precision_00" offset="00" relocatable="true" max_length="0">
+			<original>シャープマーカー</original>
+			<edited>シャープマーカー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Precision_01" offset="00" relocatable="true" max_length="0">
+			<original>シャープマーカーネオ</original>
+			<edited>シャープマーカーネオ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Blaze_00" offset="00" relocatable="true" max_length="0">
+			<original>プロモデラーMG</original>
+			<edited>プロモデラーMG</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Blaze_01" offset="00" relocatable="true" max_length="0">
+			<original>プロモデラーRG</original>
+			<edited>プロモデラーRG</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Blaze_02" offset="00" relocatable="true" max_length="0">
+			<original>プロモデラーPG</original>
+			<edited>プロモデラーPG</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Normal_00" offset="00" relocatable="true" max_length="0">
+			<original>スプラシューター</original>
+			<edited>スプラシューター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Normal_01" offset="00" relocatable="true" max_length="0">
+			<original>スプラシューターコラボ</original>
+			<edited>スプラシューターコラボ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Normal_02" offset="00" relocatable="true" max_length="0">
+			<original>スプラシューターベッチュー</original>
+			<edited>スプラシューターベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Normal_H" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローシューター レプリカ</original>
+			<edited>ヒーローシューター レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Normal_Oct" offset="00" relocatable="true" max_length="0">
+			<original>オクタシューター レプリカ</original>
+			<edited>オクタシューター レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Gravity_00" offset="00" relocatable="true" max_length="0">
+			<original>.52ガロン</original>
+			<edited>.52ガロン</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Gravity_01" offset="00" relocatable="true" max_length="0">
+			<original>.52ガロンデコ</original>
+			<edited>.52ガロンデコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Gravity_02" offset="00" relocatable="true" max_length="0">
+			<original>.52ガロンベッチュー</original>
+			<edited>.52ガロンベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_QuickMiddle_00" offset="00" relocatable="true" max_length="0">
+			<original>N-ZAP85</original>
+			<edited>N-ZAP85</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_QuickMiddle_01" offset="00" relocatable="true" max_length="0">
+			<original>N-ZAP89</original>
+			<edited>N-ZAP89</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_QuickMiddle_02" offset="00" relocatable="true" max_length="0">
+			<original>N-ZAP83</original>
+			<edited>N-ZAP83</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Expert_00" offset="00" relocatable="true" max_length="0">
+			<original>プライムシューター</original>
+			<edited>プライムシューター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Expert_01" offset="00" relocatable="true" max_length="0">
+			<original>プライムシューターコラボ</original>
+			<edited>プライムシューターコラボ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Expert_02" offset="00" relocatable="true" max_length="0">
+			<original>プライムシューターベッチュー</original>
+			<edited>プライムシューターベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Heavy_00" offset="00" relocatable="true" max_length="0">
+			<original>.96ガロン</original>
+			<edited>.96ガロン</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Heavy_01" offset="00" relocatable="true" max_length="0">
+			<original>.96ガロンデコ</original>
+			<edited>.96ガロンデコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Long_00" offset="00" relocatable="true" max_length="0">
+			<original>ジェットスイーパー</original>
+			<edited>ジェットスイーパー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Long_01" offset="00" relocatable="true" max_length="0">
+			<original>ジェットスイーパーカスタム</original>
+			<edited>ジェットスイーパーカスタム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterShort_00" offset="00" relocatable="true" max_length="0">
+			<original>ノヴァブラスター</original>
+			<edited>ノヴァブラスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterShort_01" offset="00" relocatable="true" max_length="0">
+			<original>ノヴァブラスターネオ</original>
+			<edited>ノヴァブラスターネオ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterShort_02" offset="00" relocatable="true" max_length="0">
+			<original>ノヴァブラスターベッチュー</original>
+			<edited>ノヴァブラスターベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterMiddle_00" offset="00" relocatable="true" max_length="0">
+			<original>ホットブラスター</original>
+			<edited>ホットブラスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterMiddle_01" offset="00" relocatable="true" max_length="0">
+			<original>ホットブラスターカスタム</original>
+			<edited>ホットブラスターカスタム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterMiddle_H" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローブラスター レプリカ</original>
+			<edited>ヒーローブラスター レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterLong_00" offset="00" relocatable="true" max_length="0">
+			<original>ロングブラスター</original>
+			<edited>ロングブラスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterLong_01" offset="00" relocatable="true" max_length="0">
+			<original>ロングブラスターカスタム</original>
+			<edited>ロングブラスターカスタム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterLong_02" offset="00" relocatable="true" max_length="0">
+			<original>ロングブラスターネクロ</original>
+			<edited>ロングブラスターネクロ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterLightShort_00" offset="00" relocatable="true" max_length="0">
+			<original>クラッシュブラスター</original>
+			<edited>クラッシュブラスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterLightShort_01" offset="00" relocatable="true" max_length="0">
+			<original>クラッシュブラスターネオ</original>
+			<edited>クラッシュブラスターネオ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterLight_00" offset="00" relocatable="true" max_length="0">
+			<original>ラピッドブラスター</original>
+			<edited>ラピッドブラスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterLight_01" offset="00" relocatable="true" max_length="0">
+			<original>ラピッドブラスターデコ</original>
+			<edited>ラピッドブラスターデコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterLight_02" offset="00" relocatable="true" max_length="0">
+			<original>ラピッドブラスターベッチュー</original>
+			<edited>ラピッドブラスターベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterLightLong_00" offset="00" relocatable="true" max_length="0">
+			<original>Rブラスターエリート</original>
+			<edited>Rブラスターエリート</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterLightLong_01" offset="00" relocatable="true" max_length="0">
+			<original>Rブラスターエリートデコ</original>
+			<edited>Rブラスターエリートデコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_TripleQuick_00" offset="00" relocatable="true" max_length="0">
+			<original>L3リールガン</original>
+			<edited>L3リールガン</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_TripleQuick_01" offset="00" relocatable="true" max_length="0">
+			<original>L3リールガンD</original>
+			<edited>L3リールガンD</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_TripleQuick_02" offset="00" relocatable="true" max_length="0">
+			<original>L3リールガンベッチュー</original>
+			<edited>L3リールガンベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_TripleMiddle_00" offset="00" relocatable="true" max_length="0">
+			<original>H3リールガン</original>
+			<edited>H3リールガン</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_TripleMiddle_01" offset="00" relocatable="true" max_length="0">
+			<original>H3リールガンD</original>
+			<edited>H3リールガンD</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_TripleMiddle_02" offset="00" relocatable="true" max_length="0">
+			<original>H3リールガンチェリー</original>
+			<edited>H3リールガンチェリー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Flash_00" offset="00" relocatable="true" max_length="0">
+			<original>ボトルガイザー</original>
+			<edited>ボトルガイザー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_Flash_01" offset="00" relocatable="true" max_length="0">
+			<original>ボトルガイザーフォイル</original>
+			<edited>ボトルガイザーフォイル</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_Compact_00" offset="00" relocatable="true" max_length="0">
+			<original>カーボンローラー</original>
+			<edited>カーボンローラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_Compact_01" offset="00" relocatable="true" max_length="0">
+			<original>カーボンローラーデコ</original>
+			<edited>カーボンローラーデコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_Normal_00" offset="00" relocatable="true" max_length="0">
+			<original>スプラローラー</original>
+			<edited>スプラローラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_Normal_01" offset="00" relocatable="true" max_length="0">
+			<original>スプラローラーコラボ</original>
+			<edited>スプラローラーコラボ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_Normal_02" offset="00" relocatable="true" max_length="0">
+			<original>スプラローラーベッチュー</original>
+			<edited>スプラローラーベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_Normal_H" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローローラー レプリカ</original>
+			<edited>ヒーローローラー レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_Heavy_00" offset="00" relocatable="true" max_length="0">
+			<original>ダイナモローラー</original>
+			<edited>ダイナモローラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_Heavy_01" offset="00" relocatable="true" max_length="0">
+			<original>ダイナモローラーテスラ</original>
+			<edited>ダイナモローラーテスラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_Heavy_02" offset="00" relocatable="true" max_length="0">
+			<original>ダイナモローラーベッチュー</original>
+			<edited>ダイナモローラーベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_Hunter_00" offset="00" relocatable="true" max_length="0">
+			<original>ヴァリアブルローラー</original>
+			<edited>ヴァリアブルローラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_Hunter_01" offset="00" relocatable="true" max_length="0">
+			<original>ヴァリアブルローラーフォイル</original>
+			<edited>ヴァリアブルローラーフォイル</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_BrushMini_00" offset="00" relocatable="true" max_length="0">
+			<original>パブロ</original>
+			<edited>パブロ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_BrushMini_01" offset="00" relocatable="true" max_length="0">
+			<original>パブロ・ヒュー</original>
+			<edited>パブロ・ヒュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_BrushMini_02" offset="00" relocatable="true" max_length="0">
+			<original>パーマネント・パブロ</original>
+			<edited>パーマネント・パブロ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_BrushNormal_00" offset="00" relocatable="true" max_length="0">
+			<original>ホクサイ</original>
+			<edited>ホクサイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_BrushNormal_01" offset="00" relocatable="true" max_length="0">
+			<original>ホクサイ・ヒュー</original>
+			<edited>ホクサイ・ヒュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_BrushNormal_02" offset="00" relocatable="true" max_length="0">
+			<original>ホクサイベッチュー</original>
+			<edited>ホクサイベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_BrushNormal_H" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローブラシ レプリカ</original>
+			<edited>ヒーローブラシ レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_Quick_00" offset="00" relocatable="true" max_length="0">
+			<original>スクイックリンα</original>
+			<edited>スクイックリンα</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_Quick_01" offset="00" relocatable="true" max_length="0">
+			<original>スクイックリンβ</original>
+			<edited>スクイックリンβ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_Quick_02" offset="00" relocatable="true" max_length="0">
+			<original>スクイックリンγ</original>
+			<edited>スクイックリンγ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_Normal_00" offset="00" relocatable="true" max_length="0">
+			<original>スプラチャージャー</original>
+			<edited>スプラチャージャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_Normal_01" offset="00" relocatable="true" max_length="0">
+			<original>スプラチャージャーコラボ</original>
+			<edited>スプラチャージャーコラボ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_Normal_02" offset="00" relocatable="true" max_length="0">
+			<original>スプラチャージャーベッチュー</original>
+			<edited>スプラチャージャーベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_Normal_H" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローチャージャー レプリカ</original>
+			<edited>ヒーローチャージャー レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_NormalScope_00" offset="00" relocatable="true" max_length="0">
+			<original>スプラスコープ</original>
+			<edited>スプラスコープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_NormalScope_01" offset="00" relocatable="true" max_length="0">
+			<original>スプラスコープコラボ</original>
+			<edited>スプラスコープコラボ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_NormalScope_02" offset="00" relocatable="true" max_length="0">
+			<original>スプラスコープベッチュー</original>
+			<edited>スプラスコープベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_Long_00" offset="00" relocatable="true" max_length="0">
+			<original>リッター4K</original>
+			<edited>リッター4K</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_Long_01" offset="00" relocatable="true" max_length="0">
+			<original>リッター4Kカスタム</original>
+			<edited>リッター4Kカスタム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_LongScope_00" offset="00" relocatable="true" max_length="0">
+			<original>4Kスコープ</original>
+			<edited>4Kスコープ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_LongScope_01" offset="00" relocatable="true" max_length="0">
+			<original>4Kスコープカスタム</original>
+			<edited>4Kスコープカスタム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_Light_00" offset="00" relocatable="true" max_length="0">
+			<original>14式竹筒銃・甲</original>
+			<edited>14式竹筒銃・甲</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_Light_01" offset="00" relocatable="true" max_length="0">
+			<original>14式竹筒銃・乙</original>
+			<edited>14式竹筒銃・乙</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_Light_02" offset="00" relocatable="true" max_length="0">
+			<original>14式竹筒銃・丙</original>
+			<edited>14式竹筒銃・丙</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_Keeper_00" offset="00" relocatable="true" max_length="0">
+			<original>ソイチューバー</original>
+			<edited>ソイチューバー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_Keeper_01" offset="00" relocatable="true" max_length="0">
+			<original>ソイチューバーカスタム</original>
+			<edited>ソイチューバーカスタム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Slosher_Strong_00" offset="00" relocatable="true" max_length="0">
+			<original>バケットスロッシャー</original>
+			<edited>バケットスロッシャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Slosher_Strong_01" offset="00" relocatable="true" max_length="0">
+			<original>バケットスロッシャーデコ</original>
+			<edited>バケットスロッシャーデコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Slosher_Strong_02" offset="00" relocatable="true" max_length="0">
+			<original>バケットスロッシャーソーダ</original>
+			<edited>バケットスロッシャーソーダ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Slosher_Strong_H" offset="00" relocatable="true" max_length="0">
+			<original>ヒーロースロッシャー レプリカ</original>
+			<edited>ヒーロースロッシャー レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Slosher_Diffusion_00" offset="00" relocatable="true" max_length="0">
+			<original>ヒッセン</original>
+			<edited>ヒッセン</edited>
+			<subEntries />
+		</entry>
+		<entry name="Slosher_Diffusion_01" offset="00" relocatable="true" max_length="0">
+			<original>ヒッセン・ヒュー</original>
+			<edited>ヒッセン・ヒュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Slosher_Launcher_00" offset="00" relocatable="true" max_length="0">
+			<original>スクリュースロッシャー</original>
+			<edited>スクリュースロッシャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Slosher_Launcher_01" offset="00" relocatable="true" max_length="0">
+			<original>スクリュースロッシャーネオ</original>
+			<edited>スクリュースロッシャーネオ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Slosher_Launcher_02" offset="00" relocatable="true" max_length="0">
+			<original>スクリュースロッシャーベッチュー</original>
+			<edited>スクリュースロッシャーベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Slosher_Bathtub_00" offset="00" relocatable="true" max_length="0">
+			<original>オーバーフロッシャー</original>
+			<edited>オーバーフロッシャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Slosher_Bathtub_01" offset="00" relocatable="true" max_length="0">
+			<original>オーバーフロッシャーデコ</original>
+			<edited>オーバーフロッシャーデコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Slosher_Washtub_00" offset="00" relocatable="true" max_length="0">
+			<original>エクスプロッシャー</original>
+			<edited>エクスプロッシャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Slosher_Washtub_01" offset="00" relocatable="true" max_length="0">
+			<original>エクスプロッシャーカスタム</original>
+			<edited>エクスプロッシャーカスタム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Spinner_Quick_00" offset="00" relocatable="true" max_length="0">
+			<original>スプラスピナー</original>
+			<edited>スプラスピナー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Spinner_Quick_01" offset="00" relocatable="true" max_length="0">
+			<original>スプラスピナーコラボ</original>
+			<edited>スプラスピナーコラボ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Spinner_Quick_02" offset="00" relocatable="true" max_length="0">
+			<original>スプラスピナーベッチュー</original>
+			<edited>スプラスピナーベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Spinner_Standard_00" offset="00" relocatable="true" max_length="0">
+			<original>バレルスピナー</original>
+			<edited>バレルスピナー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Spinner_Standard_01" offset="00" relocatable="true" max_length="0">
+			<original>バレルスピナーデコ</original>
+			<edited>バレルスピナーデコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Spinner_Standard_02" offset="00" relocatable="true" max_length="0">
+			<original>バレルスピナーリミックス</original>
+			<edited>バレルスピナーリミックス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Spinner_Standard_H" offset="00" relocatable="true" max_length="0">
+			<original>ヒーロースピナー レプリカ</original>
+			<edited>ヒーロースピナー レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Spinner_Hyper_00" offset="00" relocatable="true" max_length="0">
+			<original>ハイドラント</original>
+			<edited>ハイドラント</edited>
+			<subEntries />
+		</entry>
+		<entry name="Spinner_Hyper_01" offset="00" relocatable="true" max_length="0">
+			<original>ハイドラントカスタム</original>
+			<edited>ハイドラントカスタム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Spinner_Downpour_00" offset="00" relocatable="true" max_length="0">
+			<original>クーゲルシュライバー</original>
+			<edited>クーゲルシュライバー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Spinner_Downpour_01" offset="00" relocatable="true" max_length="0">
+			<original>クーゲルシュライバー・ヒュー</original>
+			<edited>クーゲルシュライバー・ヒュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Spinner_Serein_00" offset="00" relocatable="true" max_length="0">
+			<original>ノーチラス47</original>
+			<edited>ノーチラス47</edited>
+			<subEntries />
+		</entry>
+		<entry name="Spinner_Serein_01" offset="00" relocatable="true" max_length="0">
+			<original>ノーチラス79</original>
+			<edited>ノーチラス79</edited>
+			<subEntries />
+		</entry>
+		<entry name="Twins_Short_00" offset="00" relocatable="true" max_length="0">
+			<original>スパッタリー</original>
+			<edited>スパッタリー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Twins_Short_01" offset="00" relocatable="true" max_length="0">
+			<original>スパッタリー・ヒュー</original>
+			<edited>スパッタリー・ヒュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Twins_Short_02" offset="00" relocatable="true" max_length="0">
+			<original>スパッタリークリア</original>
+			<edited>スパッタリークリア</edited>
+			<subEntries />
+		</entry>
+		<entry name="Twins_Normal_00" offset="00" relocatable="true" max_length="0">
+			<original>スプラマニューバー</original>
+			<edited>スプラマニューバー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Twins_Normal_01" offset="00" relocatable="true" max_length="0">
+			<original>スプラマニューバーコラボ</original>
+			<edited>スプラマニューバーコラボ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Twins_Normal_02" offset="00" relocatable="true" max_length="0">
+			<original>スプラマニューバーベッチュー</original>
+			<edited>スプラマニューバーベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Twins_Normal_H" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローマニューバー レプリカ</original>
+			<edited>ヒーローマニューバー レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Twins_Gallon_00" offset="00" relocatable="true" max_length="0">
+			<original>ケルビン525</original>
+			<edited>ケルビン525</edited>
+			<subEntries />
+		</entry>
+		<entry name="Twins_Gallon_01" offset="00" relocatable="true" max_length="0">
+			<original>ケルビン525デコ</original>
+			<edited>ケルビン525デコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Twins_Gallon_02" offset="00" relocatable="true" max_length="0">
+			<original>ケルビン525ベッチュー</original>
+			<edited>ケルビン525ベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Twins_Dual_00" offset="00" relocatable="true" max_length="0">
+			<original>デュアルスイーパー</original>
+			<edited>デュアルスイーパー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Twins_Dual_01" offset="00" relocatable="true" max_length="0">
+			<original>デュアルスイーパーカスタム</original>
+			<edited>デュアルスイーパーカスタム</edited>
+			<subEntries />
+		</entry>
+		<entry name="Twins_Stepper_00" offset="00" relocatable="true" max_length="0">
+			<original>クアッドホッパーブラック</original>
+			<edited>クアッドホッパーブラック</edited>
+			<subEntries />
+		</entry>
+		<entry name="Twins_Stepper_01" offset="00" relocatable="true" max_length="0">
+			<original>クアッドホッパーホワイト</original>
+			<edited>クアッドホッパーホワイト</edited>
+			<subEntries />
+		</entry>
+		<entry name="Umbrella_Normal_00" offset="00" relocatable="true" max_length="0">
+			<original>パラシェルター</original>
+			<edited>パラシェルター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Umbrella_Normal_01" offset="00" relocatable="true" max_length="0">
+			<original>パラシェルターソレーラ</original>
+			<edited>パラシェルターソレーラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Umbrella_Normal_H" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローシェルター レプリカ</original>
+			<edited>ヒーローシェルター レプリカ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Umbrella_Wide_00" offset="00" relocatable="true" max_length="0">
+			<original>キャンピングシェルター</original>
+			<edited>キャンピングシェルター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Umbrella_Wide_01" offset="00" relocatable="true" max_length="0">
+			<original>キャンピングシェルターソレーラ</original>
+			<edited>キャンピングシェルターソレーラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Umbrella_Wide_02" offset="00" relocatable="true" max_length="0">
+			<original>キャンピングシェルターカーモ</original>
+			<edited>キャンピングシェルターカーモ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Umbrella_Compact_00" offset="00" relocatable="true" max_length="0">
+			<original>スパイガジェット</original>
+			<edited>スパイガジェット</edited>
+			<subEntries />
+		</entry>
+		<entry name="Umbrella_Compact_01" offset="00" relocatable="true" max_length="0">
+			<original>スパイガジェットソレーラ</original>
+			<edited>スパイガジェットソレーラ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Umbrella_Compact_02" offset="00" relocatable="true" max_length="0">
+			<original>スパイガジェットベッチュー</original>
+			<edited>スパイガジェットベッチュー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_MissionNormalLv0" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローシューター</original>
+			<edited>ヒーローシューター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_MissionNormalLv1" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローシューター</original>
+			<edited>ヒーローシューター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_MissionNormalLv2" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローシューター</original>
+			<edited>ヒーローシューター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterMissionMiddleLv0" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローブラスター</original>
+			<edited>ヒーローブラスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterMissionMiddleLv1" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローブラスター</original>
+			<edited>ヒーローブラスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_MissionNormalLv0" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローローラー</original>
+			<edited>ヒーローローラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_MissionNormalLv1" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローローラー</original>
+			<edited>ヒーローローラー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_MissionBrushNormalLv0" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローブラシ</original>
+			<edited>ヒーローブラシ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Roller_MissionBrushNormalLv1" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローブラシ</original>
+			<edited>ヒーローブラシ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_MissionNormalLv0" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローチャージャー</original>
+			<edited>ヒーローチャージャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_MissionNormalLv1" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローチャージャー</original>
+			<edited>ヒーローチャージャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Slosher_MissionStrongLv0" offset="00" relocatable="true" max_length="0">
+			<original>ヒーロースロッシャー</original>
+			<edited>ヒーロースロッシャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Slosher_MissionStrongLv1" offset="00" relocatable="true" max_length="0">
+			<original>ヒーロースロッシャー</original>
+			<edited>ヒーロースロッシャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Spinner_MissionStandardLv0" offset="00" relocatable="true" max_length="0">
+			<original>ヒーロースピナー</original>
+			<edited>ヒーロースピナー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Spinner_MissionStandardLv1" offset="00" relocatable="true" max_length="0">
+			<original>ヒーロースピナー</original>
+			<edited>ヒーロースピナー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Twins_MissionNormalLv0" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローマニューバー</original>
+			<edited>ヒーローマニューバー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Twins_MissionNormalLv1" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローマニューバー</original>
+			<edited>ヒーローマニューバー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Umbrella_MissionNormalLv0" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローシェルター</original>
+			<edited>ヒーローシェルター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Umbrella_MissionNormalLv1" offset="00" relocatable="true" max_length="0">
+			<original>ヒーローシェルター</original>
+			<edited>ヒーローシェルター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shooter_BlasterCoopBurst" offset="00" relocatable="true" max_length="0">
+			<original>クマサン印のブラスター</original>
+			<edited>クマサン印のブラスター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Umbrella_CoopAutoAssault" offset="00" relocatable="true" max_length="0">
+			<original>クマサン印のシェルター</original>
+			<edited>クマサン印のシェルター</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charger_CoopSpark" offset="00" relocatable="true" max_length="0">
+			<original>クマサン印のチャージャー</original>
+			<edited>クマサン印のチャージャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Slosher_CoopVase" offset="00" relocatable="true" max_length="0">
+			<original>クマサン印のスロッシャー</original>
+			<edited>クマサン印のスロッシャー</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>マンホールに入る</original>
+			<edited>进入マンホール</edited>
+			<subEntries />
+		</entry>
+		<entry name="001" offset="00" relocatable="true" max_length="0">
+			<original>ハイカラスクエアにもどる</original>
+			<edited>返回ハイカラスクエア</edited>
+			<subEntries />
+		</entry>
+		<entry name="002" offset="00" relocatable="true" max_length="0">
+			<original>ナマズをとりかえす！</original>
+			<edited>取回ナマズ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="003" offset="00" relocatable="true" max_length="0">
+			<original>カンブリボックスを使う</original>
+			<edited>使用カンブリボックス</edited>
+			<subEntries />
+		</entry>
+		<entry name="005" offset="00" relocatable="true" max_length="0">
+			<original>なにか食べていく</original>
+			<edited>吃点什么</edited>
+			<subEntries />
+		</entry>
+		<entry name="006" offset="00" relocatable="true" max_length="0">
+			<original>ジャッジくんのアドバイス</original>
+			<edited>ジャッジ君的建议</edited>
+			<subEntries />
+		</entry>
+		<entry name="007" offset="00" relocatable="true" max_length="0">
+			<original>話しかける</original>
+			<edited>对话</edited>
+			<subEntries />
+		</entry>
+		<entry name="008" offset="00" relocatable="true" max_length="0">
+			<original>投稿する</original>
+			<edited>发布</edited>
+			<subEntries />
+		</entry>
+		<entry name="009" offset="00" relocatable="true" max_length="0">
+			<original>フェス投票</original>
+			<edited>FES投票</edited>
+			<subEntries />
+		</entry>
+		<entry name="010" offset="00" relocatable="true" max_length="0">
+			<original>amiiboを読みこむ</original>
+			<edited>读取amiibo</edited>
+			<subEntries />
+		</entry>
+		<entry name="011" offset="00" relocatable="true" max_length="0">
+			<original>スタッフロールを見る</original>
+			<edited>查看制作名单</edited>
+			<subEntries />
+		</entry>
+		<entry name="012" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x4;&#x3;&#x4;&#x0;&#x0;&#x5;Íへとぶ</original>
+			<edited>跳到&#xE;&#x4;&#x3;&#x4;&#x0;&#x0;&#x5;Í</edited>
+			<subEntries />
+		</entry>
+		<entry name="013" offset="00" relocatable="true" max_length="0">
+			<original>ハコを開ける</original>
+			<edited>打开盒子</edited>
+			<subEntries />
+		</entry>
+		<entry name="014" offset="00" relocatable="true" max_length="0">
+			<original>ほうしゅうを受け取る</original>
+			<edited>领取报酬</edited>
+			<subEntries />
+		</entry>
+		<entry name="015" offset="00" relocatable="true" max_length="0">
+			<original>ミニゲームを遊ぶ</original>
+			<edited>游玩迷你游戏</edited>
+			<subEntries />
+		</entry>
+		<entry name="016" offset="00" relocatable="true" max_length="0">
+			<original>アルバイト募集について</original>
+			<edited>关于兼职招募</edited>
+			<subEntries />
+		</entry>
+		<entry name="017" offset="00" relocatable="true" max_length="0">
+			<original>耳をすます</original>
+			<edited>仔细听</edited>
+			<subEntries />
+		</entry>
+		<entry name="019" offset="00" relocatable="true" max_length="0">
+			<original>電車へもどる</original>
+			<edited>返回电车</edited>
+			<subEntries />
+		</entry>
+		<entry name="020" offset="00" relocatable="true" max_length="0">
+			<original>起動する</original>
+			<edited>启动</edited>
+			<subEntries />
+		</entry>
+		<entry name="025" offset="00" relocatable="true" max_length="0">
+			<original>拾う</original>
+			<edited>拾取</edited>
+			<subEntries />
+		</entry>
+		<entry name="026" offset="00" relocatable="true" max_length="0">
+			<original>電話に出る</original>
+			<edited>接电话</edited>
+			<subEntries />
+		</entry>
+		<entry name="027" offset="00" relocatable="true" max_length="0">
+			<original>しらべる</original>
+			<edited>调查</edited>
+			<subEntries />
+		</entry>
+		<entry name="028" offset="00" relocatable="true" max_length="0">
+			<original>思い出す</original>
+			<edited>回想</edited>
+			<subEntries />
+		</entry>
+		<entry name="029" offset="00" relocatable="true" max_length="0">
+			<original>ハイカラスクエアへ想いをはせる</original>
+			<edited>思念驰骋于ハイカラスクエア</edited>
+			<subEntries />
+		</entry>
+		<entry name="100" offset="00" relocatable="true" max_length="0">
+			<original></original>
+			<edited></edited>
+			<subEntries />
+		</entry>
+		<entry name="101" offset="00" relocatable="true" max_length="0">
+			<original></original>
+			<edited></edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Am" offset="00" relocatable="true" max_length="0">
+			<original>AM</original>
+			<edited>AM</edited>
+			<subEntries />
+		</entry>
+		<entry name="Pm" offset="00" relocatable="true" max_length="0">
+			<original>PM</original>
+			<edited>PM</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

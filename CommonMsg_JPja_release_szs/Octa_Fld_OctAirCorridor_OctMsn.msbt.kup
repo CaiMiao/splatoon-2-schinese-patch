@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>ここは数多のピロピロが織りなす 空中通路でス</original>
+			<edited>ここは数多のピロピロが織りなす 空中通路でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>開いたピロピロは、先端を塗ることで 開き続けまス</original>
+			<edited>開いたピロピロは、先端を塗ることで 開き続けまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>開いたピロピロは、敵のインクでもどりまス</original>
+			<edited>開いたピロピロは、敵のインクでもどりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="AirCorridor_0000" offset="00" relocatable="true" max_length="0">
+			<original>メインとサブ、両方 使ってけ！</original>
+			<edited>メインとサブ、両方 使ってけ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="AirCorridor_0001" offset="00" relocatable="true" max_length="0">
+			<original>シャー！ ヌリッといくぞー！</original>
+			<edited>シャー！ ヌリッといくぞー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="AirCorridor_0002" offset="00" relocatable="true" max_length="0">
+			<original>グッドじゃった！</original>
+			<edited>グッドじゃった！</edited>
+			<subEntries />
+		</entry>
+		<entry name="AirCorridor_0003" offset="00" relocatable="true" max_length="0">
+			<original>一気に行くか ジワジワ行くか、なやみますね…</original>
+			<edited>一気に行くか ジワジワ行くか、なやみますね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="AirCorridor_0004" offset="00" relocatable="true" max_length="0">
+			<original>タココマンダー！ ピロピロの動きに注意です！</original>
+			<edited>タココマンダー！ ピロピロの動きに注意です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="AirCorridor_0005" offset="00" relocatable="true" max_length="0">
+			<original>ゲッ！ 敵が増えたゾ！</original>
+			<edited>ゲッ！ 敵が増えたゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="AirCorridor_0006" offset="00" relocatable="true" max_length="0">
+			<original>いいゾ！ 次だ！</original>
+			<edited>いいゾ！ 次だ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="AirCorridor_0007" offset="00" relocatable="true" max_length="0">
+			<original>このライドレール、元の位置にもどってくるようですね</original>
+			<edited>このライドレール、元の位置にもどってくるようですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="AirCorridor_0008" offset="00" relocatable="true" max_length="0">
+			<original>ピロピロするヤツ、いっぱい あんなー</original>
+			<edited>ピロピロするヤツ、いっぱい あんなー</edited>
+			<subEntries />
+		</entry>
+		<entry name="AirCorridor_0009" offset="00" relocatable="true" max_length="0">
+			<original>向こうにヤバそーなのが いんゾ！</original>
+			<edited>向こうにヤバそーなのが いんゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="AirCorridor_0010" offset="00" relocatable="true" max_length="0">
+			<original>おぉ？ なんか、強くなったな ハチ！</original>
+			<edited>おぉ？ なんか、強くなったな ハチ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="AirCorridor_0011" offset="00" relocatable="true" max_length="0">
+			<original>落ちたかと思いました…</original>
+			<edited>落ちたかと思いました…</edited>
+			<subEntries />
+		</entry>
+		<entry name="AirCorridor_0012" offset="00" relocatable="true" max_length="0">
+			<original>ナイスとっちめ！</original>
+			<edited>ナイスとっちめ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

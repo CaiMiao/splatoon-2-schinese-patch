@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>時間内に 箱マトを全て 壊すのでス</original>
+			<edited>時間内に 箱マトを全て 壊すのでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプ後、着地したら 始まりまス</original>
+			<edited>ジャンプ後、着地したら 始まりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>落ち着いてねらいましょウ</original>
+			<edited>落ち着いてねらいましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="BoxSniper_0000" offset="00" relocatable="true" max_length="0">
+			<original>よ～く ねらって…</original>
+			<edited>よ～く ねらって…</edited>
+			<subEntries />
+		</entry>
+		<entry name="BoxSniper_0002" offset="00" relocatable="true" max_length="0">
+			<original>気合で 箱マトの動きを感じるんじゃ！</original>
+			<edited>気合で 箱マトの動きを感じるんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BoxSniper_0003" offset="00" relocatable="true" max_length="0">
+			<original>ッシャー！ その調子だ！</original>
+			<edited>ッシャー！ その調子だ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

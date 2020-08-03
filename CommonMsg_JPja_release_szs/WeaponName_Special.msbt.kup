@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="SuperMissile" offset="00" relocatable="true" max_length="0">
+			<original>マルチミサイル</original>
+			<edited>マルチミサイル</edited>
+			<subEntries />
+		</entry>
+		<entry name="SuperArmor" offset="00" relocatable="true" max_length="0">
+			<original>インクアーマー</original>
+			<edited>インクアーマー</edited>
+			<subEntries />
+		</entry>
+		<entry name="LauncherSplash" offset="00" relocatable="true" max_length="0">
+			<original>スプラッシュボムピッチャー</original>
+			<edited>スプラッシュボムピッチャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="LauncherSuction" offset="00" relocatable="true" max_length="0">
+			<original>キューバンボムピッチャー</original>
+			<edited>キューバンボムピッチャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="LauncherQuick" offset="00" relocatable="true" max_length="0">
+			<original>クイックボムピッチャー</original>
+			<edited>クイックボムピッチャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="LauncherCurling" offset="00" relocatable="true" max_length="0">
+			<original>カーリングボムピッチャー</original>
+			<edited>カーリングボムピッチャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="LauncherRobo" offset="00" relocatable="true" max_length="0">
+			<original>ロボボムピッチャー</original>
+			<edited>ロボボムピッチャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="WaterCutter" offset="00" relocatable="true" max_length="0">
+			<original>ハイパープレッサー</original>
+			<edited>ハイパープレッサー</edited>
+			<subEntries />
+		</entry>
+		<entry name="Jetpack" offset="00" relocatable="true" max_length="0">
+			<original>ジェットパック</original>
+			<edited>ジェットパック</edited>
+			<subEntries />
+		</entry>
+		<entry name="SuperLanding" offset="00" relocatable="true" max_length="0">
+			<original>スーパーチャクチ</original>
+			<edited>スーパーチャクチ</edited>
+			<subEntries />
+		</entry>
+		<entry name="RainCloud" offset="00" relocatable="true" max_length="0">
+			<original>アメフラシ</original>
+			<edited>アメフラシ</edited>
+			<subEntries />
+		</entry>
+		<entry name="AquaBall" offset="00" relocatable="true" max_length="0">
+			<original>イカスフィア</original>
+			<edited>イカスフィア</edited>
+			<subEntries />
+		</entry>
+		<entry name="SuperBubble" offset="00" relocatable="true" max_length="0">
+			<original>バブルランチャー</original>
+			<edited>バブルランチャー</edited>
+			<subEntries />
+		</entry>
+		<entry name="SuperBall" offset="00" relocatable="true" max_length="0">
+			<original>ナイスダマ</original>
+			<edited>ナイスダマ</edited>
+			<subEntries />
+		</entry>
+		<entry name="SuperStamp" offset="00" relocatable="true" max_length="0">
+			<original>ウルトラハンコ</original>
+			<edited>ウルトラハンコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Shachihoko" offset="00" relocatable="true" max_length="0">
+			<original>ガチホコ</original>
+			<edited>ガチホコ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MissileMissilePosition" offset="00" relocatable="true" max_length="0">
+			<original>キャノン</original>
+			<edited>キャノン</edited>
+			<subEntries />
+		</entry>
+		<entry name="BigLaser" offset="00" relocatable="true" max_length="0">
+			<original>センパイキャノン</original>
+			<edited>センパイキャノン</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

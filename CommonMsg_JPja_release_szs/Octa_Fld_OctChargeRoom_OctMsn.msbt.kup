@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>タコスナイパー１０体全て、倒してくださイ</original>
+			<edited>タコスナイパー１０体全て、倒してくださイ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>かくれて移動、スキをついて撃ちましょウ</original>
+			<edited>かくれて移動、スキをついて撃ちましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>カーリングボムは、移動やオトリに便利でス</original>
+			<edited>カーリングボムは、移動やオトリに便利でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0003" offset="00" relocatable="true" max_length="0">
+			<original>チャージキープに自信があるなら、スコープ無しのがいいでス</original>
+			<edited>チャージキープに自信があるなら、スコープ無しのがいいでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0004" offset="00" relocatable="true" max_length="0">
+			<original>スコープ付きのものは 射程が少しだけ長いでス</original>
+			<edited>スコープ付きのものは 射程が少しだけ長いでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="ChargeRoom_0000" offset="00" relocatable="true" max_length="0">
+			<original>まずは２体！</original>
+			<edited>まずは２体！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ChargeRoom_0001" offset="00" relocatable="true" max_length="0">
+			<original>次は３体出ました！</original>
+			<edited>次は３体出ました！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ChargeRoom_0002" offset="00" relocatable="true" max_length="0">
+			<original>今度は４体です！</original>
+			<edited>今度は４体です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ChargeRoom_0004" offset="00" relocatable="true" max_length="0">
+			<original>センプクでかくれて ゆっくり移動するといいゾ</original>
+			<edited>センプクでかくれて ゆっくり移動するといいゾ</edited>
+			<subEntries />
+		</entry>
+		<entry name="ChargeRoom_0005" offset="00" relocatable="true" max_length="0">
+			<original>いいゾ！ センプクで様子見だ！</original>
+			<edited>いいゾ！ センプクで様子見だ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ChargeRoom_0006" offset="00" relocatable="true" max_length="0">
+			<original>オトリや移動に便利ですね♪</original>
+			<edited>オトリや移動に便利ですね♪</edited>
+			<subEntries />
+		</entry>
+		<entry name="ChargeRoom_0007" offset="00" relocatable="true" max_length="0">
+			<original>カーリングボムも使えよ！</original>
+			<edited>カーリングボムも使えよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ChargeRoom_0008" offset="00" relocatable="true" max_length="0">
+			<original>カベにかくれて、敵がスキを見せたら撃つんじゃ！</original>
+			<edited>カベにかくれて、敵がスキを見せたら撃つんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ChargeRoom_0009" offset="00" relocatable="true" max_length="0">
+			<original>ナイスです♪ さぁ、センプクで様子を見ましょ～</original>
+			<edited>ナイスです♪ さぁ、センプクで様子を見ましょ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="ChargeRoom_0010" offset="00" relocatable="true" max_length="0">
+			<original>最後です！ またセンプクして、様子を見ましょ～</original>
+			<edited>最後です！ またセンプクして、様子を見ましょ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="ChargeRoom_0011" offset="00" relocatable="true" max_length="0">
+			<original>なんだなんだ？！</original>
+			<edited>なんだなんだ？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="ChargeRoom_0012" offset="00" relocatable="true" max_length="0">
+			<original>最後はUFOときたか！ しっかと、撃ち落とせィ！</original>
+			<edited>最後はUFOときたか！ しっかと、撃ち落とせィ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

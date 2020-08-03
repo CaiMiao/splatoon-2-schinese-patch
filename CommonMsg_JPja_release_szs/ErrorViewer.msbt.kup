@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Msg_Try_Reboot" offset="00" relocatable="true" max_length="0">
+			<original>通信が切断されました。
+
+このエラーが何度も発生するときは、電源メニュー（電源ボタンを3秒長押し）の「電源オプション」から本体を再起動して、もう一度おためしください。
+
+くわしくは、Nintendo Switchサポートサイトをご覧ください。</original>
+			<edited>通信が切断されました。
+
+このエラーが何度も発生するときは、電源メニュー（電源ボタンを3秒長押し）の「電源オプション」から本体を再起動して、もう一度おためしください。
+
+くわしくは、Nintendo Switchサポートサイトをご覧ください。</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

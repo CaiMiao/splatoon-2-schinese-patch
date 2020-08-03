@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="T_OppsiteTeam_00" offset="00" relocatable="true" max_length="0">
+			<original>相手のチーム</original>
+			<edited>相手のチーム</edited>
+			<subEntries />
+		</entry>
+		<entry name="T_PlayerTeam_00" offset="00" relocatable="true" max_length="0">
+			<original>自分のチーム</original>
+			<edited>自分のチーム</edited>
+			<subEntries />
+		</entry>
+		<entry name="000" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í.&#xE;ú&#x0;&#x4;&#x1;&#x0;&#x1;Í%</original>
+			<edited>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í.&#xE;ú&#x0;&#x4;&#x1;&#x0;&#x1;Í%</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

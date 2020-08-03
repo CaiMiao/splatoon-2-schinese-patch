@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>限られたインクで 箱マトを全部 壊すのでス</original>
+			<edited>限られたインクで 箱マトを全部 壊すのでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>箱マトの動きをよく見て ムダなく撃ちましょウ</original>
+			<edited>箱マトの動きをよく見て ムダなく撃ちましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>ジャンプ後、着地したら 始まりまス</original>
+			<edited>ジャンプ後、着地したら 始まりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0008" offset="00" relocatable="true" max_length="0">
+			<original>箱マトを壊せば、タコウォッシャーも消えまス</original>
+			<edited>箱マトを壊せば、タコウォッシャーも消えまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="BoxSashi_0000" offset="00" relocatable="true" max_length="0">
+			<original>インクの消費は最小限に！</original>
+			<edited>インクの消費は最小限に！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BoxSashi_0001" offset="00" relocatable="true" max_length="0">
+			<original>よく見て 当ててけー！</original>
+			<edited>よく見て 当ててけー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="BoxSashi_0002" offset="00" relocatable="true" max_length="0">
+			<original>次で最後じゃ！ 気を引きしめて かかれィ！</original>
+			<edited>次で最後じゃ！ 気を引きしめて かかれィ！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

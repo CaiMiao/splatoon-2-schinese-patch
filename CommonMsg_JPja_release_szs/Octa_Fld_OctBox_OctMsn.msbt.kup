@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>強力な敵を倒すチャレンジとなりまス</original>
+			<edited>強力な敵を倒すチャレンジとなりまス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ブキの射程をイカしましょウ</original>
+			<edited>ブキの射程をイカしましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>危なくなったら、場外で 息を整えましょウ</original>
+			<edited>危なくなったら、場外で 息を整えましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0000" offset="00" relocatable="true" max_length="0">
+			<original>あれは！タコツボックス！</original>
+			<edited>あれは！タコツボックス！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0001" offset="00" relocatable="true" max_length="0">
+			<original>昔、３号が破壊したはずじゃが…</original>
+			<edited>昔、３号が破壊したはずじゃが…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0002" offset="00" relocatable="true" max_length="0">
+			<original>昔の話なんか知んねーし！ ハチ、ぶっ倒すゾ！</original>
+			<edited>昔の話なんか知んねーし！ ハチ、ぶっ倒すゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0003" offset="00" relocatable="true" max_length="0">
+			<original>あっ、タッチパネルが増えたゾ！</original>
+			<edited>あっ、タッチパネルが増えたゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0004" offset="00" relocatable="true" max_length="0">
+			<original>ゲーーッ！！ なんじゃありゃー！</original>
+			<edited>ゲーーッ！！ なんじゃありゃー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0005" offset="00" relocatable="true" max_length="0">
+			<original>あれは、保冷効果バツグンの塗れないヨロイじゃ！！</original>
+			<edited>あれは、保冷効果バツグンの塗れないヨロイじゃ！！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0006" offset="00" relocatable="true" max_length="0">
+			<original>……ですね</original>
+			<edited>……ですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0007" offset="00" relocatable="true" max_length="0">
+			<original>スタンプ攻撃は、横によけれそうだな！</original>
+			<edited>スタンプ攻撃は、横によけれそうだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0008" offset="00" relocatable="true" max_length="0">
+			<original>横によけるのはマズい！ 退くんじゃ！</original>
+			<edited>横によけるのはマズい！ 退くんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0009" offset="00" relocatable="true" max_length="0">
+			<original>アイツの体、塗ったら登れそーだな！</original>
+			<edited>アイツの体、塗ったら登れそーだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0010" offset="00" relocatable="true" max_length="0">
+			<original>スタンプの後がチャンス！ 塗って登りましょ～</original>
+			<edited>スタンプの後がチャンス！ 塗って登りましょ～</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0011" offset="00" relocatable="true" max_length="0">
+			<original>移動ショット中に&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で スライドだ！ バシュッとよけろ！</original>
+			<edited>移動ショット中に&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で スライドだ！ バシュッとよけろ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0012" offset="00" relocatable="true" max_length="0">
+			<original>言っちゃいます！ 鼻のタッチパネルが弱点です！</original>
+			<edited>言っちゃいます！ 鼻のタッチパネルが弱点です！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0013" offset="00" relocatable="true" max_length="0">
+			<original>弱点を 全部壊すんじゃ！</original>
+			<edited>弱点を 全部壊すんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0014" offset="00" relocatable="true" max_length="0">
+			<original>弱点を 全部壊すんじゃ！</original>
+			<edited>弱点を 全部壊すんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0015" offset="00" relocatable="true" max_length="0">
+			<original>カーリングボムで にげるのもテだな！</original>
+			<edited>カーリングボムで にげるのもテだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0016" offset="00" relocatable="true" max_length="0">
+			<original>フォーーッ！ あんなトコから 飛んで来るとはのゥ！</original>
+			<edited>フォーーッ！ あんなトコから 飛んで来るとはのゥ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0017" offset="00" relocatable="true" max_length="0">
+			<original>疑似バブルランチャーです！ よけるか壊すか…</original>
+			<edited>疑似バブルランチャーです！ よけるか壊すか…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0018" offset="00" relocatable="true" max_length="0">
+			<original>連続攻撃は、スライドで まとめてよけろ！</original>
+			<edited>連続攻撃は、スライドで まとめてよけろ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0019" offset="00" relocatable="true" max_length="0">
+			<original>連続攻撃は、まとめてよけろ！</original>
+			<edited>連続攻撃は、まとめてよけろ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0020" offset="00" relocatable="true" max_length="0">
+			<original>シャオラー！ ハチ、いいゾ！</original>
+			<edited>シャオラー！ ハチ、いいゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0021" offset="00" relocatable="true" max_length="0">
+			<original>シャー！ ヨロイが外れたゾ！</original>
+			<edited>シャー！ ヨロイが外れたゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Box_0022" offset="00" relocatable="true" max_length="0">
+			<original>８号さん、ナイスです！</original>
+			<edited>８号さん、ナイスです！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

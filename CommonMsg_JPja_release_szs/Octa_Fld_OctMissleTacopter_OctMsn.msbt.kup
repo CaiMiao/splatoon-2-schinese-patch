@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>ミサイルタコプターの ミサイルに 注意でス</original>
+			<edited>ミサイルタコプターの ミサイルに 注意でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>屋根がある場所なら ミサイルも 安全でス</original>
+			<edited>屋根がある場所なら ミサイルも 安全でス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>足元に注意しましょウ</original>
+			<edited>足元に注意しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="MissleTacopter_0000" offset="00" relocatable="true" max_length="0">
+			<original>ミサイルタコプターです！ 遠くからでも撃ってきます！</original>
+			<edited>ミサイルタコプターです！ 遠くからでも撃ってきます！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MissleTacopter_0001" offset="00" relocatable="true" max_length="0">
+			<original>ナイスじゃッ！</original>
+			<edited>ナイスじゃッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MissleTacopter_0002" offset="00" relocatable="true" max_length="0">
+			<original>こんなに遠くても 見つかんのかー！</original>
+			<edited>こんなに遠くても 見つかんのかー！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MissleTacopter_0003" offset="00" relocatable="true" max_length="0">
+			<original>カギを探しましょう！</original>
+			<edited>カギを探しましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MissleTacopter_0004" offset="00" relocatable="true" max_length="0">
+			<original>シャー！ ドア、どこだー？</original>
+			<edited>シャー！ ドア、どこだー？</edited>
+			<subEntries />
+		</entry>
+		<entry name="MissleTacopter_0005" offset="00" relocatable="true" max_length="0">
+			<original>屋根の下なら、ミサイルに当たらないですね！</original>
+			<edited>屋根の下なら、ミサイルに当たらないですね！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MissleTacopter_0006" offset="00" relocatable="true" max_length="0">
+			<original>おぉ？ なんか来たゾ！</original>
+			<edited>おぉ？ なんか来たゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MissleTacopter_0007" offset="00" relocatable="true" max_length="0">
+			<original>スポンジじゃ！ す、スポンジじゃ！</original>
+			<edited>スポンジじゃ！ す、スポンジじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MissleTacopter_0008" offset="00" relocatable="true" max_length="0">
+			<original>ブキじゃッ！ 撃って撃って撃ちまくれィ！</original>
+			<edited>ブキじゃッ！ 撃って撃って撃ちまくれィ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MissleTacopter_0009" offset="00" relocatable="true" max_length="0">
+			<original>ここからだと、下にも地面が見えるゾ！</original>
+			<edited>ここからだと、下にも地面が見えるゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MissleTacopter_0010" offset="00" relocatable="true" max_length="0">
+			<original>こんなところで ミサイルを撃たれたら危険ですね…</original>
+			<edited>こんなところで ミサイルを撃たれたら危険ですね…</edited>
+			<subEntries />
+		</entry>
+		<entry name="MissleTacopter_0011" offset="00" relocatable="true" max_length="0">
+			<original>グッドじゃッ！</original>
+			<edited>グッドじゃッ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MissleTacopter_0012" offset="00" relocatable="true" max_length="0">
+			<original>ミコプター発見！ 構えよ！</original>
+			<edited>ミコプター発見！ 構えよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MissleTacopter_0013" offset="00" relocatable="true" max_length="0">
+			<original>もう少しです！</original>
+			<edited>もう少しです！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MissleTacopter_0014" offset="00" relocatable="true" max_length="0">
+			<original>ナイスだな！</original>
+			<edited>ナイスだな！</edited>
+			<subEntries />
+		</entry>
+		<entry name="MissleTacopter_0015" offset="00" relocatable="true" max_length="0">
+			<original>略して「ミコプター」！</original>
+			<edited>略して「ミコプター」！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

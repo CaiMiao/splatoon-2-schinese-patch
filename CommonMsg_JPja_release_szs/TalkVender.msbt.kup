@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Talk_First_00_00" offset="00" relocatable="true" max_length="0">
+			<original>お？
+ちょっとイカしてるヤツの
+お出ましか？！</original>
+			<edited>お？
+ちょっとイカしてるヤツの
+お出ましか？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_First_00_01" offset="00" relocatable="true" max_length="0">
+			<original>でもさ、この街じゃ イカした&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿ
+持ってるヤツが 正義なんだよナ</original>
+			<edited>でもさ、この街じゃ イカした&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿ
+持ってるヤツが 正義なんだよナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_First_00_02" offset="00" relocatable="true" max_length="0">
+			<original>例えばさ、街のイカしたヤツの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿ！
+「自分もアレ持ってたらな～」
+ってなるよナ？ なるよナ！</original>
+			<edited>例えばさ、街のイカしたヤツの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿ！
+「自分もアレ持ってたらな～」
+ってなるよナ？ なるよナ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_First_00_03" offset="00" relocatable="true" max_length="0">
+			<original>だからさ、 広場にいるヤツ
+&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でチェックして、欲しい&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿあったら
+&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で オレに電話かけて &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;注文&#xE;&#x0;&#x3;&#x2;ÿÿしてくれよナ</original>
+			<edited>だからさ、 広場にいるヤツ
+&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でチェックして、欲しい&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿあったら
+&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で オレに電話かけて &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;注文&#xE;&#x0;&#x3;&#x2;ÿÿしてくれよナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_First_00_04" offset="00" relocatable="true" max_length="0">
+			<original>まったく同じ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿの 見つかるか
+わかんないけど、 いちおう&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;取り寄せて&#xE;&#x0;&#x3;&#x2;ÿÿやるよ！
+ほら、電話番号 教えとくしナ！</original>
+			<edited>まったく同じ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿの 見つかるか
+わかんないけど、 いちおう&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;取り寄せて&#xE;&#x0;&#x3;&#x2;ÿÿやるよ！
+ほら、電話番号 教えとくしナ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_First_01_00" offset="00" relocatable="true" max_length="0">
+			<original>ちょ、
+一人前にイカしてるヤツ、来ちゃったのナ？！&#xE;&#x0;&#x4;&#x0;でもさ、オマエって
+まだまだ 上、目指していくんだろ？&#xE;&#x0;&#x4;&#x0;オマエ見てるとさ オレもがんばって
+ダウニーさんに認められてェーって
+思うんだよナ！&#xE;&#x0;&#x4;&#x0;だからさ、ボクも…ぁ！いやいや
+オレもさ 手伝ってやるから
+いっしょに 高み、目指そーゼ！</original>
+			<edited>ちょ、
+一人前にイカしてるヤツ、来ちゃったのナ？！&#xE;&#x0;&#x4;&#x0;でもさ、オマエって
+まだまだ 上、目指していくんだろ？&#xE;&#x0;&#x4;&#x0;オマエ見てるとさ オレもがんばって
+ダウニーさんに認められてェーって
+思うんだよナ！&#xE;&#x0;&#x4;&#x0;だからさ、ボクも…ぁ！いやいや
+オレもさ 手伝ってやるから
+いっしょに 高み、目指そーゼ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_First_01_01" offset="00" relocatable="true" max_length="0">
+			<original>そんじゃ 広場ブラついてるヤツのギアで
+欲しいのあったらさ&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でチェックして、
+&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でオレに電話して 注文してくれよナ</original>
+			<edited>そんじゃ 広場ブラついてるヤツのギアで
+欲しいのあったらさ&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でチェックして、
+&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でオレに電話して 注文してくれよナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_First_02_00" offset="00" relocatable="true" max_length="0">
+			<original>ちょ、ちょ、 
+スッゲー イカしてるのナ！&#xE;&#x0;&#x4;&#x0;え？ まだまだ上、いっちゃうのか？！
+それってさ ヤバくねーか？！&#xE;&#x0;&#x4;&#x0;オレも手伝わせてもらうし いっしょに頂点
+連れてってくれよナ！</original>
+			<edited>ちょ、ちょ、 
+スッゲー イカしてるのナ！&#xE;&#x0;&#x4;&#x0;え？ まだまだ上、いっちゃうのか？！
+それってさ ヤバくねーか？！&#xE;&#x0;&#x4;&#x0;オレも手伝わせてもらうし いっしょに頂点
+連れてってくれよナ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_First_02_01" offset="00" relocatable="true" max_length="0">
+			<original>そんでさ、
+いっしょに ダウニーさんに
+ほめてもらおうぜ マジで！</original>
+			<edited>そんでさ、
+いっしょに ダウニーさんに
+ほめてもらおうぜ マジで！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_First_02_02" offset="00" relocatable="true" max_length="0">
+			<original>そんじゃ 広場ブラついてるヤツのギアで
+欲しいのあったらさ&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でチェックして、
+&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でオレに電話して 注文してくれよナ</original>
+			<edited>そんじゃ 広場ブラついてるヤツのギアで
+欲しいのあったらさ&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でチェックして、
+&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でオレに電話して 注文してくれよナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_First_03_00" offset="00" relocatable="true" max_length="0">
+			<original>ちょ？！ マジ？！ 
+なんかさ マジでスゲー！
+スゲー… マジスゲー…！&#xE;&#x0;&#x4;&#x0;オマエさ、ダウニーさんが言ってた
+レジェンドってやつじゃねーか？！
+だよナ！ イイ目してるもんなー！&#xE;&#x0;&#x4;&#x0;でもさ、 まだまだ上を目指したくて
+しょうがないって 顔してるゼ？&#xE;&#x0;&#x4;&#x0;だよナ！ ダウニーさんに認めてもらうには
+もっともっと アガってかないとナ！
+オレも もっと手伝ってやるからサ！</original>
+			<edited>ちょ？！ マジ？！ 
+なんかさ マジでスゲー！
+スゲー… マジスゲー…！&#xE;&#x0;&#x4;&#x0;オマエさ、ダウニーさんが言ってた
+レジェンドってやつじゃねーか？！
+だよナ！ イイ目してるもんなー！&#xE;&#x0;&#x4;&#x0;でもさ、 まだまだ上を目指したくて
+しょうがないって 顔してるゼ？&#xE;&#x0;&#x4;&#x0;だよナ！ ダウニーさんに認めてもらうには
+もっともっと アガってかないとナ！
+オレも もっと手伝ってやるからサ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_First_03_01" offset="00" relocatable="true" max_length="0">
+			<original>そんじゃ 広場ブラついてるヤツのギアで
+気になるのあったら&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でチェックして、
+&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でオレに電話して 注文してくれよナ</original>
+			<edited>そんじゃ 広場ブラついてるヤツのギアで
+気になるのあったら&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でチェックして、
+&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でオレに電話して 注文してくれよナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_First_SS_00" offset="00" relocatable="true" max_length="0">
+			<original>ちょ、オマエ…
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿ持ってるのナ！&#xE;&#x0;&#x4;&#x0;それ オレにくんねー？！
+あんまくわしくは 言えないんだけど、
+ダウニーさんが それ集めててさ&#xE;&#x0;&#x4;&#x0;そんで、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿのフタ あるだろ？
+それ使って&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿ
+増やしてやるからさ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿが多いほど &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿを
+多く付けれるしナ それに、ダウニーさんも
+喜んでくれるし おたがいハッピーじゃん？&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿが３つとも &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿで 埋まってる
+ヤツなら、テキトーに ギアパワー付け直して
+前の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーのかけら&#xE;&#x0;&#x3;&#x2;ÿÿも わたせるゼ！&#xE;&#x0;&#x4;&#x0;やっぱ テッペン目指すんなら
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿは多い方がいいと思うゼ！
+悪い話じゃないだろ？</original>
+			<edited>ちょ、オマエ…
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿ持ってるのナ！&#xE;&#x0;&#x4;&#x0;それ オレにくんねー？！
+あんまくわしくは 言えないんだけど、
+ダウニーさんが それ集めててさ&#xE;&#x0;&#x4;&#x0;そんで、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿのフタ あるだろ？
+それ使って&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿ
+増やしてやるからさ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿが多いほど &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿを
+多く付けれるしナ それに、ダウニーさんも
+喜んでくれるし おたがいハッピーじゃん？&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿが３つとも &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿで 埋まってる
+ヤツなら、テキトーに ギアパワー付け直して
+前の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーのかけら&#xE;&#x0;&#x3;&#x2;ÿÿも わたせるゼ！&#xE;&#x0;&#x4;&#x0;やっぱ テッペン目指すんなら
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿは多い方がいいと思うゼ！
+悪い話じゃないだろ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_First_SS_01" offset="00" relocatable="true" max_length="0">
+			<original>つーわけだからさ、悪いようにはしねーから、
+オレに その&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿ くれよナ！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿ増やしてやるからさ！</original>
+			<edited>つーわけだからさ、悪いようにはしねーから、
+オレに その&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿ くれよナ！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿ増やしてやるからさ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="TalkRankShortage" offset="00" relocatable="true" max_length="0">
+			<original>ちょ、
+オマエさ ぜんぜんイカしてねーのナ！&#xE;&#x0;&#x4;&#x0;オレ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク４&#xE;&#x0;&#x3;&#x2;ÿÿくらいに あがってる
+イカしたヤツじゃないと キョーミないゼ！&#xE;&#x0;&#x4;&#x0;もうちょっとバトルで
+ランクあげてからきてくれよナ
+待っててやるからさ</original>
+			<edited>ちょ、
+オマエさ ぜんぜんイカしてねーのナ！&#xE;&#x0;&#x4;&#x0;オレ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ランク４&#xE;&#x0;&#x3;&#x2;ÿÿくらいに あがってる
+イカしたヤツじゃないと キョーミないゼ！&#xE;&#x0;&#x4;&#x0;もうちょっとバトルで
+ランクあげてからきてくれよナ
+待っててやるからさ</edited>
+			<subEntries />
+		</entry>
+		<entry name="TalkSSShortage_First" offset="00" relocatable="true" max_length="0">
+			<original>ちょ、いま いそがしいから
+相手してるヒマないんだゼ！</original>
+			<edited>ちょ、いま いそがしいから
+相手してるヒマないんだゼ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="TalkSSShortage" offset="00" relocatable="true" max_length="0">
+			<original>ちょ、オマエ、
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿ 持ってないのに
+来たのかよ！&#xE;&#x0;&#x4;&#x0;わざわざ来てくれたのに わりーけどさ
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿ ゲットしてから
+また来てくれよナ！</original>
+			<edited>ちょ、オマエ、
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿ 持ってないのに
+来たのかよ！&#xE;&#x0;&#x4;&#x0;わざわざ来てくれたのに わりーけどさ
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿ ゲットしてから
+また来てくれよナ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Offline" offset="00" relocatable="true" max_length="0">
+			<original>オッス&#xE;&#x0;&#x4;&#x0;あれ？オマエって オフラインってやつだよナ？
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インターネット&#xE;&#x0;&#x3;&#x2;ÿÿに つないでから またこいよナ</original>
+			<edited>オッス&#xE;&#x0;&#x4;&#x0;あれ？オマエって オフラインってやつだよナ？
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;インターネット&#xE;&#x0;&#x3;&#x2;ÿÿに つないでから またこいよナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_FesT_00" offset="00" relocatable="true" max_length="0">
+			<original>ちょ、オマエ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェスT&#xE;&#x0;&#x3;&#x2;ÿÿ持ってんのナ？！
+イイ話があるんだけど
+ちょっと 聞いてけよナ！&#xE;&#x0;&#x4;&#x0;じつはさ、 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェスTのクリーニング&#xE;&#x0;&#x3;&#x2;ÿÿは
+&#xE;&#x2;*&#x8;Z&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;2000でやってんだゼ！
+スッゲーだろ？！</original>
+			<edited>ちょ、オマエ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェスT&#xE;&#x0;&#x3;&#x2;ÿÿ持ってんのナ？！
+イイ話があるんだけど
+ちょっと 聞いてけよナ！&#xE;&#x0;&#x4;&#x0;じつはさ、 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェスTのクリーニング&#xE;&#x0;&#x3;&#x2;ÿÿは
+&#xE;&#x2;*&#x8;Z&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;2000でやってんだゼ！
+スッゲーだろ？！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_FesT_01" offset="00" relocatable="true" max_length="0">
+			<original>フェスになると、オレも気分が盛り上がるのナ！
+フェスT着てフェスをもっと盛り上げて
+ほしいから、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポート価格&#xE;&#x0;&#x3;&#x2;ÿÿってやつなんだよナ！&#xE;&#x0;&#x4;&#x0;だからさ、フェスTそうびしてガンガンバトルして
+追加ギアパワーたまったら
+オレんとこ持って来いよナ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;何回でも&#xE;&#x0;&#x3;&#x2;ÿÿ &#xE;&#x2;*&#x8;Z&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;2000で
+クリーニングしてやるゼ！</original>
+			<edited>フェスになると、オレも気分が盛り上がるのナ！
+フェスT着てフェスをもっと盛り上げて
+ほしいから、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;サポート価格&#xE;&#x0;&#x3;&#x2;ÿÿってやつなんだよナ！&#xE;&#x0;&#x4;&#x0;だからさ、フェスTそうびしてガンガンバトルして
+追加ギアパワーたまったら
+オレんとこ持って来いよナ！&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;何回でも&#xE;&#x0;&#x3;&#x2;ÿÿ &#xE;&#x2;*&#x8;Z&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;2000で
+クリーニングしてやるゼ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_000" offset="00" relocatable="true" max_length="0">
+			<original>オッス</original>
+			<edited>オッス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_030" offset="00" relocatable="true" max_length="0">
+			<original>またこいよナ</original>
+			<edited>またこいよナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_040" offset="00" relocatable="true" max_length="0">
+			<original>ちょ、落ち着けよ！
+オマエ なんも&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;注文&#xE;&#x0;&#x3;&#x2;ÿÿしてねーじゃん！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;注文&#xE;&#x0;&#x3;&#x2;ÿÿしてから また来てくれよナ</original>
+			<edited>ちょ、落ち着けよ！
+オマエ なんも&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;注文&#xE;&#x0;&#x3;&#x2;ÿÿしてねーじゃん！
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;注文&#xE;&#x0;&#x3;&#x2;ÿÿしてから また来てくれよナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_050" offset="00" relocatable="true" max_length="0">
+			<original>まあ、あせるなって
+まだ探してるところだからナ
+また&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;明日&#xE;&#x0;&#x3;&#x2;ÿÿ来てくれよナ！</original>
+			<edited>まあ、あせるなって
+まだ探してるところだからナ
+また&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;明日&#xE;&#x0;&#x3;&#x2;ÿÿ来てくれよナ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_060" offset="00" relocatable="true" max_length="0">
+			<original>ダウニーさんにも 手伝ってもらったんだけどさ
+コレしか 無かったんだよナ…</original>
+			<edited>ダウニーさんにも 手伝ってもらったんだけどさ
+コレしか 無かったんだよナ…</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_065" offset="00" relocatable="true" max_length="0">
+			<original>なーなー 見てくれよナ！
+注文どおりのやつ 持ってきたゼ！
+へヘへッ、オマエさ
+これ探してたんだろ？</original>
+			<edited>なーなー 見てくれよナ！
+注文どおりのやつ 持ってきたゼ！
+へヘへッ、オマエさ
+これ探してたんだろ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_066" offset="00" relocatable="true" max_length="0">
+			<original>アネモさんとこで注文したギア、
+ちょうど届いてるゼ</original>
+			<edited>アネモさんとこで注文したギア、
+ちょうど届いてるゼ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Short_070" offset="00" relocatable="true" max_length="0">
+			<original>買っちゃう？</original>
+			<edited>買っちゃう？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_080" offset="00" relocatable="true" max_length="0">
+			<original>いらねーんだ…
+欲しくなったら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;今日中&#xE;&#x0;&#x3;&#x2;ÿÿに声かけてくれよナ
+余計な在庫は 処分しちゃうからさ</original>
+			<edited>いらねーんだ…
+欲しくなったら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;今日中&#xE;&#x0;&#x3;&#x2;ÿÿに声かけてくれよナ
+余計な在庫は 処分しちゃうからさ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_081" offset="00" relocatable="true" max_length="0">
+			<original>いらねーんだ…
+欲しくなったら また声かけてくれよナ</original>
+			<edited>いらねーんだ…
+欲しくなったら また声かけてくれよナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_090" offset="00" relocatable="true" max_length="0">
+			<original>ちょ、おカネ足りなくねーか？
+おサイフは チェックしとけよナ！
+そういうの、大事だからナ！</original>
+			<edited>ちょ、おカネ足りなくねーか？
+おサイフは チェックしとけよナ！
+そういうの、大事だからナ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_100" offset="00" relocatable="true" max_length="0">
+			<original>ちょ、 もう同じ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア &#xE;&#x0;&#x3;&#x2;ÿÿ持ってんじゃん
+今持ってる&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿ、オレが引き取るからさ
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;注文&#xE;&#x0;&#x3;&#x2;ÿÿしたヤツ、買っとくか？</original>
+			<edited>ちょ、 もう同じ&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア &#xE;&#x0;&#x3;&#x2;ÿÿ持ってんじゃん
+今持ってる&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿ、オレが引き取るからさ
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;注文&#xE;&#x0;&#x3;&#x2;ÿÿしたヤツ、買っとくか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_120" offset="00" relocatable="true" max_length="0">
+			<original>ありがとナ
+また来てくれよナ
+約束だからナ！</original>
+			<edited>ありがとナ
+また来てくれよナ
+約束だからナ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_190" offset="00" relocatable="true" max_length="0">
+			<original>どの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿ増やすんだ？
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿ１コでやってやるからナ&#xE;&#x0;&#x4;&#x0;逆に、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿが３つとも
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿで 埋まってるヤツなら
+テキトーに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿ付け直してやるゼ</original>
+			<edited>どの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿ増やすんだ？
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿ１コでやってやるからナ&#xE;&#x0;&#x4;&#x0;逆に、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿが３つとも
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿで 埋まってるヤツなら
+テキトーに &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿ付け直してやるゼ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_196" offset="00" relocatable="true" max_length="0">
+			<original>ちょ、おカネ足りなくねーか？
+おサイフは チェックしとけよナ！
+そういうの、大事だからナ！</original>
+			<edited>ちょ、おカネ足りなくねーか？
+おサイフは チェックしとけよナ！
+そういうの、大事だからナ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Short_200" offset="00" relocatable="true" max_length="0">
+			<original>スロット増やすのか？</original>
+			<edited>スロット増やすのか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Short_205" offset="00" relocatable="true" max_length="0">
+			<original>スロット増やしたゼ！</original>
+			<edited>スロット増やしたゼ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_210" offset="00" relocatable="true" max_length="0">
+			<original>もう&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿ増やせねーじゃんか！
+次は&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿ全部埋まってから
+持ってきてくれよナ
+そしたら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿ付け直すからさ</original>
+			<edited>もう&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スロット&#xE;&#x0;&#x3;&#x2;ÿÿ増やせねーじゃんか！
+次は&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿ全部埋まってから
+持ってきてくれよナ
+そしたら &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿ付け直すからさ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Short_225" offset="00" relocatable="true" max_length="0">
+			<original>ギアパワー付け直すのか？</original>
+			<edited>ギアパワー付け直すのか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Short_230" offset="00" relocatable="true" max_length="0">
+			<original>ギアパワー付け直したゼ！</original>
+			<edited>ギアパワー付け直したゼ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_305_00" offset="00" relocatable="true" max_length="0">
+			<original>えっ オマエ、 ギアの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿ
+したことないのか？
+マジかよー！ &#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿってのはナ、
+追加ギアパワーを いっぺん全部
+きれーサッパリ なくしちゃうんだゼ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿしたギアは
+バトルで使いこめばまた
+ギアパワーがつくし…&#xE;&#x0;&#x4;&#x0;ついてたギアパワーは
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーのかけら&#xE;&#x0;&#x3;&#x2;ÿÿ として
+集めることができるゼ！</original>
+			<edited>えっ オマエ、 ギアの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿ
+したことないのか？
+マジかよー！ &#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿってのはナ、
+追加ギアパワーを いっぺん全部
+きれーサッパリ なくしちゃうんだゼ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿしたギアは
+バトルで使いこめばまた
+ギアパワーがつくし…&#xE;&#x0;&#x4;&#x0;ついてたギアパワーは
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーのかけら&#xE;&#x0;&#x3;&#x2;ÿÿ として
+集めることができるゼ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_305_01" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーのかけら&#xE;&#x0;&#x3;&#x2;ÿÿをたくさん集めると
+ギアパワーの復元ができるんだゼ&#xE;&#x0;&#x4;&#x0;イカしたやつらは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿを
+うまく使って イカしたギアを
+つくってんだよナ&#xE;&#x0;&#x4;&#x0;オマエもいっぺんやってみろよ
+もちろん おカネはもらうけどナ！</original>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーのかけら&#xE;&#x0;&#x3;&#x2;ÿÿをたくさん集めると
+ギアパワーの復元ができるんだゼ&#xE;&#x0;&#x4;&#x0;イカしたやつらは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿを
+うまく使って イカしたギアを
+つくってんだよナ&#xE;&#x0;&#x4;&#x0;オマエもいっぺんやってみろよ
+もちろん おカネはもらうけどナ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_310" offset="00" relocatable="true" max_length="0">
+			<original>どの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿを &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿしたらいいんだよ？
+チャチャッと やっちまうゼ</original>
+			<edited>どの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギア&#xE;&#x0;&#x3;&#x2;ÿÿを &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿしたらいいんだよ？
+チャチャッと やっちまうゼ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_320" offset="00" relocatable="true" max_length="0">
+			<original>ちょ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿが １つもついてないやつは
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿできないっショ
+オドロキの白さってやつっショ</original>
+			<edited>ちょ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワー&#xE;&#x0;&#x3;&#x2;ÿÿが １つもついてないやつは
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿできないっショ
+オドロキの白さってやつっショ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_330" offset="00" relocatable="true" max_length="0">
+			<original>これできれいサッパリだろ？
+あとさ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿで &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーのかけら&#xE;&#x0;&#x3;&#x2;ÿÿ が
+出てきたからさ、 オマエに わたしとくからナ
+大事に持っておけよナ！</original>
+			<edited>これできれいサッパリだろ？
+あとさ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリーニング&#xE;&#x0;&#x3;&#x2;ÿÿで &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーのかけら&#xE;&#x0;&#x3;&#x2;ÿÿ が
+出てきたからさ、 オマエに わたしとくからナ
+大事に持っておけよナ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Short_315" offset="00" relocatable="true" max_length="0">
+			<original>クリーニングしちゃうか？</original>
+			<edited>クリーニングしちゃうか？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_405_00" offset="00" relocatable="true" max_length="0">
+			<original>ちょ、オマエ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーの復元&#xE;&#x0;&#x3;&#x2;ÿÿしたこと
+ないのかよー！
+…まあそんなことだろうと思ったけどナ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーのかけら&#xE;&#x0;&#x3;&#x2;ÿÿってあるっショ？
+あれ たくさんあつめるとさ、
+好きなギアに 好きなギアパワーが
+つけられるんだゼ！ スッゲーだろ？</original>
+			<edited>ちょ、オマエ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーの復元&#xE;&#x0;&#x3;&#x2;ÿÿしたこと
+ないのかよー！
+…まあそんなことだろうと思ったけどナ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ギアパワーのかけら&#xE;&#x0;&#x3;&#x2;ÿÿってあるっショ？
+あれ たくさんあつめるとさ、
+好きなギアに 好きなギアパワーが
+つけられるんだゼ！ スッゲーだろ？</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_405_01" offset="00" relocatable="true" max_length="0">
+			<original>すでにギアパワーがついてるとこにも
+つけられるんだよナ！ しかも、先についてた
+ギアパワーも、 ギアパワーのかけらになって
+手に入るし ソンはしないからナ！</original>
+			<edited>すでにギアパワーがついてるとこにも
+つけられるんだよナ！ しかも、先についてた
+ギアパワーも、 ギアパワーのかけらになって
+手に入るし ソンはしないからナ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_405_02" offset="00" relocatable="true" max_length="0">
+			<original>オマエも いっぺんやってみろよ
+バチッと キメよーゼ！</original>
+			<edited>オマエも いっぺんやってみろよ
+バチッと キメよーゼ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_410" offset="00" relocatable="true" max_length="0">
+			<original>バチッとキメたい ギアとギアパワーを
+選んでくれよナ</original>
+			<edited>バチッとキメたい ギアとギアパワーを
+選んでくれよナ</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_430" offset="00" relocatable="true" max_length="0">
+			<original>バチッとギアパワーつけといたゼ
+これでしっかり カツヤクしてくれよナ
+負けてもオレのせいじゃねーからナ！</original>
+			<edited>バチッとギアパワーつけといたゼ
+これでしっかり カツヤクしてくれよナ
+負けてもオレのせいじゃねーからナ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="Talk_Short_415" offset="00" relocatable="true" max_length="0">
+			<original>ギアパワーつけちゃうか？</original>
+			<edited>ギアパワーつけちゃうか？</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

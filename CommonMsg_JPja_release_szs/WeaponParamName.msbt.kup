@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Range" offset="00" relocatable="true" max_length="0">
+			<original>射程</original>
+			<edited>射程</edited>
+			<subEntries />
+		</entry>
+		<entry name="Blaze" offset="00" relocatable="true" max_length="0">
+			<original>連射力</original>
+			<edited>连射力</edited>
+			<subEntries />
+		</entry>
+		<entry name="Power" offset="00" relocatable="true" max_length="0">
+			<original>攻撃力</original>
+			<edited>攻击力</edited>
+			<subEntries />
+		</entry>
+		<entry name="Explosion" offset="00" relocatable="true" max_length="0">
+			<original>爆発力</original>
+			<edited>爆炸力</edited>
+			<subEntries />
+		</entry>
+		<entry name="PaintSpeed" offset="00" relocatable="true" max_length="0">
+			<original>塗り進み速度</original>
+			<edited>涂地速度</edited>
+			<subEntries />
+		</entry>
+		<entry name="Weight" offset="00" relocatable="true" max_length="0">
+			<original>軽さ</original>
+			<edited>重量</edited>
+			<subEntries />
+		</entry>
+		<entry name="Charge" offset="00" relocatable="true" max_length="0">
+			<original>チャージ速度</original>
+			<edited>填充速度</edited>
+			<subEntries />
+		</entry>
+		<entry name="Mobility" offset="00" relocatable="true" max_length="0">
+			<original>機動性</original>
+			<edited>机动性</edited>
+			<subEntries />
+		</entry>
+		<entry name="Defence" offset="00" relocatable="true" max_length="0">
+			<original>耐久力</original>
+			<edited>耐久力</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

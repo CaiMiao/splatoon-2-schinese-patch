@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
+			<original>壊れる足場から落ちないように 戦うのでス</original>
+			<edited>壊れる足場から落ちないように 戦うのでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
+			<original>ムダ撃ちはもちろん、撃たれることも大変キケンでス</original>
+			<edited>ムダ撃ちはもちろん、撃たれることも大変キケンでス</edited>
+			<subEntries />
+		</entry>
+		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
+			<original>固い木箱の位置を確認しましょウ</original>
+			<edited>固い木箱の位置を確認しましょウ</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsGeso_0000" offset="00" relocatable="true" max_length="0">
+			<original>イ… イカが ういとる…</original>
+			<edited>イ… イカが ういとる…</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsGeso_0001" offset="00" relocatable="true" max_length="0">
+			<original>どうやら あそこで戦うようですね</original>
+			<edited>どうやら あそこで戦うようですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsGeso_0002" offset="00" relocatable="true" max_length="0">
+			<original>足場が壊れるので 気をつけてください！</original>
+			<edited>足場が壊れるので 気をつけてください！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsGeso_0003" offset="00" relocatable="true" max_length="0">
+			<original>ビニールで包まれた木箱なら 壊れにくいですよ！</original>
+			<edited>ビニールで包まれた木箱なら 壊れにくいですよ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsGeso_0004" offset="00" relocatable="true" max_length="0">
+			<original>足じゃ！ 敵の足元をねらって 落とすんじゃ！</original>
+			<edited>足じゃ！ 敵の足元をねらって 落とすんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsGeso_0005" offset="00" relocatable="true" max_length="0">
+			<original>ゲッ！ なんか、ヤバそーなのが出てきたゾ！</original>
+			<edited>ゲッ！ なんか、ヤバそーなのが出てきたゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsGeso_0006" offset="00" relocatable="true" max_length="0">
+			<original>シェルターを開いて 近づくのがよさそうですね</original>
+			<edited>シェルターを開いて 近づくのがよさそうですね</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsGeso_0007" offset="00" relocatable="true" max_length="0">
+			<original>パージするなら カタい木箱の上だ！ 落ちんゾ！</original>
+			<edited>パージするなら カタい木箱の上だ！ 落ちんゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsGeso_0008" offset="00" relocatable="true" max_length="0">
+			<original>爆風で足場を壊して 落っことせ！</original>
+			<edited>爆風で足場を壊して 落っことせ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsGeso_0009" offset="00" relocatable="true" max_length="0">
+			<original>敵だけを倒して、アイテムの落下を防ぎましょう！</original>
+			<edited>敵だけを倒して、アイテムの落下を防ぎましょう！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsGeso_0010" offset="00" relocatable="true" max_length="0">
+			<original>フデで塗り進みながら 一気に近づくんじゃ！</original>
+			<edited>フデで塗り進みながら 一気に近づくんじゃ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsGeso_0011" offset="00" relocatable="true" max_length="0">
+			<original>カーリングボムで 遠くから片づけてもいいゾ！</original>
+			<edited>カーリングボムで 遠くから片づけてもいいゾ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsGeso_0012" offset="00" relocatable="true" max_length="0">
+			<original>わー！ なんだこいつ！</original>
+			<edited>わー！ なんだこいつ！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsGeso_0013" offset="00" relocatable="true" max_length="0">
+			<original>バイソクミサイルタコプターは、ミサイルを引きつけて！</original>
+			<edited>バイソクミサイルタコプターは、ミサイルを引きつけて！</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsGeso_0014" offset="00" relocatable="true" max_length="0">
+			<original>ファッ？！ なんじゃ ここは？</original>
+			<edited>ファッ？！ なんじゃ ここは？</edited>
+			<subEntries />
+		</entry>
+		<entry name="PitfallsGeso_0015" offset="00" relocatable="true" max_length="0">
+			<original>ここなら、ミサイルをやり過ごせそうですね♪</original>
+			<edited>ここなら、ミサイルをやり過ごせそうですね♪</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="L_MenuBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>つづける</original>
+			<edited>つづける</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_MenuBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>塗りリセット</original>
+			<edited>塗りリセット</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_MenuBtn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>カメラオプション</original>
+			<edited>カメラオプション</edited>
+			<subEntries />
+		</entry>
+		<entry name="L_MenuBtn_03-T_Btn_00" offset="00" relocatable="true" max_length="0">
+			<original>試しうちをやめる</original>
+			<edited>試しうちをやめる</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>

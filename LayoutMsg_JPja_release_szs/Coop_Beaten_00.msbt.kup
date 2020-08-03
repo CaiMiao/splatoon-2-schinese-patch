@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">
+	<pointerTables />
+	<stringBounds />
+	<entries>
+		<entry name="999" offset="00" relocatable="true" max_length="0">
+			<original>&#xE;&#x4;&#x4;&#x4;&#x0;&#x0;&#x0;Íに
+やられた！</original>
+			<edited>被 &#xE;&#x4;&#x4;&#x4;&#x0;&#x0;&#x0;Í
+干掉了！</edited>
+			<subEntries />
+		</entry>
+	</entries>
+</kup>
