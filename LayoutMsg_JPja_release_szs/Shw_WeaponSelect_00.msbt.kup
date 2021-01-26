@@ -87,7 +87,7 @@
 		</entry>
 		<entry name="L_Option_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>オプション</original>
-			<edited>オプション</edited>
+			<edited>选项</edited>
 			<subEntries />
 		</entry>
 	</entries>

@@ -20,7 +20,7 @@
 		</entry>
 		<entry name="BtnL_Download_Info_Octa" offset="00" relocatable="true" max_length="0">
 			<original>もどる</original>
-			<edited>もどる</edited>
+			<edited>返回</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnR_Download_Info_Octa" offset="00" relocatable="true" max_length="0">

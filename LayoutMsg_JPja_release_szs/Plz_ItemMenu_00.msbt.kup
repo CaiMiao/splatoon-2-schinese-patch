@@ -30,17 +30,17 @@
 		</entry>
 		<entry name="L_KeyIcon_02-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>もどる</original>
-			<edited>もどる</edited>
+			<edited>返回</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Back_00-T_Back_00" offset="00" relocatable="true" max_length="0">
 			<original>もどる</original>
-			<edited>もどる</edited>
+			<edited>返回</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>もどる</original>
-			<edited>もどる</edited>
+			<edited>返回</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ItemDetail_01-T_New_00" offset="00" relocatable="true" max_length="0">

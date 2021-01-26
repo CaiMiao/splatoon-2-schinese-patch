@@ -30,7 +30,7 @@
 		</entry>
 		<entry name="Station" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x3;&#x2;&#x2;&#x14;Í駅</original>
-			<edited>&#xE;&#x3;&#x2;&#x2;&#x14;Í駅</edited>
+			<edited>&#xE;&#x3;&#x2;&#x2;&#x14;Í站</edited>
 			<subEntries />
 		</entry>
 	</entries>

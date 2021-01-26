@@ -96,7 +96,7 @@
 			<original>相手を一人も倒せないまま
 連続でやられた時、
 復活時間が短くなります。</original>
-			<edited>减少在没有打倒任何一位对手的
+			<edited>减少在没有击倒任何一位对手的
 情况下连续被打倒时
 所需的复活时间。</edited>
 			<subEntries />
@@ -168,8 +168,8 @@
 			<original>プレイヤーがやられて復帰後、
 しばらくの間、一部の能力が
 かなりアップします。</original>
-			<edited>玩家被击倒后回归时，
-短时间内内大幅提高部分能力。</edited>
+			<edited>玩家被打倒后回归时，
+短时间内大幅提高部分能力。</edited>
 			<subEntries />
 		</entry>
 		<entry name="SquidMoveSpatter_Reduction" offset="00" relocatable="true" max_length="0">

@@ -1,5 +1,5 @@
 # splatoon-2-schinese-patch
-based on 5.2.2 japanese string
+based on 5.3.1 japanese string
 
 kuriimu format
 

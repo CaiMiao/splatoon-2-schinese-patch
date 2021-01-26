@@ -53,14 +53,14 @@
 		</entry>
 		<entry name="cVcl" offset="00" relocatable="true" max_length="0">
 			<original>ガチアサリ</original>
-			<edited>认真夺蛤战</edited>
+			<edited>认真投蛤战</edited>
 			<subEntries />
 		</entry>
 		<entry name="cVcl_2L" offset="00" relocatable="true" max_length="0">
 			<original>ガチ
 アサリ</original>
 			<edited>认真
-夺蛤战</edited>
+投蛤战</edited>
 			<subEntries />
 		</entry>
 		<entry name="cFes" offset="00" relocatable="true" max_length="0">

@@ -123,8 +123,8 @@
 		<entry name="T_Exp_01" offset="00" relocatable="true" max_length="0">
 			<original>テレビ画面に映したり Switch本体を置いてプレイするときの
 カメラオプションを設定できます</original>
-			<edited>テレビ画面に映したり Switch本体を置いてプレイするときの
-カメラオプションを設定できます</edited>
+			<edited>可以设定在电视上显示画面 或放置Switch本体游玩时的
+镜头选项</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_00-T_Header_00" offset="00" relocatable="true" max_length="0">
@@ -164,7 +164,7 @@
 		</entry>
 		<entry name="T_Exp_02" offset="00" relocatable="true" max_length="0">
 			<original>Switch本体を持ってプレイするときの カメラオプションを設定できます</original>
-			<edited>Switch本体を持ってプレイするときの カメラオプションを設定できます</edited>
+			<edited>可以设定拿着Switch本体游玩时的镜头选项</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_04-T_BtnL_00" offset="00" relocatable="true" max_length="0">

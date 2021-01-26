@@ -110,7 +110,7 @@
 		</entry>
 		<entry name="OBJ_0078" offset="00" relocatable="true" max_length="0">
 			<original>NAMACO端末</original>
-			<edited>NAMACO端末</edited>
+			<edited>NAMACO终端</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_0080" offset="00" relocatable="true" max_length="0">
