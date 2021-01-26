@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="WeaponShop" offset="00" relocatable="true" max_length="0">
 			<original>ブキチ</original>
-			<edited>ブキチ</edited>
+			<edited>武鲎</edited>
 			<subEntries />
 		</entry>
 		<entry name="AccessoryShop" offset="00" relocatable="true" max_length="0">
@@ -30,7 +30,7 @@
 		</entry>
 		<entry name="Lob" offset="00" relocatable="true" max_length="0">
 			<original>ロブ</original>
-			<edited>ロブ</edited>
+			<edited>鞋虾</edited>
 			<subEntries />
 		</entry>
 		<entry name="Vender" offset="00" relocatable="true" max_length="0">
@@ -40,7 +40,7 @@
 		</entry>
 		<entry name="Atarime" offset="00" relocatable="true" max_length="0">
 			<original>アタリメ司令</original>
-			<edited>アタリメ司令</edited>
+			<edited>墨鱼丝令</edited>
 			<subEntries />
 		</entry>
 		<entry name="WamonA" offset="00" relocatable="true" max_length="0">
@@ -50,12 +50,12 @@
 		</entry>
 		<entry name="WamonB" offset="00" relocatable="true" max_length="0">
 			<original>DJタコワサ将軍</original>
-			<edited>DJタコワサ将軍</edited>
+			<edited>DJ章鱼芥末将军</edited>
 			<subEntries />
 		</entry>
 		<entry name="Aori" offset="00" relocatable="true" max_length="0">
 			<original>アオリ</original>
-			<edited>アオリ</edited>
+			<edited>香匙</edited>
 			<subEntries />
 		</entry>
 		<entry name="Aori_S" offset="00" relocatable="true" max_length="0">
@@ -65,7 +65,7 @@
 		</entry>
 		<entry name="Hotaru" offset="00" relocatable="true" max_length="0">
 			<original>ホタル</original>
-			<edited>ホタル</edited>
+			<edited>萤火</edited>
 			<subEntries />
 		</entry>
 		<entry name="Hime" offset="00" relocatable="true" max_length="0">
@@ -100,7 +100,7 @@
 		</entry>
 		<entry name="Unknown" offset="00" relocatable="true" max_length="0">
 			<original>ナゾの声</original>
-			<edited>ナゾの声</edited>
+			<edited>谜之声</edited>
 			<subEntries />
 		</entry>
 		<entry name="Namaco" offset="00" relocatable="true" max_length="0">
@@ -115,7 +115,7 @@
 		</entry>
 		<entry name="Receiver" offset="00" relocatable="true" max_length="0">
 			<original>デンワ</original>
-			<edited>デンワ</edited>
+			<edited>电话</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kamaboko" offset="00" relocatable="true" max_length="0">
@@ -125,7 +125,7 @@
 		</entry>
 		<entry name="BrokenPhone" offset="00" relocatable="true" max_length="0">
 			<original>こわれたデンワ</original>
-			<edited>こわれたデンワ</edited>
+			<edited>坏掉的电话</edited>
 			<subEntries />
 		</entry>
 	</entries>

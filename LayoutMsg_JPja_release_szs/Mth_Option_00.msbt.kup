@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="T_Exp_00" offset="00" relocatable="true" max_length="0">
 			<original>ONにすると ギアの追加ギアパワーの効果が 無効になります</original>
-			<edited>切换至ON 装备的额外装备能力效果 将变为无效</edited>
+			<edited>切换至ON 防具的额外防具能力效果 将变为无效</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_00-T_Header_00" offset="00" relocatable="true" max_length="0">
 			<original>追加ギアパワーなし</original>
-			<edited>无额外装备能力</edited>
+			<edited>无额外防具能力</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_00-T_BtnL_00" offset="00" relocatable="true" max_length="0">
@@ -25,12 +25,12 @@
 		</entry>
 		<entry name="T_Exp_01" offset="00" relocatable="true" max_length="0">
 			<original>ONにすると amiiboに覚えさせた ギアとギアパワーが使用できます</original>
-			<edited>切换至ON 能够使用让amiibo记住的 装备与装备能力</edited>
+			<edited>切换至ON 能够使用让amiibo记住的 防具与防具能力</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_01-T_Header_00" offset="00" relocatable="true" max_length="0">
 			<original>amiibo のギア使用</original>
-			<edited>使用 amiibo 的装备</edited>
+			<edited>使用 amiibo 的防具</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Exp_02" offset="00" relocatable="true" max_length="0">

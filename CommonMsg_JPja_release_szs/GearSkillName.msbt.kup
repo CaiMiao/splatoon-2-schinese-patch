@@ -85,7 +85,7 @@
 		</entry>
 		<entry name="ExSkillDouble" offset="00" relocatable="true" max_length="0">
 			<original>追加ギアパワー倍化</original>
-			<edited>额外装备能力加倍</edited>
+			<edited>额外防具能力加倍</edited>
 			<subEntries />
 		</entry>
 		<entry name="StartAllUp" offset="00" relocatable="true" max_length="0">

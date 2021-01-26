@@ -26,9 +26,9 @@
 通信環境が 不安定になっている可能性があります
 くわしくは Nintendo Switchサポートサイトをご覧ください</original>
 			<edited>- 通讯已被切断 -
-このエラーが何度も発生するときは、お客さまの
-通信環境が 不安定になっている可能性があります
-くわしくは Nintendo Switchサポートサイトをご覧ください</edited>
+多次出现这个错误的时候，代表您的
+通讯环境有可能正变得不稳定
+详情请浏览Nintendo Switch支持网站</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Session_Is_Full_Error" offset="00" relocatable="true" max_length="0">
@@ -194,7 +194,7 @@
 		</entry>
 		<entry name="BtnR_JoinConfirm_Regular" offset="00" relocatable="true" max_length="0">
 			<original>参加する！</original>
-			<edited>参加する！</edited>
+			<edited>参加！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_JoinConfirm_Gachi" offset="00" relocatable="true" max_length="0">
@@ -211,7 +211,7 @@
 		</entry>
 		<entry name="BtnR_JoinConfirm_Gachi" offset="00" relocatable="true" max_length="0">
 			<original>参加する！</original>
-			<edited>参加する！</edited>
+			<edited>参加！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_JoinConfirm_Fest" offset="00" relocatable="true" max_length="0">
@@ -228,7 +228,7 @@
 		</entry>
 		<entry name="BtnR_JoinConfirm_Fest" offset="00" relocatable="true" max_length="0">
 			<original>参加する！</original>
-			<edited>参加する！</edited>
+			<edited>参加！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_JoinConfirm_Friend" offset="00" relocatable="true" max_length="0">
@@ -245,7 +245,7 @@
 		</entry>
 		<entry name="BtnR_JoinConfirm_Friend" offset="00" relocatable="true" max_length="0">
 			<original>合流する！</original>
-			<edited>合流する！</edited>
+			<edited>合流！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_JoinConfirm_CoopTutorial" offset="00" relocatable="true" max_length="0">
@@ -260,12 +260,12 @@
 		</entry>
 		<entry name="BtnR_JoinConfirm_CoopTutorial" offset="00" relocatable="true" max_length="0">
 			<original>参加する！</original>
-			<edited>参加する！</edited>
+			<edited>参加！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_JoinConfirm_Coop" offset="00" relocatable="true" max_length="0">
 			<original>アルバイトに参加しますか？</original>
-			<edited>要参加打工吗？</edited>
+			<edited>要参加兼职吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_JoinConfirm_Coop" offset="00" relocatable="true" max_length="0">
@@ -275,7 +275,7 @@
 		</entry>
 		<entry name="BtnR_JoinConfirm_Coop" offset="00" relocatable="true" max_length="0">
 			<original>参加する！</original>
-			<edited>参加する！</edited>
+			<edited>参加！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_JoinFriend_Attention_Coop" offset="00" relocatable="true" max_length="0">
@@ -298,7 +298,7 @@
 		</entry>
 		<entry name="BtnR_JoinFriend_Attention_Coop" offset="00" relocatable="true" max_length="0">
 			<original>参加する！</original>
-			<edited>参加する！</edited>
+			<edited>参加！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_GradeResetConfirm_Coop" offset="00" relocatable="true" max_length="0">
@@ -339,7 +339,7 @@
 		</entry>
 		<entry name="BtnR_NotFoundSession" offset="00" relocatable="true" max_length="0">
 			<original>検索する！</original>
-			<edited>検索する！</edited>
+			<edited>搜索！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_FullParticipantSession" offset="00" relocatable="true" max_length="0">
@@ -370,7 +370,7 @@ HOMEメニューのマイページから フレンド追加してみましょう
 			<original>必要な人数がそろっていません
 人数がそろうまでお待ちください</original>
 			<edited>未达到必要人数
-在人数凑齐前请稍等</edited>
+在人数凑够前请稍等</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_InvalidTeamSelect" offset="00" relocatable="true" max_length="0">
@@ -952,10 +952,10 @@ SALMON RUN の募集期間をお知らせしております
 購入をすることができます。</original>
 			<edited>若要游玩之后的内容，
 必需购买零售版「Splatoon 2」以及
-额外下载内容「Splatoon 2 Octo Expansion」。
+新增内容「Splatoon 2 Octo Expansion」。
 
 前往任天堂e商店，
-即可查看零售版与额外下载内容的信息
+即可查看零售版与新增内容的信息
 和进行购买。</edited>
 			<subEntries />
 		</entry>

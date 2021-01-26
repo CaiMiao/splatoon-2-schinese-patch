@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="PaintUp" offset="00" relocatable="true" max_length="0">
 			<original>塗り性能がアップします。</original>
-			<edited>提高涂鸦性能。</edited>
+			<edited>提高涂抹性能。</edited>
 			<subEntries />
 		</entry>
 		<entry name="DamageUp" offset="00" relocatable="true" max_length="0">

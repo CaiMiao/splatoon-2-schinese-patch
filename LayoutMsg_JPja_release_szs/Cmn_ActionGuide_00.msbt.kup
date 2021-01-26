@@ -30,7 +30,7 @@
 		</entry>
 		<entry name="006" offset="00" relocatable="true" max_length="0">
 			<original>ジャッジくんのアドバイス</original>
-			<edited>ジャッジ君的建议</edited>
+			<edited>财判的建议</edited>
 			<subEntries />
 		</entry>
 		<entry name="007" offset="00" relocatable="true" max_length="0">
@@ -115,12 +115,12 @@
 		</entry>
 		<entry name="028" offset="00" relocatable="true" max_length="0">
 			<original>思い出す</original>
-			<edited>想起</edited>
+			<edited>回忆</edited>
 			<subEntries />
 		</entry>
 		<entry name="029" offset="00" relocatable="true" max_length="0">
 			<original>ハイカラスクエアへ想いをはせる</original>
-			<edited>回想ハイカラスクエア</edited>
+			<edited>尽情想象ハイカラスクエア</edited>
 			<subEntries />
 		</entry>
 		<entry name="100" offset="00" relocatable="true" max_length="0">

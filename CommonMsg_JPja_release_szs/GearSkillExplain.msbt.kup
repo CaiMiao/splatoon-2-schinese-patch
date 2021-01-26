@@ -12,9 +12,9 @@
 			<original>ギアをバトルで使用して
 ケイケン値をためると
 ギアパワーが解放されます。</original>
-			<edited>在战斗中使用装备
+			<edited>在战斗中使用防具
 积累经验值后
-就会解锁装备能力。</edited>
+就会解锁防具能力。</edited>
 			<subEntries />
 		</entry>
 		<entry name="OpInkEffect_Reduction" offset="00" relocatable="true" max_length="0">
@@ -133,8 +133,8 @@
 			<original>このギアについている
 追加ギアパワーを
 １つで２コ分の効果にします。</original>
-			<edited>此装备所赋有的
-额外装备能力
+			<edited>此防具所赋有的
+额外防具能力
 发挥双倍效果。</edited>
 			<subEntries />
 		</entry>

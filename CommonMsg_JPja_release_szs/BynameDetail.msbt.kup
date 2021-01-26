@@ -165,12 +165,12 @@
 		</entry>
 		<entry name="WmnShooter" offset="00" relocatable="true" max_length="0">
 			<original>シューター</original>
-			<edited>シューター</edited>
+			<edited>射枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="WmnRoller" offset="00" relocatable="true" max_length="0">
 			<original>ローラー</original>
-			<edited>ローラー</edited>
+			<edited>滚筒</edited>
 			<subEntries />
 		</entry>
 		<entry name="WmnTwins" offset="00" relocatable="true" max_length="0">
@@ -180,17 +180,17 @@
 		</entry>
 		<entry name="WmnBlaster" offset="00" relocatable="true" max_length="0">
 			<original>ブラスター</original>
-			<edited>ブラスター</edited>
+			<edited>爆破枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="WmnCharger" offset="00" relocatable="true" max_length="0">
 			<original>チャージャー</original>
-			<edited>チャージャー</edited>
+			<edited>蓄力枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="WmnSlosher" offset="00" relocatable="true" max_length="0">
 			<original>スロッシャー</original>
-			<edited>スロッシャー</edited>
+			<edited>泼桶</edited>
 			<subEntries />
 		</entry>
 		<entry name="WmnUmbrella" offset="00" relocatable="true" max_length="0">
@@ -205,12 +205,12 @@
 		</entry>
 		<entry name="WmnSpinner" offset="00" relocatable="true" max_length="0">
 			<original>スピナー</original>
-			<edited>スピナー</edited>
+			<edited>转枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="WmnVariety" offset="00" relocatable="true" max_length="0">
 			<original>バラエティーブキ</original>
-			<edited>バラエティーブキ</edited>
+			<edited>Variety武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="GearGenre_Head_Cap" offset="00" relocatable="true" max_length="0">

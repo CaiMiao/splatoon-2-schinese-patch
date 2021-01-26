@@ -533,7 +533,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_44" offset="00" relocatable="true" max_length="0">
 			<original>ブキチ</original>
-			<edited>ブキチ</edited>
+			<edited>武鲎</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_44" offset="00" relocatable="true" max_length="0">
@@ -545,7 +545,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_45" offset="00" relocatable="true" max_length="0">
 			<original>ロブ</original>
-			<edited>ロブ</edited>
+			<edited>鞋虾</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_45" offset="00" relocatable="true" max_length="0">
@@ -773,7 +773,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_64" offset="00" relocatable="true" max_length="0">
 			<original>ホタル</original>
-			<edited>ホタル</edited>
+			<edited>萤火</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_64" offset="00" relocatable="true" max_length="0">

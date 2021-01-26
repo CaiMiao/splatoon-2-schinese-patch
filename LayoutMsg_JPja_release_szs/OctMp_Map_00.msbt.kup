@@ -30,7 +30,7 @@
 		</entry>
 		<entry name="T_CollectionTitle_00" offset="00" relocatable="true" max_length="0">
 			<original>ネリメモリーズ</original>
-			<edited>ネリメモリーズ</edited>
+			<edited>锻炼记忆</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_LogBtn_00-T_Title_00" offset="00" relocatable="true" max_length="0">
@@ -129,9 +129,9 @@
 			<original>プレイヤーの性別、ハダの色、目の色、
 ヘアスタイルの設定を変更しますか？
 (セーブデータは受け継がれます)</original>
-			<edited>プレイヤーの性別、ハダの色、目の色、
-ヘアスタイルの設定を変更しますか？
-(セーブデータは受け継がれます)</edited>
+			<edited>要更改玩家性别、肤色、瞳色
+与发型的设定吗？
+(保存数据会被继承)</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_LogTitle_00" offset="00" relocatable="true" max_length="0">

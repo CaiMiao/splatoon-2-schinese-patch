@@ -50,7 +50,7 @@
 		</entry>
 		<entry name="L_ItemDetail_00-T_TotalScoreName_00" offset="00" relocatable="true" max_length="0">
 			<original>今まで塗った面積</original>
-			<edited>至今涂鸦面积</edited>
+			<edited>至今涂抹面积</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ItemDetail_00-T_SpecialPointName_00" offset="00" relocatable="true" max_length="0">
@@ -115,7 +115,7 @@
 		</entry>
 		<entry name="024" offset="00" relocatable="true" max_length="0">
 			<original>カンブリアームズ</original>
-			<edited>カンブリアームズ</edited>
+			<edited>寒武记</edited>
 			<subEntries />
 		</entry>
 		<entry name="025" offset="00" relocatable="true" max_length="0">
@@ -190,7 +190,7 @@
 		</entry>
 		<entry name="T_Text_00" offset="00" relocatable="true" max_length="0">
 			<original>持っているギア</original>
-			<edited>拥有的装备</edited>
+			<edited>拥有的防具</edited>
 			<subEntries />
 		</entry>
 	</entries>

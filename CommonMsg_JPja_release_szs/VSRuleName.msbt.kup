@@ -5,14 +5,13 @@
 	<entries>
 		<entry name="cPnt" offset="00" relocatable="true" max_length="0">
 			<original>ナワバリバトル</original>
-			<edited>涂地为王</edited>
+			<edited>地盘战</edited>
 			<subEntries />
 		</entry>
 		<entry name="cPnt_2L" offset="00" relocatable="true" max_length="0">
 			<original>ナワバリ
 バトル</original>
-			<edited>涂鸦
-为王</edited>
+			<edited>地盘战</edited>
 			<subEntries />
 		</entry>
 		<entry name="cVgl" offset="00" relocatable="true" max_length="0">
@@ -65,7 +64,7 @@
 		</entry>
 		<entry name="cFes" offset="00" relocatable="true" max_length="0">
 			<original>ナワバリバトル（フェス）</original>
-			<edited>涂地为王（FES）</edited>
+			<edited>地盘战（FES）</edited>
 			<subEntries />
 		</entry>
 	</entries>

@@ -20,12 +20,12 @@
 		</entry>
 		<entry name="Shooter_First_00" offset="00" relocatable="true" max_length="0">
 			<original>わかばシューター</original>
-			<edited>わかばシューター</edited>
+			<edited>初级射枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_First_01" offset="00" relocatable="true" max_length="0">
 			<original>もみじシューター</original>
-			<edited>もみじシューター</edited>
+			<edited>定制版初级射枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_First_02" offset="00" relocatable="true" max_length="0">
@@ -35,7 +35,7 @@
 		</entry>
 		<entry name="Shooter_Precision_00" offset="00" relocatable="true" max_length="0">
 			<original>シャープマーカー</original>
-			<edited>シャープマーカー</edited>
+			<edited>喷笔射枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_Precision_01" offset="00" relocatable="true" max_length="0">
@@ -45,27 +45,27 @@
 		</entry>
 		<entry name="Shooter_Blaze_00" offset="00" relocatable="true" max_length="0">
 			<original>プロモデラーMG</original>
-			<edited>プロモデラーMG</edited>
+			<edited>速喷射枪MG</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_Blaze_01" offset="00" relocatable="true" max_length="0">
 			<original>プロモデラーRG</original>
-			<edited>プロモデラーRG</edited>
+			<edited>速喷射枪RG</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_Blaze_02" offset="00" relocatable="true" max_length="0">
 			<original>プロモデラーPG</original>
-			<edited>プロモデラーPG</edited>
+			<edited>速喷射枪PG</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_Normal_00" offset="00" relocatable="true" max_length="0">
 			<original>スプラシューター</original>
-			<edited>スプラシューター</edited>
+			<edited>喷溅射枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_Normal_01" offset="00" relocatable="true" max_length="0">
 			<original>スプラシューターコラボ</original>
-			<edited>スプラシューターコラボ</edited>
+			<edited>触墨喷溅射枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_Normal_02" offset="00" relocatable="true" max_length="0">
@@ -75,22 +75,22 @@
 		</entry>
 		<entry name="Shooter_Normal_H" offset="00" relocatable="true" max_length="0">
 			<original>ヒーローシューター レプリカ</original>
-			<edited>ヒーローシューター レプリカ</edited>
+			<edited>仿制英雄射枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_Normal_Oct" offset="00" relocatable="true" max_length="0">
 			<original>オクタシューター レプリカ</original>
-			<edited>オクタシューター レプリカ</edited>
+			<edited>仿制章鱼射枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_Gravity_00" offset="00" relocatable="true" max_length="0">
 			<original>.52ガロン</original>
-			<edited>.52ガロン</edited>
+			<edited>.52加仑</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_Gravity_01" offset="00" relocatable="true" max_length="0">
 			<original>.52ガロンデコ</original>
-			<edited>.52ガロンデコ</edited>
+			<edited>装饰版.52加仑</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_Gravity_02" offset="00" relocatable="true" max_length="0">
@@ -100,27 +100,27 @@
 		</entry>
 		<entry name="Shooter_QuickMiddle_00" offset="00" relocatable="true" max_length="0">
 			<original>N-ZAP85</original>
-			<edited>N-ZAP85</edited>
+			<edited>N-ZAP '85</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_QuickMiddle_01" offset="00" relocatable="true" max_length="0">
 			<original>N-ZAP89</original>
-			<edited>N-ZAP89</edited>
+			<edited>N-ZAP '89</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_QuickMiddle_02" offset="00" relocatable="true" max_length="0">
 			<original>N-ZAP83</original>
-			<edited>N-ZAP83</edited>
+			<edited>N-ZAP '83</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_Expert_00" offset="00" relocatable="true" max_length="0">
 			<original>プライムシューター</original>
-			<edited>プライムシューター</edited>
+			<edited>超喷溅射枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_Expert_01" offset="00" relocatable="true" max_length="0">
 			<original>プライムシューターコラボ</original>
-			<edited>プライムシューターコラボ</edited>
+			<edited>锻造超喷溅射枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_Expert_02" offset="00" relocatable="true" max_length="0">
@@ -130,22 +130,22 @@
 		</entry>
 		<entry name="Shooter_Heavy_00" offset="00" relocatable="true" max_length="0">
 			<original>.96ガロン</original>
-			<edited>.96ガロン</edited>
+			<edited>.96加仑</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_Heavy_01" offset="00" relocatable="true" max_length="0">
 			<original>.96ガロンデコ</original>
-			<edited>.96ガロンデコ</edited>
+			<edited>装饰版.96加仑</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_Long_00" offset="00" relocatable="true" max_length="0">
 			<original>ジェットスイーパー</original>
-			<edited>ジェットスイーパー</edited>
+			<edited>扫射射枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_Long_01" offset="00" relocatable="true" max_length="0">
 			<original>ジェットスイーパーカスタム</original>
-			<edited>ジェットスイーパーカスタム</edited>
+			<edited>定制版扫射射枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_BlasterShort_00" offset="00" relocatable="true" max_length="0">
@@ -175,17 +175,17 @@
 		</entry>
 		<entry name="Shooter_BlasterMiddle_H" offset="00" relocatable="true" max_length="0">
 			<original>ヒーローブラスター レプリカ</original>
-			<edited>ヒーローブラスター レプリカ</edited>
+			<edited>仿制英雄爆破枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_BlasterLong_00" offset="00" relocatable="true" max_length="0">
 			<original>ロングブラスター</original>
-			<edited>ロングブラスター</edited>
+			<edited>远程爆破枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_BlasterLong_01" offset="00" relocatable="true" max_length="0">
 			<original>ロングブラスターカスタム</original>
-			<edited>ロングブラスターカスタム</edited>
+			<edited>定制版远程爆破枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_BlasterLong_02" offset="00" relocatable="true" max_length="0">
@@ -205,12 +205,12 @@
 		</entry>
 		<entry name="Shooter_BlasterLight_00" offset="00" relocatable="true" max_length="0">
 			<original>ラピッドブラスター</original>
-			<edited>ラピッドブラスター</edited>
+			<edited>速射爆破枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_BlasterLight_01" offset="00" relocatable="true" max_length="0">
 			<original>ラピッドブラスターデコ</original>
-			<edited>ラピッドブラスターデコ</edited>
+			<edited>装饰版速射爆破枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shooter_BlasterLight_02" offset="00" relocatable="true" max_length="0">
@@ -270,22 +270,22 @@
 		</entry>
 		<entry name="Roller_Compact_00" offset="00" relocatable="true" max_length="0">
 			<original>カーボンローラー</original>
-			<edited>カーボンローラー</edited>
+			<edited>碳合滚筒</edited>
 			<subEntries />
 		</entry>
 		<entry name="Roller_Compact_01" offset="00" relocatable="true" max_length="0">
 			<original>カーボンローラーデコ</original>
-			<edited>カーボンローラーデコ</edited>
+			<edited>装饰版碳合滚筒</edited>
 			<subEntries />
 		</entry>
 		<entry name="Roller_Normal_00" offset="00" relocatable="true" max_length="0">
 			<original>スプラローラー</original>
-			<edited>スプラローラー</edited>
+			<edited>喷溅滚筒</edited>
 			<subEntries />
 		</entry>
 		<entry name="Roller_Normal_01" offset="00" relocatable="true" max_length="0">
 			<original>スプラローラーコラボ</original>
-			<edited>スプラローラーコラボ</edited>
+			<edited>水母喷溅滚筒</edited>
 			<subEntries />
 		</entry>
 		<entry name="Roller_Normal_02" offset="00" relocatable="true" max_length="0">
@@ -295,17 +295,17 @@
 		</entry>
 		<entry name="Roller_Normal_H" offset="00" relocatable="true" max_length="0">
 			<original>ヒーローローラー レプリカ</original>
-			<edited>ヒーローローラー レプリカ</edited>
+			<edited>仿制英雄滚筒</edited>
 			<subEntries />
 		</entry>
 		<entry name="Roller_Heavy_00" offset="00" relocatable="true" max_length="0">
 			<original>ダイナモローラー</original>
-			<edited>ダイナモローラー</edited>
+			<edited>电动滚筒</edited>
 			<subEntries />
 		</entry>
 		<entry name="Roller_Heavy_01" offset="00" relocatable="true" max_length="0">
 			<original>ダイナモローラーテスラ</original>
-			<edited>ダイナモローラーテスラ</edited>
+			<edited>特斯拉电动滚筒</edited>
 			<subEntries />
 		</entry>
 		<entry name="Roller_Heavy_02" offset="00" relocatable="true" max_length="0">
@@ -325,7 +325,7 @@
 		</entry>
 		<entry name="Roller_BrushMini_00" offset="00" relocatable="true" max_length="0">
 			<original>パブロ</original>
-			<edited>パブロ</edited>
+			<edited>墨刷</edited>
 			<subEntries />
 		</entry>
 		<entry name="Roller_BrushMini_01" offset="00" relocatable="true" max_length="0">
@@ -340,7 +340,7 @@
 		</entry>
 		<entry name="Roller_BrushNormal_00" offset="00" relocatable="true" max_length="0">
 			<original>ホクサイ</original>
-			<edited>ホクサイ</edited>
+			<edited>章鱼刷</edited>
 			<subEntries />
 		</entry>
 		<entry name="Roller_BrushNormal_01" offset="00" relocatable="true" max_length="0">
@@ -390,17 +390,17 @@
 		</entry>
 		<entry name="Charger_Normal_H" offset="00" relocatable="true" max_length="0">
 			<original>ヒーローチャージャー レプリカ</original>
-			<edited>ヒーローチャージャー レプリカ</edited>
+			<edited>仿制英雄蓄力枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Charger_NormalScope_00" offset="00" relocatable="true" max_length="0">
 			<original>スプラスコープ</original>
-			<edited>スプラスコープ</edited>
+			<edited>准镜蓄力枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Charger_NormalScope_01" offset="00" relocatable="true" max_length="0">
 			<original>スプラスコープコラボ</original>
-			<edited>スプラスコープコラボ</edited>
+			<edited>海带准镜蓄力枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Charger_NormalScope_02" offset="00" relocatable="true" max_length="0">
@@ -410,12 +410,12 @@
 		</entry>
 		<entry name="Charger_Long_00" offset="00" relocatable="true" max_length="0">
 			<original>リッター4K</original>
-			<edited>リッター4K</edited>
+			<edited>升杰4K</edited>
 			<subEntries />
 		</entry>
 		<entry name="Charger_Long_01" offset="00" relocatable="true" max_length="0">
 			<original>リッター4Kカスタム</original>
-			<edited>リッター4Kカスタム</edited>
+			<edited>定制版升杰4K</edited>
 			<subEntries />
 		</entry>
 		<entry name="Charger_LongScope_00" offset="00" relocatable="true" max_length="0">
@@ -425,22 +425,22 @@
 		</entry>
 		<entry name="Charger_LongScope_01" offset="00" relocatable="true" max_length="0">
 			<original>4Kスコープカスタム</original>
-			<edited>4Kスコープカスタム</edited>
+			<edited>定制版4Kスコープ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Charger_Light_00" offset="00" relocatable="true" max_length="0">
 			<original>14式竹筒銃・甲</original>
-			<edited>14式竹筒銃・甲</edited>
+			<edited>14式竹筒铳・甲</edited>
 			<subEntries />
 		</entry>
 		<entry name="Charger_Light_01" offset="00" relocatable="true" max_length="0">
 			<original>14式竹筒銃・乙</original>
-			<edited>14式竹筒銃・乙</edited>
+			<edited>14式竹筒铳・乙</edited>
 			<subEntries />
 		</entry>
 		<entry name="Charger_Light_02" offset="00" relocatable="true" max_length="0">
 			<original>14式竹筒銃・丙</original>
-			<edited>14式竹筒銃・丙</edited>
+			<edited>14式竹筒铳・丙</edited>
 			<subEntries />
 		</entry>
 		<entry name="Charger_Keeper_00" offset="00" relocatable="true" max_length="0">
@@ -455,12 +455,12 @@
 		</entry>
 		<entry name="Slosher_Strong_00" offset="00" relocatable="true" max_length="0">
 			<original>バケットスロッシャー</original>
-			<edited>バケットスロッシャー</edited>
+			<edited>泼桶</edited>
 			<subEntries />
 		</entry>
 		<entry name="Slosher_Strong_01" offset="00" relocatable="true" max_length="0">
 			<original>バケットスロッシャーデコ</original>
-			<edited>バケットスロッシャーデコ</edited>
+			<edited>装饰版泼桶</edited>
 			<subEntries />
 		</entry>
 		<entry name="Slosher_Strong_02" offset="00" relocatable="true" max_length="0">
@@ -470,7 +470,7 @@
 		</entry>
 		<entry name="Slosher_Strong_H" offset="00" relocatable="true" max_length="0">
 			<original>ヒーロースロッシャー レプリカ</original>
-			<edited>ヒーロースロッシャー レプリカ</edited>
+			<edited>仿制英雄泼桶</edited>
 			<subEntries />
 		</entry>
 		<entry name="Slosher_Diffusion_00" offset="00" relocatable="true" max_length="0">
@@ -550,7 +550,7 @@
 		</entry>
 		<entry name="Spinner_Standard_H" offset="00" relocatable="true" max_length="0">
 			<original>ヒーロースピナー レプリカ</original>
-			<edited>ヒーロースピナー レプリカ</edited>
+			<edited>仿制英雄转枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Spinner_Hyper_00" offset="00" relocatable="true" max_length="0">
@@ -635,12 +635,12 @@
 		</entry>
 		<entry name="Twins_Dual_00" offset="00" relocatable="true" max_length="0">
 			<original>デュアルスイーパー</original>
-			<edited>デュアルスイーパー</edited>
+			<edited>双管扫射射枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Twins_Dual_01" offset="00" relocatable="true" max_length="0">
 			<original>デュアルスイーパーカスタム</original>
-			<edited>デュアルスイーパーカスタム</edited>
+			<edited>定制版双管扫射射枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Twins_Stepper_00" offset="00" relocatable="true" max_length="0">

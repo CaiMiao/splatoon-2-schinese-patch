@@ -30,7 +30,7 @@
 		</entry>
 		<entry name="L_ItemDetail_00-T_TotalScoreName_00" offset="00" relocatable="true" max_length="0">
 			<original>今まで塗った面積</original>
-			<edited>至今涂鸦面积</edited>
+			<edited>至今涂抹面积</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Lstick_00-T_Sort_00" offset="00" relocatable="true" max_length="0">

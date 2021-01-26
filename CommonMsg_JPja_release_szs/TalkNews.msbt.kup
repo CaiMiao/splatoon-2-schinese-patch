@@ -7,13 +7,13 @@
 			<original>こんちゃーっ！
 ハイカラニュースの時間だよ！</original>
 			<edited>早呀ー！
-现在是Inkopolis News的时间哦！</edited>
+现在是墨市新闻的时间哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Opening_0001" offset="00" relocatable="true" max_length="0">
 			<original>今日もハイカラスクエアのかたスミから
 テンタクルズが おとどけします</original>
-			<edited>今天也在ハイカラスクエア的一角
+			<edited>今天也在ハイカラスクエア（墨市广场）的一角
 由テンタクルズ为您播报</edited>
 			<subEntries />
 		</entry>
@@ -92,7 +92,7 @@
 		</entry>
 		<entry name="FirstTime_0002" offset="00" relocatable="true" max_length="0">
 			<original>ええっ、オオデンチナマズが ナゾのシッソウ？</original>
-			<edited>诶诶，オオデンチナマズ（大电池鲶） 神秘失踪？</edited>
+			<edited>诶诶，オオデンチナマズ（大电鲶） 神秘失踪？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstTime_0003" offset="00" relocatable="true" max_length="0">
@@ -106,7 +106,7 @@
 			<original>えええっ！ スーパーアイドルの
 アオリちゃんも行方不明？</original>
 			<edited>诶诶诶！ 超级偶像
-アオリちゃん（小扇）也下落不明？</edited>
+小香匙也下落不明？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstTime_0005" offset="00" relocatable="true" max_length="0">

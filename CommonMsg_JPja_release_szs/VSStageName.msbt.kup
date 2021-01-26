@@ -15,12 +15,12 @@
 		</entry>
 		<entry name="SkatePark02" offset="00" relocatable="true" max_length="0">
 			<original>Ｂバスパーク</original>
-			<edited>Ｂバスパーク</edited>
+			<edited>海鲈滑板公园</edited>
 			<subEntries />
 		</entry>
 		<entry name="Athletic01" offset="00" relocatable="true" max_length="0">
 			<original>モンガラキャンプ場</original>
-			<edited>モンガラキャンプ場</edited>
+			<edited>屯鱼营地</edited>
 			<subEntries />
 		</entry>
 		<entry name="Amida01" offset="00" relocatable="true" max_length="0">
@@ -30,17 +30,17 @@
 		</entry>
 		<entry name="Maze01" offset="00" relocatable="true" max_length="0">
 			<original>モズク農園</original>
-			<edited>モズク農園</edited>
+			<edited>海带温室园</edited>
 			<subEntries />
 		</entry>
 		<entry name="Maze02" offset="00" relocatable="true" max_length="0">
 			<original>モズク農園</original>
-			<edited>モズク農園</edited>
+			<edited>海带温室园</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tuzura00" offset="00" relocatable="true" max_length="0">
 			<original>タチウオパーキング</original>
-			<edited>タチウオパーキング</edited>
+			<edited>带鱼双塔</edited>
 			<subEntries />
 		</entry>
 		<entry name="Office01" offset="00" relocatable="true" max_length="0">

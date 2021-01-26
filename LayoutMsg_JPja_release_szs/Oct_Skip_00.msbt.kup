@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="L_Info_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>スキップ</original>
-			<edited>スキップ</edited>
+			<edited>跳过</edited>
 			<subEntries />
 		</entry>
 	</entries>

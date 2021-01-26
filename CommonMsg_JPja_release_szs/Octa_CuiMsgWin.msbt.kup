@@ -10,12 +10,11 @@
 ニンテンドーeショップに行けば、
 追加コンテンツの内容の確認と
 購入をすることができます。</original>
-			<edited>ここから先を遊ぶためには、
-追加コンテンツ「スプラトゥーン2 オクト・エキスパンション」を
-購入する必要があります。
-ニンテンドーeショップに行けば、
-追加コンテンツの内容の確認と
-購入をすることができます。</edited>
+			<edited>若要游玩之后的内容，
+必需购买「Splatoon 2 Octo Expansion」。
+前往任天堂e商店，
+即可查看新增内容的信息
+和进行购买。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_Download_Info_Octa" offset="00" relocatable="true" max_length="0">

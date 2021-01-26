@@ -15,7 +15,7 @@
 		</entry>
 		<entry name="[CurrentCoopInfo]" offset="00" relocatable="true" max_length="0">
 			<original>オープン！</original>
-			<edited>开场！</edited>
+			<edited>开幕！</edited>
 			<subEntries />
 		</entry>
 		<entry name="[SoonCoopInfo]" offset="00" relocatable="true" max_length="0">
@@ -25,7 +25,7 @@
 		</entry>
 		<entry name="L_Status_00-T_TotalScore_00" offset="00" relocatable="true" max_length="0">
 			<original>今まで塗った面積</original>
-			<edited>至今涂鸦面积</edited>
+			<edited>至今涂抹面积</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Status_00-L_Rank_00-T_RankNum_00" offset="00" relocatable="true" max_length="0">
@@ -85,7 +85,7 @@
 		</entry>
 		<entry name="L_MapBtn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>タコツボキャニオン</original>
-			<edited>章鱼壶峡谷</edited>
+			<edited>章鱼谷</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_MapBtn_03-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -199,9 +199,9 @@
 			<original>プレイヤーの性別、ハダの色、目の色、
 ヘアスタイル、ボトムスの設定を変更しますか？
 （おカネ、ブキ、ギアなどのデータは受け継がれます）</original>
-			<edited>要修改玩家性别、肤色、瞳色、
+			<edited>要更改玩家性别、肤色、瞳色、
 发型与裤子的设定吗？
-（金钱、武器、装备等数据将会被继承）</edited>
+（金钱、武器、防具等数据将会被继承）</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_No_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -211,7 +211,7 @@
 		</entry>
 		<entry name="L_Yes_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>変更する</original>
-			<edited>修改</edited>
+			<edited>更改</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Close_00-T_Info_00" offset="00" relocatable="true" max_length="0">
@@ -288,7 +288,7 @@
 		</entry>
 		<entry name="L_EquipBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>ギアパワー</original>
-			<edited>装备能力</edited>
+			<edited>防具能力</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BackBtn_00-T_Info_00" offset="00" relocatable="true" max_length="0">
@@ -361,7 +361,7 @@ ON/OFF を切り替えます</original>
 		</entry>
 		<entry name="L_StageMenuCoop_00-T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>開催までお待ちください</original>
-			<edited>请等待开幕</edited>
+			<edited>请等待举行</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_StageMenuCoop_01-T_Mode_00" offset="00" relocatable="true" max_length="0">

@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>たくさんナワバリを確保しろ！</original>
-			<edited>用墨汁占最多的地吧！</edited>
+			<edited>用墨汁涂抹最多的面积吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
@@ -25,7 +25,7 @@
 		</entry>
 		<entry name="004" offset="00" relocatable="true" max_length="0">
 			<original>ガチアサリを相手ゴールに投げ入れろ！</original>
-			<edited>把认真蛤喇扔进对手的球门吧！</edited>
+			<edited>把认真蛤蜊扔进对手的球门吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="101" offset="00" relocatable="true" max_length="0">
@@ -45,7 +45,7 @@
 		</entry>
 		<entry name="104" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人のガチアサリパワー</original>
-			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的认真蛤喇能量</edited>
+			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的认真蛤蜊能量</edited>
 			<subEntries />
 		</entry>
 		<entry name="201" offset="00" relocatable="true" max_length="0">

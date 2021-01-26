@@ -5,47 +5,47 @@
 	<entries>
 		<entry name="T_Msg_01" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x2;&#x2;&#x0;これが キミの姿？&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
-			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;これが キミの姿？&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;这就是 你的样子？&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>チガウカモ…</original>
-			<edited>チガウカモ…</edited>
+			<edited>好像不对…</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_03-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>ソウダヨ！</original>
-			<edited>ソウダヨ！</edited>
+			<edited>是啊！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Msg_02" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ハダ&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;の色はどれ？</original>
-			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ハダ&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;の色はどれ？</edited>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;肌肤&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;的颜色是哪个？</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Msg_03" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;目&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;の色はどれ？</original>
-			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;目&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;の色はどれ？</edited>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;眼睛&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;的颜色是哪个？</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Msg_04" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;ヘアスタイル&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿはどっち？</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;ヘアスタイル&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿはどっち？</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;&#xE;&#x0;&#x2;&#x2;&#x0;发型&#xE;&#x0;&#x2;&#x2;d&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ是哪一种？</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>ボーイ</original>
-			<edited>ボーイ</edited>
+			<edited>男孩</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>ガール</original>
-			<edited>ガール</edited>
+			<edited>女孩</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Title_00" offset="00" relocatable="true" max_length="0">
 			<original>キミの姿を 思い出そう</original>
-			<edited>キミの姿を 思い出そう</edited>
+			<edited>回想起 你的样子吧</edited>
 			<subEntries />
 		</entry>
 	</entries>
