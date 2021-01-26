@@ -21,7 +21,7 @@
 			<original>相手のインクをふんだ時の
 ダメージや移動速度の
 減少が少なくなります。</original>
-			<edited>减少踩在对手的墨水上时
+			<edited>减少踩在对手的墨汁上时
 所受伤害与移动速度降低量。</edited>
 			<subEntries />
 		</entry>
@@ -39,20 +39,20 @@
 消費インク量が
 少なくなります。</original>
 			<edited>减少主武器的
-墨水消耗量。</edited>
+墨汁消耗量。</edited>
 			<subEntries />
 		</entry>
 		<entry name="SubInk_Save" offset="00" relocatable="true" max_length="0">
 			<original>サブウェポンの消費インク量が
 少なくなります。</original>
 			<edited>减少副武器的
-墨水消耗量。</edited>
+墨汁消耗量。</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkRecovery_Up" offset="00" relocatable="true" max_length="0">
 			<original>インクタンク回復速度が
 アップします。</original>
-			<edited>提高墨水罐的
+			<edited>提高墨汁罐的
 恢复速度。</edited>
 			<subEntries />
 		</entry>
@@ -66,7 +66,7 @@
 		<entry name="SquidMove_Up" offset="00" relocatable="true" max_length="0">
 			<original>イカダッシュ時の移動速度が
 アップします。</original>
-			<edited>提高乌贼冲刺时的
+			<edited>提高墨鱼冲刺时的
 移动速度。</edited>
 			<subEntries />
 		</entry>
@@ -151,8 +151,8 @@
 インク効率とインク回復速度が
 かなりアップします。</original>
 			<edited>对战结束前30个计数内
-大幅提升单位墨水效率与
-墨水恢复速度。</edited>
+大幅提升单位墨汁效率与
+墨汁恢复速度。</edited>
 			<subEntries />
 		</entry>
 		<entry name="MinorityUp" offset="00" relocatable="true" max_length="0">
@@ -176,8 +176,8 @@
 			<original>地面をイカダッシュした時に
 インクが飛び散らなくなるが、
 移動速度が少しダウンします。</original>
-			<edited>在地面进行乌贼冲刺时
-墨水不会飞溅，但是稍微降低
+			<edited>在地面进行墨鱼冲刺时
+墨汁不会飞溅，但是稍微降低
 移动速度。</edited>
 			<subEntries />
 		</entry>

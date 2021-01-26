@@ -10,22 +10,22 @@
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
 			<original>勝利ボーナス!</original>
-			<edited>勝利ボーナス!</edited>
+			<edited>胜利奖励!</edited>
 			<subEntries />
 		</entry>
 		<entry name="011" offset="00" relocatable="true" max_length="0">
 			<original>ノックアウト！</original>
-			<edited>ノックアウト！</edited>
+			<edited>击倒！</edited>
 			<subEntries />
 		</entry>
 		<entry name="012" offset="00" relocatable="true" max_length="0">
 			<original>１０倍マッチ</original>
-			<edited>１０倍マッチ</edited>
+			<edited>１０倍比赛</edited>
 			<subEntries />
 		</entry>
 		<entry name="013" offset="00" relocatable="true" max_length="0">
 			<original>１００倍マッチ</original>
-			<edited>１００倍マッチ</edited>
+			<edited>１００倍比赛</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Lose_00" offset="00" relocatable="true" max_length="0">
@@ -35,12 +35,12 @@
 		</entry>
 		<entry name="L_Meter_00-T_OppsiteTeam_00" offset="00" relocatable="true" max_length="0">
 			<original>相手のチーム</original>
-			<edited>相手のチーム</edited>
+			<edited>对手队伍</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Meter_00-T_PlayerTeam_00" offset="00" relocatable="true" max_length="0">
 			<original>自分のチーム</original>
-			<edited>自分のチーム</edited>
+			<edited>我方队伍</edited>
 			<subEntries />
 		</entry>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
@@ -65,7 +65,7 @@
 		</entry>
 		<entry name="004" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x0;&#x2;&#x2;K&#x0;カウント&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
-			<edited>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x0;&#x2;&#x2;K&#x0;カウント&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<edited>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x0;&#x2;&#x2;K&#x0;计数&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="005" offset="00" relocatable="true" max_length="0">
@@ -85,7 +85,7 @@
 		</entry>
 		<entry name="008" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x0;&#x2;&#x2;K&#x0;カウント&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
-			<edited>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x0;&#x2;&#x2;K&#x0;カウント&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<edited>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í&#xE;&#x0;&#x2;&#x2;K&#x0;计数&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="009" offset="00" relocatable="true" max_length="0">
@@ -95,12 +95,12 @@
 		</entry>
 		<entry name="L_Meter_00-T_knockout_00" offset="00" relocatable="true" max_length="0">
 			<original>ノックアウト！</original>
-			<edited>ノックアウト！</edited>
+			<edited>击倒！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Bonus_01" offset="00" relocatable="true" max_length="0">
 			<original>チョーシボーナス</original>
-			<edited>チョーシボーナス</edited>
+			<edited>状态奖励</edited>
 			<subEntries />
 		</entry>
 	</entries>

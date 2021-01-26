@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>たくさんナワバリを確保しろ！</original>
-			<edited>用墨水占最多的地吧！</edited>
+			<edited>用墨汁占最多的地吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
@@ -20,7 +20,7 @@
 		</entry>
 		<entry name="003" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラを相手ゴールに運べ！</original>
-			<edited>把认真高塔送到对手终点处吧！</edited>
+			<edited>把认真攻城台送到对手终点处吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="004" offset="00" relocatable="true" max_length="0">
@@ -40,7 +40,7 @@
 		</entry>
 		<entry name="103" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人のガチヤグラパワー</original>
-			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的认真高塔能量</edited>
+			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的认真攻城台能量</edited>
 			<subEntries />
 		</entry>
 		<entry name="104" offset="00" relocatable="true" max_length="0">
@@ -60,7 +60,7 @@
 		</entry>
 		<entry name="203" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人のガチヤグラＸパワー</original>
-			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的认真高塔Ｘ能量</edited>
+			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的认真攻城台Ｘ能量</edited>
 			<subEntries />
 		</entry>
 		<entry name="204" offset="00" relocatable="true" max_length="0">

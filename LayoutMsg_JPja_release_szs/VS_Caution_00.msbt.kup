@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>通信状況が不安定になっています</original>
-			<edited>通信状況が不安定になっています</edited>
+			<edited>通讯状况变得不稳定</edited>
 			<subEntries />
 		</entry>
 	</entries>

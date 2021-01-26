@@ -11,7 +11,7 @@
 		<entry name="cPnt_2L" offset="00" relocatable="true" max_length="0">
 			<original>ナワバリ
 バトル</original>
-			<edited>涂地
+			<edited>涂鸦
 为王</edited>
 			<subEntries />
 		</entry>
@@ -41,14 +41,14 @@
 		</entry>
 		<entry name="cVlf" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラ</original>
-			<edited>认真推塔战</edited>
+			<edited>认真攻城战</edited>
 			<subEntries />
 		</entry>
 		<entry name="cVlf_2L" offset="00" relocatable="true" max_length="0">
 			<original>ガチ
 ヤグラ</original>
 			<edited>认真
-推塔战</edited>
+攻城战</edited>
 			<subEntries />
 		</entry>
 		<entry name="cVcl" offset="00" relocatable="true" max_length="0">

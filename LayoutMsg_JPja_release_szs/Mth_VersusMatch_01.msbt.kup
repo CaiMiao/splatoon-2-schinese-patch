@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>ルールとステージを選択してください</original>
-			<edited>请选择规则与场地</edited>
+			<edited>请选择规则与关卡</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>親がルールとステージを選んでいます</original>
-			<edited>主控正选择规则与场地</edited>
+			<edited>主控正选择规则与关卡</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
@@ -180,7 +180,7 @@
 		</entry>
 		<entry name="T_StageHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>ステージ</original>
-			<edited>场地</edited>
+			<edited>关卡</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_RuleHeader_01" offset="00" relocatable="true" max_length="0">
@@ -190,7 +190,7 @@
 		</entry>
 		<entry name="T_StageHeader_01" offset="00" relocatable="true" max_length="0">
 			<original>ステージ</original>
-			<edited>场地</edited>
+			<edited>关卡</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_StartBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -245,7 +245,7 @@
 		</entry>
 		<entry name="L_StageSelectBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>ステージ選択</original>
-			<edited>场地选择</edited>
+			<edited>关卡选择</edited>
 			<subEntries />
 		</entry>
 	</entries>

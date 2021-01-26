@@ -25,7 +25,7 @@
 		</entry>
 		<entry name="PaintSpeed" offset="00" relocatable="true" max_length="0">
 			<original>塗り進み速度</original>
-			<edited>涂地速度</edited>
+			<edited>涂鸦速度</edited>
 			<subEntries />
 		</entry>
 		<entry name="Weight" offset="00" relocatable="true" max_length="0">

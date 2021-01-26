@@ -7,28 +7,28 @@
 			<original>こんちゃーっ！
 ハイカラニュースの時間だよ！</original>
 			<edited>早呀ー！
-现在是ハイカラニュース的时间哦！</edited>
+现在是Inkopolis News的时间哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Opening_0001" offset="00" relocatable="true" max_length="0">
 			<original>今日もハイカラスクエアのかたスミから
 テンタクルズが おとどけします</original>
 			<edited>今天也在ハイカラスクエア的一角
-为您献上触手</edited>
+由テンタクルズ为您播报</edited>
 			<subEntries />
 		</entry>
 		<entry name="OpeningFest_0000" offset="00" relocatable="true" max_length="0">
 			<original>イエーイ！！
 みんな イカしてるーーー？！</original>
 			<edited>耶ー！！
-各位 还贼精神吗ーーー？！</edited>
+各位 还够有型吗ーーー？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="OpeningFest_0001" offset="00" relocatable="true" max_length="0">
 			<original>ハイカラスクエアの中心から
 テンタクルズが おとどけしますっ！</original>
 			<edited>从ハイカラスクエア的中心
-给您献上触手！</edited>
+由テンタクルズ为您播报！</edited>
 			<subEntries />
 		</entry>
 		<entry name="OpeningFestEnd_0000" offset="00" relocatable="true" max_length="0">
@@ -65,8 +65,7 @@
 		</entry>
 		<entry name="Ending_0002" offset="00" relocatable="true" max_length="0">
 			<original>ぬりたく～る… テンタクル！！</original>
-			<edited>涂地一～库走… 到处是触手！！
-（ぬりたく～る… テンタクル！！）</edited>
+			<edited>ぬりたく～る… テンタクル！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="EndingFest_0000" offset="00" relocatable="true" max_length="0">
@@ -83,7 +82,7 @@
 			<original>あっ！ 臨時ニュースだって！
 イイダ！ 読んで読んで！</original>
 			<edited>啊！ 有临时新闻哦！
-イイダ（蚝拉）！ 快念快念！</edited>
+イイダ！ 快念快念！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstTime_0001" offset="00" relocatable="true" max_length="0">
@@ -710,8 +709,8 @@
 		<entry name="OctaIntro_0002" offset="00" relocatable="true" max_length="0">
 			<original>このコーナーは 街で見かけたイカしてるやつらから
 最新の流行を切り取って紹介してくかんな！</original>
-			<edited>这个栏目是 从街头看见的贼精神的家伙们身上
-将最新的流行切割下来介绍给大家！</edited>
+			<edited>这个栏目是 从街头看见的超酷的家伙们身上
+将最新的流行分离出来介绍给大家！</edited>
 			<subEntries />
 		</entry>
 		<entry name="OctaIntro_0003" offset="00" relocatable="true" max_length="0">

@@ -80,17 +80,17 @@
 		</entry>
 		<entry name="T_Target_00" offset="00" relocatable="true" max_length="0">
 			<original>ヤグラ・ホコ・エリア</original>
-			<edited>ヤグラ・ホコ・エリア</edited>
+			<edited>攻城台・鱼虎・区域</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Player_01" offset="00" relocatable="true" max_length="0">
 			<original>ブラボーチーム</original>
-			<edited>ブラボーチーム</edited>
+			<edited>B队</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Player_00" offset="00" relocatable="true" max_length="0">
 			<original>アルファチーム</original>
-			<edited>アルファチーム</edited>
+			<edited>A队</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Target_03" offset="00" relocatable="true" max_length="0">

@@ -55,37 +55,37 @@
 		</entry>
 		<entry name="Msg_07" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; で&#xE;&#x2;&#xF;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;イカ&#xE;&#x0;&#x3;&#x2;ÿÿになる！</original>
-			<edited>用 &#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; 可以变成&#xE;&#x2;&#xF;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;乌贼&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<edited>用 &#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; 可以变成&#xE;&#x2;&#xF;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;墨鱼&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MsgS_07" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;インク&#xE;&#x0;&#x3;&#x2;ÿÿの中を &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;泳げる&#xE;&#x0;&#x3;&#x2;ÿÿぞ！</original>
-			<edited>可以在&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;墨水&#xE;&#x0;&#x3;&#x2;ÿÿ里面&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;游泳&#xE;&#x0;&#x3;&#x2;ÿÿ哦！</edited>
+			<edited>可以在&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;墨汁&#xE;&#x0;&#x3;&#x2;ÿÿ里面&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;游泳&#xE;&#x0;&#x3;&#x2;ÿÿ哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_08" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;インク&#xE;&#x0;&#x3;&#x2;ÿÿを塗れば ユカもカベも &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;スイスイ&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x2;&#x10;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;泳げる&#xE;&#x0;&#x3;&#x2;ÿÿ！</original>
-			<edited>只要涂上&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;墨水&#xE;&#x0;&#x3;&#x2;ÿÿ 不论是地板还是墙壁 都可以&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;畅快&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x2;&#x10;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;游泳&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<edited>只要涂上&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;墨汁&#xE;&#x0;&#x3;&#x2;ÿÿ 不论是地板还是墙壁 都可以&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;畅快&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x2;&#x10;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;游泳&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MsgS_08" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x11;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;インクも ぐんぐん&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;回復&#xE;&#x0;&#x3;&#x2;ÿÿだ！</original>
-			<edited>&#xE;&#x2;&#x11;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;墨水也能 嗖嗖地&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;恢复&#xE;&#x0;&#x3;&#x2;ÿÿ哦！</edited>
+			<edited>&#xE;&#x2;&#x11;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;墨汁也能 嗖嗖地&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;恢复&#xE;&#x0;&#x3;&#x2;ÿÿ哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_09" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x1;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ジャンプ&#xE;&#x0;&#x3;&#x2;ÿÿだ！ イカのままでも &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ジャンプ&#xE;&#x0;&#x3;&#x2;ÿÿだ！</original>
-			<edited>按下&#xE;&#x2;&#x1;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;就可以&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;跳跃&#xE;&#x0;&#x3;&#x2;ÿÿ！ 就算变成乌贼也能&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;跳跃&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<edited>按下&#xE;&#x2;&#x1;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;就可以&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;跳跃&#xE;&#x0;&#x3;&#x2;ÿÿ！ 就算变成墨鱼也能&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;跳跃&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_10" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;イカは &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;カナアミ&#xE;&#x0;&#x3;&#x2;ÿÿを&#xE;&#x2;&#x10;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ぬけられる&#xE;&#x0;&#x3;&#x2;ÿÿぞ！</original>
-			<edited>&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;乌贼可以&#xE;&#x2;&#x10;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;穿过&#xE;&#x0;&#x3;&#x2;ÿÿ这张&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;铁丝网&#xE;&#x0;&#x3;&#x2;ÿÿ哦！</edited>
+			<edited>&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;墨鱼可以&#xE;&#x2;&#x10;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;穿过&#xE;&#x0;&#x3;&#x2;ÿÿ这张&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;铁丝网&#xE;&#x0;&#x3;&#x2;ÿÿ哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_11" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ちがう色&#xE;&#x0;&#x3;&#x2;ÿÿの インクは &#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; で&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;塗りかえせ&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;！&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;不同颜色&#xE;&#x0;&#x3;&#x2;ÿÿ的墨水 就用 &#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; 来&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;涂掉&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;吧！&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;不同颜色&#xE;&#x0;&#x3;&#x2;ÿÿ的墨汁 就用 &#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; 来&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;涂掉&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;吧！&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="MsgS_11" offset="00" relocatable="true" max_length="0">
@@ -100,12 +100,12 @@
 		</entry>
 		<entry name="MsgS_12" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でもぐって &#xE;&#x2;&#x11;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;インク回復&#xE;&#x0;&#x3;&#x2;ÿÿを 忘れずに</original>
-			<edited>别忘了用&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;潜下去 &#xE;&#x2;&#x11;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;恢复墨水&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>别忘了用&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;潜下去 &#xE;&#x2;&#x11;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;恢复墨汁&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_13" offset="00" relocatable="true" max_length="0">
 			<original>インクを塗って &#xE;&#x2;&#x10;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;カベを登ろう！</original>
-			<edited>涂上墨水 &#xE;&#x2;&#x10;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;翻过墙壁吧！</edited>
+			<edited>涂上墨汁 &#xE;&#x2;&#x10;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;翻过墙壁吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MsgS_13" offset="00" relocatable="true" max_length="0">
@@ -125,7 +125,7 @@
 		</entry>
 		<entry name="MsgS_15" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;イカで &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;スーパージャンプ&#xE;&#x0;&#x3;&#x2;ÿÿだ！</original>
-			<edited>用&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;乌贼来&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;超级跳跃&#xE;&#x0;&#x3;&#x2;ÿÿ吧！</edited>
+			<edited>用&#xE;&#x2;&#x6;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;墨鱼来&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;超级跳跃&#xE;&#x0;&#x3;&#x2;ÿÿ吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="MsgS_15_2" offset="00" relocatable="true" max_length="0">

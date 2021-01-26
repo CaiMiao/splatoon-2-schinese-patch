@@ -75,7 +75,7 @@
 		</entry>
 		<entry name="015" offset="00" relocatable="true" max_length="0">
 			<original>ミニゲームを遊ぶ</original>
-			<edited>游玩迷你游戏</edited>
+			<edited>游玩小游戏</edited>
 			<subEntries />
 		</entry>
 		<entry name="016" offset="00" relocatable="true" max_length="0">
@@ -115,12 +115,12 @@
 		</entry>
 		<entry name="028" offset="00" relocatable="true" max_length="0">
 			<original>思い出す</original>
-			<edited>回想</edited>
+			<edited>想起</edited>
 			<subEntries />
 		</entry>
 		<entry name="029" offset="00" relocatable="true" max_length="0">
 			<original>ハイカラスクエアへ想いをはせる</original>
-			<edited>思念向ハイカラスクエア驰骋</edited>
+			<edited>回想ハイカラスクエア</edited>
 			<subEntries />
 		</entry>
 		<entry name="100" offset="00" relocatable="true" max_length="0">

@@ -10,7 +10,7 @@
 		</entry>
 		<entry name="L_MenuBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>塗りリセット</original>
-			<edited>重置涂地</edited>
+			<edited>重置涂鸦</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_MenuBtn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">

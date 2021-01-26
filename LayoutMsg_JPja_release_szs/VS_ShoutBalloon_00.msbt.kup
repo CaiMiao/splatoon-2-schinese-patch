@@ -5,22 +5,22 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>ナイス！</original>
-			<edited>ナイス！</edited>
+			<edited>漂亮！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>カモン！</original>
-			<edited>カモン！</edited>
+			<edited>加油！</edited>
 			<subEntries />
 		</entry>
 		<entry name="003" offset="00" relocatable="true" max_length="0">
 			<original>やられた！</original>
-			<edited>やられた！</edited>
+			<edited>被干掉了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="002" offset="00" relocatable="true" max_length="0">
 			<original>ヘルプ！</original>
-			<edited>ヘルプ！</edited>
+			<edited>帮帮我！</edited>
 			<subEntries />
 		</entry>
 	</entries>

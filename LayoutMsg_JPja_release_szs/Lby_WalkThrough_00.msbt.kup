@@ -10,7 +10,7 @@
 		</entry>
 		<entry name="T_StageHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>ステージ</original>
-			<edited>场地</edited>
+			<edited>关卡</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BackBtn_00-T_Back_00" offset="00" relocatable="true" max_length="0">

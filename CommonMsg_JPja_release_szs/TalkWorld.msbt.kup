@@ -5,40 +5,40 @@
 	<entries>
 		<entry name="FirstEntryDemo_00" offset="00" relocatable="true" max_length="0">
 			<original>タ…</original>
-			<edited>タ…</edited>
+			<edited>墨…</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_01" offset="00" relocatable="true" max_length="0">
 			<original>タコが 来とる…</original>
-			<edited>タコが 来とる…</edited>
+			<edited>墨鱼来了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_02" offset="00" relocatable="true" max_length="0">
 			<original>こんちゃ～</original>
-			<edited>こんちゃ～</edited>
+			<edited>你好～</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_03" offset="00" relocatable="true" max_length="0">
 			<original>やっぱ 来てくれたね～&#xE;&#x0;&#x4;&#x0;キミのこと、街で見かけたときから
 他の人とはちがう目 してると思ってたんよ&#xE;&#x0;&#x4;&#x0;あ、 メンゴメンゴ
 アタシは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ホタル&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>やっぱ 来てくれたね～&#xE;&#x0;&#x4;&#x0;キミのこと、街で見かけたときから
-他の人とはちがう目 してると思ってたんよ&#xE;&#x0;&#x4;&#x0;あ、 メンゴメンゴ
-アタシは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ホタル&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>终于来了～&#xE;&#x0;&#x4;&#x0;在街上见到你的时候
+就觉得你的眼睛和别的不同&#xE;&#x0;&#x4;&#x0;啊！歉抱歉抱
+我是 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ホタル&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_04" offset="00" relocatable="true" max_length="0">
 			<original>そう、みなさんごぞんじ 有名アイドル
 「&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シオカラーズ&#xE;&#x0;&#x3;&#x2;ÿÿ」の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ホタル&#xE;&#x0;&#x3;&#x2;ÿÿで～す</original>
-			<edited>そう、みなさんごぞんじ 有名アイドル
-「&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シオカラーズ&#xE;&#x0;&#x3;&#x2;ÿÿ」の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ホタル&#xE;&#x0;&#x3;&#x2;ÿÿで～す</edited>
+			<edited>是啦，是大家都熟悉的知名偶像
+「&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シオカラーズ&#xE;&#x0;&#x3;&#x2;ÿÿ」的 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ホタル&#xE;&#x0;&#x3;&#x2;ÿÿ啦～</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_05" offset="00" relocatable="true" max_length="0">
 			<original>えっ、知らない？！
 &#xE;&#x1;&#x0;&#x4;K&#x0;&#x0;&#x0;マジで？！</original>
-			<edited>えっ、知らない？！
-&#xE;&#x1;&#x0;&#x4;K&#x0;&#x0;&#x0;マジで？！</edited>
+			<edited>诶，你不知道！？
+&#xE;&#x1;&#x0;&#x4;K&#x0;&#x0;&#x0;真的吗？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_06" offset="00" relocatable="true" max_length="0">

@@ -25,7 +25,7 @@
 		</entry>
 		<entry name="BtnR_Download_Info_Octa" offset="00" relocatable="true" max_length="0">
 			<original>eショップ</original>
-			<edited>eショップ</edited>
+			<edited>eShop</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Downloaded_Octa" offset="00" relocatable="true" max_length="0">

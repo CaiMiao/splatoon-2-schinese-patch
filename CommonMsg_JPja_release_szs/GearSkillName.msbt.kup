@@ -15,7 +15,7 @@
 		</entry>
 		<entry name="OpInkEffect_Reduction" offset="00" relocatable="true" max_length="0">
 			<original>相手インク影響軽減</original>
-			<edited>对手墨水影响减少</edited>
+			<edited>对手墨汁影响减少</edited>
 			<subEntries />
 		</entry>
 		<entry name="BombDamage_Reduction" offset="00" relocatable="true" max_length="0">
@@ -25,17 +25,17 @@
 		</entry>
 		<entry name="MainInk_Save" offset="00" relocatable="true" max_length="0">
 			<original>インク効率アップ(メイン)</original>
-			<edited>单位墨水效率提升(主)</edited>
+			<edited>单位墨汁效率提升(主)</edited>
 			<subEntries />
 		</entry>
 		<entry name="SubInk_Save" offset="00" relocatable="true" max_length="0">
 			<original>インク効率アップ(サブ)</original>
-			<edited>单位墨水效率提升(副)</edited>
+			<edited>单位墨汁效率提升(副)</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkRecovery_Up" offset="00" relocatable="true" max_length="0">
 			<original>インク回復力アップ</original>
-			<edited>墨水恢复力提升</edited>
+			<edited>墨汁恢复力提升</edited>
 			<subEntries />
 		</entry>
 		<entry name="HumanMove_Up" offset="00" relocatable="true" max_length="0">
@@ -45,7 +45,7 @@
 		</entry>
 		<entry name="SquidMove_Up" offset="00" relocatable="true" max_length="0">
 			<original>イカダッシュ速度アップ</original>
-			<edited>乌贼冲刺速度提升</edited>
+			<edited>墨鱼冲刺速度提升</edited>
 			<subEntries />
 		</entry>
 		<entry name="SpecialIncrease_Up" offset="00" relocatable="true" max_length="0">
@@ -110,7 +110,7 @@
 		</entry>
 		<entry name="SquidMoveSpatter_Reduction" offset="00" relocatable="true" max_length="0">
 			<original>イカニンジャ</original>
-			<edited>乌贼忍者</edited>
+			<edited>墨鱼忍者</edited>
 			<subEntries />
 		</entry>
 		<entry name="DeathMarking" offset="00" relocatable="true" max_length="0">
@@ -125,7 +125,7 @@
 		</entry>
 		<entry name="ThermalInk" offset="00" relocatable="true" max_length="0">
 			<original>サーマルインク</original>
-			<edited>热感墨水</edited>
+			<edited>热感墨汁</edited>
 			<subEntries />
 		</entry>
 		<entry name="Exorcist" offset="00" relocatable="true" max_length="0">

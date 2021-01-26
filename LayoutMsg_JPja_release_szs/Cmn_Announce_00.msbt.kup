@@ -35,22 +35,22 @@
 		</entry>
 		<entry name="006" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラを うばった！</original>
-			<edited>抢到认真高塔了！</edited>
+			<edited>抢到认真攻城台了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="007" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラを うばわれた！</original>
-			<edited>认真高塔被抢走了！</edited>
+			<edited>认真攻城台被抢走了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="008" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラを もどした！</original>
-			<edited>认真高塔送到了！</edited>
+			<edited>认真攻城台送到了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="009" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラを もどされた！</original>
-			<edited>认真高塔被送回去了！</edited>
+			<edited>认真攻城台被送回去了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
@@ -175,22 +175,22 @@
 		</entry>
 		<entry name="106" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラを うばった！</original>
-			<edited>抢到认真高塔了！</edited>
+			<edited>抢到认真攻城台了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="107" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラを うばわれた！</original>
-			<edited>认真高塔被抢走了！</edited>
+			<edited>认真攻城台被抢走了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="108" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラを もどした！</original>
-			<edited>认真高塔送到了！</edited>
+			<edited>认真攻城台送到了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="109" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラを もどされた！</original>
-			<edited>认真高塔被送回去了！</edited>
+			<edited>认真攻城台被送回去了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="110" offset="00" relocatable="true" max_length="0">

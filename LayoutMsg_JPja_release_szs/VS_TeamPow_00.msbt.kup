@@ -20,7 +20,7 @@
 		</entry>
 		<entry name="011" offset="00" relocatable="true" max_length="0">
 			<original>チームの連勝数：&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í</original>
-			<edited>チームの連勝数：&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í</edited>
+			<edited>队伍的连胜数：&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í</edited>
 			<subEntries />
 		</entry>
 	</entries>

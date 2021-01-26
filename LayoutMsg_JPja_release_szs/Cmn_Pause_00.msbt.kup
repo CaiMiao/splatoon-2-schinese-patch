@@ -16,7 +16,7 @@
 		</entry>
 		<entry name="Mission_01" offset="00" relocatable="true" max_length="0">
 			<original>ステージのはじめから</original>
-			<edited>从场地的最初开始</edited>
+			<edited>从关卡的最初开始</edited>
 			<subEntries />
 		</entry>
 		<entry name="WalkThrough_00" offset="00" relocatable="true" max_length="0">
@@ -36,7 +36,7 @@
 		</entry>
 		<entry name="ShootingRange_01" offset="00" relocatable="true" max_length="0">
 			<original>塗り リセット</original>
-			<edited>重置涂地</edited>
+			<edited>重置涂鸦</edited>
 			<subEntries />
 		</entry>
 		<entry name="ShootingRange_02" offset="00" relocatable="true" max_length="0">

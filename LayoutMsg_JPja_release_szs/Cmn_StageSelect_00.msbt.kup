@@ -15,7 +15,7 @@
 		</entry>
 		<entry name="T_Message_00" offset="00" relocatable="true" max_length="0">
 			<original>ステージを選択してください</original>
-			<edited>请选择场地</edited>
+			<edited>请选择关卡</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_KeyIcon_02-T_Info_00" offset="00" relocatable="true" max_length="0">
@@ -30,7 +30,7 @@
 		</entry>
 		<entry name="L_KeyIcon_03-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>インクカラー選択</original>
-			<edited>选择墨水颜色</edited>
+			<edited>选择墨汁颜色</edited>
 			<subEntries />
 		</entry>
 	</entries>
