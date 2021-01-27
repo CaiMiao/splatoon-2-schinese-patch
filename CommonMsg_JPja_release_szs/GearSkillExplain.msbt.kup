@@ -22,14 +22,14 @@
 ダメージや移動速度の
 減少が少なくなります。</original>
 			<edited>减少踩在对手的墨汁上时
-所受伤害与移动速度降低量。</edited>
+所受伤害与移动速度减少量。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BombDamage_Reduction" offset="00" relocatable="true" max_length="0">
 			<original>メインウェポン以外の爆発で
 受けるダメージと、位置を発見
 してくる攻撃の効果を軽減します。</original>
-			<edited>降低因主武器之外的爆炸
+			<edited>减轻因主武器之外的爆炸
 所受的伤害，以及定位攻击*的效果。
 （*位置を発見してくる攻撃）</edited>
 			<subEntries />
@@ -96,7 +96,7 @@
 			<original>相手を一人も倒せないまま
 連続でやられた時、
 復活時間が短くなります。</original>
-			<edited>减少在没有击倒任何一位对手的
+			<edited>缩短在没有击倒任何一位对手的
 情况下连续被打倒时
 所需的复活时间。</edited>
 			<subEntries />
@@ -104,7 +104,7 @@
 		<entry name="JumpTime_Save" offset="00" relocatable="true" max_length="0">
 			<original>スーパージャンプの時間が
 短くなります。</original>
-			<edited>减少超级跳跃
+			<edited>缩短超级跳跃
 所需时间。</edited>
 			<subEntries />
 		</entry>
@@ -143,7 +143,7 @@
 移動に関する効果が
 かなりアップします。</original>
 			<edited>对战开始后30个计数内
-大幅提升移动相关的效果。</edited>
+大幅提高移动相关的效果。</edited>
 			<subEntries />
 		</entry>
 		<entry name="EndAllUp" offset="00" relocatable="true" max_length="0">
@@ -151,7 +151,7 @@
 インク効率とインク回復速度が
 かなりアップします。</original>
 			<edited>对战结束前30个计数内
-大幅提升单位墨汁效率与
+大幅提高墨汁效率与
 墨汁恢复速度。</edited>
 			<subEntries />
 		</entry>
@@ -160,7 +160,7 @@
 より少ない場合、少しずつ
 スペシャルゲージが増えます。</original>
 			<edited>我方队伍人数比对手队伍
-更少的情况下，缓缓填充
+更少的情况下，缓缓增加
 特殊计量表。</edited>
 			<subEntries />
 		</entry>

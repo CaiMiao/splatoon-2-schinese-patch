@@ -35,7 +35,7 @@
 		</entry>
 		<entry name="Charge" offset="00" relocatable="true" max_length="0">
 			<original>チャージ速度</original>
-			<edited>填充速度</edited>
+			<edited>蓄力速度</edited>
 			<subEntries />
 		</entry>
 		<entry name="Mobility" offset="00" relocatable="true" max_length="0">
@@ -45,7 +45,7 @@
 		</entry>
 		<entry name="Defence" offset="00" relocatable="true" max_length="0">
 			<original>耐久力</original>
-			<edited>耐久力</edited>
+			<edited>耐久度</edited>
 			<subEntries />
 		</entry>
 	</entries>

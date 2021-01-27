@@ -40,22 +40,22 @@
 		</entry>
 		<entry name="007" offset="00" relocatable="true" max_length="0">
 			<original>オオデンチナマズ行方不明</original>
-			<edited>オオデンチナマズ行方不明</edited>
+			<edited>オオデンチナマズ去向不明</edited>
 			<subEntries />
 		</entry>
 		<entry name="008" offset="00" relocatable="true" max_length="0">
 			<original>アオリちゃんも行方不明？！</original>
-			<edited>アオリちゃんも行方不明？！</edited>
+			<edited>小香匙也去向不明？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="009" offset="00" relocatable="true" max_length="0">
 			<original>おかえり オオデンチナマズ！</original>
-			<edited>おかえり オオデンチナマズ！</edited>
+			<edited>欢迎回来 オオデンチナマズ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
 			<original>おかえり アオリちゃん！！</original>
-			<edited>おかえり アオリちゃん！！</edited>
+			<edited>欢迎回来 小香匙！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Name_00" offset="00" relocatable="true" max_length="0">

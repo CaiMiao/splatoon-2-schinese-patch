@@ -15,42 +15,42 @@
 		</entry>
 		<entry name="OpInkEffect_Reduction" offset="00" relocatable="true" max_length="0">
 			<original>相手インク影響軽減</original>
-			<edited>对手墨汁影响减少</edited>
+			<edited>对手墨汁影响减轻</edited>
 			<subEntries />
 		</entry>
 		<entry name="BombDamage_Reduction" offset="00" relocatable="true" max_length="0">
 			<original>爆風ダメージ軽減・改</original>
-			<edited>爆炸伤害减少・改</edited>
+			<edited>爆炸伤害减轻・改</edited>
 			<subEntries />
 		</entry>
 		<entry name="MainInk_Save" offset="00" relocatable="true" max_length="0">
 			<original>インク効率アップ(メイン)</original>
-			<edited>单位墨汁效率提升(主)</edited>
+			<edited>墨汁效率提高(主)</edited>
 			<subEntries />
 		</entry>
 		<entry name="SubInk_Save" offset="00" relocatable="true" max_length="0">
 			<original>インク効率アップ(サブ)</original>
-			<edited>单位墨汁效率提升(副)</edited>
+			<edited>墨汁效率提高(副)</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkRecovery_Up" offset="00" relocatable="true" max_length="0">
 			<original>インク回復力アップ</original>
-			<edited>墨汁恢复力提升</edited>
+			<edited>墨汁恢复力提高</edited>
 			<subEntries />
 		</entry>
 		<entry name="HumanMove_Up" offset="00" relocatable="true" max_length="0">
 			<original>ヒト移動速度アップ</original>
-			<edited>人形移动速度提升</edited>
+			<edited>人形移动速度提高</edited>
 			<subEntries />
 		</entry>
 		<entry name="SquidMove_Up" offset="00" relocatable="true" max_length="0">
 			<original>イカダッシュ速度アップ</original>
-			<edited>墨鱼冲刺速度提升</edited>
+			<edited>墨鱼冲刺速度提高</edited>
 			<subEntries />
 		</entry>
 		<entry name="SpecialIncrease_Up" offset="00" relocatable="true" max_length="0">
 			<original>スペシャル増加量アップ</original>
-			<edited>特殊增加量提升</edited>
+			<edited>特殊增加量提高</edited>
 			<subEntries />
 		</entry>
 		<entry name="RespawnSpecialGauge_Save" offset="00" relocatable="true" max_length="0">
@@ -60,7 +60,7 @@
 		</entry>
 		<entry name="SpecialTime_Up" offset="00" relocatable="true" max_length="0">
 			<original>スペシャル性能アップ</original>
-			<edited>特殊性能提升</edited>
+			<edited>特殊性能提高</edited>
 			<subEntries />
 		</entry>
 		<entry name="RespawnTime_Save" offset="00" relocatable="true" max_length="0">
@@ -75,12 +75,12 @@
 		</entry>
 		<entry name="BombDistance_Up" offset="00" relocatable="true" max_length="0">
 			<original>サブ性能アップ</original>
-			<edited>副武器性能提升</edited>
+			<edited>副武器性能提高</edited>
 			<subEntries />
 		</entry>
 		<entry name="MarkingTime_Reduction" offset="00" relocatable="true" max_length="0">
 			<original>メイン性能アップ</original>
-			<edited>主武器性能提升</edited>
+			<edited>主武器性能提高</edited>
 			<subEntries />
 		</entry>
 		<entry name="ExSkillDouble" offset="00" relocatable="true" max_length="0">
@@ -95,7 +95,7 @@
 		</entry>
 		<entry name="EndAllUp" offset="00" relocatable="true" max_length="0">
 			<original>ラストスパート</original>
-			<edited>最后冲刺</edited>
+			<edited>最后一搏</edited>
 			<subEntries />
 		</entry>
 		<entry name="MinorityUp" offset="00" relocatable="true" max_length="0">
@@ -105,7 +105,7 @@
 		</entry>
 		<entry name="ComeBack" offset="00" relocatable="true" max_length="0">
 			<original>カムバック</original>
-			<edited>回归战线</edited>
+			<edited>东山再起</edited>
 			<subEntries />
 		</entry>
 		<entry name="SquidMoveSpatter_Reduction" offset="00" relocatable="true" max_length="0">
@@ -120,7 +120,7 @@
 		</entry>
 		<entry name="SuperJumpSign_Hide" offset="00" relocatable="true" max_length="0">
 			<original>ステルスジャンプ</original>
-			<edited>潜隐跳跃</edited>
+			<edited>隐形跳跃</edited>
 			<subEntries />
 		</entry>
 		<entry name="ThermalInk" offset="00" relocatable="true" max_length="0">
@@ -130,12 +130,12 @@
 		</entry>
 		<entry name="Exorcist" offset="00" relocatable="true" max_length="0">
 			<original>復活ペナルティアップ</original>
-			<edited>复活惩罚提升</edited>
+			<edited>复活惩罚提高</edited>
 			<subEntries />
 		</entry>
 		<entry name="ObjectEffect_Up" offset="00" relocatable="true" max_length="0">
 			<original>対物攻撃力アップ</original>
-			<edited>对物体攻击提升</edited>
+			<edited>对物体攻击提高</edited>
 			<subEntries />
 		</entry>
 		<entry name="SomersaultLanding" offset="00" relocatable="true" max_length="0">

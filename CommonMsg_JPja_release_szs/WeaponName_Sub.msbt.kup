@@ -15,17 +15,17 @@
 		</entry>
 		<entry name="Bomb_Quick" offset="00" relocatable="true" max_length="0">
 			<original>クイックボム</original>
-			<edited>速爆炸弹*</edited>
+			<edited>速爆炸弹 </edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_Curling" offset="00" relocatable="true" max_length="0">
 			<original>カーリングボム</original>
-			<edited>カーリングボム</edited>
+			<edited>冰壶炸弹 </edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_Robo" offset="00" relocatable="true" max_length="0">
 			<original>ロボットボム</original>
-			<edited>ロボットボム</edited>
+			<edited>机器人炸弹 </edited>
 			<subEntries />
 		</entry>
 		<entry name="TimerTrap" offset="00" relocatable="true" max_length="0">
@@ -45,7 +45,7 @@
 		</entry>
 		<entry name="PoisonFog" offset="00" relocatable="true" max_length="0">
 			<original>ポイズンミスト</original>
-			<edited>ポイズンミスト</edited>
+			<edited>毒雾 </edited>
 			<subEntries />
 		</entry>
 		<entry name="Shield" offset="00" relocatable="true" max_length="0">
@@ -60,27 +60,27 @@
 		</entry>
 		<entry name="Bomb_Piyo" offset="00" relocatable="true" max_length="0">
 			<original>タンサンボム</original>
-			<edited>タンサンボム</edited>
+			<edited>碳酸炸弹 </edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_Tako" offset="00" relocatable="true" max_length="0">
 			<original>トーピード</original>
-			<edited>トーピード</edited>
+			<edited>鱼雷 </edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_MissionSplash" offset="00" relocatable="true" max_length="0">
 			<original>スプラッシュボム</original>
-			<edited>スプラッシュボム</edited>
+			<edited>喷溅炸弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_MissionCurling" offset="00" relocatable="true" max_length="0">
 			<original>カーリングボム</original>
-			<edited>カーリングボム</edited>
+			<edited>冰壶炸弹 </edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_MissionRobo" offset="00" relocatable="true" max_length="0">
 			<original>ロボットボム</original>
-			<edited>ロボットボム</edited>
+			<edited>机器人炸弹 </edited>
 			<subEntries />
 		</entry>
 	</entries>

@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>マンホールに入る</original>
-			<edited>进入マンホール</edited>
+			<edited>进入井盖</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
