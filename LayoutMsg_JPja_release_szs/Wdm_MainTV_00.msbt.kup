@@ -5,27 +5,27 @@
 	<entries>
 		<entry name="L_Info_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>メニュー</original>
-			<edited>メニュー</edited>
+			<edited>菜单</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Info_01-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>ブキチェンジ</original>
-			<edited>ブキチェンジ</edited>
+			<edited>更换武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>あと &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Íコ &#xE;&#x0;&#x3;&#x2;ÿÿナマズを集めろ！</original>
-			<edited>あと &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Íコ &#xE;&#x0;&#x3;&#x2;ÿÿナマズを集めろ！</edited>
+			<edited>请收集剩余 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Í个 &#xE;&#x0;&#x3;&#x2;ÿÿ鲶鱼！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボスヤカン&#xE;&#x0;&#x3;&#x2;ÿÿへ むかえ！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ボスヤカン&#xE;&#x0;&#x3;&#x2;ÿÿへ むかえ！</edited>
+			<edited>请前往&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;首领茶壶&#xE;&#x0;&#x3;&#x2;ÿÿ处！</edited>
 			<subEntries />
 		</entry>
 		<entry name="002" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;つぎのエリア&#xE;&#x0;&#x3;&#x2;ÿÿに むかえ！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;つぎのエリア&#xE;&#x0;&#x3;&#x2;ÿÿに むかえ！</edited>
+			<edited>请前往&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;下一个区域&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_MsnPoint_00-T_Icon_00" offset="00" relocatable="true" max_length="0">

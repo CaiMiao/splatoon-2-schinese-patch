@@ -69,7 +69,7 @@
 		</entry>
 		<entry name="MameBattleWinningRate_01" offset="00" relocatable="true" max_length="0">
 			<original>うんうん</original>
-			<edited>うんうん</edited>
+			<edited>嗯嗯。</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameBattleWinningRate_02" offset="00" relocatable="true" max_length="0">
@@ -399,7 +399,7 @@
 		</entry>
 		<entry name="MameWeaponShooter_01" offset="00" relocatable="true" max_length="0">
 			<original>うんうん</original>
-			<edited>うんうん</edited>
+			<edited>嗯嗯。</edited>
 			<subEntries />
 		</entry>
 		<entry name="MameWeaponShooter_02" offset="00" relocatable="true" max_length="0">
@@ -1153,7 +1153,7 @@ New!カラストンビ部隊に 入ったんだよね？</edited>
 		<entry name="Free25_01" offset="00" relocatable="true" max_length="0">
 			<original>『コジャッジくん』って、呼ばれとるね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 あの、カビの生えた大福感がたまらんのよね～</original>
-			<edited>『コジャッジくん』って、呼ばれとるね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>『コジャッジくん』って、呼ばれとるね&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 あの、カビの生えた大福感がたまらんのよね～</edited>
 			<subEntries />
 		</entry>

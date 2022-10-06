@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>ルールとステージを選択してください</original>
-			<edited>请选择规则与关卡</edited>
+			<edited>请选择规则和场地</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>親がルールとステージを選んでいます</original>
-			<edited>主控正选择规则与关卡</edited>
+			<edited>主办者正在选择规则和场地</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
@@ -35,7 +35,7 @@
 		</entry>
 		<entry name="041" offset="00" relocatable="true" max_length="0">
 			<original>カウンターへ</original>
-			<edited>前往前台</edited>
+			<edited>前往柜台</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_StartBtn_01-T_Key_00" offset="00" relocatable="true" max_length="0">
@@ -45,7 +45,7 @@
 		</entry>
 		<entry name="L_PlayerName_00-T_Rank_00" offset="00" relocatable="true" max_length="0">
 			<original>ランク</original>
-			<edited>Rank</edited>
+			<edited>等级</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_PlayerName_00-T_Fes_00" offset="00" relocatable="true" max_length="0">
@@ -160,17 +160,17 @@
 		</entry>
 		<entry name="T_Start_00" offset="00" relocatable="true" max_length="0">
 			<original>バトルを開始します！</original>
-			<edited>开始战斗！</edited>
+			<edited>开始对战！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Progress_00" offset="00" relocatable="true" max_length="0">
 			<original>対戦相手を待っています</original>
-			<edited>正等待对战对手</edited>
+			<edited>正在等待对战对手</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Start_01" offset="00" relocatable="true" max_length="0">
 			<original>バトルを開始します！</original>
-			<edited>开始战斗！</edited>
+			<edited>开始对战！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_RuleHeader_00" offset="00" relocatable="true" max_length="0">
@@ -180,7 +180,7 @@
 		</entry>
 		<entry name="T_StageHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>ステージ</original>
-			<edited>关卡</edited>
+			<edited>场地</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_RuleHeader_01" offset="00" relocatable="true" max_length="0">
@@ -190,12 +190,12 @@
 		</entry>
 		<entry name="T_StageHeader_01" offset="00" relocatable="true" max_length="0">
 			<original>ステージ</original>
-			<edited>关卡</edited>
+			<edited>场地</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_StartBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>メンバー決定！</original>
-			<edited>决定成员！</edited>
+			<edited>成员已定！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_PlayerName_09-T_Fes_00" offset="00" relocatable="true" max_length="0">
@@ -210,17 +210,17 @@
 		</entry>
 		<entry name="L_PlayerName_00-T_Wait_00" offset="00" relocatable="true" max_length="0">
 			<original>募集中…</original>
-			<edited>招募中…</edited>
+			<edited>募集中……</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_B_00" offset="00" relocatable="true" max_length="0">
 			<original>ブラボーチーム</original>
-			<edited>B队</edited>
+			<edited>Bravo队</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_A_00" offset="00" relocatable="true" max_length="0">
 			<original>アルファチーム</original>
-			<edited>A队</edited>
+			<edited>Alpha队</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_StartBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -245,7 +245,7 @@
 		</entry>
 		<entry name="L_StageSelectBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>ステージ選択</original>
-			<edited>关卡选择</edited>
+			<edited>选择场地</edited>
 			<subEntries />
 		</entry>
 	</entries>

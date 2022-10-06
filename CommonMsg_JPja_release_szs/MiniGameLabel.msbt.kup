@@ -40,7 +40,7 @@
 		</entry>
 		<entry name="7" offset="00" relocatable="true" max_length="0">
 			<original>どのボタンでもＯＫ</original>
-			<edited>按任意键皆可</edited>
+			<edited>哪个按键都OK</edited>
 			<subEntries />
 		</entry>
 		<entry name="8" offset="00" relocatable="true" max_length="0">

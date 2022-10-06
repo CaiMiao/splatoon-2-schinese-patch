@@ -15,12 +15,12 @@
 		</entry>
 		<entry name="L_Btn_00-T_Lv_00" offset="00" relocatable="true" max_length="0">
 			<original>レベル１</original>
-			<edited>レベル１</edited>
+			<edited>等级1</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_00-T_Lv_01" offset="00" relocatable="true" max_length="0">
 			<original>レベル２</original>
-			<edited>レベル２</edited>
+			<edited>等级2</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_00-T_MAX_00" offset="00" relocatable="true" max_length="0">
@@ -45,27 +45,27 @@
 		</entry>
 		<entry name="T_BeforeLevel_00" offset="00" relocatable="true" max_length="0">
 			<original>レベル１</original>
-			<edited>レベル１</edited>
+			<edited>等级1</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_BeforeLevel_01" offset="00" relocatable="true" max_length="0">
 			<original>レベル２</original>
-			<edited>レベル２</edited>
+			<edited>等级2</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_BeforeLevel_03" offset="00" relocatable="true" max_length="0">
 			<original>レベル３</original>
-			<edited>レベル３</edited>
+			<edited>等级3</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_13-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_14-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>リセットする</original>
-			<edited>リセットする</edited>
+			<edited>重置</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Msg_01" offset="00" relocatable="true" max_length="0">
@@ -94,17 +94,17 @@
 		</entry>
 		<entry name="T_BeforeLevel_04" offset="00" relocatable="true" max_length="0">
 			<original>レベル１</original>
-			<edited>レベル１</edited>
+			<edited>等级1</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_BeforeLevel_05" offset="00" relocatable="true" max_length="0">
 			<original>レベル２</original>
-			<edited>レベル２</edited>
+			<edited>等级2</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_BeforeLevel_07" offset="00" relocatable="true" max_length="0">
 			<original>レベル３</original>
-			<edited>レベル３</edited>
+			<edited>等级3</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Detail_02" offset="00" relocatable="true" max_length="0">
@@ -199,7 +199,7 @@
 		</entry>
 		<entry name="060" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="061" offset="00" relocatable="true" max_length="0">
@@ -209,7 +209,7 @@
 		</entry>
 		<entry name="062" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="063" offset="00" relocatable="true" max_length="0">
@@ -219,37 +219,37 @@
 		</entry>
 		<entry name="064" offset="00" relocatable="true" max_length="0">
 			<original>とじる</original>
-			<edited>とじる</edited>
+			<edited>关闭</edited>
 			<subEntries />
 		</entry>
 		<entry name="066" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="067" offset="00" relocatable="true" max_length="0">
 			<original>リセットする</original>
-			<edited>リセットする</edited>
+			<edited>重置</edited>
 			<subEntries />
 		</entry>
 		<entry name="068" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="069" offset="00" relocatable="true" max_length="0">
 			<original>交換する！</original>
-			<edited>交換する！</edited>
+			<edited>兑换！</edited>
 			<subEntries />
 		</entry>
 		<entry name="080" offset="00" relocatable="true" max_length="0">
 			<original>レベルアップ！</original>
-			<edited>レベルアップ！</edited>
+			<edited>等级提升！</edited>
 			<subEntries />
 		</entry>
 		<entry name="081" offset="00" relocatable="true" max_length="0">
 			<original>ゲット！</original>
-			<edited>ゲット！</edited>
+			<edited>获得！</edited>
 			<subEntries />
 		</entry>
 		<entry name="100" offset="00" relocatable="true" max_length="0">

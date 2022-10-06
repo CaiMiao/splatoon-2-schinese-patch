@@ -20,7 +20,7 @@
 		</entry>
 		<entry name="003" offset="00" relocatable="true" max_length="0">
 			<original>ランクなし</original>
-			<edited>无Rank</edited>
+			<edited>无等级</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BackBtn_00-T_B_00" offset="00" relocatable="true" max_length="0">
@@ -30,17 +30,17 @@
 		</entry>
 		<entry name="L_Window_00-T_Ranking_00" offset="00" relocatable="true" max_length="0">
 			<original>ランキング:&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í 位</original>
-			<edited>排名:&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í 位</edited>
+			<edited>ランキング:&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í 位</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Window_00-T_Day_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x5;&#x0;&#x2;&#x0;Í のきろく</original>
-			<edited>&#xE;&#x5;&#x0;&#x2;&#x0;Í 的记录</edited>
+			<edited>&#xE;&#x5;&#x0;&#x2;&#x0;Í のきろく</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Window_00-T_LeaguePoint_00" offset="00" relocatable="true" max_length="0">
 			<original>最高リーグパワー</original>
-			<edited>最高联盟能量</edited>
+			<edited>最高リーグパワー</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Window_00-T_PointMax_00" offset="00" relocatable="true" max_length="0">
@@ -50,22 +50,22 @@
 		</entry>
 		<entry name="L_Window_00-T_Mode_00" offset="00" relocatable="true" max_length="0">
 			<original>チーム部門</original>
-			<edited>队伍部门</edited>
+			<edited>チーム部門</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Window_00-T_Mode_01" offset="00" relocatable="true" max_length="0">
 			<original>ペア部門</original>
-			<edited>拍档部门</edited>
+			<edited>ペア部門</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Window_01-T_Ranking_00" offset="00" relocatable="true" max_length="0">
 			<original>ランキング: &#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í 位</original>
-			<edited>排名: &#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í 位</edited>
+			<edited>ランキング: &#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í 位</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Window_01-T_Day_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x5;&#x0;&#x2;&#x0;Í のきろく</original>
-			<edited>&#xE;&#x5;&#x0;&#x2;&#x0;Í 的记录</edited>
+			<edited>&#xE;&#x5;&#x0;&#x2;&#x0;Í のきろく</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Window_01-T_PointMax_00" offset="00" relocatable="true" max_length="0">

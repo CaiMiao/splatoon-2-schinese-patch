@@ -5,26 +5,26 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>どっちのチームに参加する？</original>
-			<edited>どっちのチームに参加する？</edited>
+			<edited>要参加哪个队伍？</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>このチームに参加する？
 （あとから 変更できないぞ！）</original>
-			<edited>このチームに参加する？
-（あとから 変更できないぞ！）</edited>
+			<edited>要参加这个队伍吗？
+（决定后将无法更改！）</edited>
 			<subEntries />
 		</entry>
 		<entry name="002" offset="00" relocatable="true" max_length="0">
 			<original>参加チームが決まった！ チームの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェスT&#xE;&#x0;&#x3;&#x2;ÿÿを レンタルしたぞ！
 (フェス終了後に フェスTは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;返しちゃう&#xE;&#x0;&#x3;&#x2;ÿÿから 気をつけろ！)</original>
-			<edited>参加チームが決まった！ チームの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェスT&#xE;&#x0;&#x3;&#x2;ÿÿを レンタルしたぞ！
-(フェス終了後に フェスTは&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;返しちゃう&#xE;&#x0;&#x3;&#x2;ÿÿから 気をつけろ！)</edited>
+			<edited>已决定要参加的队伍！队伍的&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;祭典T恤&#xE;&#x0;&#x3;&#x2;ÿÿ已租借完成！
+（祭典T恤将在祭典结束后&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;归还&#xE;&#x0;&#x3;&#x2;ÿÿ，敬请注意！）</edited>
 			<subEntries />
 		</entry>
 		<entry name="003" offset="00" relocatable="true" max_length="0">
 			<original>このチームに参加してるぞ！</original>
-			<edited>このチームに参加してるぞ！</edited>
+			<edited>目前已参加此队伍！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BtnC_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -34,17 +34,17 @@
 		</entry>
 		<entry name="L_BtnR_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>参加する！</original>
-			<edited>参加する！</edited>
+			<edited>参加！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BtnL_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_ExpHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェスの心得&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェスの心得&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;祭典守则&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Exp_00" offset="00" relocatable="true" max_length="0">
@@ -55,18 +55,18 @@
 五、 フェス終了後に 称号に応じて ごほうびをあたえるべし！
 六、 イカしたチームには より多くの ごほうびをあたえるべし！
 七、 フェスが終わったら フェスTは返却すべし！</original>
-			<edited>一、 ２つのお題から 好きな方を選んで ナワバリバトルすべし！
-二、 バトルでたくさん塗ったり、勝利したら フェスポイントをあたえるべし！
-三、 フェスポイントをためたものには ふさわしい称号をあたえるべし！
-四、 フェスの結果で どっちのお題がイカしているか 決めるべし！
-五、 フェス終了後に 称号に応じて ごほうびをあたえるべし！
-六、 イカしたチームには より多くの ごほうびをあたえるべし！
-七、 フェスが終わったら フェスTは返却すべし！</edited>
+			<edited>一、应从2个主题中选择喜欢的一方展开占地对战！
+二、应在对战中大量涂墨，并授予获胜者祭典点数！
+三、应为累积祭典点数的玩家授予相应的称号！
+四、应根据祭典结果决出鱿型的主题！
+五、应在祭典结束后授予玩家与称号相应的报酬！
+六、应授予超鱿型的队伍更多报酬！
+七、应在祭典结束后归还祭典T恤！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>フェスの心得</original>
-			<edited>フェスの心得</edited>
+			<edited>祭典守则</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Back_00-T_Back_00" offset="00" relocatable="true" max_length="0">

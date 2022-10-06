@@ -5,52 +5,52 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>投稿ID: &#xE;&#x3;&#x2;&#x2;&#x11;Í</original>
-			<edited>投稿ID: &#xE;&#x3;&#x2;&#x2;&#x11;Í</edited>
+			<edited>发布ID: &#xE;&#x3;&#x2;&#x2;&#17;Í</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BtnL_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>やめる</original>
-			<edited>やめる</edited>
+			<edited>放弃</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BtnR_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>通報する</original>
-			<edited>通報する</edited>
+			<edited>举报</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_CheckBtn_00-T_Title_00" offset="00" relocatable="true" max_length="0">
 			<original>個人情報、出会い</original>
-			<edited>個人情報、出会い</edited>
+			<edited>泄露个人信息、约会意图</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_CheckBtn_01-T_Title_00" offset="00" relocatable="true" max_length="0">
 			<original>暴力的な内容</original>
-			<edited>暴力的な内容</edited>
+			<edited>暴力内容</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_CheckBtn_02-T_Title_00" offset="00" relocatable="true" max_length="0">
 			<original>公序良俗に反する内容</original>
-			<edited>公序良俗に反する内容</edited>
+			<edited>内容违反公序良俗</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_CheckBtn_03-T_Title_00" offset="00" relocatable="true" max_length="0">
 			<original>他人へのいやがらせ、悪口</original>
-			<edited>他人へのいやがらせ、悪口</edited>
+			<edited>骚扰他人、恶语相向</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_CheckBtn_04-T_Title_00" offset="00" relocatable="true" max_length="0">
 			<original>営利宣伝目的</original>
-			<edited>営利宣伝目的</edited>
+			<edited>营利广告</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_CheckBtn_05-T_Title_00" offset="00" relocatable="true" max_length="0">
 			<original>わいせつな内容</original>
-			<edited>わいせつな内容</edited>
+			<edited>不雅内容</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_CheckBtn_06-T_Title_00" offset="00" relocatable="true" max_length="0">
 			<original>その他不適切な内容</original>
-			<edited>その他不適切な内容</edited>
+			<edited>其他不当内容</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Explain_00" offset="00" relocatable="true" max_length="0">
@@ -61,13 +61,13 @@
 &#xE;&#x0;&#x2;&#x2;K&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;※通報の内容は、通報当事者以外の
 第三者へ 開示される可能性があります。
 あらかじめご了承ください。&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
-			<edited>通報の種類を 選択してください。
-この通報は、投稿者本人ではなく
-運営者である任天堂に 送信されます。
+			<edited>请选择举报的种类。
+举报内容将会发送给身为运营方的任天堂，
+而非举报对象。
 
-&#xE;&#x0;&#x2;&#x2;K&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;※通報の内容は、通報当事者以外の
-第三者へ 開示される可能性があります。
-あらかじめご了承ください。&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+&#xE;&#x0;&#x2;&#x2;K&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;※举报内容将有可能
+　向举报者外的第三者揭露。
+　敬请谅解。&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
 			<subEntries />
 		</entry>
 	</entries>

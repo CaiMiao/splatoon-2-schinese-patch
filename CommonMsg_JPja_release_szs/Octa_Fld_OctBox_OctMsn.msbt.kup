@@ -75,7 +75,7 @@
 		</entry>
 		<entry name="Box_0011" offset="00" relocatable="true" max_length="0">
 			<original>移動ショット中に&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で スライドだ！ バシュッとよけろ！</original>
-			<edited>移動ショット中に&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で スライドだ！ バシュッとよけろ！</edited>
+			<edited>移動ショット中に&#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で スライドだ！ バシュッとよけろ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Box_0012" offset="00" relocatable="true" max_length="0">

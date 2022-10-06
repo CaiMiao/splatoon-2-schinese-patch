@@ -15,42 +15,42 @@
 		</entry>
 		<entry name="L_BtnR_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>ギア交換！</original>
-			<edited>ギア交換！</edited>
+			<edited>兑换装备！</edited>
 			<subEntries />
 		</entry>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>おカネと交換！</original>
-			<edited>おカネと交換！</edited>
+			<edited>兑换为金钱！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>かけらと交換！</original>
-			<edited>かけらと交換！</edited>
+			<edited>兑换为碎片！</edited>
 			<subEntries />
 		</entry>
 		<entry name="002" offset="00" relocatable="true" max_length="0">
 			<original>かけらと交換！</original>
-			<edited>かけらと交換！</edited>
+			<edited>兑换为碎片！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Explain_00" offset="00" relocatable="true" max_length="0">
 			<original>すでに 同じギアを持っています</original>
-			<edited>すでに 同じギアを持っています</edited>
+			<edited>已持有相同装备。</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Explain_01" offset="00" relocatable="true" max_length="0">
 			<original>ギア交換しない場合は 別のものと交換します</original>
-			<edited>ギア交換しない場合は 別のものと交換します</edited>
+			<edited>如果不兑换装备，将会更换为其他物品。</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Text_00" offset="00" relocatable="true" max_length="0">
 			<original>持っているギア</original>
-			<edited>持っているギア</edited>
+			<edited>持有的装备</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Text_01" offset="00" relocatable="true" max_length="0">
 			<original>受け取りギア</original>
-			<edited>受け取りギア</edited>
+			<edited>领取的装备</edited>
 			<subEntries />
 		</entry>
 	</entries>

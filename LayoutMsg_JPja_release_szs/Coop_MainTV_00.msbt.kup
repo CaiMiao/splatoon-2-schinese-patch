@@ -10,37 +10,37 @@
 		</entry>
 		<entry name="T_GoldIkura_00" offset="00" relocatable="true" max_length="0">
 			<original>ノルマ</original>
-			<edited>挑战合格线</edited>
+			<edited>目标配额</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_SuperGauge_00-T_Press_00" offset="00" relocatable="true" max_length="0">
 			<original>押しこみ</original>
-			<edited>按压</edited>
+			<edited>按下</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_SuperGauge_00-T_Max_00" offset="00" relocatable="true" max_length="0">
 			<original>フルチャージ！</original>
-			<edited>完全充能！</edited>
+			<edited>蓄力完成！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_NormaClear_00" offset="00" relocatable="true" max_length="0">
 			<original>ノルマクリア！</original>
-			<edited>挑战成功！</edited>
+			<edited>达成目标配额！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Nice_00" offset="00" relocatable="true" max_length="0">
 			<original>ナイス</original>
-			<edited>漂亮</edited>
+			<edited>称赞</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
 			<original>カモン</original>
-			<edited>加油</edited>
+			<edited>召集</edited>
 			<subEntries />
 		</entry>
 		<entry name="011" offset="00" relocatable="true" max_length="0">
 			<original>ヘルプ</original>
-			<edited>帮帮我</edited>
+			<edited>求救</edited>
 			<subEntries />
 		</entry>
 	</entries>

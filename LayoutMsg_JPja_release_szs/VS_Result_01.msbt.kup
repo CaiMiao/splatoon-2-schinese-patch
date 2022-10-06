@@ -51,42 +51,42 @@
 		<entry name="007" offset="00" relocatable="true" max_length="0">
 			<original>タイムボーナス
 &#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Ímin</original>
-			<edited>タイムボーナス
+			<edited>时间奖励
 &#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Ímin</edited>
 			<subEntries />
 		</entry>
 		<entry name="008" offset="00" relocatable="true" max_length="0">
 			<original>塗り
 &#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Ípクリア！</original>
-			<edited>塗り
-&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Ípクリア！</edited>
+			<edited>完成涂墨
+&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Íp！</edited>
 			<subEntries />
 		</entry>
 		<entry name="009" offset="00" relocatable="true" max_length="0">
 			<original>WIN
 ボーナス！</original>
 			<edited>WIN
-ボーナス！</edited>
+奖励！</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
 			<original>チョーシ
 ボーナス！</original>
-			<edited>チョーシ
-ボーナス！</edited>
+			<edited>状态值
+奖励！</edited>
 			<subEntries />
 		</entry>
 		<entry name="011" offset="00" relocatable="true" max_length="0">
 			<original>すすめたカウント
 &#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í！</original>
-			<edited>已前进计数
+			<edited>已推进计数
 &#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í！</edited>
 			<subEntries />
 		</entry>
 		<entry name="012" offset="00" relocatable="true" max_length="0">
 			<original>ノックアウト
 ボーナス！</original>
-			<edited>击倒
+			<edited>完胜
 奖励！</edited>
 			<subEntries />
 		</entry>
@@ -107,7 +107,7 @@
 		</entry>
 		<entry name="L_Ranking_00-T_Rank_00" offset="00" relocatable="true" max_length="0">
 			<original>ランク</original>
-			<edited>Rank</edited>
+			<edited>等级</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Ranking_00-T_MSign_00" offset="00" relocatable="true" max_length="0">
@@ -122,12 +122,12 @@
 		</entry>
 		<entry name="T_Money_00" offset="00" relocatable="true" max_length="0">
 			<original>おカネ</original>
-			<edited>おカネ</edited>
+			<edited>金钱</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Rank_01" offset="00" relocatable="true" max_length="0">
 			<original>ランク</original>
-			<edited>Rank</edited>
+			<edited>等级</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Max_00" offset="00" relocatable="true" max_length="0">
@@ -137,39 +137,39 @@
 		</entry>
 		<entry name="T_RankUp_00" offset="00" relocatable="true" max_length="0">
 			<original>ランクアップ!!</original>
-			<edited>ランクアップ!!</edited>
+			<edited>等级提升！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Gear_00" offset="00" relocatable="true" max_length="0">
 			<original>ギア</original>
-			<edited>ギア</edited>
+			<edited>装备</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>やめる</original>
-			<edited>やめる</edited>
+			<edited>放弃</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>つづける！</original>
-			<edited>つづける！</edited>
+			<edited>继续！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Again_00" offset="00" relocatable="true" max_length="0">
 			<original>バトルをつづけますか？</original>
-			<edited>バトルをつづけますか？</edited>
+			<edited>要继续对战吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Anim_00-T_Text_00" offset="00" relocatable="true" max_length="0">
 			<original>ギアパワーアップ！</original>
-			<edited>ギアパワーアップ！</edited>
+			<edited>装备能力提升！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>カスタマイズして
 つづける！</original>
-			<edited>カスタマイズして
-つづける！</edited>
+			<edited>进行自定义后
+继续！</edited>
 			<subEntries />
 		</entry>
 	</entries>

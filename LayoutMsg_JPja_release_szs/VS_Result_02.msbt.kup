@@ -15,12 +15,12 @@
 		</entry>
 		<entry name="002" offset="00" relocatable="true" max_length="0">
 			<original>ウデマエアップ!!</original>
-			<edited>ウデマエアップ!!</edited>
+			<edited>技术提升！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="003" offset="00" relocatable="true" max_length="0">
 			<original>ウデマエダウン…</original>
-			<edited>ウデマエダウン…</edited>
+			<edited>技术下降……</edited>
 			<subEntries />
 		</entry>
 		<entry name="004" offset="00" relocatable="true" max_length="0">
@@ -51,15 +51,15 @@
 		<entry name="009" offset="00" relocatable="true" max_length="0">
 			<original>人数が少ない状態が長く続いたため
 ウデマエメーターは変化しません</original>
-			<edited>人数が少ない状態が長く続いたため
-ウデマエメーターは変化しません</edited>
+			<edited>由于人数不足的情况持续过久，
+计数计量表不会变动。</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
 			<original>人数が少ない状態が 長く続いたため
 引き分けとして カウントしました</original>
-			<edited>人数が少ない状態が 長く続いたため
-引き分けとして カウントしました</edited>
+			<edited>由于人数不足的情况持续过久，
+本场对战视为平局。</edited>
 			<subEntries />
 		</entry>
 		<entry name="011" offset="00" relocatable="true" max_length="0">
@@ -79,22 +79,22 @@
 		</entry>
 		<entry name="014" offset="00" relocatable="true" max_length="0">
 			<original>１０倍マッチ</original>
-			<edited>１０倍マッチ</edited>
+			<edited>10倍比赛</edited>
 			<subEntries />
 		</entry>
 		<entry name="015" offset="00" relocatable="true" max_length="0">
 			<original>１００倍マッチ</original>
-			<edited>１００倍マッチ</edited>
+			<edited>100倍比赛</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Udemae_00" offset="00" relocatable="true" max_length="0">
 			<original>ウデマエ</original>
-			<edited>ウデマエ</edited>
+			<edited>技术</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_RankUpDown_00" offset="00" relocatable="true" max_length="0">
 			<original>新しい称号ゲット！！</original>
-			<edited>新しい称号ゲット！！</edited>
+			<edited>获得新称号！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Max_00" offset="00" relocatable="true" max_length="0">
@@ -104,7 +104,7 @@
 		</entry>
 		<entry name="T_FesPoint_00" offset="00" relocatable="true" max_length="0">
 			<original>フェスポイント</original>
-			<edited>フェスポイント</edited>
+			<edited>祭典点数</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_WinLose_02" offset="00" relocatable="true" max_length="0">
@@ -115,8 +115,8 @@
 		<entry name="T_PontClear_00" offset="00" relocatable="true" max_length="0">
 			<original>塗り
 &#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Ípクリア！</original>
-			<edited>塗り
-&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Ípクリア！</edited>
+			<edited>完成涂墨
+&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Íp！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_LeaguePoint_00" offset="00" relocatable="true" max_length="0">
@@ -141,7 +141,7 @@
 		</entry>
 		<entry name="T_RankUpDown_02" offset="00" relocatable="true" max_length="0">
 			<original>ウデマエキープ！</original>
-			<edited>ウデマエキープ！</edited>
+			<edited>技术不变！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_MaxLeaguePoint_00" offset="00" relocatable="true" max_length="0">
@@ -151,7 +151,7 @@
 		</entry>
 		<entry name="T_Pinch_00" offset="00" relocatable="true" max_length="0">
 			<original>ピンチ！</original>
-			<edited>ピンチ！</edited>
+			<edited>危险！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Ok_00" offset="00" relocatable="true" max_length="0">
@@ -161,12 +161,12 @@
 		</entry>
 		<entry name="T_LeaguePoint_02" offset="00" relocatable="true" max_length="0">
 			<original>計測完了！！</original>
-			<edited>計測完了！！</edited>
+			<edited>计算完毕！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Xpower_00" offset="00" relocatable="true" max_length="0">
 			<original>計測中…</original>
-			<edited>計測中…</edited>
+			<edited>计算中……</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_BaseNum_01" offset="00" relocatable="true" max_length="0">
@@ -176,17 +176,17 @@
 		</entry>
 		<entry name="T_Xpower_01" offset="00" relocatable="true" max_length="0">
 			<original>計測完了！！</original>
-			<edited>計測完了！！</edited>
+			<edited>计算完毕！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_XRankTitle_00" offset="00" relocatable="true" max_length="0">
 			<original>現在の順位</original>
-			<edited>現在の順位</edited>
+			<edited>目前名次</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_XRankTitle_01" offset="00" relocatable="true" max_length="0">
 			<original>推定</original>
-			<edited>推定</edited>
+			<edited>预计</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_WinLose_04" offset="00" relocatable="true" max_length="0">
@@ -196,31 +196,31 @@
 		</entry>
 		<entry name="T_FesPoint_01" offset="00" relocatable="true" max_length="0">
 			<original>こうけん度</original>
-			<edited>こうけん度</edited>
+			<edited>贡献度</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_PontClear_01" offset="00" relocatable="true" max_length="0">
 			<original>塗りポイント</original>
-			<edited>塗りポイント</edited>
+			<edited>涂墨点数</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_FesPoint_03" offset="00" relocatable="true" max_length="0">
 			<original>るいけい こうけん度</original>
-			<edited>るいけい こうけん度</edited>
+			<edited>累计贡献度</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_PontClear_02" offset="00" relocatable="true" max_length="0">
 			<original>おそろい
 ボーナス</original>
-			<edited>おそろい
-ボーナス</edited>
+			<edited>团队穿搭
+奖励</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_PontClear_03" offset="00" relocatable="true" max_length="0">
 			<original>おそろい
 ボーナス</original>
-			<edited>おそろい
-ボーナス</edited>
+			<edited>团队穿搭
+奖励</edited>
 			<subEntries />
 		</entry>
 	</entries>

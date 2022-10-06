@@ -100,7 +100,7 @@
 		</entry>
 		<entry name="LastBoss01_0021" offset="00" relocatable="true" max_length="0">
 			<original>スプラッシュボムです！ &#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で投げましょう！</original>
-			<edited>スプラッシュボムです！ &#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で投げましょう！</edited>
+			<edited>スプラッシュボムです！ &#xE;&#x2;&#28;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で投げましょう！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBoss01_0022" offset="00" relocatable="true" max_length="0">

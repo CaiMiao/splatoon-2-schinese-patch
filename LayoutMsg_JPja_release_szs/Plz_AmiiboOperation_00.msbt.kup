@@ -10,7 +10,7 @@
 		</entry>
 		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>写真をとる</original>
-			<edited>写真をとる</edited>
+			<edited>拍照</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_KeyIcon_02-T_Info_00" offset="00" relocatable="true" max_length="0">
@@ -20,7 +20,7 @@
 		</entry>
 		<entry name="L_KeyIcon_03-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>ステージの変更</original>
-			<edited>ステージの変更</edited>
+			<edited>更改场地</edited>
 			<subEntries />
 		</entry>
 	</entries>

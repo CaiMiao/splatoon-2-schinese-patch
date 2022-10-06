@@ -40,7 +40,7 @@
 		</entry>
 		<entry name="VBallDDA_0005" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x1A;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しながら&#xE;&#x2;"&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;操作の カニ歩きだと、見やすいゾ</original>
-			<edited>&#xE;&#x2;&#x1A;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しながら&#xE;&#x2;"&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;操作の カニ歩きだと、見やすいゾ</edited>
+			<edited>&#xE;&#x2;&#26;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押しながら&#xE;&#x2;"&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;操作の カニ歩きだと、見やすいゾ</edited>
 			<subEntries />
 		</entry>
 	</entries>

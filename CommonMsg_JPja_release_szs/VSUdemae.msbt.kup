@@ -10,57 +10,57 @@
 		</entry>
 		<entry name="Udemae_00" offset="00" relocatable="true" max_length="0">
 			<original>Ｃ-</original>
-			<edited>Ｃ-</edited>
+			<edited>C-</edited>
 			<subEntries />
 		</entry>
 		<entry name="Udemae_01" offset="00" relocatable="true" max_length="0">
 			<original>Ｃ</original>
-			<edited>Ｃ</edited>
+			<edited>C</edited>
 			<subEntries />
 		</entry>
 		<entry name="Udemae_02" offset="00" relocatable="true" max_length="0">
 			<original>Ｃ+</original>
-			<edited>Ｃ+</edited>
+			<edited>C+</edited>
 			<subEntries />
 		</entry>
 		<entry name="Udemae_03" offset="00" relocatable="true" max_length="0">
 			<original>Ｂ-</original>
-			<edited>Ｂ-</edited>
+			<edited>B-</edited>
 			<subEntries />
 		</entry>
 		<entry name="Udemae_04" offset="00" relocatable="true" max_length="0">
 			<original>Ｂ</original>
-			<edited>Ｂ</edited>
+			<edited>B</edited>
 			<subEntries />
 		</entry>
 		<entry name="Udemae_05" offset="00" relocatable="true" max_length="0">
 			<original>Ｂ+</original>
-			<edited>Ｂ+</edited>
+			<edited>B+</edited>
 			<subEntries />
 		</entry>
 		<entry name="Udemae_06" offset="00" relocatable="true" max_length="0">
 			<original>Ａ-</original>
-			<edited>Ａ-</edited>
+			<edited>A-</edited>
 			<subEntries />
 		</entry>
 		<entry name="Udemae_07" offset="00" relocatable="true" max_length="0">
 			<original>Ａ</original>
-			<edited>Ａ</edited>
+			<edited>A</edited>
 			<subEntries />
 		</entry>
 		<entry name="Udemae_08" offset="00" relocatable="true" max_length="0">
 			<original>Ａ+</original>
-			<edited>Ａ+</edited>
+			<edited>A+</edited>
 			<subEntries />
 		</entry>
 		<entry name="Udemae_09" offset="00" relocatable="true" max_length="0">
 			<original>Ｓ</original>
-			<edited>Ｓ</edited>
+			<edited>S</edited>
 			<subEntries />
 		</entry>
 		<entry name="Udemae_10" offset="00" relocatable="true" max_length="0">
 			<original>Ｓ+</original>
-			<edited>Ｓ+</edited>
+			<edited>S+</edited>
 			<subEntries />
 		</entry>
 		<entry name="Udemae_20" offset="00" relocatable="true" max_length="0">

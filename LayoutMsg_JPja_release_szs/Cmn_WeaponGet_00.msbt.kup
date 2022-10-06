@@ -5,37 +5,37 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Íをゲットした！</original>
-			<edited>得到 &#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í ！</edited>
+			<edited>获得&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>チケットをゲットした！</original>
-			<edited>得到票了！</edited>
+			<edited>获得票券！</edited>
 			<subEntries />
 		</entry>
 		<entry name="002" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;スーパーサザエ&#xE;&#x0;&#x3;&#x2;ÿÿをゲット！</original>
-			<edited>得到 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;超级海螺&#xE;&#x0;&#x3;&#x2;ÿÿ ！</edited>
+			<edited>获得&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;超级蝾螺&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="003" offset="00" relocatable="true" max_length="0">
 			<original>イリコニウムをゲットした！</original>
-			<edited>得到イリコニウム！</edited>
+			<edited>获得小鱼干！</edited>
 			<subEntries />
 		</entry>
 		<entry name="004" offset="00" relocatable="true" max_length="0">
 			<original>チケットをゲットした！</original>
-			<edited>得到票了！</edited>
+			<edited>获得票券！</edited>
 			<subEntries />
 		</entry>
 		<entry name="005" offset="00" relocatable="true" max_length="0">
 			<original>ギアパワーのかけらをゲットした！</original>
-			<edited>得到防具能力的碎片了！</edited>
+			<edited>获得装备能力碎片！</edited>
 			<subEntries />
 		</entry>
 		<entry name="006" offset="00" relocatable="true" max_length="0">
 			<original>イカラジオの新しいスタイルをゲットした！</original>
-			<edited>得到墨鱼电台的新风格！</edited>
+			<edited>获得鱿鱼电台的新风格！</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
@@ -50,8 +50,8 @@
 		<entry name="011" offset="00" relocatable="true" max_length="0">
 			<original>広場にある ロブの店に持っていってみよう！
 いいことがあるぞ！</original>
-			<edited>広場にある ロブの店に持っていってみよう！
-いいことがあるぞ！</edited>
+			<edited>带去位于广场的阿龙的店吧！
+会有好事发生！</edited>
 			<subEntries />
 		</entry>
 		<entry name="013" offset="00" relocatable="true" max_length="0">
@@ -64,22 +64,22 @@
 		<entry name="014" offset="00" relocatable="true" max_length="0">
 			<original>広場にある、ロブの店に持っていってみよう！
 いいことがあるぞ！</original>
-			<edited>広場にある、ロブの店に持っていってみよう！
-いいことがあるぞ！</edited>
+			<edited>带去位于广场的阿龙的店吧！
+会有好事发生！</edited>
 			<subEntries />
 		</entry>
 		<entry name="015" offset="00" relocatable="true" max_length="0">
 			<original>広場にいる、スパイキーのところに持っていってみよう！
 いいことがあるかも！</original>
-			<edited>広場にいる、スパイキーのところに持っていってみよう！
-いいことがあるかも！</edited>
+			<edited>带给位于广场的刺冠吧！
+说不定会有好事发生！</edited>
 			<subEntries />
 		</entry>
 		<entry name="020" offset="00" relocatable="true" max_length="0">
 			<original>「&#xE;&#x4;&#x1;&#x4;&#x0;&#x0;&#x0;Í」を ゲットした！
 インターネット対戦で 使ってみよう！</original>
-			<edited>获得「&#xE;&#x4;&#x1;&#x4;&#x0;&#x0;&#x0;Í」！
-在互联网对战里 用用看吧！</edited>
+			<edited>获得“&#xE;&#x4;&#x1;&#x4;&#x0;&#x0;&#x0;Í”！
+在互联网对战中使用吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="030" offset="00" relocatable="true" max_length="0">
@@ -106,19 +106,19 @@
 		</entry>
 		<entry name="T_Msg_02" offset="00" relocatable="true" max_length="0">
 			<original>イカラジオの曲をゲットした！</original>
-			<edited>イカラジオの曲をゲットした！</edited>
+			<edited>获得鱿鱼电台的乐曲！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Sazae_00" offset="00" relocatable="true" max_length="0">
 			<original>ランクアップボーナス！</original>
-			<edited>ランクアップボーナス！</edited>
+			<edited>等级提升奖励！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Info_03" offset="00" relocatable="true" max_length="0">
 			<original>「ヒーロースーツ レプリカ」を ゲットした！
 インターネット対戦で 使ってみよう！</original>
-			<edited>获得「ヒーロースーツ レプリカ」！
-在互联网对战里 用用看吧！</edited>
+			<edited>获得“ヒーロースーツ レプリカ”！
+在互联网对战中使用吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Info_04" offset="00" relocatable="true" max_length="0">

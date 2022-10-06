@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで ボムをきちんと投げましょウ</original>
-			<edited>&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで ボムをきちんと投げましょウ</edited>
+			<edited>&#xE;&#x2;&#28;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで ボムをきちんと投げましょウ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
@@ -50,7 +50,7 @@
 		</entry>
 		<entry name="Bomb_0008" offset="00" relocatable="true" max_length="0">
 			<original>インクレールです！ センプクして&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でジャ～ンプ♪</original>
-			<edited>インクレールです！ センプクして&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でジャ～ンプ♪</edited>
+			<edited>インクレールです！ センプクして&#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でジャ～ンプ♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_0009" offset="00" relocatable="true" max_length="0">

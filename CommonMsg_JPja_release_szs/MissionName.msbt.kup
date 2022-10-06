@@ -5,14 +5,14 @@
 	<entries>
 		<entry name="ManholeToPlaza" offset="00" relocatable="true" max_length="0">
 			<original>マンホール</original>
-			<edited>マンホール</edited>
+			<edited>下水道</edited>
 			<subEntries />
 		</entry>
 		<entry name="EasyHide00" offset="00" relocatable="true" max_length="0">
 			<original>オクタリアンふたたび…
 # 取りもどせデンチナマズ</original>
-			<edited>オクタリアンふたたび…
-# 取りもどせデンチナマズ</edited>
+			<edited>章鱼族再现…
+# 取回电池鲶鱼吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="EasyClimb00" offset="00" relocatable="true" max_length="0">

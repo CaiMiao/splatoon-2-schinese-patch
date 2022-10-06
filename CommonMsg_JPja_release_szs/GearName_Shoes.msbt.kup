@@ -10,7 +10,7 @@
 		</entry>
 		<entry name="SLO000" offset="00" relocatable="true" max_length="0">
 			<original>グリッチョ ブルー</original>
-			<edited>グリッチョ ブルー</edited>
+			<edited>低筒鞋 蓝色</edited>
 			<subEntries />
 		</entry>
 		<entry name="SLO001" offset="00" relocatable="true" max_length="0">
@@ -50,12 +50,12 @@
 		</entry>
 		<entry name="SLO008" offset="00" relocatable="true" max_length="0">
 			<original>ベリベリホワイト</original>
-			<edited>ベリベリホワイト</edited>
+			<edited>魔鬼毡鞋 白色</edited>
 			<subEntries />
 		</entry>
 		<entry name="SLO009" offset="00" relocatable="true" max_length="0">
 			<original>ベリベリレッド</original>
-			<edited>ベリベリレッド</edited>
+			<edited>魔鬼毡鞋 红色</edited>
 			<subEntries />
 		</entry>
 		<entry name="SLO010" offset="00" relocatable="true" max_length="0">
@@ -115,12 +115,12 @@
 		</entry>
 		<entry name="SHI000" offset="00" relocatable="true" max_length="0">
 			<original>シーホースHi レッド</original>
-			<edited>シーホースHi レッド</edited>
+			<edited>高筒海马鞋 红色</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHI001" offset="00" relocatable="true" max_length="0">
 			<original>シーホースHi ゾンビ</original>
-			<edited>シーホースHi ゾンビ</edited>
+			<edited>高筒海马鞋 僵尸</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHI002" offset="00" relocatable="true" max_length="0">
@@ -130,22 +130,22 @@
 		</entry>
 		<entry name="SHI003" offset="00" relocatable="true" max_length="0">
 			<original>シーホースHi パープル</original>
-			<edited>シーホースHi パープル</edited>
+			<edited>高筒海马鞋 紫色</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHI004" offset="00" relocatable="true" max_length="0">
 			<original>キャンバスHi モロヘイヤ</original>
-			<edited>キャンバスHi モロヘイヤ</edited>
+			<edited>高筒帆布鞋 黄麻</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHI005" offset="00" relocatable="true" max_length="0">
 			<original>キャンバスHi トマト</original>
-			<edited>キャンバスHi トマト</edited>
+			<edited>高筒帆布鞋 番茄</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHI006" offset="00" relocatable="true" max_length="0">
 			<original>シーホースHi ゴールド</original>
-			<edited>シーホースHi ゴールド</edited>
+			<edited>高筒海马鞋 金色</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHI008" offset="00" relocatable="true" max_length="0">
@@ -165,7 +165,7 @@
 		</entry>
 		<entry name="SHI011" offset="00" relocatable="true" max_length="0">
 			<original>デカロニックミント</original>
-			<edited>デカロニックミント</edited>
+			<edited>贝壳鞋 薄荷</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHI012" offset="00" relocatable="true" max_length="0">
@@ -190,17 +190,17 @@
 		</entry>
 		<entry name="SHI016" offset="00" relocatable="true" max_length="0">
 			<original>オルカHiサンセット</original>
-			<edited>オルカHiサンセット</edited>
+			<edited>虎鲸高筒鞋 日落 </edited>
 			<subEntries />
 		</entry>
 		<entry name="SHI017" offset="00" relocatable="true" max_length="0">
 			<original>エギング4 アカクロ</original>
-			<edited>エギング4 アカクロ</edited>
+			<edited>饵木钓鞋4 红配黑</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHI018" offset="00" relocatable="true" max_length="0">
 			<original>エギング4 アオクロ</original>
-			<edited>エギング4 アオクロ</edited>
+			<edited>饵木钓鞋4 蓝配黑</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHI019" offset="00" relocatable="true" max_length="0">
@@ -320,12 +320,12 @@
 		</entry>
 		<entry name="SHT000" offset="00" relocatable="true" max_length="0">
 			<original>ピンクビーンズ</original>
-			<edited>ピンクビーンズ</edited>
+			<edited>糖果运动鞋 粉红色</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT001" offset="00" relocatable="true" max_length="0">
 			<original>オレンジアローズ</original>
-			<edited>オレンジアローズ</edited>
+			<edited>箭标鞋 橘色</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT002" offset="00" relocatable="true" max_length="0">
@@ -340,7 +340,7 @@
 		</entry>
 		<entry name="SHT004" offset="00" relocatable="true" max_length="0">
 			<original>シアンビーンズ</original>
-			<edited>シアンビーンズ</edited>
+			<edited>糖果运动鞋 蓝绿色</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT005" offset="00" relocatable="true" max_length="0">
@@ -365,7 +365,7 @@
 		</entry>
 		<entry name="SHT009" offset="00" relocatable="true" max_length="0">
 			<original>ブラックビーンズ</original>
-			<edited>ブラックビーンズ</edited>
+			<edited>糖果运动鞋 黑色</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT010" offset="00" relocatable="true" max_length="0">
@@ -380,12 +380,12 @@
 		</entry>
 		<entry name="SHT012" offset="00" relocatable="true" max_length="0">
 			<original>アロメッシュイエロー</original>
-			<edited>アロメッシュイエロー</edited>
+			<edited>艾洛网眼运动鞋 黄色</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT013" offset="00" relocatable="true" max_length="0">
 			<original>アローズ タタキベッチュー</original>
-			<edited>アローズ タタキベッチュー</edited>
+			<edited>箭标鞋 剑尖鱿特制</edited>
 			<subEntries />
 		</entry>
 		<entry name="SHT014" offset="00" relocatable="true" max_length="0">
@@ -420,27 +420,27 @@
 		</entry>
 		<entry name="SDL000" offset="00" relocatable="true" max_length="0">
 			<original>オイスタークロッグ</original>
-			<edited>オイスタークロッグ</edited>
+			<edited>鳄鱼鞋 牡蛎</edited>
 			<subEntries />
 		</entry>
 		<entry name="SDL001" offset="00" relocatable="true" max_length="0">
 			<original>チョコクロッグ</original>
-			<edited>チョコクロッグ</edited>
+			<edited>鳄鱼鞋 巧克力</edited>
 			<subEntries />
 		</entry>
 		<entry name="SDL003" offset="00" relocatable="true" max_length="0">
 			<original>デルタストラップ ネオン</original>
-			<edited>デルタストラップ ネオン</edited>
+			<edited>三角带运动凉鞋 霓虹</edited>
 			<subEntries />
 		</entry>
 		<entry name="SDL004" offset="00" relocatable="true" max_length="0">
 			<original>BBサンダル</original>
-			<edited>BBサンダル</edited>
+			<edited>BB拖鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="SDL005" offset="00" relocatable="true" max_length="0">
 			<original>デルタストラップ スノー</original>
-			<edited>デルタストラップ スノー</edited>
+			<edited>三角带运动凉鞋 雪白</edited>
 			<subEntries />
 		</entry>
 		<entry name="SDL006" offset="00" relocatable="true" max_length="0">
@@ -450,12 +450,12 @@
 		</entry>
 		<entry name="SDL007" offset="00" relocatable="true" max_length="0">
 			<original>ヤキフグシャワサン アカ</original>
-			<edited>ヤキフグシャワサン アカ</edited>
+			<edited>烧河豚浴室拖鞋 红色</edited>
 			<subEntries />
 		</entry>
 		<entry name="SDL008" offset="00" relocatable="true" max_length="0">
 			<original>ヤキフグシャワサン キ</original>
-			<edited>ヤキフグシャワサン キ</edited>
+			<edited>烧河豚浴室拖鞋 黄色</edited>
 			<subEntries />
 		</entry>
 		<entry name="SDL009" offset="00" relocatable="true" max_length="0">
@@ -475,12 +475,12 @@
 		</entry>
 		<entry name="TRS000" offset="00" relocatable="true" max_length="0">
 			<original>トレッキングライト</original>
-			<edited>トレッキングライト</edited>
+			<edited>登山鞋 轻量</edited>
 			<subEntries />
 		</entry>
 		<entry name="TRS001" offset="00" relocatable="true" max_length="0">
 			<original>トレッキングカスタム</original>
-			<edited>トレッキングカスタム</edited>
+			<edited>登山鞋 订制</edited>
 			<subEntries />
 		</entry>
 		<entry name="TRS002" offset="00" relocatable="true" max_length="0">
@@ -490,12 +490,12 @@
 		</entry>
 		<entry name="BOT000" offset="00" relocatable="true" max_length="0">
 			<original>モトクロスブーツ</original>
-			<edited>モトクロスブーツ</edited>
+			<edited>越野摩托车靴</edited>
 			<subEntries />
 		</entry>
 		<entry name="BOT001" offset="00" relocatable="true" max_length="0">
 			<original>ヌバックブーツ イエロー</original>
-			<edited>ヌバックブーツ イエロー</edited>
+			<edited>磨砂皮革靴 黄色</edited>
 			<subEntries />
 		</entry>
 		<entry name="BOT002" offset="00" relocatable="true" max_length="0">
@@ -520,12 +520,12 @@
 		</entry>
 		<entry name="BOT006" offset="00" relocatable="true" max_length="0">
 			<original>ロッキンホワイト</original>
-			<edited>ロッキンホワイト</edited>
+			<edited>摇滚靴 白色</edited>
 			<subEntries />
 		</entry>
 		<entry name="BOT007" offset="00" relocatable="true" max_length="0">
 			<original>ロッキンチェリー</original>
-			<edited>ロッキンチェリー</edited>
+			<edited>摇滚靴 樱桃</edited>
 			<subEntries />
 		</entry>
 		<entry name="BOT008" offset="00" relocatable="true" max_length="0">
@@ -550,7 +550,7 @@
 		</entry>
 		<entry name="BOT012" offset="00" relocatable="true" max_length="0">
 			<original>ハンティングブーツ</original>
-			<edited>ハンティングブーツ</edited>
+			<edited>狩猎靴</edited>
 			<subEntries />
 		</entry>
 		<entry name="BOT013" offset="00" relocatable="true" max_length="0">
@@ -595,7 +595,7 @@
 		</entry>
 		<entry name="SLP002" offset="00" relocatable="true" max_length="0">
 			<original>スリッポン チドリ</original>
-			<edited>スリッポン チドリ</edited>
+			<edited>懒人鞋 千鸟</edited>
 			<subEntries />
 		</entry>
 		<entry name="SLP003" offset="00" relocatable="true" max_length="0">
@@ -655,7 +655,7 @@
 		</entry>
 		<entry name="LTS010" offset="00" relocatable="true" max_length="0">
 			<original>アナアキラバー ハバネロ</original>
-			<edited>アナアキラバー ハバネロ</edited>
+			<edited>无法无天厚底鞋 哈瓦那辣椒</edited>
 			<subEntries />
 		</entry>
 		<entry name="LTS011" offset="00" relocatable="true" max_length="0">
@@ -675,12 +675,12 @@
 		</entry>
 		<entry name="AMB001" offset="00" relocatable="true" max_length="0">
 			<original>サムライシューズ</original>
-			<edited>サムライシューズ</edited>
+			<edited>武士鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="AMB002" offset="00" relocatable="true" max_length="0">
 			<original>パワードレッグス</original>
-			<edited>パワードレッグス</edited>
+			<edited>动力靴</edited>
 			<subEntries />
 		</entry>
 		<entry name="AMB003" offset="00" relocatable="true" max_length="0">
@@ -690,47 +690,47 @@
 		</entry>
 		<entry name="AMB004" offset="00" relocatable="true" max_length="0">
 			<original>シノビアシ</original>
-			<edited>シノビアシ</edited>
+			<edited>忍者鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="AMB005" offset="00" relocatable="true" max_length="0">
 			<original>パワードレッグス オリジン</original>
-			<edited>パワードレッグス オリジン</edited>
+			<edited>动力靴 原型</edited>
 			<subEntries />
 		</entry>
 		<entry name="AMB006" offset="00" relocatable="true" max_length="0">
 			<original>ヒメイトスニーカー</original>
-			<edited>ヒメイトスニーカー</edited>
+			<edited>姬伴运动鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="AMB007" offset="00" relocatable="true" max_length="0">
 			<original>イイダチスリッポン</original>
-			<edited>イイダチスリッポン</edited>
+			<edited>饭友懒人鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="AMB008" offset="00" relocatable="true" max_length="0">
 			<original>エンチャントブーツ</original>
-			<edited>エンチャントブーツ</edited>
+			<edited>魔力靴</edited>
 			<subEntries />
 		</entry>
 		<entry name="AMB009" offset="00" relocatable="true" max_length="0">
 			<original>タコティカルなすねあて</original>
-			<edited>タコティカルなすねあて</edited>
+			<edited>章鱼护腿鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="AMB010" offset="00" relocatable="true" max_length="0">
 			<original>ひれおくんのあし</original>
-			<edited>ひれおくんのあし</edited>
+			<edited>鱼奇奇鞋</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN000" offset="00" relocatable="true" max_length="0">
 			<original>ヒーローキックス レプリカ</original>
-			<edited>ヒーローキックス レプリカ</edited>
+			<edited>英雄鞋 复制</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN004" offset="00" relocatable="true" max_length="0">
 			<original>アーマーブーツ レプリカ</original>
-			<edited>アーマーブーツ レプリカ</edited>
+			<edited>盔甲靴 复制</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN101" offset="00" relocatable="true" max_length="0">

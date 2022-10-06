@@ -30,7 +30,7 @@
 		</entry>
 		<entry name="005" offset="00" relocatable="true" max_length="0">
 			<original>ＯＫ！</original>
-			<edited>ＯＫ！</edited>
+			<edited>OK！</edited>
 			<subEntries />
 		</entry>
 		<entry name="006" offset="00" relocatable="true" max_length="0">

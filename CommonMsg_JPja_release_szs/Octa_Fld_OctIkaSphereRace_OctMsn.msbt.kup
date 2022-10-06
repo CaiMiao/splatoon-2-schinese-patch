@@ -15,7 +15,7 @@
 		</entry>
 		<entry name="Syasyo_0002" offset="00" relocatable="true" max_length="0">
 			<original>イカスフィアは &#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で爆発を起こせまス</original>
-			<edited>イカスフィアは &#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で爆発を起こせまス</edited>
+			<edited>イカスフィアは &#xE;&#x2;&#30;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で爆発を起こせまス</edited>
 			<subEntries />
 		</entry>
 		<entry name="IkaSphereRace_0001" offset="00" relocatable="true" max_length="0">
@@ -35,7 +35,7 @@
 		</entry>
 		<entry name="IkaSphereRace_0006" offset="00" relocatable="true" max_length="0">
 			<original>イカスフィアでも、&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でジャンプ！</original>
-			<edited>イカスフィアでも、&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でジャンプ！</edited>
+			<edited>イカスフィアでも、&#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でジャンプ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="IkaSphereRace_0007" offset="00" relocatable="true" max_length="0">

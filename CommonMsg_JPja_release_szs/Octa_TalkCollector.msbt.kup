@@ -6,14 +6,14 @@
 		<entry name="Talk_Free_00" offset="00" relocatable="true" max_length="0">
 			<original>「ワガハイはタコである 名前はまだない」&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 …ってか？</original>
-			<edited>「ワガハイはタコである 名前はまだない」&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>「ワガハイはタコである 名前はまだない」&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 …ってか？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_01" offset="00" relocatable="true" max_length="0">
 			<original>ふるさとはいつも 心のなかにある…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 はなれていても キミは恐れることなんてない…</original>
-			<edited>ふるさとはいつも 心のなかにある…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>ふるさとはいつも 心のなかにある…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 はなれていても キミは恐れることなんてない…</edited>
 			<subEntries />
 		</entry>
@@ -39,7 +39,7 @@
 		<entry name="Talk_Free_05" offset="00" relocatable="true" max_length="0">
 			<original>じいさんから ラップを習ったけど、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 オレには ゆっくりと、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 夢について語ることしかできない…</original>
-			<edited>じいさんから ラップを習ったけど、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>じいさんから ラップを習ったけど、&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 オレには ゆっくりと、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 夢について語ることしかできない…</edited>
 			<subEntries />
 		</entry>
@@ -56,21 +56,21 @@
 		<entry name="Talk_Free_08" offset="00" relocatable="true" max_length="0">
 			<original>おじさんよりも、若い子と話したかったって…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 ………ごめん</original>
-			<edited>おじさんよりも、若い子と話したかったって…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>おじさんよりも、若い子と話したかったって…？&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 ………ごめん</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_09" offset="00" relocatable="true" max_length="0">
 			<original>井の中のグソク、大海を知らず…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 されど 深海のヤミの深さは よく知っている…</original>
-			<edited>井の中のグソク、大海を知らず…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>井の中のグソク、大海を知らず…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 されど 深海のヤミの深さは よく知っている…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_10" offset="00" relocatable="true" max_length="0">
 			<original>このアタッシュケースには 何が入ってるかって？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 ……夢と希望だよ</original>
-			<edited>このアタッシュケースには 何が入ってるかって？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>このアタッシュケースには 何が入ってるかって？&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 ……夢と希望だよ</edited>
 			<subEntries />
 		</entry>
@@ -82,7 +82,7 @@
 		<entry name="Talk_Free_12" offset="00" relocatable="true" max_length="0">
 			<original>おじさんの チャームポイントはどこかって…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 ………おヒゲだよ</original>
-			<edited>おじさんの チャームポイントはどこかって…？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>おじさんの チャームポイントはどこかって…？&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 ………おヒゲだよ</edited>
 			<subEntries />
 		</entry>
@@ -106,7 +106,7 @@
 		<entry name="Talk_Free_16" offset="00" relocatable="true" max_length="0">
 			<original>路線によって 車窓の風景は移ろう…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 それもまた 乗りかえの一興…</original>
-			<edited>路線によって 車窓の風景は移ろう…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>路線によって 車窓の風景は移ろう…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 それもまた 乗りかえの一興…</edited>
 			<subEntries />
 		</entry>
@@ -118,7 +118,7 @@
 		<entry name="Talk_Free_18" offset="00" relocatable="true" max_length="0">
 			<original>乗ってる路線によって 客層は変わる…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 みんな 帰る場所が あるんだね…</original>
-			<edited>乗ってる路線によって 客層は変わる…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>乗ってる路線によって 客層は変わる…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 みんな 帰る場所が あるんだね…</edited>
 			<subEntries />
 		</entry>
@@ -161,14 +161,14 @@
 		<entry name="Talk_Free_25" offset="00" relocatable="true" max_length="0">
 			<original>キレイはきたない　きたないはキレイ…&#xE;&#x0;&#x4;&#x0;不完全なものも　美しいと思えるようになったとき、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 この世界は ずっと かがやいて見えるようになる…</original>
-			<edited>キレイはきたない　きたないはキレイ…&#xE;&#x0;&#x4;&#x0;不完全なものも　美しいと思えるようになったとき、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>キレイはきたない　きたないはキレイ…&#xE;&#x0;&#x4;&#x0;不完全なものも　美しいと思えるようになったとき、&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 この世界は ずっと かがやいて見えるようになる…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_26" offset="00" relocatable="true" max_length="0">
 			<original>どんなに遠くへ 旅をしても、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 自分自身から にげることは できない…</original>
-			<edited>どんなに遠くへ 旅をしても、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>どんなに遠くへ 旅をしても、&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 自分自身から にげることは できない…</edited>
 			<subEntries />
 		</entry>
@@ -183,7 +183,7 @@
 			<original>オレが旅をするのは、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
 どこかに　たどり着くためじゃあない…&#xE;&#x0;&#x4;&#x0;それはただ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;　旅そのものが、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 楽しいからなんだ…</original>
 			<edited>オレが旅をするのは、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;
-どこかに　たどり着くためじゃあない…&#xE;&#x0;&#x4;&#x0;それはただ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;　旅そのものが、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 楽しいからなんだ…</edited>
+どこかに　たどり着くためじゃあない…&#xE;&#x0;&#x4;&#x0;それはただ…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;　旅そのものが、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 楽しいからなんだ…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_29" offset="00" relocatable="true" max_length="0">
@@ -198,14 +198,14 @@
 		<entry name="Talk_Free_30" offset="00" relocatable="true" max_length="0">
 			<original>ナマコくんのことは 昔から知っているよ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 だってオレ… ずっと列車、乗ってるからね…</original>
-			<edited>ナマコくんのことは 昔から知っているよ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>ナマコくんのことは 昔から知っているよ…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 だってオレ… ずっと列車、乗ってるからね…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_31" offset="00" relocatable="true" max_length="0">
 			<original>ナマコくんは 働き者だよ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 おじさんの 100倍くらい、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 働き者だよ…</original>
-			<edited>ナマコくんは 働き者だよ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>ナマコくんは 働き者だよ…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 おじさんの 100倍くらい、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 働き者だよ…</edited>
 			<subEntries />
 		</entry>

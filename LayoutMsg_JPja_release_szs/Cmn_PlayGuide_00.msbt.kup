@@ -5,87 +5,87 @@
 	<entries>
 		<entry name="SuperMissile" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;相手をロックオンしろ！</original>
-			<edited>&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;锁定对手吧！</edited>
+			<edited>按&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;锁定对手吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="RainCloud" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;そうちを投げろ！</original>
-			<edited>&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;扔出装置吧！</edited>
+			<edited>按&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;投掷装置吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Jetpack" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;弾を撃ちまくれ！</original>
-			<edited>&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;射出子弹吧！</edited>
+			<edited>按&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;尽情射击吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LauncherSplash" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ボムを投げまくれ！</original>
-			<edited>&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;扔出炸弹吧！</edited>
+			<edited>按&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;尽情投掷炸弹吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LauncherSuction" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ボムを投げまくれ！</original>
-			<edited>&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;扔出炸弹吧！</edited>
+			<edited>按&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;尽情投掷炸弹吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LauncherQuick" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ボムを投げまくれ！</original>
-			<edited>&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;扔出炸弹吧！</edited>
+			<edited>按&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;尽情投掷炸弹吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LauncherCurling" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ボムを投げまくれ！</original>
-			<edited>&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;扔出炸弹吧！</edited>
+			<edited>按&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;尽情投掷炸弹吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="LauncherRobo" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ボムを投げまくれ！</original>
-			<edited>&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;扔出炸弹吧！</edited>
+			<edited>按&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;尽情投掷炸弹吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="AquaBall" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで起爆！</original>
-			<edited>&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;长按爆破！</edited>
+			<edited>长按&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;引爆！</edited>
 			<subEntries />
 		</entry>
 		<entry name="SuperBubble" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;弾を撃て！</original>
-			<edited>&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;发射子弹吧！</edited>
+			<edited>按&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;射击吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="WaterCutter" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;弾を撃て！</original>
-			<edited>&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;发射子弹吧！</edited>
+			<edited>按&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;射击吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="ThrowClam" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x0;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;相手ゴールに投げ入れろ！</original>
-			<edited>&#xE;&#x2;&#x0;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;扔进对手的球门吧！</edited>
+			<edited>&#xE;&#x2;&#x0;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;投入对手阵地的终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="SuperBall" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;玉を投げろ！</original>
-			<edited>&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;投球吧！</edited>
+			<edited>按&#xE;&#x2;&#x5;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;投掷赞气弹吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="SuperBallNice" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;	&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ナイスを送れ！</original>
-			<edited>&#xE;&#x2;	&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;传送好球吧！</edited>
+			<edited>&#xE;&#x2;	&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;送出赞气吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="SuperBallNiceSelf" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;	&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ナイスをためろ！</original>
-			<edited>&#xE;&#x2;	&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;接下好球吧！</edited>
+			<edited>&#xE;&#x2;	&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;累积赞气吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="SuperStamp" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ハンコを押せ！</original>
-			<edited>&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;按下印章吧！</edited>
+			<edited>按&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;盖下印章吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BigLaser" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;弾を撃て！</original>
-			<edited>&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;发射子弹吧！</edited>
+			<edited>按&#xE;&#x2;&#x7;&#x8;d&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;射击吧！</edited>
 			<subEntries />
 		</entry>
 	</entries>

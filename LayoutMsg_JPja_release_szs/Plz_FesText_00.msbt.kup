@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="T_FesDays_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x5;&#x1;&#x2;&#x0;Í開催</original>
-			<edited>&#xE;&#x5;&#x1;&#x2;&#x0;Í開催</edited>
+			<edited>&#xE;&#x5;&#x1;&#x2;&#x0;Í举行</edited>
 			<subEntries />
 		</entry>
 	</entries>

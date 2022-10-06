@@ -5,22 +5,22 @@
 	<entries>
 		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>ギアの注文</original>
-			<edited>防具下单</edited>
+			<edited>预订装备</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Status_00-T_Yeah_00" offset="00" relocatable="true" max_length="0">
 			<original>イカす！</original>
-			<edited>イカす！</edited>
+			<edited>鱿型！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Status_00-T_TotalScore_00" offset="00" relocatable="true" max_length="0">
 			<original>今まで塗った面積</original>
-			<edited>至今涂抹面积</edited>
+			<edited>至今涂墨面积</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Status_00-T_RankHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>ウデマエ</original>
-			<edited>本事</edited>
+			<edited>技术</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Status_00-T_Equip_00" offset="00" relocatable="true" max_length="0">
@@ -30,7 +30,7 @@
 		</entry>
 		<entry name="L_Status_00-L_Rank_00-T_RankHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>ランク</original>
-			<edited>Rank</edited>
+			<edited>等级</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Status_00-T_Report_00" offset="00" relocatable="true" max_length="0">

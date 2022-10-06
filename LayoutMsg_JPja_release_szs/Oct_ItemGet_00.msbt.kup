@@ -5,17 +5,17 @@
 	<entries>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>「&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í」をゲットした！</original>
-			<edited>「&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í」をゲットした！</edited>
+			<edited>获得“&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í”！</edited>
 			<subEntries />
 		</entry>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>「&#xE;&#x4;&#x1;&#x4;&#x0;&#x0;&#x0;Í」をゲットした！</original>
-			<edited>「&#xE;&#x4;&#x1;&#x4;&#x0;&#x0;&#x0;Í」をゲットした！</edited>
+			<edited>获得“&#xE;&#x4;&#x1;&#x4;&#x0;&#x0;&#x0;Í”！</edited>
 			<subEntries />
 		</entry>
 		<entry name="003" offset="00" relocatable="true" max_length="0">
 			<original>ギアパワーのかけらをゲットした！</original>
-			<edited>ギアパワーのかけらをゲットした！</edited>
+			<edited>获得装备能力碎片！</edited>
 			<subEntries />
 		</entry>
 		<entry name="004" offset="00" relocatable="true" max_length="0">

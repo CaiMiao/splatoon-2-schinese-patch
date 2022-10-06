@@ -5,19 +5,19 @@
 	<entries>
 		<entry name="Msg_Network_Error" offset="00" relocatable="true" max_length="0">
 			<original>通信エラーが発生しました</original>
-			<edited>发生了通讯错误</edited>
+			<edited>发生连接错误。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Wrong_Password_Error" offset="00" relocatable="true" max_length="0">
 			<original>パスワードが間違っているため
 合流できません</original>
-			<edited>由于密码错误
-无法合流</edited>
+			<edited>密码错误，
+无法会合。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Master_Disconnected_Error" offset="00" relocatable="true" max_length="0">
 			<original>親との通信が切れました</original>
-			<edited>与主控间的通讯中断了</edited>
+			<edited>和主办者的连接已中断。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Bad_Condition_Error" offset="00" relocatable="true" max_length="0">
@@ -25,24 +25,24 @@
 このエラーが何度も発生するときは、お客さまの
 通信環境が 不安定になっている可能性があります
 くわしくは Nintendo Switchサポートサイトをご覧ください</original>
-			<edited>- 通讯已被切断 -
-多次出现这个错误的时候，代表您的
-通讯环境有可能正变得不稳定
-详情请浏览Nintendo Switch支持网站</edited>
+			<edited>- 连接已中断 -
+当该错误反复发生时，
+有可能是用户的连接环境不稳定。
+详情请查看Nintendo Switch支持网站。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Session_Is_Full_Error" offset="00" relocatable="true" max_length="0">
 			<original>接続先が満員のため、参加できませんでした
 しばらく待って、やりなおしてください</original>
-			<edited>由于连接目标人数已满，无法参加
-请稍候再重试</edited>
+			<edited>连接目标已满，无法参加。
+请稍后再试。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Not_Download_Schedule" offset="00" relocatable="true" max_length="0">
 			<original>この先のモードで遊ぶには インターネットに接続して
 最新のステージ情報を 受信する必要があります</original>
-			<edited>若要游玩接下来的模式 必需连接到互联网
-接受最新的关卡信息</edited>
+			<edited>若想游玩之后的模式，
+必须连接互联网接收最新的场地信息。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_Not_Download_Schedule" offset="00" relocatable="true" max_length="0">
@@ -58,13 +58,13 @@
 		<entry name="Msg_Not_Download_Schedule_VerZero" offset="00" relocatable="true" max_length="0">
 			<original>この先のモードで遊ぶには インターネットに接続して
 最新のバージョンに 更新してください</original>
-			<edited>若要游玩接下来的模式 请连接到互联网
-更新到最新的版本</edited>
+			<edited>若想游玩之后的模式，
+必须连接互联网更新至最新版本。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Product_Placement" offset="00" relocatable="true" max_length="0">
 			<original>プロダクトプレイスメントに関する文言</original>
-			<edited>健康游戏忠告
+			<edited>- 健康游戏忠告 -
 抵制不良游戏，拒绝盗版游戏。
 注意自我保护，谨防受骗上当。
 适度游戏益脑，沉迷游戏伤身。
@@ -75,7 +75,7 @@
 			<original>プライベートマッチを解散しますか？
 （参加中のプレイヤーもマッチから抜けます）</original>
 			<edited>要解散私人比赛吗？
-（参加中的玩家也将移出比赛）</edited>
+（所有参加的玩家都会离开比赛。）</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_DestroyConfirm_Private" offset="00" relocatable="true" max_length="0">
@@ -90,7 +90,7 @@
 		</entry>
 		<entry name="Msg_LeaveConfirm_Private" offset="00" relocatable="true" max_length="0">
 			<original>プライベートマッチから抜けますか？</original>
-			<edited>要离开私人比赛吗？</edited>
+			<edited>要离开比赛吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_LeaveConfirm_Private" offset="00" relocatable="true" max_length="0">
@@ -137,7 +137,7 @@
 			<original>部屋を解散しますか？
 （参加中のプレイヤーも部屋から抜けます）</original>
 			<edited>要解散房间吗？
-（参加中的玩家也将移出房间）</edited>
+（所有参加的玩家都会离开房间。）</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_DestroyConfirm_CoopLocal" offset="00" relocatable="true" max_length="0">
@@ -183,13 +183,13 @@
 		<entry name="Msg_JoinConfirm_Regular" offset="00" relocatable="true" max_length="0">
 			<original>レギュラーマッチに参加しますか？
 （８人そろったらバトルが始まります）</original>
-			<edited>レギュラーマッチに参加しますか？
-（８人そろったらバトルが始まります）</edited>
+			<edited>要参加一般比赛吗？
+（对战将会在凑齐8人后开始。）</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_JoinConfirm_Regular" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnR_JoinConfirm_Regular" offset="00" relocatable="true" max_length="0">
@@ -200,13 +200,13 @@
 		<entry name="Msg_JoinConfirm_Gachi" offset="00" relocatable="true" max_length="0">
 			<original>ガチマッチに参加しますか？
 （８人そろったらバトルが始まります）</original>
-			<edited>ガチマッチに参加しますか？
-（８人そろったらバトルが始まります）</edited>
+			<edited>要参加真格比赛吗？
+（对战将会在凑齐8人后开始。）</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_JoinConfirm_Gachi" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnR_JoinConfirm_Gachi" offset="00" relocatable="true" max_length="0">
@@ -217,13 +217,13 @@
 		<entry name="Msg_JoinConfirm_Fest" offset="00" relocatable="true" max_length="0">
 			<original>フェスマッチに参加しますか？
 （８人そろったらバトルが始まります）</original>
-			<edited>フェスマッチに参加しますか？
-（８人そろったらバトルが始まります）</edited>
+			<edited>要参加祭典比赛吗？
+（对战将会在凑齐8人后开始。）</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_JoinConfirm_Fest" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnR_JoinConfirm_Fest" offset="00" relocatable="true" max_length="0">
@@ -240,22 +240,22 @@
 		</entry>
 		<entry name="BtnL_JoinConfirm_Friend" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnR_JoinConfirm_Friend" offset="00" relocatable="true" max_length="0">
 			<original>合流する！</original>
-			<edited>合流！</edited>
+			<edited>会合！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_JoinConfirm_CoopTutorial" offset="00" relocatable="true" max_length="0">
 			<original>けんしゅうに参加しますか？</original>
-			<edited>けんしゅうに参加しますか？</edited>
+			<edited>要参加实习吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_JoinConfirm_CoopTutorial" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnR_JoinConfirm_CoopTutorial" offset="00" relocatable="true" max_length="0">
@@ -265,12 +265,12 @@
 		</entry>
 		<entry name="Msg_JoinConfirm_Coop" offset="00" relocatable="true" max_length="0">
 			<original>アルバイトに参加しますか？</original>
-			<edited>要参加兼职吗？</edited>
+			<edited>要参加打工吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_JoinConfirm_Coop" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnR_JoinConfirm_Coop" offset="00" relocatable="true" max_length="0">
@@ -286,14 +286,14 @@
 それでも、バイトに参加するかい？</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;注意&#xE;&#x0;&#x3;&#x2;ÿÿ
 
-評価に差があるプレイヤーと バイトに参加する場合
-評価が上がらないことがあるよ
-それでも、バイトに参加するかい？</edited>
+与评价存在差距的玩家一同参加打工时，
+评价可能不会提升。
+是否继续参加打工？</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_JoinFriend_Attention_Coop" offset="00" relocatable="true" max_length="0">
 			<original>やめる</original>
-			<edited>やめる</edited>
+			<edited>放弃</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnR_JoinFriend_Attention_Coop" offset="00" relocatable="true" max_length="0">
@@ -304,13 +304,13 @@
 		<entry name="Msg_GradeResetConfirm_Coop" offset="00" relocatable="true" max_length="0">
 			<original>バイトの評価を たつじん &#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í に
 リセットしますか？</original>
-			<edited>バイトの評価を たつじん &#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í に
-リセットしますか？</edited>
+			<edited>确定要将打工评价
+重置为 达人 &#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í 吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_GradeResetConfirm_Coop" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnR_GradeResetConfirm_Coop" offset="00" relocatable="true" max_length="0">
@@ -321,20 +321,20 @@
 		<entry name="Msg_GradeResetEnd_Coop" offset="00" relocatable="true" max_length="0">
 			<original>バイトの評価を たつじん &#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í に
 リセットしました</original>
-			<edited>バイトの評価を たつじん &#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í に
-リセットしました</edited>
+			<edited>打工评价
+已重置为 达人 &#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í 。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_NotFoundSession" offset="00" relocatable="true" max_length="0">
 			<original>部屋が見つかりませんでした
 もういちど検索しますか？</original>
-			<edited>没有找到房间
+			<edited>未找到房间
 要再次搜索吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_NotFoundSession" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnR_NotFoundSession" offset="00" relocatable="true" max_length="0">
@@ -344,85 +344,85 @@
 		</entry>
 		<entry name="Msg_FullParticipantSession" offset="00" relocatable="true" max_length="0">
 			<original>選択した部屋は満員のため参加できません</original>
-			<edited>由于所选房间人满无法参加</edited>
+			<edited>所选房间已满，无法参加。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_NotFound_Friend" offset="00" relocatable="true" max_length="0">
 			<original>スプラトゥーン2 では、 フレンドといっしょに
 対戦や協力プレイで遊べます
 HOMEメニューのマイページから フレンド追加してみましょう！</original>
-			<edited>スプラトゥーン2 では、 フレンドといっしょに
-対戦や協力プレイで遊べます
-HOMEメニューのマイページから フレンド追加してみましょう！</edited>
+			<edited>在《Splatoon 2》中，
+您可以和好友一起对战或合作游玩。
+通过HOME菜单进入我的页面新增好友试试吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_NotJoinableFriend" offset="00" relocatable="true" max_length="0">
 			<original>選択したフレンドは 合流できません</original>
-			<edited>選択したフレンドは 合流できません</edited>
+			<edited>无法与所选玩家会合。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_FullParticipantFriend" offset="00" relocatable="true" max_length="0">
 			<original>選択したフレンドの部屋は満員のため合流できません</original>
-			<edited>選択したフレンドの部屋は満員のため合流できません</edited>
+			<edited>所选玩家房间已满，无法会合。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_NotEnoughMatchingMember" offset="00" relocatable="true" max_length="0">
 			<original>必要な人数がそろっていません
 人数がそろうまでお待ちください</original>
-			<edited>未达到必要人数
-在人数凑够前请稍等</edited>
+			<edited>未凑齐所需人数，
+请在凑齐人数前稍作等待。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_InvalidTeamSelect" offset="00" relocatable="true" max_length="0">
 			<original>このチーム設定で対戦することはできません
 設定をやりなおしてください</original>
-			<edited>当前队伍设定无法进行对战
-请重新设定</edited>
+			<edited>无法以此队伍设置进行对战。
+请重新设置。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_NetworkReady_Inet" offset="00" relocatable="true" max_length="0">
 			<original>インターネットに接続しています…</original>
-			<edited>正连接到互联网…</edited>
+			<edited>正在连接互联网……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_NetworkReady_Local" offset="00" relocatable="true" max_length="0">
 			<original>ローカル通信の準備をしています…</original>
-			<edited>正准备本地通讯…</edited>
+			<edited>正在准备本地联机……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_NetworkReady_Lan" offset="00" relocatable="true" max_length="0">
 			<original>LAN通信の準備をしています…</original>
-			<edited>正准备LAN通讯…</edited>
+			<edited>正在准备局域网联机……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_AutoMatch" offset="00" relocatable="true" max_length="0">
 			<original>参加できるバトルを探しています…</original>
-			<edited>正寻找可参加的战斗…</edited>
+			<edited>正在寻找可参加对战……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_JoinMatch" offset="00" relocatable="true" max_length="0">
 			<original>しばらくお待ちください…</original>
-			<edited>请稍候…</edited>
+			<edited>请稍候……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_CreateMatch_Private" offset="00" relocatable="true" max_length="0">
 			<original>プライベートマッチをつくっています…</original>
-			<edited>正创建私人比赛…</edited>
+			<edited>正在创建私人比赛……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_JoinMatch_Private" offset="00" relocatable="true" max_length="0">
 			<original>プライベートマッチに参加しています…</original>
-			<edited>正参加私人比赛…</edited>
+			<edited>正在参加私人比赛……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_CreateMatch_League" offset="00" relocatable="true" max_length="0">
 			<original>リーグマッチの部屋をつくっています…</original>
-			<edited>正创建联盟比赛的房间…</edited>
+			<edited>リーグマッチの部屋をつくっています…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_JoinMatch_League" offset="00" relocatable="true" max_length="0">
 			<original>リーグマッチの部屋に参加しています…</original>
-			<edited>正参加联盟比赛的房间…</edited>
+			<edited>リーグマッチの部屋に参加しています…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_CreateMatch_Fest" offset="00" relocatable="true" max_length="0">
@@ -437,48 +437,48 @@ HOMEメニューのマイページから フレンド追加してみましょう
 		</entry>
 		<entry name="Msg_AutoMatch_Coop" offset="00" relocatable="true" max_length="0">
 			<original>バイト仲間を探しています…</original>
-			<edited>バイト仲間を探しています…</edited>
+			<edited>正在寻找打工同伴……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_CreateMatch_Coop" offset="00" relocatable="true" max_length="0">
 			<original>バイトの部屋を作っています…</original>
-			<edited>バイトの部屋を作っています…</edited>
+			<edited>正在创建打工的房间……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_JoinMatch_Coop" offset="00" relocatable="true" max_length="0">
 			<original>バイトの部屋に参加しています…</original>
-			<edited>バイトの部屋に参加しています…</edited>
+			<edited>正在参加打工的房间……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_CreateMatch_CoopLocal" offset="00" relocatable="true" max_length="0">
 			<original>部屋を作っています…</original>
-			<edited>部屋を作っています…</edited>
+			<edited>正在创建房间……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_JoinMatch_CoopLocal" offset="00" relocatable="true" max_length="0">
 			<original>部屋に参加しています…</original>
-			<edited>部屋に参加しています…</edited>
+			<edited>正在参加房间……</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Matchmake_Timeout" offset="00" relocatable="true" max_length="0">
 			<original>時間内に人数が集まりませんでした
 もう一度 お試しください</original>
-			<edited>時間内に人数が集まりませんでした
-もう一度 お試しください</edited>
+			<edited>未在指定时间内凑齐所需人数。
+请再试一次。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_DisconnectSameSession" offset="00" relocatable="true" max_length="0">
 			<original>チームメンバーとの通信が切れました
 ロビーにもどります</original>
-			<edited>チームメンバーとの通信が切れました
-ロビーにもどります</edited>
+			<edited>和队友的连接已中断。
+即将返回大厅。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Mismatch_FestTeam" offset="00" relocatable="true" max_length="0">
 			<original>部屋を作成したメンバーと 所属チームが異なるため
 参加することが できません</original>
-			<edited>部屋を作成したメンバーと 所属チームが異なるため
-参加することが できません</edited>
+			<edited>与创建房间的成员所属队伍不同，
+无法参加。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_NetworkServiceAccount_Wrong" offset="00" relocatable="true" max_length="0">
@@ -499,10 +499,10 @@ HOMEメニューのマイページから フレンド追加してみましょう
 この状態が何度もつづくと、
 しばらく 通信プレイに参加できなくなる場合があります
 通信環境をご確認の上、もう一度お試しください</original>
-			<edited>前回の通信プレイが 正常に終了しませんでした
-この状態が何度もつづくと、
-しばらく 通信プレイに参加できなくなる場合があります
-通信環境をご確認の上、もう一度お試しください</edited>
+			<edited>上一次连接游玩未能正常结束。
+若此情况反复发生，
+将有可能暂时无法参加连接游玩。
+请在检查连接环境后再次尝试。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_OnlinePlayPenalty_Short" offset="00" relocatable="true" max_length="0">
@@ -510,10 +510,10 @@ HOMEメニューのマイページから フレンド追加してみましょう
 新しく通信プレイを 始めることができません
 通信環境をご確認いただいたうえで、
 &#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í分後に もう一度お試しください</original>
-			<edited>前回の通信プレイが 正常に終了しなかったため、
-新しく通信プレイを 始めることができません
-通信環境をご確認いただいたうえで、
-&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í分後に もう一度お試しください</edited>
+			<edited>由于上一次连接游玩未能正常结束，
+无法开始新的连接游玩。
+请检查连接环境，
+并在&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í分钟后再次尝试。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_OnlinePlayPenalty_Short_Plu" offset="00" relocatable="true" max_length="0">
@@ -521,10 +521,10 @@ HOMEメニューのマイページから フレンド追加してみましょう
 新しく通信プレイを 始めることができません
 通信環境をご確認いただいたうえで、
 &#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í分後に もう一度お試しください</original>
-			<edited>前回の通信プレイが 正常に終了しなかったため、
-新しく通信プレイを 始めることができません
-通信環境をご確認いただいたうえで、
-&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í分後に もう一度お試しください</edited>
+			<edited>由于上一次连接游玩未能正常结束，
+无法开始新的连接游玩。
+请检查连接环境，
+并在&#xE;ú&#x2;&#x4;&#x0;&#x0;&#x0;Í分钟后再次尝试。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_OnlinePlayPenalty_Long" offset="00" relocatable="true" max_length="0">
@@ -533,10 +533,10 @@ HOMEメニューのマイページから フレンド追加してみましょう
 通信環境をご確認いただいたうえで、
 下記日時までお待ちください
 &#xE;&#x5;&#x3;&#x0;</original>
-			<edited>前回の通信プレイが 正常に終了しなかったため
-新しく通信プレイを 始めることができません
-通信環境をご確認いただいたうえで、
-下記日時までお待ちください
+			<edited>由于上一次连接游玩未能正常结束，
+无法开始新的连接游玩。
+请检查连接环境，
+并等待至以下时间：
 &#xE;&#x5;&#x3;&#x0;</edited>
 			<subEntries />
 		</entry>
@@ -547,7 +547,7 @@ HOMEメニューのマイページから フレンド追加してみましょう
 		</entry>
 		<entry name="Msg_Goto_DayChange" offset="00" relocatable="true" max_length="0">
 			<original>スケジュールが更新されました</original>
-			<edited>スケジュールが更新されました</edited>
+			<edited>日程已更新。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Goto_Lobby_ForUdemaeX" offset="00" relocatable="true" max_length="0">
@@ -575,14 +575,14 @@ HOMEメニューのマイページから フレンド追加してみましょう
 			<original>インターネット対戦に参加すると、
 ゲーム内やウェブサイト上でプレイヤーデータが
 公開されることがあります</original>
-			<edited>インターネット対戦に参加すると、
-ゲーム内やウェブサイト上でプレイヤーデータが
-公開されることがあります</edited>
+			<edited>参加互联网对战后，
+您的玩家数据将有可能
+会在游戏内或网站上公开。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Invalid_Coral_Room" offset="00" relocatable="true" max_length="0">
 			<original>現在、このモードでは遊べません</original>
-			<edited>現在、このモードでは遊べません</edited>
+			<edited>目前无法游玩该模式。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_OutOfService_ForShow" offset="00" relocatable="true" max_length="0">
@@ -611,22 +611,22 @@ HOMEメニューのマイページから フレンド追加してみましょう
 		<entry name="Msg_Amiibo_Reading" offset="00" relocatable="true" max_length="0">
 			<original>amiiboを読みこんでいます
 そのまま動かさないでください</original>
-			<edited>amiiboを読みこんでいます
-そのまま動かさないでください</edited>
+			<edited>正在读取amiibo，
+请保持现状，不要进行其他操作。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Amiibo_Writing" offset="00" relocatable="true" max_length="0">
 			<original>amiiboに書きこんでいます
 そのまま動かさないでください</original>
-			<edited>amiiboに書きこんでいます
-そのまま動かさないでください</edited>
+			<edited>正在写入amiibo，
+请保持现状，不要进行其他操作。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Amiibo_NotSupported" offset="00" relocatable="true" max_length="0">
 			<original>スプラトゥーン2に対応したamiiboを
 かざしてください</original>
-			<edited>スプラトゥーン2に対応したamiiboを
-かざしてください</edited>
+			<edited>请触碰对应《Splatoon 2》的amiibo。
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Amiibo_OtherErr" offset="00" relocatable="true" max_length="0">
@@ -657,18 +657,18 @@ amiiboの読みこみに対応したコントローラーが
 		<entry name="Msg_Amiibo_NeedRestore" offset="00" relocatable="true" max_length="0">
 			<original>amiiboのデータが壊れています
 この本体に保存されているデータで 復旧しますか？</original>
-			<edited>amiiboのデータが壊れています
-この本体に保存されているデータで 復旧しますか？</edited>
+			<edited>amiibo的数据已损坏。
+要用保存在此主机上的数据进行恢复吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_Amiibo_NeedRestore" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnR_Amiibo_NeedRestore" offset="00" relocatable="true" max_length="0">
 			<original>復旧する</original>
-			<edited>复原</edited>
+			<edited>修复</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Amiibo_NeedFormat" offset="00" relocatable="true" max_length="0">
@@ -676,27 +676,27 @@ amiiboの読みこみに対応したコントローラーが
 このamiiboを使ったことのあるゲーム機本体で
 復旧をためすか、またはHOMEメニューの
 「設定」→「amiibo」から amiiboを初期化してください</original>
-			<edited>amiiboのデータが壊れています
-このamiiboを使ったことのあるゲーム機本体で
-復旧をためすか、またはHOMEメニューの
-「設定」→「amiibo」から amiiboを初期化してください</edited>
+			<edited>amiibo的数据已损坏。
+请在使用过该amiibo的游戏主机上
+尝试恢复，或在HOME菜单的
+“设置”→“amiibo”中初始化amiibo。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Btn_Amiibo_NeedFormat" offset="00" relocatable="true" max_length="0">
 			<original>ＯＫ</original>
-			<edited>ＯＫ</edited>
+			<edited>OK</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Amiibo_ResultAccessIdMisMatch" offset="00" relocatable="true" max_length="0">
 			<original>他のゲームデータが書きこまれているため 使用できません
 amiiboのデータを消去して 書きこめるようにしますか？</original>
-			<edited>他のゲームデータが書きこまれているため 使用できません
-amiiboのデータを消去して 書きこめるようにしますか？</edited>
+			<edited>已写入其他游戏的数据，无法使用。
+要删除amiibo的数据以便写入吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_Amiibo_ResultAccessIdMisMatch" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnR_Amiibo_ResultAccessIdMisMatch" offset="00" relocatable="true" max_length="0">
@@ -707,65 +707,65 @@ amiiboのデータを消去して 書きこめるようにしますか？</edite
 		<entry name="Msg_Amiibo_NotWritten" offset="00" relocatable="true" max_length="0">
 			<original>コーディネートが 登録されていません
 カスタマイズの「その他」で 登録してください</original>
-			<edited>コーディネートが 登録されていません
-カスタマイズの「その他」で 登録してください</edited>
+			<edited>尚未登录穿搭。
+请通过自定义的“其他”进行登录。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Cst_Amiibo_NotSigned" offset="00" relocatable="true" max_length="0">
 			<original>さきに 広場で amiibo登録を すませてください</original>
-			<edited>さきに 広場で amiibo登録を すませてください</edited>
+			<edited>请先前往广场完成amiibo登录。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Cst_Amiibo_OtherSigned" offset="00" relocatable="true" max_length="0">
 			<original>他の人が登録している amiiboです</original>
-			<edited>他の人が登録している amiiboです</edited>
+			<edited>此amiibo已被他人登录。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_CstAmiibo_Success" offset="00" relocatable="true" max_length="0">
 			<original>書きこみが完了しました
  が表示されているところで タッチすると
 書きこんだ内容を 読みこみます</original>
-			<edited>書きこみが完了しました
- が表示されているところで タッチすると
-書きこんだ内容を 読みこみます</edited>
+			<edited>写入完成。
+在显示 的时候触碰amiibo，
+即可读取写入的内容。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_WirelessProCon_ForAmiibo" offset="00" relocatable="true" max_length="0">
 			<original>amiiboを使えるようにするために
 「Proコントローラーの有線通信」設定を
 OFFに切り替えました</original>
-			<edited>amiiboを使えるようにするために
-「Proコントローラーの有線通信」設定を
-OFFに切り替えました</edited>
+			<edited>基于使用amiibo的需求，
+已将“Pro手柄的有线连接”的设置
+切换为关闭。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_WiredProCon_ForAmiibo" offset="00" relocatable="true" max_length="0">
 			<original>「Proコントローラーの有線通信」設定を
 ONに切り替えました</original>
-			<edited>「Proコントローラーの有線通信」設定を
-ONに切り替えました</edited>
+			<edited>已将“Pro手柄的有线连接”的设置
+切换为开启。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Plz_Amiibo_RegistOwner" offset="00" relocatable="true" max_length="0">
 			<original>amiiboを呼び出すにはオーナー登録と
 ニックネーム登録が必要です</original>
-			<edited>amiiboを呼び出すにはオーナー登録と
-ニックネーム登録が必要です</edited>
+			<edited>必须完成主人登录与昵称登录
+才能召唤amiibo。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_Plz_Amiibo_RegistOwner" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnR_Plz_Amiibo_RegistOwner" offset="00" relocatable="true" max_length="0">
 			<original>登録する！</original>
-			<edited>登记！</edited>
+			<edited>登录！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Plz_Amiibo_OtherAmiibo" offset="00" relocatable="true" max_length="0">
 			<original>別の amiiboが タッチされました</original>
-			<edited>別の amiiboが タッチされました</edited>
+			<edited>目前触碰的并非同一个amiibo。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Plz_Amiibo_FirstShot" offset="00" relocatable="true" max_length="0">
@@ -789,12 +789,12 @@ ONに切り替えました</edited>
 書かないようにしましょう。
 手書きイラストは、ハイカラスクエアの
 カンバンや ラクガキとして表示されます。</original>
-			<edited>手書きイラストを、インターネットに投稿することができます。
-イラストは、他のユーザーに公開されることがあるので
-人のいやがることを書いたり、自分や他人の個人情報を
-書かないようにしましょう。
-手書きイラストは、ハイカラスクエアの
-カンバンや ラクガキとして表示されます。</edited>
+			<edited>你可以通过互联网发布自己绘制的插画。
+由于插画会在其他用户间公开，
+所以请不要发布令人不快的插画，
+或是在插画中透露自己或他人的个人信息。
+插画会以尚兴广场的
+招牌或涂鸦的形式显示。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Plz_Coconut_LocalInfo" offset="00" relocatable="true" max_length="0">
@@ -803,62 +803,62 @@ ONに切り替えました</edited>
 制限されているため 投稿することができません
 書いたイラストは ハイカラスクエアの
 カンバンや ラクガキとして 表示されます</original>
-			<edited>インターネット接続していないか、 保護者による使用制限の
-「ほかの人との自由なコミュニケーション」が
-制限されているため 投稿することができません
-書いたイラストは ハイカラスクエアの
-カンバンや ラクガキとして 表示されます</edited>
+			<edited>由于未连接互联网，或是在Parental Controls设置中
+限制了“与他人自由交流”的功能，
+因此无法发布插画。
+已绘制的插画会以尚兴广场的
+招牌或涂鸦的形式显示。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_Plz_Coconut_LocalInfo" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnR_Plz_Coconut_LocalInfo" offset="00" relocatable="true" max_length="0">
 			<original>おえかきする！</original>
-			<edited>おえかきする！</edited>
+			<edited>绘制！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Plz_Coconut_Uploading" offset="00" relocatable="true" max_length="0">
 			<original>終了処理が、行われています
 しばらくお待ちください</original>
-			<edited>終了処理が、行われています
-しばらくお待ちください</edited>
+			<edited>正在进行结束处理，
+请稍候。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Plz_Anemo_First_00" offset="00" relocatable="true" max_length="0">
 			<original>ゲソタウンは、インターネットサービス「イカリング2」で
 利用できる、ギア注文機能です</original>
-			<edited>ゲソタウンは、インターネットサービス「イカリング2」で
-利用できる、ギア注文機能です</edited>
+			<edited>鱿鱼须商城是通过互联网服务《鱿鱼圈 2》
+来预订装备的功能</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Plz_Anemo_First_01" offset="00" relocatable="true" max_length="0">
 			<original>くわしくは、スプラトゥーン2 公式サイトをご覧ください</original>
-			<edited>くわしくは、スプラトゥーン2 公式サイトをご覧ください</edited>
+			<edited>详情请查看《Splatoon 2》的官方网站。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Plz_Anemo_Network_Error" offset="00" relocatable="true" max_length="0">
 			<original>接続に失敗しました</original>
-			<edited>接続に失敗しました</edited>
+			<edited>连接失败。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Lby_Announce_For_LocalPlay" offset="00" relocatable="true" max_length="0">
 			<original>- イカッチャからのお知らせ -
 ゲームを遊ぶ時は周りに気をつけてお楽しみください</original>
-			<edited>- 来自墨潮玩的通知 -
-在游玩时请注意身旁并享受游戏吧</edited>
+			<edited>- 来自鱿乐天地的通知 - 
+在游玩时请留意四周事物，并快乐享受游戏吧</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Fest_IsNot_BeingHeld" offset="00" relocatable="true" max_length="0">
 			<original>フェスは現在開催されていません</original>
-			<edited>フェスは現在開催されていません</edited>
+			<edited>目前尚未举行祭典。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Plz_Coconut_FailedUpload" offset="00" relocatable="true" max_length="0">
 			<original>投稿は行われませんでした</original>
-			<edited>投稿は行われませんでした</edited>
+			<edited>已取消发布。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Title_Eve_EndFest" offset="00" relocatable="true" max_length="0">
@@ -866,10 +866,10 @@ ONに切り替えました</edited>
 プレイ期間は終了しました
 
 ソフトを終了してください</original>
-			<edited>「スプラトゥーン2 前夜祭版」の
-プレイ期間は終了しました
+			<edited>《Splatoon 2 前夜祭版》的
+游玩期限已结束。
 
-ソフトを終了してください</edited>
+请关闭软件。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Plz_CoopClosed" offset="00" relocatable="true" max_length="0">
@@ -883,7 +883,7 @@ SALMON RUN の募集期間をお知らせしております
 クマサン商会</original>
 			<edited>～現在アルバイトは募集しておりません～
 
-&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;メニューの「ステージ情報」から、
+&#xE;&#x2;&#25;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;メニューの「ステージ情報」から、
 SALMON RUN の募集期間をお知らせしております
 日時をご確認のうえ お越しください
 
@@ -893,7 +893,7 @@ SALMON RUN の募集期間をお知らせしております
 		</entry>
 		<entry name="Msg_Customize_Close" offset="00" relocatable="true" max_length="0">
 			<original>このそうびで よろしいですか？</original>
-			<edited>このそうびで よろしいですか？</edited>
+			<edited>确定要使用此装备吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_Customize_Close" offset="00" relocatable="true" max_length="0">
@@ -915,7 +915,7 @@ SALMON RUN の募集期間をお知らせしております
 		</entry>
 		<entry name="Btn_Lobby_AutoRankUpUdeameX" offset="00" relocatable="true" max_length="0">
 			<original>ＯＫ</original>
-			<edited>ＯＫ</edited>
+			<edited>OK</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Canyon_Download_Info_Trial" offset="00" relocatable="true" max_length="0">
@@ -938,7 +938,7 @@ SALMON RUN の募集期間をお知らせしております
 		</entry>
 		<entry name="BtnR_Canyon_Download_Info_Trial" offset="00" relocatable="true" max_length="0">
 			<original>eショップ</original>
-			<edited>eShop</edited>
+			<edited>e商店</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Octa_Download_Info_Trial" offset="00" relocatable="true" max_length="0">
@@ -951,12 +951,13 @@ SALMON RUN の募集期間をお知らせしております
 製品版と追加コンテンツの内容の確認と
 購入をすることができます。</original>
 			<edited>若要游玩之后的内容，
-必需购买零售版「Splatoon 2」以及
-新增内容「Splatoon 2 Octo Expansion」。
-
+必须购买正式版《Splatoon 2》以及
+新增内容《Splatoon 2 Octo Expansion》。
 前往任天堂e商店，
-即可查看零售版与新增内容的信息
-和进行购买。</edited>
+
+即可查看正式版与新增内容的信息
+并进行购买。
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_Octa_Download_Info_Trial" offset="00" relocatable="true" max_length="0">
@@ -966,7 +967,7 @@ SALMON RUN の募集期間をお知らせしております
 		</entry>
 		<entry name="BtnR_Octa_Download_Info_Trial" offset="00" relocatable="true" max_length="0">
 			<original>eショップ</original>
-			<edited>eShop</edited>
+			<edited>e商店</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Local_Download_Info_Trial" offset="00" relocatable="true" max_length="0">
@@ -989,7 +990,7 @@ SALMON RUN の募集期間をお知らせしております
 		</entry>
 		<entry name="BtnR_Local_Download_Info_Trial" offset="00" relocatable="true" max_length="0">
 			<original>eショップ</original>
-			<edited>eShop</edited>
+			<edited>e商店</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Minigame_Download_Info_Trial" offset="00" relocatable="true" max_length="0">
@@ -1012,7 +1013,7 @@ SALMON RUN の募集期間をお知らせしております
 		</entry>
 		<entry name="BtnR_Minigame_Download_Info_Trial" offset="00" relocatable="true" max_length="0">
 			<original>eショップ</original>
-			<edited>eShop</edited>
+			<edited>e商店</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_BeforeOpen_Trial" offset="00" relocatable="true" max_length="0">
@@ -1024,7 +1025,7 @@ SALMON RUN の募集期間をお知らせしております
 		</entry>
 		<entry name="Btn_BeforeOpen_Trial" offset="00" relocatable="true" max_length="0">
 			<original>ＯＫ</original>
-			<edited>ＯＫ</edited>
+			<edited>OK</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_BeforeOpen_Trial" offset="00" relocatable="true" max_length="0">
@@ -1034,7 +1035,7 @@ SALMON RUN の募集期間をお知らせしております
 		</entry>
 		<entry name="BtnR_BeforeOpen_Trial" offset="00" relocatable="true" max_length="0">
 			<original>eショップ</original>
-			<edited>eShop</edited>
+			<edited>e商店</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_AfterOpen_Trial" offset="00" relocatable="true" max_length="0">
@@ -1063,7 +1064,7 @@ SALMON RUN の募集期間をお知らせしております
 		</entry>
 		<entry name="BtnR_AfterOpen_Trial" offset="00" relocatable="true" max_length="0">
 			<original>eショップ</original>
-			<edited>eShop</edited>
+			<edited>e商店</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_SaveData_Migration" offset="00" relocatable="true" max_length="0">
@@ -1076,8 +1077,8 @@ SALMON RUN の募集期間をお知らせしております
 		<entry name="Msg_EndCalico" offset="00" relocatable="true" max_length="0">
 			<original>インターネットサービス「イカリング２」は
 サービス終了しました</original>
-			<edited>网络服务「SplatNet 2」
-已结束运营</edited>
+			<edited>インターネットサービス「イカリング２」は
+サービス終了しました</edited>
 			<subEntries />
 		</entry>
 	</entries>

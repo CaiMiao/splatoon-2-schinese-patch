@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="T_CameraHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>見下ろしカメラ</original>
-			<edited>俯视镜头</edited>
+			<edited>俯瞰镜头</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_CameraHeader_01" offset="00" relocatable="true" max_length="0">
@@ -15,7 +15,7 @@
 		</entry>
 		<entry name="T_CameraHeader_02" offset="00" relocatable="true" max_length="0">
 			<original>ルール別カメラ</original>
-			<edited>各规则镜头</edited>
+			<edited>个别规则镜头</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Header_00" offset="00" relocatable="true" max_length="0">
@@ -25,17 +25,17 @@
 		</entry>
 		<entry name="T_Header_01" offset="00" relocatable="true" max_length="0">
 			<original>カメラ操作</original>
-			<edited>镜头操作</edited>
+			<edited>操作镜头</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_OperationHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>見下ろしカメラ</original>
-			<edited>俯视镜头</edited>
+			<edited>俯瞰镜头</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_OperationHeader_01" offset="00" relocatable="true" max_length="0">
 			<original>ルール別カメラ</original>
-			<edited>各规则镜头</edited>
+			<edited>个别规则镜头</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Header_02" offset="00" relocatable="true" max_length="0">
@@ -45,12 +45,12 @@
 		</entry>
 		<entry name="T_Map_00" offset="00" relocatable="true" max_length="0">
 			<original>マップ表示</original>
-			<edited>地图显示</edited>
+			<edited>显示地图</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Camera_00" offset="00" relocatable="true" max_length="0">
 			<original>ズーム ON/OFF</original>
-			<edited>缩放 ON/OFF</edited>
+			<edited>缩放 开启/关闭</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Camera_01" offset="00" relocatable="true" max_length="0">
@@ -70,37 +70,37 @@
 		</entry>
 		<entry name="T_Target_01" offset="00" relocatable="true" max_length="0">
 			<original>エリア１</original>
-			<edited>区域１</edited>
+			<edited>区域1</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Target_02" offset="00" relocatable="true" max_length="0">
 			<original>エリア２</original>
-			<edited>区域２</edited>
+			<edited>区域2</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Target_00" offset="00" relocatable="true" max_length="0">
 			<original>ヤグラ・ホコ・エリア</original>
-			<edited>攻城台・鱼虎・区域</edited>
+			<edited>塔楼·鱼虎·区域</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Player_01" offset="00" relocatable="true" max_length="0">
 			<original>ブラボーチーム</original>
-			<edited>B队</edited>
+			<edited>Bravo队</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Player_00" offset="00" relocatable="true" max_length="0">
 			<original>アルファチーム</original>
-			<edited>A队</edited>
+			<edited>Alpha队</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Target_03" offset="00" relocatable="true" max_length="0">
 			<original>ゴール１</original>
-			<edited>终点１</edited>
+			<edited>终点1</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Target_04" offset="00" relocatable="true" max_length="0">
 			<original>ゴール２</original>
-			<edited>终点２</edited>
+			<edited>终点2</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_OperationHeader_02" offset="00" relocatable="true" max_length="0">
@@ -115,7 +115,7 @@
 		</entry>
 		<entry name="T_CameraHeader_03" offset="00" relocatable="true" max_length="0">
 			<original>自動観戦カメラ ON/OFF</original>
-			<edited>自动观战镜头 ON/OFF</edited>
+			<edited>自动观战镜头 开启/关闭</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_CameraHeader_04" offset="00" relocatable="true" max_length="0">

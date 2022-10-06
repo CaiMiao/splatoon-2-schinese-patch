@@ -78,7 +78,7 @@
 		<entry name="Cleared_0001" offset="00" relocatable="true" max_length="0">
 			<original>Yo～！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ワシはレペゼン ハイカラスクエア！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 タコが好きだよ 前に比べれば！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; チェケ！</original>
-			<edited>Yo～！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ワシはレペゼン ハイカラスクエア！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>Yo～！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ワシはレペゼン ハイカラスクエア！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 タコが好きだよ 前に比べれば！&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; チェケ！</edited>
 			<subEntries />
 		</entry>
@@ -104,7 +104,7 @@
 		<entry name="VendingMachine_Debt" offset="00" relocatable="true" max_length="0">
 			<original>むむッ…！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 借金しとる身で 気ままにお買い物じゃと…？！&#xE;&#x0;&#x4;&#x0;おヌシには モラルっちゅうもんが ないんかッ！！</original>
-			<edited>むむッ…！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>むむッ…！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 借金しとる身で 気ままにお買い物じゃと…？！&#xE;&#x0;&#x4;&#x0;おヌシには モラルっちゅうもんが ないんかッ！！</edited>
 			<subEntries />
 		</entry>

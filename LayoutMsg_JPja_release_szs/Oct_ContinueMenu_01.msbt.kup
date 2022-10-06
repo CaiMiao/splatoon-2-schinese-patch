@@ -5,32 +5,32 @@
 	<entries>
 		<entry name="L_Button_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>チェックポイントからやり直す</original>
-			<edited>从检查点重来</edited>
+			<edited>从关卡点重新开始</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Text_00" offset="00" relocatable="true" max_length="0">
 			<original>次のエリアへ進みます</original>
-			<edited>前往下个区域</edited>
+			<edited>次のエリアへ進みます</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Text_01" offset="00" relocatable="true" max_length="0">
 			<original>本当に死闘をくりひろげますか？</original>
-			<edited>真的要展开死斗吗？</edited>
+			<edited>本当に死闘をくりひろげますか？</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Button_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>やっぱ自力でがんばる</original>
-			<edited>还是努力自己解决</edited>
+			<edited>还是努力靠自己好了</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Button_03-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>本当に死闘をくりひろげる</original>
-			<edited>真的展开死斗</edited>
+			<edited>本当に死闘をくりひろげる</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>死闘をくりひろげる</original>
-			<edited>展开死斗</edited>
+			<edited>死闘をくりひろげる</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_KeyIcon_00-T_Info_01" offset="00" relocatable="true" max_length="0">

@@ -12,24 +12,25 @@
 			<original>ギアをバトルで使用して
 ケイケン値をためると
 ギアパワーが解放されます。</original>
-			<edited>在战斗中使用防具
-积累经验值后
-就会解锁防具能力。</edited>
+			<edited>在对战中使用装备
+累积经验值，
+装备能力就会被解放。</edited>
 			<subEntries />
 		</entry>
 		<entry name="OpInkEffect_Reduction" offset="00" relocatable="true" max_length="0">
 			<original>相手のインクをふんだ時の
 ダメージや移動速度の
 減少が少なくなります。</original>
-			<edited>减少踩在对手的墨汁上时
-所受伤害与移动速度减少量。</edited>
+			<edited>减轻踩到对手墨汁时
+所受伤害以及移动速度的
+减少幅度。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BombDamage_Reduction" offset="00" relocatable="true" max_length="0">
 			<original>メインウェポン以外の爆発で
 受けるダメージと、位置を発見
 してくる攻撃の効果を軽減します。</original>
-			<edited>减轻因主武器之外的爆炸
+			<edited>减轻因主要武器之外的爆炸
 所受的伤害，以及定位攻击*的效果。
 （*位置を発見してくる攻撃）</edited>
 			<subEntries />
@@ -38,81 +39,83 @@
 			<original>メインウェポンの
 消費インク量が
 少なくなります。</original>
-			<edited>减少主武器的
-墨汁消耗量。</edited>
+			<edited>减少主要武器的墨汁消耗量。
+
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="SubInk_Save" offset="00" relocatable="true" max_length="0">
 			<original>サブウェポンの消費インク量が
 少なくなります。</original>
-			<edited>减少副武器的
-墨汁消耗量。</edited>
+			<edited>减少次要武器的墨汁消耗量。
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="InkRecovery_Up" offset="00" relocatable="true" max_length="0">
 			<original>インクタンク回復速度が
 アップします。</original>
-			<edited>提高墨汁罐的
-恢复速度。</edited>
+			<edited>提升墨汁槽的回复速度。
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="HumanMove_Up" offset="00" relocatable="true" max_length="0">
 			<original>ヒト状態の移動速度が
 アップします。</original>
-			<edited>提高人形状态的
-移动速度。</edited>
+			<edited>提升人类状态的移动速度。
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="SquidMove_Up" offset="00" relocatable="true" max_length="0">
 			<original>イカダッシュ時の移動速度が
 アップします。</original>
-			<edited>提高墨鱼冲刺时的
-移动速度。</edited>
+			<edited>提升鱿鱼冲刺时的移动速度。
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="SpecialIncrease_Up" offset="00" relocatable="true" max_length="0">
 			<original>スペシャルゲージの増加量が
 アップします。</original>
-			<edited>提高特殊计量表的
-增加量。</edited>
+			<edited>提升特殊武器蓄力槽的增加量。
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="RespawnSpecialGauge_Save" offset="00" relocatable="true" max_length="0">
 			<original>プレイヤーがやられた時の
 スペシャルゲージの減少量が
 少なくなります。</original>
-			<edited>减少玩家被打倒时
-特殊计量表的减少量。</edited>
+			<edited>降低玩家阵亡时
+特殊武器蓄力槽的减少量。
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="SpecialTime_Up" offset="00" relocatable="true" max_length="0">
 			<original>スペシャルウェポンの性能が
 アップします。</original>
-			<edited>提高特殊武器的
-性能。</edited>
+			<edited>提升特殊武器的性能。
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="RespawnTime_Save" offset="00" relocatable="true" max_length="0">
 			<original>相手を一人も倒せないまま
 連続でやられた時、
 復活時間が短くなります。</original>
-			<edited>缩短在没有击倒任何一位对手的
-情况下连续被打倒时
-所需的复活时间。</edited>
+			<edited>在未击倒对手
+却连续阵亡时，
+缩短复活时间。</edited>
 			<subEntries />
 		</entry>
 		<entry name="JumpTime_Save" offset="00" relocatable="true" max_length="0">
 			<original>スーパージャンプの時間が
 短くなります。</original>
-			<edited>缩短超级跳跃
-所需时间。</edited>
+			<edited>缩短超级跳跃的时间。
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="BombDistance_Up" offset="00" relocatable="true" max_length="0">
 			<original>サブウェポンの性能が
 アップします。</original>
-			<edited>提高副武器的
-性能。</edited>
+			<edited>提升次要武器的性能。
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="MarkingTime_Reduction" offset="00" relocatable="true" max_length="0">
@@ -125,101 +128,107 @@
 		<entry name="MarkingTime_Reduction_Default" offset="00" relocatable="true" max_length="0">
 			<original>メインウェポンの性能が
 アップします。</original>
-			<edited>提高主武器的
-性能。</edited>
+			<edited>提升主要武器的性能。
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="ExSkillDouble" offset="00" relocatable="true" max_length="0">
 			<original>このギアについている
 追加ギアパワーを
 １つで２コ分の効果にします。</original>
-			<edited>此防具所赋有的
-额外防具能力
-发挥双倍效果。</edited>
+			<edited>可以使附加在装备上的
+每1个追加装备能力
+获得2倍的效果。</edited>
 			<subEntries />
 		</entry>
 		<entry name="StartAllUp" offset="00" relocatable="true" max_length="0">
 			<original>対戦開始から３０カウントの間
 移動に関する効果が
 かなりアップします。</original>
-			<edited>对战开始后30个计数内
-大幅提高移动相关的效果。</edited>
+			<edited>在对战开始后的30计数期间
+移动相关的效果
+会大幅提升。</edited>
 			<subEntries />
 		</entry>
 		<entry name="EndAllUp" offset="00" relocatable="true" max_length="0">
 			<original>対戦終了の３０カウント前から
 インク効率とインク回復速度が
 かなりアップします。</original>
-			<edited>对战结束前30个计数内
-大幅提高墨汁效率与
-墨汁恢复速度。</edited>
+			<edited>从对战结束前的30计数开始
+墨汁效率及墨汁回复速度
+会大幅提升。</edited>
 			<subEntries />
 		</entry>
 		<entry name="MinorityUp" offset="00" relocatable="true" max_length="0">
 			<original>自チームの人数が相手チーム
 より少ない場合、少しずつ
 スペシャルゲージが増えます。</original>
-			<edited>我方队伍人数比对手队伍
-更少的情况下，缓缓增加
-特殊计量表。</edited>
+			<edited>当我方人数少于敌方时，
+特殊武器蓄力槽
+会微幅增加。</edited>
 			<subEntries />
 		</entry>
 		<entry name="ComeBack" offset="00" relocatable="true" max_length="0">
 			<original>プレイヤーがやられて復帰後、
 しばらくの間、一部の能力が
 かなりアップします。</original>
-			<edited>玩家被打倒后回归时，
-短时间内大幅提高部分能力。</edited>
+			<edited>玩家阵亡回归后，
+部分能力会暂时大幅提升。
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="SquidMoveSpatter_Reduction" offset="00" relocatable="true" max_length="0">
 			<original>地面をイカダッシュした時に
 インクが飛び散らなくなるが、
 移動速度が少しダウンします。</original>
-			<edited>在地面进行墨鱼冲刺时
-墨汁不会飞溅，但是稍微降低
-移动速度。</edited>
+			<edited>于地面进行鱿鱼冲刺时，
+墨汁不会飞溅，
+但移动速度会略微降低。</edited>
 			<subEntries />
 		</entry>
 		<entry name="DeathMarking" offset="00" relocatable="true" max_length="0">
 			<original>復活したとき、
 自分を倒した相手の位置が
 遠くから見えるようになります。</original>
-			<edited>复活时，
+			<edited>复活后，
 可以从远处看到
-击倒自己的对手的位置。</edited>
+击倒自己的对手位置。</edited>
 			<subEntries />
 		</entry>
 		<entry name="SuperJumpSign_Hide" offset="00" relocatable="true" max_length="0">
 			<original>スーパージャンプの着地点を
 示すマーカーが、はなれた場所
 から見えなくなります。</original>
-			<edited>使指示你超级跳跃的
-落地点的标记无法从远处看到。</edited>
+			<edited>远处玩家无法看见
+超级跳跃落地点的记号。
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="ThermalInk" offset="00" relocatable="true" max_length="0">
 			<original>メインウェポンの弾を直接
 当てた相手が、しばらくの間、
 遠くから見えるようになります。</original>
-			<edited>使被主武器直接打中的对手
-短时间内可从远处看到。</edited>
+			<edited>可以暂时从远处看见
+被主要武器直接打中的对手。
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="Exorcist" offset="00" relocatable="true" max_length="0">
 			<original>自プレイヤーと倒した相手の
 スペシャル減少量と
 復活時間が増えます。</original>
-			<edited>增加玩家自身与击倒的对手的
-特殊减少量与复活时间。</edited>
+			<edited>增加自己与被击倒对手的
+复活时间以及特殊武器
+蓄力槽的减少量。</edited>
 			<subEntries />
 		</entry>
 		<entry name="ObjectEffect_Up" offset="00" relocatable="true" max_length="0">
 			<original>プレイヤー以外の物体に対して
 攻撃したときのダメージを
 増やします。</original>
-			<edited>增加对玩家以外的物体
-进行攻击时的伤害。</edited>
+			<edited>提升对非玩家的物体
+进行攻击时的伤害。
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="SomersaultLanding" offset="00" relocatable="true" max_length="0">
@@ -227,8 +236,8 @@
 スティックをたおしておくと
 着地と同時に前転します。</original>
 			<edited>超级跳跃落地时
-推动摇杆即可在落地同时
-向前翻滚。</edited>
+推动摇杆的话，
+就能在落地的同时向前翻滚。</edited>
 			<subEntries />
 		</entry>
 	</entries>

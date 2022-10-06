@@ -11,10 +11,11 @@
 追加コンテンツの内容の確認と
 購入をすることができます。</original>
 			<edited>若要游玩之后的内容，
-必需购买「Splatoon 2 Octo Expansion」。
+必须购买新增内容
+《Splatoon 2 Octo Expansion》。
 前往任天堂e商店，
 即可查看新增内容的信息
-和进行购买。</edited>
+并进行购买。</edited>
 			<subEntries />
 		</entry>
 		<entry name="BtnL_Download_Info_Octa" offset="00" relocatable="true" max_length="0">
@@ -24,16 +25,16 @@
 		</entry>
 		<entry name="BtnR_Download_Info_Octa" offset="00" relocatable="true" max_length="0">
 			<original>eショップ</original>
-			<edited>eShop</edited>
+			<edited>e商店</edited>
 			<subEntries />
 		</entry>
 		<entry name="Msg_Downloaded_Octa" offset="00" relocatable="true" max_length="0">
 			<original>追加コンテンツを購入された場合は、
 ダウンロードが完了したあと 「スプラトゥーン2」を終了し、
 もう一度ゲームを始めると適用されます。</original>
-			<edited>追加コンテンツを購入された場合は、
-ダウンロードが完了したあと 「スプラトゥーン2」を終了し、
-もう一度ゲームを始めると適用されます。</edited>
+			<edited>若已购买新增内容，
+请在下载完毕后结束《Splatoon 2》，
+并重新启动游戏后即可生效。</edited>
 			<subEntries />
 		</entry>
 		<entry name="Btn_Downloaded_Octa" offset="00" relocatable="true" max_length="0">
@@ -44,7 +45,7 @@
 		<entry name="AllClear_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x1;&#x1;&#x4;333?深海メトロのどこかで、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 とびらの開く音が聞こえた...</original>
-			<edited>&#xE;&#x1;&#x1;&#x4;333?深海メトロのどこかで、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>&#xE;&#x1;&#x1;&#x4;333?深海メトロのどこかで、&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 とびらの開く音が聞こえた...</edited>
 			<subEntries />
 		</entry>
@@ -58,8 +59,8 @@
 		<entry name="AllClear_02" offset="00" relocatable="true" max_length="0">
 			<original>心のなかの ヒーローをたおしたぞ！
 真のイカしたタコに なった気がする…！！</original>
-			<edited>心のなかの ヒーローをたおしたぞ！
-真のイカしたタコに なった気がする…！！</edited>
+			<edited>击倒心中的英雄了！
+感觉成为了真正鱿型的章鱼…！！</edited>
 			<subEntries />
 		</entry>
 	</entries>

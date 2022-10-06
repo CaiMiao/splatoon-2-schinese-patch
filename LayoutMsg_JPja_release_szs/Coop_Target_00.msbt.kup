@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="T_Special_00" offset="00" relocatable="true" max_length="0">
 			<original>オオモノシャケが現れた！</original>
-			<edited>オオモノシャケ出现了！</edited>
+			<edited>巨大鲑鱼出现了！</edited>
 			<subEntries />
 		</entry>
 	</entries>

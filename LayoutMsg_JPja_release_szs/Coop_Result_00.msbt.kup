@@ -15,7 +15,7 @@
 		</entry>
 		<entry name="L_Card_00-T_Wave_00" offset="00" relocatable="true" max_length="0">
 			<original>WAVE １</original>
-			<edited>WAVE １</edited>
+			<edited>WAVE 1</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Card_00-T_Result_00" offset="00" relocatable="true" max_length="0">
@@ -30,12 +30,12 @@
 		</entry>
 		<entry name="L_Card_01-T_Wave_00" offset="00" relocatable="true" max_length="0">
 			<original>WAVE ２</original>
-			<edited>WAVE ２</edited>
+			<edited>WAVE 2</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Card_02-T_Wave_00" offset="00" relocatable="true" max_length="0">
 			<original>WAVE ３</original>
-			<edited>WAVE ３</edited>
+			<edited>WAVE 3</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Name_00-T_MSign_00" offset="00" relocatable="true" max_length="0">
@@ -50,12 +50,12 @@
 		</entry>
 		<entry name="T_Rank_00" offset="00" relocatable="true" max_length="0">
 			<original>ほうしゅうメーター</original>
-			<edited>报酬计量器</edited>
+			<edited>报酬计量表</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Meter_00-T_NextReward_00" offset="00" relocatable="true" max_length="0">
 			<original>次のレアほうしゅうまで あと</original>
-			<edited>离下个稀有报酬 还有</edited>
+			<edited>距离下次稀有报酬还需</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Meter_00-T_Get_00" offset="00" relocatable="true" max_length="0">
@@ -65,7 +65,7 @@
 		</entry>
 		<entry name="L_Meter_00-T_NextReward_01" offset="00" relocatable="true" max_length="0">
 			<original>次のレアほうしゅうまで あと</original>
-			<edited>离下个稀有报酬 还有</edited>
+			<edited>距离下次稀有报酬还需</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_CoopRank_00-T_assessment_00" offset="00" relocatable="true" max_length="0">
@@ -80,17 +80,17 @@
 		</entry>
 		<entry name="T_Bonus_00" offset="00" relocatable="true" max_length="0">
 			<original>評価レート</original>
-			<edited>评价评级</edited>
+			<edited>评价倍率</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_RankUp_00" offset="00" relocatable="true" max_length="0">
 			<original>評価アップ！！</original>
-			<edited>评价上升！！</edited>
+			<edited>评价提升！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_RankDown_00" offset="00" relocatable="true" max_length="0">
 			<original>評価ダウン…</original>
-			<edited>评价下降…</edited>
+			<edited>评价下降……</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_IkuraBonus_00" offset="00" relocatable="true" max_length="0">
@@ -140,27 +140,27 @@
 		</entry>
 		<entry name="AllDead" offset="00" relocatable="true" max_length="0">
 			<original>ゼンメツ!</original>
-			<edited>全灭!</edited>
+			<edited>全军覆没！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Rule" offset="00" relocatable="true" max_length="0">
 			<original>時間切れ</original>
-			<edited>时间用尽</edited>
+			<edited>时间到</edited>
 			<subEntries />
 		</entry>
 		<entry name="011" offset="00" relocatable="true" max_length="0">
 			<original>やめる</original>
-			<edited>やめる</edited>
+			<edited>放弃</edited>
 			<subEntries />
 		</entry>
 		<entry name="012" offset="00" relocatable="true" max_length="0">
 			<original>次のバイトを探す</original>
-			<edited>找下一份打工</edited>
+			<edited>继续寻找打工</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
 			<original>バイトをつづけますか？</original>
-			<edited>继续打工吗？</edited>
+			<edited>要继续打工吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="IkuraNum" offset="00" relocatable="true" max_length="0">
@@ -180,32 +180,32 @@
 		</entry>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>評価レート</original>
-			<edited>评价评级</edited>
+			<edited>评价倍率</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>評価レート</original>
-			<edited>评价评级</edited>
+			<edited>评价倍率</edited>
 			<subEntries />
 		</entry>
 		<entry name="002" offset="00" relocatable="true" max_length="0">
 			<original>評価レート</original>
-			<edited>评价评级</edited>
+			<edited>评价倍率</edited>
 			<subEntries />
 		</entry>
 		<entry name="003" offset="00" relocatable="true" max_length="0">
 			<original>評価レート</original>
-			<edited>评价评级</edited>
+			<edited>评价倍率</edited>
 			<subEntries />
 		</entry>
 		<entry name="004" offset="00" relocatable="true" max_length="0">
 			<original>評価レート</original>
-			<edited>评价评级</edited>
+			<edited>评价倍率</edited>
 			<subEntries />
 		</entry>
 		<entry name="005" offset="00" relocatable="true" max_length="0">
 			<original>評価レート</original>
-			<edited>评价评级</edited>
+			<edited>评价倍率</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Level_00" offset="00" relocatable="true" max_length="0">
@@ -220,7 +220,7 @@
 		</entry>
 		<entry name="T_Wait_00" offset="00" relocatable="true" max_length="0">
 			<original>親の選択を待っています</original>
-			<edited>等待主控选择</edited>
+			<edited>正在等待主办者选择</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Wait_01" offset="00" relocatable="true" max_length="0">
@@ -240,17 +240,17 @@
 		</entry>
 		<entry name="T_Point_00" offset="00" relocatable="true" max_length="0">
 			<original>今回のクマサンポイント</original>
-			<edited>这次的クマサン点数</edited>
+			<edited>本次的熊先生点数</edited>
 			<subEntries />
 		</entry>
 		<entry name="013" offset="00" relocatable="true" max_length="0">
 			<original>つづけてプレイしますか？</original>
-			<edited>继续游玩吗？</edited>
+			<edited>要继续游玩吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="014" offset="00" relocatable="true" max_length="0">
 			<original>やめる</original>
-			<edited>结束</edited>
+			<edited>放弃</edited>
 			<subEntries />
 		</entry>
 		<entry name="015" offset="00" relocatable="true" max_length="0">
@@ -260,7 +260,7 @@
 		</entry>
 		<entry name="016" offset="00" relocatable="true" max_length="0">
 			<original>再チャレンジしますか？</original>
-			<edited>重新挑战吗？</edited>
+			<edited>要再次挑战吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="017" offset="00" relocatable="true" max_length="0">
@@ -275,7 +275,7 @@
 		</entry>
 		<entry name="T_RankKeep_00" offset="00" relocatable="true" max_length="0">
 			<original>評価キープ！</original>
-			<edited>评价保持！</edited>
+			<edited>评价维持！</edited>
 			<subEntries />
 		</entry>
 	</entries>

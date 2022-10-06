@@ -5,17 +5,17 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>ウデマエキープ！</original>
-			<edited>ウデマエキープ！</edited>
+			<edited>技术不变！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>ウデマエダウン…</original>
-			<edited>ウデマエダウン…</edited>
+			<edited>技术下降……</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Title_00" offset="00" relocatable="true" max_length="0">
 			<original>結果発表</original>
-			<edited>結果発表</edited>
+			<edited>结果公布</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Record_00-T_Max_00" offset="00" relocatable="true" max_length="0">
@@ -25,37 +25,37 @@
 		</entry>
 		<entry name="L_Record_00-T_Fix_00" offset="00" relocatable="true" max_length="0">
 			<original>最終：</original>
-			<edited>最終：</edited>
+			<edited>最终：</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Record_00-T_NoRecord_00" offset="00" relocatable="true" max_length="0">
 			<original>きろくがありません</original>
-			<edited>きろくがありません</edited>
+			<edited>没有纪录</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Record_00-T_Rank_00" offset="00" relocatable="true" max_length="0">
 			<original>推定</original>
-			<edited>推定</edited>
+			<edited>预计</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Rule_00" offset="00" relocatable="true" max_length="0">
 			<original>ガチエリア</original>
-			<edited>ガチエリア</edited>
+			<edited>真格区域</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Rule_01" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラ</original>
-			<edited>ガチヤグラ</edited>
+			<edited>真格塔楼</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Rule_02" offset="00" relocatable="true" max_length="0">
 			<original>ガチホコバトル</original>
-			<edited>ガチホコバトル</edited>
+			<edited>真格鱼虎对战</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Rule_03" offset="00" relocatable="true" max_length="0">
 			<original>ガチアサリ</original>
-			<edited>ガチアサリ</edited>
+			<edited>真格蛤蜊</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Title_01" offset="00" relocatable="true" max_length="0">

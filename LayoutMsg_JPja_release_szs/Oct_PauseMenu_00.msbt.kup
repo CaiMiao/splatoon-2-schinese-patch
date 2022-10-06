@@ -10,12 +10,12 @@
 		</entry>
 		<entry name="L_OptionBtn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>設定完了</original>
-			<edited>设定结束</edited>
+			<edited>设置完毕</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_OptionBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>携帯モード</original>
-			<edited>便携模式</edited>
+			<edited>掌上模式</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_OptionBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -28,23 +28,23 @@
 		<entry name="T_Exp_01" offset="00" relocatable="true" max_length="0">
 			<original>テレビ画面に映したり Switch本体を置いてプレイするときの
 カメラオプションを設定できます</original>
-			<edited>可以设定在电视上显示画面 或放置Switch本体游玩时的
-镜头选项</edited>
+			<edited>可以设置
+以TV模式或桌面模式游玩时的视角</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_00-T_Header_00" offset="00" relocatable="true" max_length="0">
 			<original>ジャイロ操作感度</original>
-			<edited>陀螺仪灵敏度</edited>
+			<edited>陀螺仪操作灵敏度</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_00-T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>ジャイロ操作がOFFの時は無効です</original>
-			<edited>陀螺仪操作为OFF时无效</edited>
+			<edited>陀螺仪操作设为关闭时无效</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_01-T_Header_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;操作感度</original>
-			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;灵敏度</edited>
+			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;操作灵敏度</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_02-T_Header_00" offset="00" relocatable="true" max_length="0">
@@ -54,7 +54,7 @@
 		</entry>
 		<entry name="L_Option_02-T_BtnL_00" offset="00" relocatable="true" max_length="0">
 			<original>ノーマル</original>
-			<edited>普通</edited>
+			<edited>正常</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_02-T_BtnR_00" offset="00" relocatable="true" max_length="0">
@@ -64,7 +64,7 @@
 		</entry>
 		<entry name="L_Option_02-T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>ジャイロ操作がONの時は無効です</original>
-			<edited>陀螺仪操作为ON时无效</edited>
+			<edited>陀螺仪操作设为开启时无效</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_03-T_Header_00" offset="00" relocatable="true" max_length="0">
@@ -79,29 +79,29 @@
 		</entry>
 		<entry name="L_Option_04-T_BtnL_00" offset="00" relocatable="true" max_length="0">
 			<original>ON</original>
-			<edited>ON</edited>
+			<edited>开启</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_04-T_BtnR_00" offset="00" relocatable="true" max_length="0">
 			<original>OFF</original>
-			<edited>OFF</edited>
+			<edited>关闭</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Exp_02" offset="00" relocatable="true" max_length="0">
 			<original>Switch本体を持ってプレイするときの
 カメラオプションを設定できます</original>
-			<edited>可以设定拿着Switch本体游玩时的
-镜头选项</edited>
+			<edited>可以设置
+以掌上模式游玩时的视角</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_05-T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>ジャイロ操作がOFFの時は無効です</original>
-			<edited>陀螺仪操作为OFF时无效</edited>
+			<edited>陀螺仪操作设为关闭时无效</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_07-T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>ジャイロ操作がONの時は無効です</original>
-			<edited>陀螺仪操作为ON时无效</edited>
+			<edited>陀螺仪操作设为开启时无效</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BackBtn_05-T_Info_00" offset="00" relocatable="true" max_length="0">
@@ -121,17 +121,17 @@
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>ハイカラスクエアへ想いをはせる</original>
-			<edited>尽情想象ハイカラスクエア</edited>
+			<edited>尽情想象尚兴广场</edited>
 			<subEntries />
 		</entry>
 		<entry name="002" offset="00" relocatable="true" max_length="0">
 			<original>駅のホームからやり直す</original>
-			<edited>从车站站台重来</edited>
+			<edited>从站台重新开始</edited>
 			<subEntries />
 		</entry>
 		<entry name="003" offset="00" relocatable="true" max_length="0">
 			<original>深海メトロ中央駅へもどる</original>
-			<edited>返回深海地铁中心站</edited>
+			<edited>返回深海地铁总站</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_title_00" offset="00" relocatable="true" max_length="0">

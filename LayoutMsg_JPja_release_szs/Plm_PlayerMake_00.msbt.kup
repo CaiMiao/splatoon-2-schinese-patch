@@ -5,34 +5,34 @@
 	<entries>
 		<entry name="T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>どっちか 選ぶんだ！</original>
-			<edited>选一边吧！</edited>
+			<edited>你要选哪一边！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Msg_02" offset="00" relocatable="true" max_length="0">
 			<original>つぎは &#xE;&#x0;&#x2;&#x2;}&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ハダ&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;の色を 選ぶんだ！</original>
-			<edited>接下来选 &#xE;&#x0;&#x2;&#x2;}&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;皮肤&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;的颜色！</edited>
+			<edited>接下来选择&#xE;&#x0;&#x2;&#x2;}&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;皮肤&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;的颜色！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Msg_03" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x2;&#x2;}&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;目&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;の色を 選ぼう！</original>
-			<edited>选 &#xE;&#x0;&#x2;&#x2;}&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;眼睛&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;的颜色吧！</edited>
+			<edited>选择&#xE;&#x0;&#x2;&#x2;}&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;眼瞳&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;的颜色吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Msg_04" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x2;&#x2;}&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ヘアスタイル&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;は どれにする？</original>
-			<edited>&#xE;&#x0;&#x2;&#x2;}&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;发型&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0; 要选哪一种？</edited>
+			<edited>&#xE;&#x0;&#x2;&#x2;}&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;发型&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;要选哪一种？</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Msg_05" offset="00" relocatable="true" max_length="0">
 			<original>さいごに &#xE;&#x0;&#x2;&#x2;}&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;ボトムス&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;を選ぼう！</original>
-			<edited>最后 挑一件&#xE;&#x0;&#x2;&#x2;}&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;裤子&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;吧！</edited>
+			<edited>最后选一条&#xE;&#x0;&#x2;&#x2;}&#x0;&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;裤子&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x2;&#x2;d&#x0;吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Msg_01" offset="00" relocatable="true" max_length="0">
 			<original>この設定でオッケー？
 （あとから オプションで 変更できるぞ）</original>
-			<edited>这个设定ＯＫ吗？
-（在之后也可以在选项更改哦）</edited>
+			<edited>这个设置OK吗？
+（之后可以在选项中修改哦）</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Rstick_00-T_Rotation_00" offset="00" relocatable="true" max_length="0">
@@ -57,22 +57,22 @@
 		</entry>
 		<entry name="L_Btn_03-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>オッケー！</original>
-			<edited>ＯＫ！</edited>
+			<edited>好啦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_04-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>イカガール</original>
-			<edited>墨鱼女孩</edited>
+			<edited>鱿鱼女孩</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_05-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>イカボーイ</original>
-			<edited>墨鱼男孩</edited>
+			<edited>鱿鱼男孩</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Msg_06" offset="00" relocatable="true" max_length="0">
 			<original>どれか 選ぶんだ！</original>
-			<edited>选一种吧！</edited>
+			<edited>你要选谁！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_06-T_Btn_00" offset="00" relocatable="true" max_length="0">

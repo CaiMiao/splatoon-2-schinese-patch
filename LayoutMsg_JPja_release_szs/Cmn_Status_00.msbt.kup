@@ -15,12 +15,12 @@
 		</entry>
 		<entry name="L_PlayerStatus_00-L_Rank_00-T_RankHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>ランク</original>
-			<edited>Rank</edited>
+			<edited>等级</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_PlayerStatus_00-L_Udemae_00-T_UdemaeHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>ウデマエ</original>
-			<edited>本事</edited>
+			<edited>技术</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_PlayerStatus_00-L_FesRank_00-T_Max_00" offset="00" relocatable="true" max_length="0">
@@ -30,7 +30,7 @@
 		</entry>
 		<entry name="L_PlayerStatus_00-L_FesRank_00-T_Vote_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;フェス投票&#xE;&#x0;&#x3;&#x2;ÿÿに向かえ！</original>
-			<edited>前往&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;FES投票&#xE;&#x0;&#x3;&#x2;ÿÿ！</edited>
+			<edited>前去完成&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;祭典投票&#xE;&#x0;&#x3;&#x2;ÿÿ吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_PlayerStatus_00-L_FesRank_00-T_PointNum_00" offset="00" relocatable="true" max_length="0">
@@ -50,12 +50,12 @@
 		</entry>
 		<entry name="L_PlayerStatus_00-L_Udemae_00-T_XPowerTitle_00" offset="00" relocatable="true" max_length="0">
 			<original>計測中…</original>
-			<edited>测量中…</edited>
+			<edited>计算中……</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_PlayerStatus_00-L_Udemae_00-T_XPowerTitle_01" offset="00" relocatable="true" max_length="0">
 			<original>Xパワー</original>
-			<edited>X能量</edited>
+			<edited>Ｘ战力</edited>
 			<subEntries />
 		</entry>
 	</entries>

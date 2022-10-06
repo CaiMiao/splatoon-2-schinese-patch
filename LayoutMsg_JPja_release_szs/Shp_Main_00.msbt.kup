@@ -30,7 +30,7 @@
 		</entry>
 		<entry name="L_Item_00-T_SoldOut_00" offset="00" relocatable="true" max_length="0">
 			<original>持ってる</original>
-			<edited>已拥有</edited>
+			<edited>已持有</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Back_00-T_Back_00" offset="00" relocatable="true" max_length="0">
@@ -40,22 +40,22 @@
 		</entry>
 		<entry name="L_ItemDetail_00-T_Sub_00" offset="00" relocatable="true" max_length="0">
 			<original>サブ</original>
-			<edited>副</edited>
+			<edited>次要武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ItemDetail_00-T_Super_00" offset="00" relocatable="true" max_length="0">
 			<original>スペシャル</original>
-			<edited>特殊</edited>
+			<edited>特殊武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ItemDetail_00-T_TotalScoreName_00" offset="00" relocatable="true" max_length="0">
 			<original>今まで塗った面積</original>
-			<edited>至今涂抹面积</edited>
+			<edited>至今涂墨面积</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ItemDetail_00-T_SpecialPointName_00" offset="00" relocatable="true" max_length="0">
 			<original>スペシャル必要ポイント</original>
-			<edited>特殊必要点数</edited>
+			<edited>特殊武器需要的点数</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Lstick_00-T_Sort_00" offset="00" relocatable="true" max_length="0">
@@ -70,12 +70,12 @@
 		</entry>
 		<entry name="011" offset="00" relocatable="true" max_length="0">
 			<original>買う！</original>
-			<edited>买！</edited>
+			<edited>购买！</edited>
 			<subEntries />
 		</entry>
 		<entry name="012" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="013" offset="00" relocatable="true" max_length="0">
@@ -85,7 +85,7 @@
 		</entry>
 		<entry name="014" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="015" offset="00" relocatable="true" max_length="0">
@@ -100,7 +100,7 @@
 		</entry>
 		<entry name="021" offset="00" relocatable="true" max_length="0">
 			<original>アタマ屋</original>
-			<edited>头饰店</edited>
+			<edited>头部装备店</edited>
 			<subEntries />
 		</entry>
 		<entry name="022" offset="00" relocatable="true" max_length="0">
@@ -115,7 +115,7 @@
 		</entry>
 		<entry name="024" offset="00" relocatable="true" max_length="0">
 			<original>カンブリアームズ</original>
-			<edited>寒武记</edited>
+			<edited>寒武纪军备</edited>
 			<subEntries />
 		</entry>
 		<entry name="025" offset="00" relocatable="true" max_length="0">
@@ -135,27 +135,27 @@
 		</entry>
 		<entry name="030" offset="00" relocatable="true" max_length="0">
 			<original>持ってない</original>
-			<edited>未拥有</edited>
+			<edited>未持有</edited>
 			<subEntries />
 		</entry>
 		<entry name="031" offset="00" relocatable="true" max_length="0">
 			<original>メイン</original>
-			<edited>主</edited>
+			<edited>主要武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="032" offset="00" relocatable="true" max_length="0">
 			<original>サブ</original>
-			<edited>副</edited>
+			<edited>次要武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="033" offset="00" relocatable="true" max_length="0">
 			<original>スペシャル</original>
-			<edited>特殊</edited>
+			<edited>特殊武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="040" offset="00" relocatable="true" max_length="0">
 			<original>ブキの説明</original>
-			<edited>武器的说明</edited>
+			<edited>武器说明</edited>
 			<subEntries />
 		</entry>
 		<entry name="041" offset="00" relocatable="true" max_length="0">
@@ -165,12 +165,12 @@
 		</entry>
 		<entry name="042" offset="00" relocatable="true" max_length="0">
 			<original>もっと知りたい！</original>
-			<edited>想知道更多！</edited>
+			<edited>了解更多！</edited>
 			<subEntries />
 		</entry>
 		<entry name="043" offset="00" relocatable="true" max_length="0">
 			<original>ストップ！！</original>
-			<edited>停！！</edited>
+			<edited>到此为止！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ItemDetail_01-T_New_00" offset="00" relocatable="true" max_length="0">
@@ -190,7 +190,7 @@
 		</entry>
 		<entry name="T_Text_00" offset="00" relocatable="true" max_length="0">
 			<original>持っているギア</original>
-			<edited>拥有的防具</edited>
+			<edited>持有的装备</edited>
 			<subEntries />
 		</entry>
 	</entries>

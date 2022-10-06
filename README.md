@@ -1,6 +1,10 @@
 # splatoon-2-schinese-patch
-based on 5.3.1 japanese string
+based on
+- Splatoon 2 (Ver. 5.5.0) Japanese string
+- Splatoon 3 (Ver. 1.1.2) S. Chinese string
 
-kuriimu format
+kuriimu xml format
 
-localization part released under cc-by-nc-sa 3.0
+original part of localization released under cc-by-nc-sa 3.0
+
+Some of materials may be copyrighted by Nintendo and respective owners.

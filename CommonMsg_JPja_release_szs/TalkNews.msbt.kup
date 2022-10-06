@@ -6,29 +6,29 @@
 		<entry name="Opening_0000" offset="00" relocatable="true" max_length="0">
 			<original>こんちゃーっ！
 ハイカラニュースの時間だよ！</original>
-			<edited>早呀ー！
-现在是墨市新闻的时间哦！</edited>
+			<edited>早呀——！
+现在是尚兴新闻的时间哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Opening_0001" offset="00" relocatable="true" max_length="0">
 			<original>今日もハイカラスクエアのかたスミから
 テンタクルズが おとどけします</original>
-			<edited>今天也在ハイカラスクエア（墨市广场）的一角
-由テンタクルズ为您播报</edited>
+			<edited>今天同样在尚兴广场的一角
+由腕儿姐妹为您播报。</edited>
 			<subEntries />
 		</entry>
 		<entry name="OpeningFest_0000" offset="00" relocatable="true" max_length="0">
 			<original>イエーイ！！
 みんな イカしてるーーー？！</original>
-			<edited>耶ー！！
-各位 还够有型吗ーーー？！</edited>
+			<edited>耶——！！
+各位今天鱿型了吗——？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="OpeningFest_0001" offset="00" relocatable="true" max_length="0">
 			<original>ハイカラスクエアの中心から
 テンタクルズが おとどけしますっ！</original>
-			<edited>从ハイカラスクエア的中心
-由テンタクルズ为您播报！</edited>
+			<edited>在尚兴广场的中心
+由腕儿姐妹为您播报！</edited>
 			<subEntries />
 		</entry>
 		<entry name="OpeningFestEnd_0000" offset="00" relocatable="true" max_length="0">
@@ -55,12 +55,12 @@
 		</entry>
 		<entry name="Ending_0000" offset="00" relocatable="true" max_length="0">
 			<original>あっ 時間だ！</original>
-			<edited>啊 到时间了！</edited>
+			<edited>啊，到时间了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Ending_0001" offset="00" relocatable="true" max_length="0">
 			<original>じゃ 今日もみんなガンバ！</original>
-			<edited>那么 各位今天加油哦！</edited>
+			<edited>那么，各位今天加油吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Ending_0002" offset="00" relocatable="true" max_length="0">
@@ -70,7 +70,7 @@
 		</entry>
 		<entry name="EndingFest_0000" offset="00" relocatable="true" max_length="0">
 			<original>じゃ 今日もみんなガンバ！</original>
-			<edited>じゃ 今日もみんなガンバ！</edited>
+			<edited>那么，各位今天加油吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="EndingFest_0001" offset="00" relocatable="true" max_length="0">
@@ -81,66 +81,66 @@
 		<entry name="FirstTime_0000" offset="00" relocatable="true" max_length="0">
 			<original>あっ！ 臨時ニュースだって！
 イイダ！ 読んで読んで！</original>
-			<edited>啊！ 有临时新闻哦！
-イイダ！ 快念快念！</edited>
+			<edited>啊！有临时新闻哦！
+饭田！快念快念！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstTime_0001" offset="00" relocatable="true" max_length="0">
 			<original>えっ、あ ハイ！</original>
-			<edited>诶、啊 好！</edited>
+			<edited>诶，啊，好！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstTime_0002" offset="00" relocatable="true" max_length="0">
 			<original>ええっ、オオデンチナマズが ナゾのシッソウ？</original>
-			<edited>诶诶，オオデンチナマズ（大电鲶） 神秘失踪？</edited>
+			<edited>诶诶，大电池鲶鱼神秘失踪？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstTime_0003" offset="00" relocatable="true" max_length="0">
 			<original>それ ヤバいヤツじゃん！
 っつーか 前もどっか行ってたし…</original>
-			<edited>这个 不得了了啊！
-说回来 之前也是不知道跑哪去了…</edited>
+			<edited>这不得了了啊！
+说回来，之前也是不知道跑哪去了……</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstTime_0004" offset="00" relocatable="true" max_length="0">
 			<original>えええっ！ スーパーアイドルの
 アオリちゃんも行方不明？</original>
-			<edited>诶诶诶！ 超级偶像
-小香匙也下落不明？</edited>
+			<edited>诶诶诶！超级偶像
+小拟也下落不明？</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstTime_0005" offset="00" relocatable="true" max_length="0">
 			<original>マジ！ それ ちょーヤバくね？！
 イイダ なんとかしなよ！</original>
-			<edited>真的！ 这个 超不得了了啊？！
-イイダ 想想办法嘛！</edited>
+			<edited>真的吗！这超不得了了啊？！
+饭田，想想办法嘛！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstTime_0006" offset="00" relocatable="true" max_length="0">
 			<original>できませんよ～…</original>
-			<edited>做不到了啦～…</edited>
+			<edited>没有办法啦～……</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstTime_0007" offset="00" relocatable="true" max_length="0">
 			<original>なんだよ シケてんなー…
 ま、しばらくしたら どっちもなんとかなるっしょ！</original>
-			<edited>什么嘛 真是没趣ー…
-嘛，先过段时间 哪边都总会有办法的吧！</edited>
+			<edited>什么嘛，真是没趣——…
+不过，过段时间哪边都会有办法解决的吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstTime_0008" offset="00" relocatable="true" max_length="0">
 			<original>ええ～っ？！ いいんですかそんなんで…</original>
-			<edited>诶诶～？！ 这样真的好嘛…</edited>
+			<edited>诶诶～？！ 这样真的好吗…</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageRegular_0000" offset="00" relocatable="true" max_length="0">
 			<original>今のレギュラーマッチのステージは、ここだ！</original>
-			<edited>今のレギュラーマッチのステージは、ここだ！</edited>
+			<edited>本次一般比赛的场地是这里！</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageGachi_0000" offset="00" relocatable="true" max_length="0">
 			<original>そして ガチマッチのステージは、ここ！</original>
-			<edited>そして ガチマッチのステージは、ここ！</edited>
+			<edited>然后真格比赛的场地是这里！</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageLeague_0000" offset="00" relocatable="true" max_length="0">
@@ -238,7 +238,7 @@
 		</entry>
 		<entry name="FestAnnounceCmn_0012" offset="00" relocatable="true" max_length="0">
 			<original>今回の フェスのお題は…</original>
-			<edited>今回の フェスのお題は…</edited>
+			<edited>本次祭典的主题是……</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissionEnding_0000" offset="00" relocatable="true" max_length="0">
@@ -696,86 +696,86 @@
 			<original>新コーナー始めんぞ！
 第１回 ハイカラスクエア ファッションニュースーーー！</original>
 			<edited>新栏目开播喽！
-第１期 ハイカラスクエア 时尚新闻ーーー！</edited>
+第１期 尚兴广场 时尚新闻——！</edited>
 			<subEntries />
 		</entry>
 		<entry name="OctaIntro_0001" offset="00" relocatable="true" max_length="0">
 			<original>エエッ？！ 急に台本に無いコーナー始めちゃって
 ダイジョウブなんですか～？</original>
-			<edited>诶诶？！ 突然开始台本里没有的栏目
+			<edited>诶诶？！突然开始台本里没有的栏目
 没问题吧～？</edited>
 			<subEntries />
 		</entry>
 		<entry name="OctaIntro_0002" offset="00" relocatable="true" max_length="0">
 			<original>このコーナーは 街で見かけたイカしてるやつらから
 最新の流行を切り取って紹介してくかんな！</original>
-			<edited>这个栏目是 从街头看见的超酷的家伙们身上
-将最新的流行分离出来介绍给大家！</edited>
+			<edited>这个栏目是从街头看见的鱿型人士身上
+剪取最新的流行介绍给大家！</edited>
 			<subEntries />
 		</entry>
 		<entry name="OctaIntro_0003" offset="00" relocatable="true" max_length="0">
 			<original>も～ 勝手に進行して～
 でも 面白そうですね♪</original>
-			<edited>真是～ 擅自就接下去了～
-不过 好像很有趣呢♪</edited>
+			<edited>真是的～擅自就接下去了～
+不过，好像很有趣呢♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="OctaIntro_0004" offset="00" relocatable="true" max_length="0">
 			<original>だろ？ そんじゃー記念すべき第１回の
 ファッションニュースは コレだ！</original>
-			<edited>是吧？ 那么值得纪念的第１期
-时尚新闻是 这个！</edited>
+			<edited>是吧？那么值得纪念的第１期
+时尚新闻是，这个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="OctaIntro_0005" offset="00" relocatable="true" max_length="0">
 			<original>最近 街中に &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;カーリーなヘアスタイル&#xE;&#x0;&#x3;&#x2;ÿÿの
 やつらが 増えてきたんだよなー</original>
-			<edited>最近 街头里 搞这种&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;卷卷的发型&#xE;&#x0;&#x3;&#x2;ÿÿ的
-家伙 是越来越多了啊ー</edited>
+			<edited>最近，街头搞这种&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;卷卷的发型&#xE;&#x0;&#x3;&#x2;ÿÿ的
+家伙是越来越多了啊——</edited>
 			<subEntries />
 		</entry>
 		<entry name="OctaIntro_0006" offset="00" relocatable="true" max_length="0">
 			<original>… … そ、 そうなんですね～♪</original>
-			<edited>… … 是、 是的呀～♪</edited>
+			<edited>… … 是、是的呀～♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="OctaIntro_0007" offset="00" relocatable="true" max_length="0">
 			<original>増えてきてるっつーことは、 これからブームに
 なってく可能性が大！ってことだ！！</original>
 			<edited>既然增加了就说明，接下来变成热潮的
-可能性很大！这件事啦！！</edited>
+可能性很大！这一回事啦！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="OctaIntro_0008" offset="00" relocatable="true" max_length="0">
 			<original>けど、 このカーリーなヘアスタイル
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;いつもどっかで見てる&#xE;&#x0;&#x3;&#x2;ÿÿ気がすんだよなー…</original>
-			<edited>不过，这种卷卷的发型
-总觉得&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;一直都在某处看到&#xE;&#x0;&#x3;&#x2;ÿÿ啊ー…</edited>
+			<edited>不过，总觉得这种卷卷的发型
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;平时一直都可以在某处看到&#xE;&#x0;&#x3;&#x2;啊——…</edited>
 			<subEntries />
 		</entry>
 		<entry name="OctaIntro_0009" offset="00" relocatable="true" max_length="0">
 			<original>センパイ センパイ！
 コーナーの時間が ギリギリみたいです！</original>
-			<edited>前辈 前辈！
-栏目时间 马上要结束了哦！</edited>
+			<edited>前辈，前辈！
+栏目时间马上要结束了哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="OctaIntro_0010" offset="00" relocatable="true" max_length="0">
 			<original>そうなのか？
 そんじゃー全国のちびっこ諸君！ 要チェックだぞ！</original>
 			<edited>是吗？
-那么全国的各位小个头们！ 要关注哦！</edited>
+那么全国的各位小个头们！要关注哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="OctaIntro_0011" offset="00" relocatable="true" max_length="0">
 			<original>ところで センパイ、第２回はいつなんですか？</original>
-			<edited>说回来 前辈，第２期什么时候播呢？</edited>
+			<edited>说回来，前辈，第２期什么时候播呢？</edited>
 			<subEntries />
 		</entry>
 		<entry name="OctaIntro_0012" offset="00" relocatable="true" max_length="0">
 			<original>ん？ なんかもう満足したから
 今回でコーナーは終了だな！</original>
-			<edited>嗯？ 总感觉已经满足了啊
+			<edited>嗯？总感觉已经满足了，
 所以这期后栏目就撤档了吧！</edited>
 			<subEntries />
 		</entry>

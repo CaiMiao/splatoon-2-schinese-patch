@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>カーリングボムは&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで 距離が調整できまス</original>
-			<edited>カーリングボムは&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで 距離が調整できまス</edited>
+			<edited>カーリングボムは&#xE;&#x2;&#28;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで 距離が調整できまス</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
@@ -60,7 +60,7 @@
 		</entry>
 		<entry name="TakoppelinCurling_0008" offset="00" relocatable="true" max_length="0">
 			<original>カーリングボムは&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで 近くに投げられます！</original>
-			<edited>カーリングボムは&#xE;&#x2;&#x1C;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで 近くに投げられます！</edited>
+			<edited>カーリングボムは&#xE;&#x2;&#28;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで 近くに投げられます！</edited>
 			<subEntries />
 		</entry>
 		<entry name="TakoppelinCurling_0009" offset="00" relocatable="true" max_length="0">

@@ -5,22 +5,22 @@
 	<entries>
 		<entry name="B00" offset="00" relocatable="true" max_length="0">
 			<original>バトロイカ</original>
-			<edited>墨战</edited>
+			<edited>战斗鱿鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="B01" offset="00" relocatable="true" max_length="0">
 			<original>アイロニック</original>
-			<edited>钢铁</edited>
+			<edited>钢铁先锋</edited>
 			<subEntries />
 		</entry>
 		<entry name="B02" offset="00" relocatable="true" max_length="0">
 			<original>クラーゲス</original>
-			<edited>水母</edited>
+			<edited>海月</edited>
 			<subEntries />
 		</entry>
 		<entry name="B03" offset="00" relocatable="true" max_length="0">
 			<original>ロッケンベルグ</original>
-			<edited>墨基山 </edited>
+			<edited>罗肯贝格</edited>
 			<subEntries />
 		</entry>
 		<entry name="B04" offset="00" relocatable="true" max_length="0">
@@ -30,62 +30,62 @@
 		</entry>
 		<entry name="B05" offset="00" relocatable="true" max_length="0">
 			<original>フォーリマ</original>
-			<edited>锻造</edited>
+			<edited>锻品</edited>
 			<subEntries />
 		</entry>
 		<entry name="B06" offset="00" relocatable="true" max_length="0">
 			<original>ホッコリー</original>
-			<edited>蒸鱼</edited>
+			<edited>暖流</edited>
 			<subEntries />
 		</entry>
 		<entry name="B07" offset="00" relocatable="true" max_length="0">
 			<original>ホタックス</original>
-			<edited>扇贝</edited>
+			<edited>帆立</edited>
 			<subEntries />
 		</entry>
 		<entry name="B08" offset="00" relocatable="true" max_length="0">
 			<original>ジモン</original>
-			<edited>乱喷</edited>
+			<edited>寺门</edited>
 			<subEntries />
 		</entry>
 		<entry name="B09" offset="00" relocatable="true" max_length="0">
 			<original>シグレニ</original>
-			<edited>墨线</edited>
+			<edited>时雨</edited>
 			<subEntries />
 		</entry>
 		<entry name="B10" offset="00" relocatable="true" max_length="0">
 			<original>アロメ</original>
-			<edited>触墨</edited>
+			<edited>艾洛眼</edited>
 			<subEntries />
 		</entry>
 		<entry name="B11" offset="00" relocatable="true" max_length="0">
 			<original>ヤコ</original>
-			<edited>虾姑</edited>
+			<edited>暇古</edited>
 			<subEntries />
 		</entry>
 		<entry name="B15" offset="00" relocatable="true" max_length="0">
 			<original>アナアキ</original>
-			<edited>アナアキ</edited>
+			<edited>无法无天</edited>
 			<subEntries />
 		</entry>
 		<entry name="B16" offset="00" relocatable="true" max_length="0">
 			<original>エンペリー</original>
-			<edited>エンペリー</edited>
+			<edited>鱿皇</edited>
 			<subEntries />
 		</entry>
 		<entry name="B17" offset="00" relocatable="true" max_length="0">
 			<original>タタキケンサキ</original>
-			<edited>タタキケンサキ</edited>
+			<edited>剑尖鱿</edited>
 			<subEntries />
 		</entry>
 		<entry name="B97" offset="00" relocatable="true" max_length="0">
 			<original>クマサン商会</original>
-			<edited>クマサン商会</edited>
+			<edited>熊先生商会</edited>
 			<subEntries />
 		</entry>
 		<entry name="B98" offset="00" relocatable="true" max_length="0">
 			<original>アタリメイド</original>
-			<edited>アタリメイド</edited>
+			<edited>鱼干制造</edited>
 			<subEntries />
 		</entry>
 		<entry name="B99" offset="00" relocatable="true" max_length="0">

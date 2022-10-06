@@ -5,17 +5,17 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>ステージとキケン度を選択してください</original>
-			<edited>ステージとキケン度を選択してください</edited>
+			<edited>请选择场地与危险度</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>親がステージとキケン度を選んでいます</original>
-			<edited>親がステージとキケン度を選んでいます</edited>
+			<edited>主办者正在选择场地与危险度</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
 			<original>おまかせ</original>
-			<edited>おまかせ</edited>
+			<edited>随机</edited>
 			<subEntries />
 		</entry>
 		<entry name="020" offset="00" relocatable="true" max_length="0">
@@ -25,34 +25,34 @@
 		</entry>
 		<entry name="T_Start_00" offset="00" relocatable="true" max_length="0">
 			<original>ゲームを開始します！</original>
-			<edited>ゲームを開始します！</edited>
+			<edited>开始游戏！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Progress_00" offset="00" relocatable="true" max_length="0">
 			<original>金イクラを集めて ３つの WAVEの
 ノルマを クリアしよう！</original>
-			<edited>金イクラを集めて ３つの WAVEの
-ノルマを クリアしよう！</edited>
+			<edited>收集金鲑鱼卵
+达成3次WAVE的目标配额！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_A_00" offset="00" relocatable="true" max_length="0">
 			<original>仲間の準備を待っています</original>
-			<edited>仲間の準備を待っています</edited>
+			<edited>正在等待同伴准备</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_LevelHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>キケン度</original>
-			<edited>キケン度</edited>
+			<edited>危险度</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_StageHeader_01" offset="00" relocatable="true" max_length="0">
 			<original>ステージ</original>
-			<edited>ステージ</edited>
+			<edited>场地</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_StartBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>準備OK？</original>
-			<edited>準備OK？</edited>
+			<edited>准备OK？</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_StartBtn_01-T_Btn_01" offset="00" relocatable="true" max_length="0">
@@ -67,17 +67,17 @@
 		</entry>
 		<entry name="L_StartBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>メンバー決定！</original>
-			<edited>メンバー決定！</edited>
+			<edited>成员已定！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BackBtn_00-T_Back_00" offset="00" relocatable="true" max_length="0">
 			<original>カウンターへ</original>
-			<edited>カウンターへ</edited>
+			<edited>前往柜台</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_CustomizeBtn_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>カスタマイズ</original>
-			<edited>カスタマイズ</edited>
+			<edited>自定义</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_CustomizeBtn_00-T_KeyBtn_00" offset="00" relocatable="true" max_length="0">
@@ -87,22 +87,22 @@
 		</entry>
 		<entry name="L_CancelBtn_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>キャンセル</original>
-			<edited>キャンセル</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_PlayerName_00-T_Wait_00" offset="00" relocatable="true" max_length="0">
 			<original>募集中…</original>
-			<edited>募集中…</edited>
+			<edited>募集中……</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Meter_00-T_NextReward_00" offset="00" relocatable="true" max_length="0">
 			<original>次のレアほうしゅうまで あと</original>
-			<edited>次のレアほうしゅうまで あと</edited>
+			<edited>距离下次稀有报酬还需</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_LevelHeader_01" offset="00" relocatable="true" max_length="0">
 			<original>キケン度</original>
-			<edited>キケン度</edited>
+			<edited>危险度</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Meter_00-T_Num_16" offset="00" relocatable="true" max_length="0">

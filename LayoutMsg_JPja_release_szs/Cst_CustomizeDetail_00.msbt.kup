@@ -5,22 +5,22 @@
 	<entries>
 		<entry name="L_ItemDetail_00-T_Sub_00" offset="00" relocatable="true" max_length="0">
 			<original>サブ</original>
-			<edited>副</edited>
+			<edited>次要武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ItemDetail_00-T_Super_00" offset="00" relocatable="true" max_length="0">
 			<original>スペシャル</original>
-			<edited>特殊</edited>
+			<edited>特殊武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ItemDetail_00-T_TotalScoreName_00" offset="00" relocatable="true" max_length="0">
 			<original>今まで塗った面積</original>
-			<edited>至今涂抹面积</edited>
+			<edited>至今涂墨面积</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ItemDetail_00-T_SpecialPointName_00" offset="00" relocatable="true" max_length="0">
 			<original>スペシャル必要ポイント</original>
-			<edited>特殊必要点数</edited>
+			<edited>特殊武器需要的点数</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ItemDetail_01-T_New_00" offset="00" relocatable="true" max_length="0">
@@ -30,7 +30,7 @@
 		</entry>
 		<entry name="L_Wpn_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>サブ、スペシャルの説明</original>
-			<edited>副武器与特殊武器的说明</edited>
+			<edited>次要/特殊武器的解说</edited>
 			<subEntries />
 		</entry>
 	</entries>

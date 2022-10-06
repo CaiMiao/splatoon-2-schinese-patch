@@ -5,32 +5,32 @@
 	<entries>
 		<entry name="T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>カメラマンの心得</original>
-			<edited>カメラマンの心得</edited>
+			<edited>摄影师守则</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Explain_00" offset="00" relocatable="true" max_length="0">
 			<original>写真をとる</original>
-			<edited>写真をとる</edited>
+			<edited>拍照</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Explain_01" offset="00" relocatable="true" max_length="0">
 			<original>カメラの移動</original>
-			<edited>カメラの移動</edited>
+			<edited>移动镜头</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Explain_02" offset="00" relocatable="true" max_length="0">
 			<original>プレイヤーのポーズ変更</original>
-			<edited>プレイヤーのポーズ変更</edited>
+			<edited>更改玩家姿势</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Explain_03" offset="00" relocatable="true" max_length="0">
 			<original>amiibo のポーズ変更</original>
-			<edited>amiibo のポーズ変更</edited>
+			<edited>更改amiibo姿势</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Explain_04" offset="00" relocatable="true" max_length="0">
 			<original>場所を変える</original>
-			<edited>場所を変える</edited>
+			<edited>换个地方</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Back_00-T_Back_00" offset="00" relocatable="true" max_length="0">
@@ -40,12 +40,12 @@
 		</entry>
 		<entry name="T_Explain_05" offset="00" relocatable="true" max_length="0">
 			<original>ステージの変更</original>
-			<edited>ステージの変更</edited>
+			<edited>更改场地</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Explain_06" offset="00" relocatable="true" max_length="0">
 			<original>フィルターの変更</original>
-			<edited>フィルターの変更</edited>
+			<edited>更改滤镜</edited>
 			<subEntries />
 		</entry>
 	</entries>

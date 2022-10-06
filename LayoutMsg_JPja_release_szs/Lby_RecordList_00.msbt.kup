@@ -10,12 +10,12 @@
 		</entry>
 		<entry name="L_Btn_00-T_Wait_00" offset="00" relocatable="true" max_length="0">
 			<original>集計中…</original>
-			<edited>统计中…</edited>
+			<edited>统计中……</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Record_00" offset="00" relocatable="true" max_length="0">
 			<original>過去のきろく</original>
-			<edited>过往记录</edited>
+			<edited>以往纪录</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">

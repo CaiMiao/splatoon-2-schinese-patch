@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>WAVE&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Íクリア！</original>
-			<edited>WAVE&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Í通过！</edited>
+			<edited>WAVE&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Í完成！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>最終WAVEクリア！</original>
-			<edited>最终WAVE通过！</edited>
+			<edited>最终WAVE完成！</edited>
 			<subEntries />
 		</entry>
 	</entries>

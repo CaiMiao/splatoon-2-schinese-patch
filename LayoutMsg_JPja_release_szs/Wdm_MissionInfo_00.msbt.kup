@@ -5,17 +5,17 @@
 	<entries>
 		<entry name="T_BossClose_00" offset="00" relocatable="true" max_length="0">
 			<original>デンチナマズが足りない！</original>
-			<edited>デンチナマズが足りない！</edited>
+			<edited>电池鲶鱼不够！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Action_00" offset="00" relocatable="true" max_length="0">
 			<original>ナマズをとりかえす！</original>
-			<edited>ナマズをとりかえす！</edited>
+			<edited>取回鲶鱼！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Request_00-T_Request_00" offset="00" relocatable="true" max_length="0">
 			<original>ブキチリクエストあり！</original>
-			<edited>ブキチリクエストあり！</edited>
+			<edited>有武器子Request！</edited>
 			<subEntries />
 		</entry>
 		<entry name="000" offset="00" relocatable="true" max_length="0">

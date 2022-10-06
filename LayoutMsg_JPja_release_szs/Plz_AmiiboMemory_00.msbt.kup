@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="L_BtnL_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>いまは やめとく</original>
-			<edited>いまは やめとく</edited>
+			<edited>现在先不要</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BtnR_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>よろしく！</original>
-			<edited>よろしく！</edited>
+			<edited>好！</edited>
 			<subEntries />
 		</entry>
 	</entries>

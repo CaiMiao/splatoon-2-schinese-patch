@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="SuperMissile" offset="00" relocatable="true" max_length="0">
 			<original>マルチミサイル</original>
-			<edited>多重导弹 </edited>
+			<edited>多重导弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="SuperArmor" offset="00" relocatable="true" max_length="0">
@@ -15,7 +15,7 @@
 		</entry>
 		<entry name="LauncherSplash" offset="00" relocatable="true" max_length="0">
 			<original>スプラッシュボムピッチャー</original>
-			<edited>喷溅炸弹投手 </edited>
+			<edited>斯普拉炸弹投手 </edited>
 			<subEntries />
 		</entry>
 		<entry name="LauncherSuction" offset="00" relocatable="true" max_length="0">
@@ -25,7 +25,7 @@
 		</entry>
 		<entry name="LauncherQuick" offset="00" relocatable="true" max_length="0">
 			<original>クイックボムピッチャー</original>
-			<edited>速爆炸弹投手 </edited>
+			<edited>快速炸弹投手 </edited>
 			<subEntries />
 		</entry>
 		<entry name="LauncherCurling" offset="00" relocatable="true" max_length="0">
@@ -45,22 +45,22 @@
 		</entry>
 		<entry name="Jetpack" offset="00" relocatable="true" max_length="0">
 			<original>ジェットパック</original>
-			<edited>喷墨背包 </edited>
+			<edited>喷射背包</edited>
 			<subEntries />
 		</entry>
 		<entry name="SuperLanding" offset="00" relocatable="true" max_length="0">
 			<original>スーパーチャクチ</original>
-			<edited>超级落地 </edited>
+			<edited>超级着陆</edited>
 			<subEntries />
 		</entry>
 		<entry name="RainCloud" offset="00" relocatable="true" max_length="0">
 			<original>アメフラシ</original>
-			<edited>降雨 </edited>
+			<edited>墨雨云</edited>
 			<subEntries />
 		</entry>
 		<entry name="AquaBall" offset="00" relocatable="true" max_length="0">
 			<original>イカスフィア</original>
-			<edited>墨鱼球 </edited>
+			<edited>鱿鱼球 </edited>
 			<subEntries />
 		</entry>
 		<entry name="SuperBubble" offset="00" relocatable="true" max_length="0">
@@ -70,27 +70,27 @@
 		</entry>
 		<entry name="SuperBall" offset="00" relocatable="true" max_length="0">
 			<original>ナイスダマ</original>
-			<edited>好球 </edited>
+			<edited>赞气弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="SuperStamp" offset="00" relocatable="true" max_length="0">
 			<original>ウルトラハンコ</original>
-			<edited>究极印章 </edited>
+			<edited>终极印章</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shachihoko" offset="00" relocatable="true" max_length="0">
 			<original>ガチホコ</original>
-			<edited>认真鱼虎 </edited>
+			<edited>真格鱼虎</edited>
 			<subEntries />
 		</entry>
 		<entry name="MissileMissilePosition" offset="00" relocatable="true" max_length="0">
 			<original>キャノン</original>
-			<edited>加农炮 </edited>
+			<edited>大炮 </edited>
 			<subEntries />
 		</entry>
 		<entry name="BigLaser" offset="00" relocatable="true" max_length="0">
 			<original>センパイキャノン</original>
-			<edited>前辈加农炮 </edited>
+			<edited>前辈大炮 </edited>
 			<subEntries />
 		</entry>
 	</entries>

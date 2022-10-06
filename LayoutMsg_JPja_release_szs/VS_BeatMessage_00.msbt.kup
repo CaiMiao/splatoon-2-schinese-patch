@@ -10,12 +10,12 @@
 		</entry>
 		<entry name="T_Beat_01" offset="00" relocatable="true" max_length="0">
 			<original>３号をたおした！</original>
-			<edited>击倒了３号！</edited>
+			<edited>击倒了3号！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Beat_02" offset="00" relocatable="true" max_length="0">
 			<original>心のなかの３号をたおした！</original>
-			<edited>击倒了心中的３号！</edited>
+			<edited>击倒了心中的3号！</edited>
 			<subEntries />
 		</entry>
 	</entries>

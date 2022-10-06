@@ -5,17 +5,17 @@
 	<entries>
 		<entry name="Grade_00" offset="00" relocatable="true" max_length="0">
 			<original>けんしゅう</original>
-			<edited>实习生</edited>
+			<edited>实习</edited>
 			<subEntries />
 		</entry>
 		<entry name="Grade_01" offset="00" relocatable="true" max_length="0">
 			<original>かけだし</original>
-			<edited>初出茅庐</edited>
+			<edited>新手</edited>
 			<subEntries />
 		</entry>
 		<entry name="Grade_02" offset="00" relocatable="true" max_length="0">
 			<original>はんにんまえ</original>
-			<edited>半桶水</edited>
+			<edited>半吊子</edited>
 			<subEntries />
 		</entry>
 		<entry name="Grade_03" offset="00" relocatable="true" max_length="0">
@@ -35,22 +35,22 @@
 		</entry>
 		<entry name="Grade_Girl_00" offset="00" relocatable="true" max_length="0">
 			<original>けんしゅう バイトガール</original>
-			<edited>实习生 打工女孩</edited>
+			<edited>实习 打工女孩</edited>
 			<subEntries />
 		</entry>
 		<entry name="Grade_Girl_01" offset="00" relocatable="true" max_length="0">
 			<original>かけだし バイトガール</original>
-			<edited>初出茅庐 打工女孩</edited>
+			<edited>新手 打工女孩</edited>
 			<subEntries />
 		</entry>
 		<entry name="Grade_Girl_02" offset="00" relocatable="true" max_length="0">
 			<original>はんにんまえ バイトガール</original>
-			<edited>半桶水 打工女孩</edited>
+			<edited>半吊子 打工女孩</edited>
 			<subEntries />
 		</entry>
 		<entry name="Grade_Girl_03" offset="00" relocatable="true" max_length="0">
 			<original>いちにんまえ バイトガール</original>
-			<edited>独当一面 バイトガール</edited>
+			<edited>独当一面 打工女孩</edited>
 			<subEntries />
 		</entry>
 		<entry name="Grade_Girl_04" offset="00" relocatable="true" max_length="0">
@@ -65,17 +65,17 @@
 		</entry>
 		<entry name="Grade_Boy_00" offset="00" relocatable="true" max_length="0">
 			<original>けんしゅう バイトボーイ</original>
-			<edited>实习生 打工男孩</edited>
+			<edited>实习 打工男孩</edited>
 			<subEntries />
 		</entry>
 		<entry name="Grade_Boy_01" offset="00" relocatable="true" max_length="0">
 			<original>かけだし バイトボーイ</original>
-			<edited>初出茅庐 打工男孩</edited>
+			<edited>新手 打工男孩</edited>
 			<subEntries />
 		</entry>
 		<entry name="Grade_Boy_02" offset="00" relocatable="true" max_length="0">
 			<original>はんにんまえ バイトボーイ</original>
-			<edited>半桶水 打工男孩</edited>
+			<edited>半吊子 打工男孩</edited>
 			<subEntries />
 		</entry>
 		<entry name="Grade_Boy_03" offset="00" relocatable="true" max_length="0">

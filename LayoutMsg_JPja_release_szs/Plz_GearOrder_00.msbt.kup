@@ -5,37 +5,37 @@
 	<entries>
 		<entry name="040" offset="00" relocatable="true" max_length="0">
 			<original>納品待ち</original>
-			<edited>納品待ち</edited>
+			<edited>等待发货</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Order_00" offset="00" relocatable="true" max_length="0">
 			<original>発注！</original>
-			<edited>発注！</edited>
+			<edited>下单！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BtnL_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>注文リスト</original>
-			<edited>注文リスト</edited>
+			<edited>预订列表</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Back_00-T_Back_00" offset="00" relocatable="true" max_length="0">
 			<original>プラザへ</original>
-			<edited>プラザへ</edited>
+			<edited>前往Plaza</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>取り消すギア</original>
-			<edited>取り消すギア</edited>
+			<edited>取消的装备</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Info_01" offset="00" relocatable="true" max_length="0">
 			<original>注文するギア</original>
-			<edited>注文するギア</edited>
+			<edited>预订的装备</edited>
 			<subEntries />
 		</entry>
 		<entry name="100" offset="00" relocatable="true" max_length="0">
@@ -51,20 +51,20 @@
 		<entry name="102" offset="00" relocatable="true" max_length="0">
 			<original>ヨシ、注文くれたギアは 順番に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;１日１コずつ&#xE;&#x0;&#x3;&#x2;ÿÿ
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;受け取れる&#xE;&#x0;&#x3;&#x2;ÿÿから また来いよナ 待ってるからナ！</original>
-			<edited>ヨシ、注文くれたギアは 順番に&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;１日１コずつ&#xE;&#x0;&#x3;&#x2;ÿÿ
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;受け取れる&#xE;&#x0;&#x3;&#x2;ÿÿから また来いよナ 待ってるからナ！</edited>
+			<edited>好的，预订的装备可以&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;1天1个&#xE;&#x0;&#x3;&#x2;ÿÿ的速度
+依次&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;领取&#xE;&#x0;&#x3;&#x2;ÿÿ，下次再来吧，我会等着你的！</edited>
 			<subEntries />
 		</entry>
 		<entry name="103" offset="00" relocatable="true" max_length="0">
 			<original>ちょ… オマエさぁ、注文多すぎナ…
 新しく注文するならさ どれか取り消してくれナ</original>
-			<edited>ちょ… オマエさぁ、注文多すぎナ…
-新しく注文するならさ どれか取り消してくれナ</edited>
+			<edited>喂……你的订单有点多啊。
+如果想预订新的装备，能先取消一个旧订单吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="104" offset="00" relocatable="true" max_length="0">
 			<original>コレとコレ、注文入れ替えちゃうけどイイのか？</original>
-			<edited>コレとコレ、注文入れ替えちゃうけどイイのか？</edited>
+			<edited>要更换这两个订单吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="105" offset="00" relocatable="true" max_length="0">
@@ -81,7 +81,7 @@
 		</entry>
 		<entry name="107" offset="00" relocatable="true" max_length="0">
 			<original>それな、非売品だから注文できないんだ</original>
-			<edited>それな、非売品だから注文できないんだ</edited>
+			<edited>这是非卖品，不能预订。</edited>
 			<subEntries />
 		</entry>
 		<entry name="108" offset="00" relocatable="true" max_length="0">
@@ -91,77 +91,77 @@
 		</entry>
 		<entry name="109" offset="00" relocatable="true" max_length="0">
 			<original>今、注文もらってんのはこれナ！</original>
-			<edited>今、注文もらってんのはこれナ！</edited>
+			<edited>这就是你刚才预订的装备哦！</edited>
 			<subEntries />
 		</entry>
 		<entry name="110" offset="00" relocatable="true" max_length="0">
 			<original>この注文、取り消しちゃうのか？</original>
-			<edited>この注文、取り消しちゃうのか？</edited>
+			<edited>要取消这个订单吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="111" offset="00" relocatable="true" max_length="0">
 			<original>ヨシヨシ、ちゃんと取り消しておいたからナ！</original>
-			<edited>ヨシヨシ、ちゃんと取り消しておいたからナ！</edited>
+			<edited>好好，我已经帮你取消好了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Delivery_03" offset="00" relocatable="true" max_length="0">
 			<original>注文リスト</original>
-			<edited>注文リスト</edited>
+			<edited>预订列表</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Name_00" offset="00" relocatable="true" max_length="0">
 			<original>スパイキー</original>
-			<edited>スパイキー</edited>
+			<edited>刺冠</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_00-T_Num_00" offset="00" relocatable="true" max_length="0">
 			<original>注文リスト</original>
-			<edited>注文リスト</edited>
+			<edited>预订列表</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
 			<original>注文</original>
-			<edited>注文</edited>
+			<edited>预订</edited>
 			<subEntries />
 		</entry>
 		<entry name="011" offset="00" relocatable="true" max_length="0">
 			<original>注文済</original>
-			<edited>注文済</edited>
+			<edited>已预订</edited>
 			<subEntries />
 		</entry>
 		<entry name="012" offset="00" relocatable="true" max_length="0">
 			<original>非売品</original>
-			<edited>非売品</edited>
+			<edited>非卖品</edited>
 			<subEntries />
 		</entry>
 		<entry name="013" offset="00" relocatable="true" max_length="0">
 			<original>取り消す</original>
-			<edited>取り消す</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="014" offset="00" relocatable="true" max_length="0">
 			<original>受取可能</original>
-			<edited>受取可能</edited>
+			<edited>可领取</edited>
 			<subEntries />
 		</entry>
 		<entry name="020" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x3;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;のそうび</original>
-			<edited>&#xE;&#x3;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;のそうび</edited>
+			<edited>&#xE;&#x3;&#x0;&#x4;&#x0;&#x0;&#x0;&#x0;的装备</edited>
 			<subEntries />
 		</entry>
 		<entry name="030" offset="00" relocatable="true" max_length="0">
 			<original>注文する！</original>
-			<edited>注文する！</edited>
+			<edited>点餐！</edited>
 			<subEntries />
 		</entry>
 		<entry name="031" offset="00" relocatable="true" max_length="0">
 			<original>取り消す</original>
-			<edited>取り消す</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="032" offset="00" relocatable="true" max_length="0">
 			<original>入れ替える！</original>
-			<edited>入れ替える！</edited>
+			<edited>更换！</edited>
 			<subEntries />
 		</entry>
 	</entries>

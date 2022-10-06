@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="T_Yeah_01" offset="00" relocatable="true" max_length="0">
 			<original>イカす！</original>
-			<edited>イカす！</edited>
+			<edited>鱿型！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Report_00" offset="00" relocatable="true" max_length="0">
 			<original>通報</original>
-			<edited>通報</edited>
+			<edited>举报</edited>
 			<subEntries />
 		</entry>
 	</entries>

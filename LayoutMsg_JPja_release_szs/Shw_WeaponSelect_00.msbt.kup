@@ -5,42 +5,42 @@
 	<entries>
 		<entry name="T_Select_00" offset="00" relocatable="true" max_length="0">
 			<original>ブキを選ぶんだ！</original>
-			<edited>ブキを選ぶんだ！</edited>
+			<edited>选择武器！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>このブキでバトルに参加する？</original>
-			<edited>このブキでバトルに参加する？</edited>
+			<edited>用这个武器参加对战？</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>参加する！</original>
-			<edited>参加する！</edited>
+			<edited>参加！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_WpnSelect_02-T_Name_00" offset="00" relocatable="true" max_length="0">
 			<original>スプラチャージャー</original>
-			<edited>スプラチャージャー</edited>
+			<edited>斯普拉蓄力狙击枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_WpnSelect_03-T_Name_00" offset="00" relocatable="true" max_length="0">
 			<original>スプラマニューバー</original>
-			<edited>スプラマニューバー</edited>
+			<edited>斯普拉机动枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_WpnSelect_00-T_Name_00" offset="00" relocatable="true" max_length="0">
 			<original>スプラシューター</original>
-			<edited>スプラシューター</edited>
+			<edited>斯普拉射击枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_WpnSelect_01-T_Name_00" offset="00" relocatable="true" max_length="0">
 			<original>スプラローラー</original>
-			<edited>スプラローラー</edited>
+			<edited>斯普拉滚筒</edited>
 			<subEntries />
 		</entry>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
@@ -48,7 +48,7 @@
 &#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押すとインクショットを連射する。
 &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;初めての人&#xE;&#x0;&#x3;&#x2;ÿÿはもちろん、&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;上級者&#xE;&#x0;&#x3;&#x2;ÿÿにもオススメ。</original>
 			<edited>ナワバリバトルを代表するブキの最新モデル。
-&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押すとインクショットを連射する。
+&#xE;&#x2;&#30;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押すとインクショットを連射する。
 &#xE;&#x0;&#x3;&#x2;&#x1;&#x0;初めての人&#xE;&#x0;&#x3;&#x2;ÿÿはもちろん、&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;上級者&#xE;&#x0;&#x3;&#x2;ÿÿにもオススメ。</edited>
 			<subEntries />
 		</entry>
@@ -58,8 +58,8 @@
 &#xE;&#x0;&#x3;&#x2;ÿÿ空中で&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押すと&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;「タテ振り」&#xE;&#x0;&#x3;&#x2;ÿÿで
 インクを飛ばせる。</original>
 			<edited>接近戦で力を発揮するブキ。
-地面の上で&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押すと&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;「ヨコ振り」
-&#xE;&#x0;&#x3;&#x2;ÿÿ空中で&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押すと&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;「タテ振り」&#xE;&#x0;&#x3;&#x2;ÿÿで
+地面の上で&#xE;&#x2;&#30;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押すと&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;「ヨコ振り」
+&#xE;&#x0;&#x3;&#x2;ÿÿ空中で&#xE;&#x2;&#30;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押すと&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;「タテ振り」&#xE;&#x0;&#x3;&#x2;ÿÿで
 インクを飛ばせる。</edited>
 			<subEntries />
 		</entry>
@@ -69,8 +69,8 @@
 &#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押したまま&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でイカになると、
 少しの間&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;「チャージキープ」&#xE;&#x0;&#x3;&#x2;ÿÿして移動できる。</original>
 			<edited>遠くの相手を狙い撃つことができるブキ。
-&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でチャージして、離すと発射する。
-&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押したまま&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でイカになると、
+&#xE;&#x2;&#30;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でチャージして、離すと発射する。
+&#xE;&#x2;&#30;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押したまま&#xE;&#x2;&#29;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でイカになると、
 少しの間&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;「チャージキープ」&#xE;&#x0;&#x3;&#x2;ÿÿして移動できる。</edited>
 			<subEntries />
 		</entry>
@@ -80,7 +80,7 @@
 &#xE;&#x2;"&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;の向きに&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;「スライド」&#xE;&#x0;&#x3;&#x2;ÿÿする。
 「スライド」は2回まで連続で使える。</original>
 			<edited>両手に1つずつ持つ、新しいスタイルのブキ。
-&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押したまま&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押すと、
+&#xE;&#x2;&#30;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押したまま&#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押すと、
 &#xE;&#x2;"&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;の向きに&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;「スライド」&#xE;&#x0;&#x3;&#x2;ÿÿする。
 「スライド」は2回まで連続で使える。</edited>
 			<subEntries />

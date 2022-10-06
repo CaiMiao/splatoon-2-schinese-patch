@@ -5,17 +5,17 @@
 	<entries>
 		<entry name="006" offset="00" relocatable="true" max_length="0">
 			<original>アルバイトぼしゅうのお知らせ</original>
-			<edited>アルバイトぼしゅうのお知らせ</edited>
+			<edited>打工募集告示</edited>
 			<subEntries />
 		</entry>
 		<entry name="007" offset="00" relocatable="true" max_length="0">
 			<original>ガチアサリ</original>
-			<edited>ガチアサリ</edited>
+			<edited>真格蛤蜊</edited>
 			<subEntries />
 		</entry>
 		<entry name="100" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x5;&#x1;&#x2;&#x0;Í 開催</original>
-			<edited>&#xE;&#x5;&#x1;&#x2;&#x0;Í 開催</edited>
+			<edited>&#xE;&#x5;&#x1;&#x2;&#x0;Í举行</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Msg_00" offset="00" relocatable="true" max_length="0">
@@ -23,15 +23,15 @@
 一部 ゲーム内容を修正しました
 くわしくは スプラトゥーン2の
 公式サイトを ご覧ください</original>
-			<edited>ゲームを 快適に遊んでいただけるよう、
-一部 ゲーム内容を修正しました
-くわしくは スプラトゥーン2の
-公式サイトを ご覧ください</edited>
+			<edited>已修正部分游戏内容
+以提升游玩游戏时的舒适度。
+详情请查看《Splatoon 2》的官方网站。
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Victory_00" offset="00" relocatable="true" max_length="0">
 			<original>勝利！</original>
-			<edited>勝利！</edited>
+			<edited>胜利！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Fes_00" offset="00" relocatable="true" max_length="0">
@@ -46,12 +46,12 @@
 		</entry>
 		<entry name="T_Wins_00" offset="00" relocatable="true" max_length="0">
 			<original>こうけん度</original>
-			<edited>こうけん度</edited>
+			<edited>贡献度</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_TotalResultTitle_00" offset="00" relocatable="true" max_length="0">
 			<original>最終結果！</original>
-			<edited>最終結果！</edited>
+			<edited>最终结果！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Votes_00" offset="00" relocatable="true" max_length="0">
@@ -61,37 +61,37 @@
 		</entry>
 		<entry name="L_ItemDetail_00-T_Sub_00" offset="00" relocatable="true" max_length="0">
 			<original>サブ</original>
-			<edited>サブ</edited>
+			<edited>次要武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ItemDetail_00-T_Super_00" offset="00" relocatable="true" max_length="0">
 			<original>スペシャル</original>
-			<edited>スペシャル</edited>
+			<edited>特殊武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ItemDetail_00-T_SpecialPointName_00" offset="00" relocatable="true" max_length="0">
 			<original>スペシャル必要ポイント</original>
-			<edited>スペシャル必要ポイント</edited>
+			<edited>特殊武器需要的点数</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_WinsGroup_00" offset="00" relocatable="true" max_length="0">
 			<original>チャレンジ</original>
-			<edited>チャレンジ</edited>
+			<edited>挑战</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_WinsSolo_00" offset="00" relocatable="true" max_length="0">
 			<original>レギュラー</original>
-			<edited>レギュラー</edited>
+			<edited>一般</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Wins_00-T_Unit_00" offset="00" relocatable="true" max_length="0">
 			<original>％</original>
-			<edited>％</edited>
+			<edited>%</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Votes_00-T_Unit_00" offset="00" relocatable="true" max_length="0">
 			<original>％</original>
-			<edited>％</edited>
+			<edited>%</edited>
 			<subEntries />
 		</entry>
 	</entries>

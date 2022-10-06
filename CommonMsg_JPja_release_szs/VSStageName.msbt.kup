@@ -40,7 +40,7 @@
 		</entry>
 		<entry name="Tuzura00" offset="00" relocatable="true" max_length="0">
 			<original>タチウオパーキング</original>
-			<edited>带鱼双塔</edited>
+			<edited>タチウオパーキング</edited>
 			<subEntries />
 		</entry>
 		<entry name="Office01" offset="00" relocatable="true" max_length="0">
@@ -70,12 +70,12 @@
 		</entry>
 		<entry name="Nagasaki00" offset="00" relocatable="true" max_length="0">
 			<original>チョウザメ造船</original>
-			<edited>チョウザメ造船</edited>
+			<edited>鲟鱼造船厂</edited>
 			<subEntries />
 		</entry>
 		<entry name="Upland00" offset="00" relocatable="true" max_length="0">
 			<original>海女美術大学</original>
-			<edited>海女美術大学</edited>
+			<edited>海女美术大学</edited>
 			<subEntries />
 		</entry>
 		<entry name="Pillar00" offset="00" relocatable="true" max_length="0">
@@ -95,7 +95,7 @@
 		</entry>
 		<entry name="Line00" offset="00" relocatable="true" max_length="0">
 			<original>ザトウマーケット</original>
-			<edited>ザトウマーケット</edited>
+			<edited>座头购物中心</edited>
 			<subEntries />
 		</entry>
 		<entry name="Tunnel00" offset="00" relocatable="true" max_length="0">
@@ -115,7 +115,7 @@
 		</entry>
 		<entry name="Carousel00" offset="00" relocatable="true" max_length="0">
 			<original>スメーシーワールド</original>
-			<edited>スメーシーワールド</edited>
+			<edited>醋饭海洋世界</edited>
 			<subEntries />
 		</entry>
 		<entry name="Nakasu00" offset="00" relocatable="true" max_length="0">

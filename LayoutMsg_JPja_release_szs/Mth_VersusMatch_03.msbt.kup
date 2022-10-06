@@ -5,17 +5,17 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>どっちでも</original>
-			<edited>哪边都行</edited>
+			<edited>随意</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>アルファチーム</original>
-			<edited>A队</edited>
+			<edited>Alpha队</edited>
 			<subEntries />
 		</entry>
 		<entry name="002" offset="00" relocatable="true" max_length="0">
 			<original>ブラボーチーム</original>
-			<edited>B队</edited>
+			<edited>Bravo队</edited>
 			<subEntries />
 		</entry>
 		<entry name="003" offset="00" relocatable="true" max_length="0">
@@ -35,22 +35,22 @@
 		</entry>
 		<entry name="T_StageHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>ステージ</original>
-			<edited>关卡</edited>
+			<edited>场地</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Message_00" offset="00" relocatable="true" max_length="0">
 			<original>親がチームを決めています</original>
-			<edited>主控正在分配队伍</edited>
+			<edited>主办者正在选择队伍</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Message_01" offset="00" relocatable="true" max_length="0">
 			<original>チームを決めてください</original>
-			<edited>请分配队伍</edited>
+			<edited>请选择队伍</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>チーム決定！</original>
-			<edited>队伍决定！</edited>
+			<edited>队伍已定！</edited>
 			<subEntries />
 		</entry>
 	</entries>

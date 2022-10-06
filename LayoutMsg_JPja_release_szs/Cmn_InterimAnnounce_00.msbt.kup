@@ -5,22 +5,22 @@
 	<entries>
 		<entry name="T_Announce_00" offset="00" relocatable="true" max_length="0">
 			<original>あと１分！</original>
-			<edited>还有１分钟！</edited>
+			<edited>还剩1分钟！</edited>
 			<subEntries />
 		</entry>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>あと１コ！</original>
-			<edited>还有１个！</edited>
+			<edited>还剩1个！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>あと１体！</original>
-			<edited>还有１只！</edited>
+			<edited>还剩1只！</edited>
 			<subEntries />
 		</entry>
 		<entry name="003" offset="00" relocatable="true" max_length="0">
 			<original>あと&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Íコ！</original>
-			<edited>还有&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í只！</edited>
+			<edited>还剩&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í个！</edited>
 			<subEntries />
 		</entry>
 	</entries>

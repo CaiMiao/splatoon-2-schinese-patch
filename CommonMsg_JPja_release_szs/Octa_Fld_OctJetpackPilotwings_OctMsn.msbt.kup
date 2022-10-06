@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ジェットパック中&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押すと 少しうきまス</original>
-			<edited>ジェットパック中&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押すと 少しうきまス</edited>
+			<edited>ジェットパック中&#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押すと 少しうきまス</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
@@ -25,7 +25,7 @@
 		</entry>
 		<entry name="PilotWings_0001" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で、ちょっとだけうくゾ！</original>
-			<edited>&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で、ちょっとだけうくゾ！</edited>
+			<edited>&#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で、ちょっとだけうくゾ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PilotWings_0002" offset="00" relocatable="true" max_length="0">
@@ -35,22 +35,22 @@
 		</entry>
 		<entry name="PilotWings_0004" offset="00" relocatable="true" max_length="0">
 			<original>ジェットパック中でも、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でセンプクできます！</original>
-			<edited>ジェットパック中でも、&#xE;&#x2;&#x1D;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でセンプクできます！</edited>
+			<edited>ジェットパック中でも、&#xE;&#x2;&#29;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でセンプクできます！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PilotWings_0005" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で ショーーット！！</original>
-			<edited>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で ショーーット！！</edited>
+			<edited>&#xE;&#x2;&#30;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で ショーーット！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PilotWings_0006" offset="00" relocatable="true" max_length="0">
 			<original>空中で&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;、何度でもできますよ！</original>
-			<edited>空中で&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;、何度でもできますよ！</edited>
+			<edited>空中で&#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;、何度でもできますよ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PilotWings_0007" offset="00" relocatable="true" max_length="0">
 			<original>落ちそうなら、とにかく&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;しまくれば よさそうじゃな！</original>
-			<edited>落ちそうなら、とにかく&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;しまくれば よさそうじゃな！</edited>
+			<edited>落ちそうなら、とにかく&#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;しまくれば よさそうじゃな！</edited>
 			<subEntries />
 		</entry>
 		<entry name="PilotWings_0008" offset="00" relocatable="true" max_length="0">

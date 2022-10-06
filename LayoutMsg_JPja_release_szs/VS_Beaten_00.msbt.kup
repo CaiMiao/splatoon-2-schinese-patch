@@ -5,117 +5,117 @@
 	<entries>
 		<entry name="T_Timer_00" offset="00" relocatable="true" max_length="0">
 			<original>復活まであと&#xE;ú	&#x4;&#x0;&#x0;&#x1;Í秒</original>
-			<edited>距离复活还有&#xE;ú	&#x4;&#x0;&#x0;&#x1;Í秒</edited>
+			<edited>离复活还剩&#xE;ú	&#x4;&#x0;&#x0;&#x1;Í秒</edited>
 			<subEntries />
 		</entry>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>相手にやられた！</original>
-			<edited>被对手打倒了！</edited>
+			<edited>遭对手击倒！</edited>
 			<subEntries />
 		</entry>
 		<entry name="002" offset="00" relocatable="true" max_length="0">
 			<original>ガチホコの爆発で
 やられた！</original>
-			<edited>被认真鱼虎的爆炸
-打倒了！</edited>
+			<edited>因真格鱼虎的爆炸
+而阵亡！</edited>
 			<subEntries />
 		</entry>
 		<entry name="003" offset="00" relocatable="true" max_length="0">
 			<original>ガチホコショットで
 やられた！</original>
-			<edited>被认真鱼虎射击
-打倒了！</edited>
+			<edited>因真格鱼虎的发射
+而阵亡！</edited>
 			<subEntries />
 		</entry>
 		<entry name="004" offset="00" relocatable="true" max_length="0">
 			<original>ガチホコの爆発で
 やられた！</original>
-			<edited>被认真鱼虎的爆炸
-打倒了！</edited>
+			<edited>因真格鱼虎的爆炸
+而阵亡！</edited>
 			<subEntries />
 		</entry>
 		<entry name="005" offset="00" relocatable="true" max_length="0">
 			<original>ガチホコの
 バリアでやられた！</original>
-			<edited>被认真鱼虎的
-护罩被打倒了！</edited>
+			<edited>因真格鱼虎的防护罩
+而阵亡！</edited>
 			<subEntries />
 		</entry>
 		<entry name="006" offset="00" relocatable="true" max_length="0">
 			<original>プロペラから 飛び散ったインクで
 やられた！</original>
-			<edited>被从プロペラ飞溅的墨汁
-被打倒了！</edited>
+			<edited>因螺旋桨处飞溅的墨汁
+而阵亡！</edited>
 			<subEntries />
 		</entry>
 		<entry name="007" offset="00" relocatable="true" max_length="0">
 			<original>カンケツセンで
 やられた！</original>
-			<edited>被间歇泉
-打倒了！</edited>
+			<edited>因喷泉
+而阵亡！</edited>
 			<subEntries />
 		</entry>
 		<entry name="008" offset="00" relocatable="true" max_length="0">
 			<original>タコドーザーに
 やられた！</original>
-			<edited>タコドーザーに
-被打倒了！</edited>
+			<edited>因章鱼推进洒墨机
+而阵亡！</edited>
 			<subEntries />
 		</entry>
 		<entry name="009" offset="00" relocatable="true" max_length="0">
 			<original>コロガリウムで
 やられた！</original>
-			<edited>コロガリウムで
-被打倒了！</edited>
+			<edited>因コロガリウム
+而阵亡！</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
 			<original>ピロピロで
 やられた！</original>
-			<edited>被卷笛毯
-打倒了！</edited>
+			<edited>因吹吹卷
+而阵亡！</edited>
 			<subEntries />
 		</entry>
 		<entry name="011" offset="00" relocatable="true" max_length="0">
 			<original>イイダボムで
 やられた！</original>
-			<edited>被イイダ炸弹
-打倒了！</edited>
+			<edited>因饭田炸弹
+而阵亡！</edited>
 			<subEntries />
 		</entry>
 		<entry name="100" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í で
 ひかれた！</original>
-			<edited>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í で
-ひかれた！</edited>
+			<edited>因&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í的碾压
+而阵亡！</edited>
 			<subEntries />
 		</entry>
 		<entry name="101" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í の
 ジェットでやられた！</original>
-			<edited>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í の
-ジェットでやられた！</edited>
+			<edited>因&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í的喷射
+而阵亡！</edited>
 			<subEntries />
 		</entry>
 		<entry name="102" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í に
 ひかれた！</original>
-			<edited>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í に
-ひかれた！</edited>
+			<edited>遭&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í的碾压
+而阵亡！</edited>
 			<subEntries />
 		</entry>
 		<entry name="103" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í の
 爆発でやられた！</original>
-			<edited>被 &#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í 的
-爆炸打倒了！</edited>
+			<edited>因&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í的爆炸
+而阵亡！</edited>
 			<subEntries />
 		</entry>
 		<entry name="999" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í で
 やられた！</original>
-			<edited>被 &#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í
-打倒了！</edited>
+			<edited>因&#xE;&#x4;&#x0;&#x4;&#x0;&#x0;&#x0;Í
+而阵亡！</edited>
 			<subEntries />
 		</entry>
 	</entries>

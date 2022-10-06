@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="T_CheckPoint_00" offset="00" relocatable="true" max_length="0">
 			<original>チェックポイント！</original>
-			<edited>检查点！</edited>
+			<edited>关卡点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_LastCheckPoint_00" offset="00" relocatable="true" max_length="0">
 			<original>最終チェックポイント！</original>
-			<edited>最终检查点！</edited>
+			<edited>最终关卡点！</edited>
 			<subEntries />
 		</entry>
 	</entries>

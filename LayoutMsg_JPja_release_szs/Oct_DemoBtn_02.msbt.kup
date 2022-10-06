@@ -5,17 +5,17 @@
 	<entries>
 		<entry name="L_Btn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>あの激しかった戦いを思い出す</original>
-			<edited>あの激しかった戦いを思い出す</edited>
+			<edited>回想那场激烈的战斗</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>あの日見た朝焼けの色を思い出す</original>
-			<edited>あの日見た朝焼けの色を思い出す</edited>
+			<edited>回想那天望见的朝霞颜色</edited>
 			<subEntries />
 		</entry>
 	</entries>

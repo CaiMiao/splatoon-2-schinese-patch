@@ -5,22 +5,22 @@
 	<entries>
 		<entry name="T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>キミも イカしたヤツに なりたイカ？</original>
-			<edited>你也想要 当型爆墨鱼吗？</edited>
+			<edited>你也想变得超鱿型吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Msg_01" offset="00" relocatable="true" max_length="0">
 			<original>だったら バトルでカツヤクしてみせろ！</original>
-			<edited>那么 就在战斗中表现一番吧！</edited>
+			<edited>那就在战斗中大展身手吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Msg_02" offset="00" relocatable="true" max_length="0">
 			<original>ハッキリ言って… まだキミはダサい！</original>
-			<edited>我就直说了… 你还很逊呢！</edited>
+			<edited>我就直说了……你还太嫩了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Msg_03" offset="00" relocatable="true" max_length="0">
 			<original>まずは イカしたアクションを その体にたたきこむんだ！</original>
-			<edited>首先 把超酷动作 学到骨子里！</edited>
+			<edited>首先，熟练掌握超鱿型的动作吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Msg_04" offset="00" relocatable="true" max_length="0">

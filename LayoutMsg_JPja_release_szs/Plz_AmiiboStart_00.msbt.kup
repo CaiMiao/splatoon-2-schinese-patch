@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="T_Header_00" offset="00" relocatable="true" max_length="0">
 			<original>amiiboをNFCエリアにタッチしてください</original>
-			<edited>请将amiibo与NFC区域接触</edited>
+			<edited>请使用amiibo触碰NFC区域。</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Touch_00" offset="00" relocatable="true" max_length="0">

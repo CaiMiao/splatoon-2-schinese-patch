@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="L_BtnL_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BtnR_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -15,22 +15,22 @@
 		</entry>
 		<entry name="L_WeaponDetail_00-T_Sub_00" offset="00" relocatable="true" max_length="0">
 			<original>サブ</original>
-			<edited>副</edited>
+			<edited>次要武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_WeaponDetail_00-T_Super_00" offset="00" relocatable="true" max_length="0">
 			<original>スペシャル</original>
-			<edited>特殊</edited>
+			<edited>特殊武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_WeaponDetail_00-T_TotalScoreName_00" offset="00" relocatable="true" max_length="0">
 			<original>今まで塗った面積</original>
-			<edited>至今涂抹面积</edited>
+			<edited>至今涂墨面积</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_WeaponDetail_00-T_SpecialPointName_00" offset="00" relocatable="true" max_length="0">
 			<original>スペシャル必要ポイント</original>
-			<edited>特殊必要点数</edited>
+			<edited>特殊武器需要的点数</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Message_00" offset="00" relocatable="true" max_length="0">

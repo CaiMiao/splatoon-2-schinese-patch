@@ -15,17 +15,17 @@
 		</entry>
 		<entry name="T_RStick_00" offset="00" relocatable="true" max_length="0">
 			<original>左右向く</original>
-			<edited>转向左右</edited>
+			<edited>朝向左右</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_ZRButton_00" offset="00" relocatable="true" max_length="0">
 			<original>インクショット</original>
-			<edited>墨汁射击</edited>
+			<edited>墨汁发射</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_ZLButton_00" offset="00" relocatable="true" max_length="0">
 			<original>イカ</original>
-			<edited>墨鱼</edited>
+			<edited>鱿鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_RButton_00" offset="00" relocatable="true" max_length="0">

@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="T_Attention_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でマップを開く！</original>
-			<edited>用&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;打开地图！</edited>
+			<edited>按&#xE;&#x2;&#25;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;打开地图！</edited>
 			<subEntries />
 		</entry>
 	</entries>

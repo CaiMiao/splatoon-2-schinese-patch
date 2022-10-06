@@ -5,22 +5,22 @@
 	<entries>
 		<entry name="L_BtnL_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>今のまま</original>
-			<edited>今のまま</edited>
+			<edited>维持现状</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BtnR_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>買う！</original>
-			<edited>買う！</edited>
+			<edited>购买！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Text_00" offset="00" relocatable="true" max_length="0">
 			<original>持っているギア</original>
-			<edited>持っているギア</edited>
+			<edited>持有的装备</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Text_01" offset="00" relocatable="true" max_length="0">
 			<original>注文したギア</original>
-			<edited>注文したギア</edited>
+			<edited>预订的装备</edited>
 			<subEntries />
 		</entry>
 	</entries>

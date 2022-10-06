@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="Bomb_Splash" offset="00" relocatable="true" max_length="0">
 			<original>スプラッシュボム</original>
-			<edited>喷溅炸弹</edited>
+			<edited>斯普拉炸弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_Suction" offset="00" relocatable="true" max_length="0">
@@ -15,22 +15,22 @@
 		</entry>
 		<entry name="Bomb_Quick" offset="00" relocatable="true" max_length="0">
 			<original>クイックボム</original>
-			<edited>速爆炸弹 </edited>
+			<edited>快速炸弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_Curling" offset="00" relocatable="true" max_length="0">
 			<original>カーリングボム</original>
-			<edited>冰壶炸弹 </edited>
+			<edited>冰壶炸弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_Robo" offset="00" relocatable="true" max_length="0">
 			<original>ロボットボム</original>
-			<edited>机器人炸弹 </edited>
+			<edited>机器人炸弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="TimerTrap" offset="00" relocatable="true" max_length="0">
 			<original>トラップ</original>
-			<edited>墨汁地雷</edited>
+			<edited>墨汁陷阱</edited>
 			<subEntries />
 		</entry>
 		<entry name="Sprinkler" offset="00" relocatable="true" max_length="0">
@@ -40,47 +40,47 @@
 		</entry>
 		<entry name="PointSensor" offset="00" relocatable="true" max_length="0">
 			<original>ポイントセンサー</original>
-			<edited>定位传感器</edited>
+			<edited>定点侦测器</edited>
 			<subEntries />
 		</entry>
 		<entry name="PoisonFog" offset="00" relocatable="true" max_length="0">
 			<original>ポイズンミスト</original>
-			<edited>毒雾 </edited>
+			<edited>毒雾</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shield" offset="00" relocatable="true" max_length="0">
 			<original>スプラッシュシールド</original>
-			<edited>喷溅墨墙</edited>
+			<edited>斯普拉防护墙</edited>
 			<subEntries />
 		</entry>
 		<entry name="Flag" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプビーコン</original>
-			<edited>跳跃灯塔</edited>
+			<edited>跳跃信标</edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_Piyo" offset="00" relocatable="true" max_length="0">
 			<original>タンサンボム</original>
-			<edited>碳酸炸弹 </edited>
+			<edited>碳酸炸弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_Tako" offset="00" relocatable="true" max_length="0">
 			<original>トーピード</original>
-			<edited>鱼雷 </edited>
+			<edited>鱼雷</edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_MissionSplash" offset="00" relocatable="true" max_length="0">
 			<original>スプラッシュボム</original>
-			<edited>喷溅炸弹</edited>
+			<edited>斯普拉炸弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_MissionCurling" offset="00" relocatable="true" max_length="0">
 			<original>カーリングボム</original>
-			<edited>冰壶炸弹 </edited>
+			<edited>冰壶炸弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="Bomb_MissionRobo" offset="00" relocatable="true" max_length="0">
 			<original>ロボットボム</original>
-			<edited>机器人炸弹 </edited>
+			<edited>机器人炸弹</edited>
 			<subEntries />
 		</entry>
 	</entries>

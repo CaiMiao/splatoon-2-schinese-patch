@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="WeaponShop" offset="00" relocatable="true" max_length="0">
 			<original>ブキチ</original>
-			<edited>武鲎</edited>
+			<edited>武器子</edited>
 			<subEntries />
 		</entry>
 		<entry name="AccessoryShop" offset="00" relocatable="true" max_length="0">
@@ -30,17 +30,17 @@
 		</entry>
 		<entry name="Lob" offset="00" relocatable="true" max_length="0">
 			<original>ロブ</original>
-			<edited>鞋虾</edited>
+			<edited>阿龙</edited>
 			<subEntries />
 		</entry>
 		<entry name="Vender" offset="00" relocatable="true" max_length="0">
 			<original>スパイキー</original>
-			<edited>スパイキー</edited>
+			<edited>刺冠</edited>
 			<subEntries />
 		</entry>
 		<entry name="Atarime" offset="00" relocatable="true" max_length="0">
 			<original>アタリメ司令</original>
-			<edited>墨鱼丝令</edited>
+			<edited>鱼干司令</edited>
 			<subEntries />
 		</entry>
 		<entry name="WamonA" offset="00" relocatable="true" max_length="0">
@@ -50,12 +50,12 @@
 		</entry>
 		<entry name="WamonB" offset="00" relocatable="true" max_length="0">
 			<original>DJタコワサ将軍</original>
-			<edited>DJ章鱼芥末将军</edited>
+			<edited>DJ芥末章鱼将军</edited>
 			<subEntries />
 		</entry>
 		<entry name="Aori" offset="00" relocatable="true" max_length="0">
 			<original>アオリ</original>
-			<edited>香匙</edited>
+			<edited>小拟</edited>
 			<subEntries />
 		</entry>
 		<entry name="Aori_S" offset="00" relocatable="true" max_length="0">
@@ -65,37 +65,37 @@
 		</entry>
 		<entry name="Hotaru" offset="00" relocatable="true" max_length="0">
 			<original>ホタル</original>
-			<edited>萤火</edited>
+			<edited>小萤</edited>
 			<subEntries />
 		</entry>
 		<entry name="Hime" offset="00" relocatable="true" max_length="0">
 			<original>ヒメ</original>
-			<edited>ヒメ</edited>
+			<edited>小姬</edited>
 			<subEntries />
 		</entry>
 		<entry name="Iida" offset="00" relocatable="true" max_length="0">
 			<original>イイダ</original>
-			<edited>イイダ</edited>
+			<edited>饭田</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shiso" offset="00" relocatable="true" max_length="0">
 			<original>１号</original>
-			<edited>１号</edited>
+			<edited>1号</edited>
 			<subEntries />
 		</entry>
 		<entry name="Lemon" offset="00" relocatable="true" max_length="0">
 			<original>２号</original>
-			<edited>２号</edited>
+			<edited>2号</edited>
 			<subEntries />
 		</entry>
 		<entry name="Rival" offset="00" relocatable="true" max_length="0">
 			<original>タコゾネス</original>
-			<edited>タコゾネス</edited>
+			<edited>章鱼女战士</edited>
 			<subEntries />
 		</entry>
 		<entry name="Kuma" offset="00" relocatable="true" max_length="0">
 			<original>クマサン</original>
-			<edited>クマサン</edited>
+			<edited>熊先生</edited>
 			<subEntries />
 		</entry>
 		<entry name="Unknown" offset="00" relocatable="true" max_length="0">

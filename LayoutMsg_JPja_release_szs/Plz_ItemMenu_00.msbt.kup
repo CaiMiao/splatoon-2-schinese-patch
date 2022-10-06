@@ -5,22 +5,22 @@
 	<entries>
 		<entry name="L_CustomIconBtn_01-T_Category_00" offset="00" relocatable="true" max_length="0">
 			<original>アタマ</original>
-			<edited>アタマ</edited>
+			<edited>头部装备</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_CustomIconBtn_02-T_Category_00" offset="00" relocatable="true" max_length="0">
 			<original>フク</original>
-			<edited>フク</edited>
+			<edited>服装</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_CustomIconBtn_03-T_Category_00" offset="00" relocatable="true" max_length="0">
 			<original>クツ</original>
-			<edited>クツ</edited>
+			<edited>鞋子</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Lstick_00-T_Sort_00" offset="00" relocatable="true" max_length="0">
 			<original>並べ替え</original>
-			<edited>並べ替え</edited>
+			<edited>排序</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ItemBtn_00-T_New_00" offset="00" relocatable="true" max_length="0">
@@ -50,17 +50,17 @@
 		</entry>
 		<entry name="L_KeyIcon_01-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>表示切替</original>
-			<edited>表示切替</edited>
+			<edited>切换显示</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Num_00" offset="00" relocatable="true" max_length="0">
 			<original>持っているかけらの数</original>
-			<edited>持っているかけらの数</edited>
+			<edited>碎片持有数</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_CostNum_00" offset="00" relocatable="true" max_length="0">
 			<original>必要なかけらの数</original>
-			<edited>必要なかけらの数</edited>
+			<edited>需要的碎片数量</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_CustomIconBtn_01-T_New_00" offset="00" relocatable="true" max_length="0">

@@ -118,15 +118,15 @@
 		<entry name="FirstEve_00" offset="00" relocatable="true" max_length="0">
 			<original>前夜祭では ケイケン値やおカネ、
 スーパーサザエは手に入りません</original>
-			<edited>前夜祭では ケイケン値やおカネ、
-スーパーサザエは手に入りません</edited>
+			<edited>在前夜祭期间
+无法获得经验值、金钱以及超级蝾螺。</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEve_01" offset="00" relocatable="true" max_length="0">
 			<original>また、製品版「スプラトゥーン2」への
 セーブデータの引き継ぎは 行われません</original>
-			<edited>また、製品版「スプラトゥーン2」への
-セーブデータの引き継ぎは 行われません</edited>
+			<edited>另外，保存数据将不会继承至
+《Splatoon 2》正式版。</edited>
 			<subEntries />
 		</entry>
 		<entry name="GachiOpen_00" offset="00" relocatable="true" max_length="0">

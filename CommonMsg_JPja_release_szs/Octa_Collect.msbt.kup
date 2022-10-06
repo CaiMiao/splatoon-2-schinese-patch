@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="Name_OctCollectIcon_00" offset="00" relocatable="true" max_length="0">
 			<original>イカ</original>
-			<edited>イカ</edited>
+			<edited>鱿鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_00" offset="00" relocatable="true" max_length="0">
@@ -65,7 +65,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_05" offset="00" relocatable="true" max_length="0">
 			<original>タコ</original>
-			<edited>タコ</edited>
+			<edited>章鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_05" offset="00" relocatable="true" max_length="0">
@@ -77,7 +77,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_06" offset="00" relocatable="true" max_length="0">
 			<original>バイタコトルーパー</original>
-			<edited>バイタコトルーパー</edited>
+			<edited>强化章鱼兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_06" offset="00" relocatable="true" max_length="0">
@@ -89,7 +89,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_07" offset="00" relocatable="true" max_length="0">
 			<original>タコプター</original>
-			<edited>タコプター</edited>
+			<edited>章鱼螺旋桨兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_07" offset="00" relocatable="true" max_length="0">
@@ -101,7 +101,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_08" offset="00" relocatable="true" max_length="0">
 			<original>ボムタコプター</original>
-			<edited>ボムタコプター</edited>
+			<edited>炸弹章鱼螺旋桨兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_08" offset="00" relocatable="true" max_length="0">
@@ -113,7 +113,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_09" offset="00" relocatable="true" max_length="0">
 			<original>スタコラー</original>
-			<edited>スタコラー</edited>
+			<edited>章鱼溜兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_09" offset="00" relocatable="true" max_length="0">
@@ -125,7 +125,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_10" offset="00" relocatable="true" max_length="0">
 			<original>タコポッド</original>
-			<edited>タコポッド</edited>
+			<edited>章鱼弹舱兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_10" offset="00" relocatable="true" max_length="0">
@@ -137,7 +137,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_11" offset="00" relocatable="true" max_length="0">
 			<original>タコスタンプ</original>
-			<edited>タコスタンプ</edited>
+			<edited>章鱼印章兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_11" offset="00" relocatable="true" max_length="0">
@@ -149,7 +149,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_12" offset="00" relocatable="true" max_length="0">
 			<original>タコッペリン号</original>
-			<edited>タコッペリン号</edited>
+			<edited>章鱼柏林号</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_12" offset="00" relocatable="true" max_length="0">
@@ -173,7 +173,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_14" offset="00" relocatable="true" max_length="0">
 			<original>タコゾネス</original>
-			<edited>タコゾネス</edited>
+			<edited>章鱼女战士</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_14" offset="00" relocatable="true" max_length="0">
@@ -185,7 +185,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_15" offset="00" relocatable="true" max_length="0">
 			<original>シャケ</original>
-			<edited>シャケ</edited>
+			<edited>鲑鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_15" offset="00" relocatable="true" max_length="0">
@@ -197,7 +197,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_16" offset="00" relocatable="true" max_length="0">
 			<original>バクダン</original>
-			<edited>バクダン</edited>
+			<edited>炸弹鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_16" offset="00" relocatable="true" max_length="0">
@@ -209,7 +209,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_17" offset="00" relocatable="true" max_length="0">
 			<original>ヘビ</original>
-			<edited>ヘビ</edited>
+			<edited>蛇鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_17" offset="00" relocatable="true" max_length="0">
@@ -221,7 +221,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_18" offset="00" relocatable="true" max_length="0">
 			<original>カタパッド</original>
-			<edited>カタパッド</edited>
+			<edited>垫肩飞鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_18" offset="00" relocatable="true" max_length="0">
@@ -233,7 +233,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_19" offset="00" relocatable="true" max_length="0">
 			<original>モグラ</original>
-			<edited>モグラ</edited>
+			<edited>鼹鼠鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_19" offset="00" relocatable="true" max_length="0">
@@ -245,7 +245,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_20" offset="00" relocatable="true" max_length="0">
 			<original>タワー</original>
-			<edited>タワー</edited>
+			<edited>高塔鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_20" offset="00" relocatable="true" max_length="0">
@@ -257,7 +257,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_21" offset="00" relocatable="true" max_length="0">
 			<original>テッパン</original>
-			<edited>テッパン</edited>
+			<edited>铁板鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_21" offset="00" relocatable="true" max_length="0">
@@ -269,7 +269,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_22" offset="00" relocatable="true" max_length="0">
 			<original>コウモリ</original>
-			<edited>コウモリ</edited>
+			<edited>蝙蝠鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_22" offset="00" relocatable="true" max_length="0">
@@ -281,7 +281,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_23" offset="00" relocatable="true" max_length="0">
 			<original>キンシャケ</original>
-			<edited>キンシャケ</edited>
+			<edited>金鲑鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_23" offset="00" relocatable="true" max_length="0">
@@ -293,7 +293,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_24" offset="00" relocatable="true" max_length="0">
 			<original>スタート地点</original>
-			<edited>スタート地点</edited>
+			<edited>开始地点</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_24" offset="00" relocatable="true" max_length="0">
@@ -341,7 +341,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_28" offset="00" relocatable="true" max_length="0">
 			<original>ガチホコ</original>
-			<edited>ガチホコ</edited>
+			<edited>真格鱼虎</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_28" offset="00" relocatable="true" max_length="0">
@@ -353,7 +353,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_29" offset="00" relocatable="true" max_length="0">
 			<original>ガチアサリ</original>
-			<edited>ガチアサリ</edited>
+			<edited>真格蛤蜊</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_29" offset="00" relocatable="true" max_length="0">
@@ -365,7 +365,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_30" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラ</original>
-			<edited>ガチヤグラ</edited>
+			<edited>真格塔楼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_30" offset="00" relocatable="true" max_length="0">
@@ -377,7 +377,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_31" offset="00" relocatable="true" max_length="0">
 			<original>木</original>
-			<edited>木</edited>
+			<edited>四</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_31" offset="00" relocatable="true" max_length="0">
@@ -389,7 +389,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_32" offset="00" relocatable="true" max_length="0">
 			<original>スプラシューター</original>
-			<edited>スプラシューター</edited>
+			<edited>斯普拉射击枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_32" offset="00" relocatable="true" max_length="0">
@@ -401,7 +401,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_33" offset="00" relocatable="true" max_length="0">
 			<original>スプラローラー</original>
-			<edited>スプラローラー</edited>
+			<edited>斯普拉滚筒</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_33" offset="00" relocatable="true" max_length="0">
@@ -413,7 +413,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_34" offset="00" relocatable="true" max_length="0">
 			<original>スプラッシュボム</original>
-			<edited>スプラッシュボム</edited>
+			<edited>斯普拉炸弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_34" offset="00" relocatable="true" max_length="0">
@@ -425,7 +425,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_35" offset="00" relocatable="true" max_length="0">
 			<original>キューバンボム</original>
-			<edited>キューバンボム</edited>
+			<edited>吸盘炸弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_35" offset="00" relocatable="true" max_length="0">
@@ -437,7 +437,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_36" offset="00" relocatable="true" max_length="0">
 			<original>クイックボム</original>
-			<edited>クイックボム</edited>
+			<edited>快速炸弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_36" offset="00" relocatable="true" max_length="0">
@@ -449,7 +449,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_37" offset="00" relocatable="true" max_length="0">
 			<original>ロボットボム</original>
-			<edited>ロボットボム</edited>
+			<edited>机器人炸弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_37" offset="00" relocatable="true" max_length="0">
@@ -461,7 +461,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_38" offset="00" relocatable="true" max_length="0">
 			<original>カーリングボム</original>
-			<edited>カーリングボム</edited>
+			<edited>冰壶炸弹</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_38" offset="00" relocatable="true" max_length="0">
@@ -473,7 +473,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_39" offset="00" relocatable="true" max_length="0">
 			<original>ポイズンミスト</original>
-			<edited>ポイズンミスト</edited>
+			<edited>毒雾</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_39" offset="00" relocatable="true" max_length="0">
@@ -533,7 +533,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_44" offset="00" relocatable="true" max_length="0">
 			<original>ブキチ</original>
-			<edited>武鲎</edited>
+			<edited>武器子</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_44" offset="00" relocatable="true" max_length="0">
@@ -545,7 +545,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_45" offset="00" relocatable="true" max_length="0">
 			<original>ロブ</original>
-			<edited>鞋虾</edited>
+			<edited>阿龙</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_45" offset="00" relocatable="true" max_length="0">
@@ -557,7 +557,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_46" offset="00" relocatable="true" max_length="0">
 			<original>イイダ</original>
-			<edited>イイダ</edited>
+			<edited>饭田</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_46" offset="00" relocatable="true" max_length="0">
@@ -569,7 +569,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_47" offset="00" relocatable="true" max_length="0">
 			<original>ヒメ</original>
-			<edited>ヒメ</edited>
+			<edited>小姬</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_47" offset="00" relocatable="true" max_length="0">
@@ -581,7 +581,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_48" offset="00" relocatable="true" max_length="0">
 			<original>スパイキー</original>
-			<edited>スパイキー</edited>
+			<edited>刺冠</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_48" offset="00" relocatable="true" max_length="0">
@@ -593,7 +593,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_49" offset="00" relocatable="true" max_length="0">
 			<original>クマサン</original>
-			<edited>クマサン</edited>
+			<edited>熊先生</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_49" offset="00" relocatable="true" max_length="0">
@@ -605,7 +605,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_50" offset="00" relocatable="true" max_length="0">
 			<original>アロメ</original>
-			<edited>アロメ</edited>
+			<edited>艾洛眼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_50" offset="00" relocatable="true" max_length="0">
@@ -617,7 +617,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_51" offset="00" relocatable="true" max_length="0">
 			<original>バトロイカ</original>
-			<edited>バトロイカ</edited>
+			<edited>战斗鱿鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_51" offset="00" relocatable="true" max_length="0">
@@ -629,7 +629,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_52" offset="00" relocatable="true" max_length="0">
 			<original>エゾッコ</original>
-			<edited>エゾッコ</edited>
+			<edited>泽酷</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_52" offset="00" relocatable="true" max_length="0">
@@ -641,7 +641,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_53" offset="00" relocatable="true" max_length="0">
 			<original>タタキケンサキ</original>
-			<edited>タタキケンサキ</edited>
+			<edited>剑尖鱿</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_53" offset="00" relocatable="true" max_length="0">
@@ -653,7 +653,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_54" offset="00" relocatable="true" max_length="0">
 			<original>ホッコリー</original>
-			<edited>ホッコリー</edited>
+			<edited>暖流</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_54" offset="00" relocatable="true" max_length="0">
@@ -665,7 +665,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_55" offset="00" relocatable="true" max_length="0">
 			<original>シグレニ</original>
-			<edited>シグレニ</edited>
+			<edited>时雨</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_55" offset="00" relocatable="true" max_length="0">
@@ -677,7 +677,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_56" offset="00" relocatable="true" max_length="0">
 			<original>アイロニック</original>
-			<edited>アイロニック</edited>
+			<edited>钢铁先锋</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_56" offset="00" relocatable="true" max_length="0">
@@ -689,7 +689,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_57" offset="00" relocatable="true" max_length="0">
 			<original>ホタックス</original>
-			<edited>ホタックス</edited>
+			<edited>帆立</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_57" offset="00" relocatable="true" max_length="0">
@@ -761,7 +761,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_63" offset="00" relocatable="true" max_length="0">
 			<original>アオリ</original>
-			<edited>アオリ</edited>
+			<edited>小拟</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_63" offset="00" relocatable="true" max_length="0">
@@ -773,7 +773,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_64" offset="00" relocatable="true" max_length="0">
 			<original>ホタル</original>
-			<edited>萤火</edited>
+			<edited>小萤</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_64" offset="00" relocatable="true" max_length="0">
@@ -785,7 +785,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_65" offset="00" relocatable="true" max_length="0">
 			<original>デンチナマズ</original>
-			<edited>デンチナマズ</edited>
+			<edited>电池鲶鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_65" offset="00" relocatable="true" max_length="0">
@@ -809,7 +809,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_67" offset="00" relocatable="true" max_length="0">
 			<original>イクラ</original>
-			<edited>イクラ</edited>
+			<edited>鲑鱼卵</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_67" offset="00" relocatable="true" max_length="0">
@@ -821,7 +821,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_68" offset="00" relocatable="true" max_length="0">
 			<original>カギ</original>
-			<edited>カギ</edited>
+			<edited>钥匙</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_68" offset="00" relocatable="true" max_length="0">
@@ -833,7 +833,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_69" offset="00" relocatable="true" max_length="0">
 			<original>イリコニウム</original>
-			<edited>イリコニウム</edited>
+			<edited>小鱼干</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_69" offset="00" relocatable="true" max_length="0">
@@ -845,7 +845,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_70" offset="00" relocatable="true" max_length="0">
 			<original>ミステリーファイル</original>
-			<edited>ミステリーファイル</edited>
+			<edited>神秘档案</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_70" offset="00" relocatable="true" max_length="0">
@@ -857,7 +857,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_71" offset="00" relocatable="true" max_length="0">
 			<original>ＤＪタコワサ将軍</original>
-			<edited>ＤＪタコワサ将軍</edited>
+			<edited>DJ芥末章鱼将军</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_71" offset="00" relocatable="true" max_length="0">
@@ -869,7 +869,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_72" offset="00" relocatable="true" max_length="0">
 			<original>デカロニックミント</original>
-			<edited>デカロニックミント</edited>
+			<edited>贝壳鞋 薄荷</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_72" offset="00" relocatable="true" max_length="0">
@@ -905,7 +905,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_75" offset="00" relocatable="true" max_length="0">
 			<original>オレンジアローズ</original>
-			<edited>オレンジアローズ</edited>
+			<edited>箭标鞋 橘色</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_75" offset="00" relocatable="true" max_length="0">
@@ -917,7 +917,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_76" offset="00" relocatable="true" max_length="0">
 			<original>リブニット</original>
-			<edited>リブニット</edited>
+			<edited>针织帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_76" offset="00" relocatable="true" max_length="0">
@@ -929,7 +929,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_77" offset="00" relocatable="true" max_length="0">
 			<original>イカホワイト</original>
-			<edited>イカホワイト</edited>
+			<edited>鱿鱼T恤 白色</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_77" offset="00" relocatable="true" max_length="0">
@@ -953,7 +953,7 @@
 		</entry>
 		<entry name="Name_OctCollectIcon_79" offset="00" relocatable="true" max_length="0">
 			<original>ヤコメッシュ</original>
-			<edited>ヤコメッシュ</edited>
+			<edited>暇古网帽</edited>
 			<subEntries />
 		</entry>
 		<entry name="Text_OctCollectIcon_79" offset="00" relocatable="true" max_length="0">

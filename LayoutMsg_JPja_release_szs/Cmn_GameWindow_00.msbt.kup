@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="T_Wireless_00" offset="00" relocatable="true" max_length="0">
 			<original>無線通信中…</original>
-			<edited>无线通讯中…</edited>
+			<edited>无线电通话中.....</edited>
 			<subEntries />
 		</entry>
 	</entries>

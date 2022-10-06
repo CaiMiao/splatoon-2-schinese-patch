@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>WAVE&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Í開始まで</original>
-			<edited>离WAVE&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Í开始还有</edited>
+			<edited>离WAVE&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x1;Í开始</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>最終WAVE開始まで</original>
-			<edited>离最终WAVE开始还有</edited>
+			<edited>离最终WAVE开始</edited>
 			<subEntries />
 		</entry>
 	</entries>

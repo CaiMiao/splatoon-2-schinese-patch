@@ -5,37 +5,37 @@
 	<entries>
 		<entry name="cRegular" offset="00" relocatable="true" max_length="0">
 			<original>レギュラーマッチ</original>
-			<edited>通常比赛</edited>
+			<edited>一般比赛</edited>
 			<subEntries />
 		</entry>
 		<entry name="cRegular_2L" offset="00" relocatable="true" max_length="0">
 			<original>レギュラー
 マッチ</original>
-			<edited>通常
+			<edited>一般
 比赛</edited>
 			<subEntries />
 		</entry>
 		<entry name="cGachi" offset="00" relocatable="true" max_length="0">
 			<original>ガチマッチ</original>
-			<edited>认真比赛</edited>
+			<edited>真格比赛</edited>
 			<subEntries />
 		</entry>
 		<entry name="cGachi_2L" offset="00" relocatable="true" max_length="0">
 			<original>ガチ
 マッチ</original>
-			<edited>认真
+			<edited>真格
 比赛</edited>
 			<subEntries />
 		</entry>
 		<entry name="cFest" offset="00" relocatable="true" max_length="0">
 			<original>フェスマッチ</original>
-			<edited>FES比赛</edited>
+			<edited>祭典比赛</edited>
 			<subEntries />
 		</entry>
 		<entry name="cFest_2L" offset="00" relocatable="true" max_length="0">
 			<original>フェス
 マッチ</original>
-			<edited>FES
+			<edited>祭典
 比赛</edited>
 			<subEntries />
 		</entry>
@@ -53,14 +53,14 @@
 		</entry>
 		<entry name="cLeague" offset="00" relocatable="true" max_length="0">
 			<original>リーグマッチ</original>
-			<edited>联盟比赛</edited>
+			<edited>リーグマッチ</edited>
 			<subEntries />
 		</entry>
 		<entry name="cLeague_2L" offset="00" relocatable="true" max_length="0">
 			<original>リーグ
 マッチ</original>
-			<edited>联盟
-比赛</edited>
+			<edited>リーグ
+マッチ</edited>
 			<subEntries />
 		</entry>
 	</entries>

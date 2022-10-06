@@ -15,7 +15,7 @@
 		</entry>
 		<entry name="002" offset="00" relocatable="true" max_length="0">
 			<original>対戦相手を待っています</original>
-			<edited>対戦相手を待っています</edited>
+			<edited>正在等待对战对手</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
@@ -30,32 +30,32 @@
 		</entry>
 		<entry name="012" offset="00" relocatable="true" max_length="0">
 			<original>対戦相手を待っています</original>
-			<edited>対戦相手を待っています</edited>
+			<edited>正在等待对战对手</edited>
 			<subEntries />
 		</entry>
 		<entry name="020" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x2;Íチームの準備OK！</original>
-			<edited>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x2;Íチームの準備OK！</edited>
+			<edited>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x2;Í队准备OK！</edited>
 			<subEntries />
 		</entry>
 		<entry name="021" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x2;Íチームの準備中</original>
-			<edited>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x2;Íチームの準備中</edited>
+			<edited>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x2;Í队正在准备</edited>
 			<subEntries />
 		</entry>
 		<entry name="022" offset="00" relocatable="true" max_length="0">
 			<original>対戦相手を待っています</original>
-			<edited>対戦相手を待っています</edited>
+			<edited>正在等待对战对手</edited>
 			<subEntries />
 		</entry>
 		<entry name="024" offset="00" relocatable="true" max_length="0">
 			<original>フレンドを待っています</original>
-			<edited>フレンドを待っています</edited>
+			<edited>正在等待好友</edited>
 			<subEntries />
 		</entry>
 		<entry name="025" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x2;Íチームを待っています</original>
-			<edited>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x2;Íチームを待っています</edited>
+			<edited>正在等待&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x2;Í队</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_StartBtn_00-T_Key_00" offset="00" relocatable="true" max_length="0">
@@ -135,7 +135,7 @@
 		</entry>
 		<entry name="L_BackBtn_00-T_Back_00" offset="00" relocatable="true" max_length="0">
 			<original>ロビーへ</original>
-			<edited>ロビーへ</edited>
+			<edited>前往大厅</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BackBtn_00-T_B_00" offset="00" relocatable="true" max_length="0">
@@ -155,7 +155,7 @@
 		</entry>
 		<entry name="L_PlayerStatus_00-L_Rank_00-T_RankHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>ランク</original>
-			<edited>ランク</edited>
+			<edited>等级</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_PlayerStatus_00-L_FesRank_00-T_Max_00" offset="00" relocatable="true" max_length="0">
@@ -165,12 +165,12 @@
 		</entry>
 		<entry name="T_RuleHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>ルール</original>
-			<edited>ルール</edited>
+			<edited>规则</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_StageHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>ステージ</original>
-			<edited>ステージ</edited>
+			<edited>场地</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_LeaguePoint_00" offset="00" relocatable="true" max_length="0">
@@ -180,7 +180,7 @@
 		</entry>
 		<entry name="T_Wait_00" offset="00" relocatable="true" max_length="0">
 			<original>計測中…</original>
-			<edited>計測中…</edited>
+			<edited>计算中……</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_WaitNum_00" offset="00" relocatable="true" max_length="0">
@@ -190,7 +190,7 @@
 		</entry>
 		<entry name="T_Point_00" offset="00" relocatable="true" max_length="0">
 			<original>現在：&#xE;û&#x3;&#x4;&#x0;&#x0;&#x0;Í</original>
-			<edited>現在：&#xE;û&#x3;&#x4;&#x0;&#x0;&#x0;Í</edited>
+			<edited>目前：&#xE;û&#x3;&#x4;&#x0;&#x0;&#x0;Í</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_PointMax_00" offset="00" relocatable="true" max_length="0">
@@ -200,7 +200,7 @@
 		</entry>
 		<entry name="L_StartBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>準備OK？</original>
-			<edited>準備OK？</edited>
+			<edited>准备OK？</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_StartBtn_00-T_Btn_01" offset="00" relocatable="true" max_length="0">
@@ -210,22 +210,22 @@
 		</entry>
 		<entry name="T_Start_00" offset="00" relocatable="true" max_length="0">
 			<original>バトルを開始します！</original>
-			<edited>バトルを開始します！</edited>
+			<edited>开始对战！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_CustomizeBtn_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>カスタマイズ</original>
-			<edited>カスタマイズ</edited>
+			<edited>自定义</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_PlayerName_00-T_Wait_00" offset="00" relocatable="true" max_length="0">
 			<original>募集中…</original>
-			<edited>募集中…</edited>
+			<edited>募集中……</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_CancelBtn_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>キャンセル</original>
-			<edited>キャンセル</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_CancelBtn_00-T_KeyBtn_00" offset="00" relocatable="true" max_length="0">
@@ -245,12 +245,12 @@
 		</entry>
 		<entry name="L_PlayerStatus_00-L_FesRank_00-T_FesNum_00" offset="00" relocatable="true" max_length="0">
 			<original>現在：&#xE;û&#x3;&#x4;&#x0;&#x0;&#x0;Í</original>
-			<edited>現在：&#xE;û&#x3;&#x4;&#x0;&#x0;&#x0;Í</edited>
+			<edited>目前：&#xE;û&#x3;&#x4;&#x0;&#x0;&#x0;Í</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_PlayerStatus_00-L_FesRank_00-T_FesCount_01" offset="00" relocatable="true" max_length="0">
 			<original>計測中…</original>
-			<edited>計測中…</edited>
+			<edited>计算中……</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_PlayerStatus_00-L_FesRank_00-T_FesCount_00" offset="00" relocatable="true" max_length="0">
@@ -260,7 +260,7 @@
 		</entry>
 		<entry name="L_PlayerStatus_00-L_FesRank_00-T_FesPow_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x2;Íパワー</original>
-			<edited>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x2;Íパワー</edited>
+			<edited>&#xE;&#x4;&#x2;&#x4;&#x0;&#x0;&#x2;Í战力</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_PlayerName_00-P_Item_00" offset="00" relocatable="true" max_length="0">
@@ -270,17 +270,17 @@
 		</entry>
 		<entry name="T_Start_01" offset="00" relocatable="true" max_length="0">
 			<original>バトルを開始します！</original>
-			<edited>バトルを開始します！</edited>
+			<edited>开始对战！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_PlayerStatus_00-L_FesRank_00-T_FesPow_01" offset="00" relocatable="true" max_length="0">
 			<original>こうけん度</original>
-			<edited>こうけん度</edited>
+			<edited>贡献度</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_StartBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>他の仲間をあつめる</original>
-			<edited>他の仲間をあつめる</edited>
+			<edited>召集其他同伴</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_StartBtn_01-T_Btn_01" offset="00" relocatable="true" max_length="0">

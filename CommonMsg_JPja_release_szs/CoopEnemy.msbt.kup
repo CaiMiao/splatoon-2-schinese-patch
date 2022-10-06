@@ -5,82 +5,82 @@
 	<entries>
 		<entry name="SakelienStandard" offset="00" relocatable="true" max_length="0">
 			<original>シャケ</original>
-			<edited>シャケ</edited>
+			<edited>鲑鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="SakelienLarge" offset="00" relocatable="true" max_length="0">
 			<original>ドスコイ</original>
-			<edited>ドスコイ</edited>
+			<edited>大胖鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="SakelienSmall" offset="00" relocatable="true" max_length="0">
 			<original>コジャケ</original>
-			<edited>コジャケ</edited>
+			<edited>小鲑鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="SakelienGolden" offset="00" relocatable="true" max_length="0">
 			<original>キンシャケ</original>
-			<edited>キンシャケ</edited>
+			<edited>金鲑鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="SakelienBagman" offset="00" relocatable="true" max_length="0">
 			<original>タマヒロイ</original>
-			<edited>タマヒロイ</edited>
+			<edited>拾蛋鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="SakelienBomber" offset="00" relocatable="true" max_length="0">
 			<original>バクダン</original>
-			<edited>バクダン</edited>
+			<edited>炸弹鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="SakelienCupTwins" offset="00" relocatable="true" max_length="0">
 			<original>カタパッド</original>
-			<edited>カタパッド</edited>
+			<edited>垫肩飞鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="SakelienGeyser" offset="00" relocatable="true" max_length="0">
 			<original>キンシャケ</original>
-			<edited>キンシャケ</edited>
+			<edited>金鲑鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="SakelienShield" offset="00" relocatable="true" max_length="0">
 			<original>テッパン</original>
-			<edited>テッパン</edited>
+			<edited>铁板鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="SakelienSnake" offset="00" relocatable="true" max_length="0">
 			<original>ヘビ</original>
-			<edited>ヘビ</edited>
+			<edited>蛇鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="SakelienTower" offset="00" relocatable="true" max_length="0">
 			<original>タワー</original>
-			<edited>タワー</edited>
+			<edited>高塔鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Sakediver" offset="00" relocatable="true" max_length="0">
 			<original>モグラ</original>
-			<edited>モグラ</edited>
+			<edited>鼹鼠鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Sakedozer" offset="00" relocatable="true" max_length="0">
 			<original>グリル</original>
-			<edited>グリル</edited>
+			<edited>烤架鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Sakepuncher" offset="00" relocatable="true" max_length="0">
 			<original>ハコビヤ</original>
-			<edited>ハコビヤ</edited>
+			<edited>走私鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="SakepuncherBulletSimpl" offset="00" relocatable="true" max_length="0">
 			<original>シャケコプター</original>
-			<edited>シャケコプター</edited>
+			<edited>直升机鲑鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="Sakerocket" offset="00" relocatable="true" max_length="0">
 			<original>コウモリ</original>
-			<edited>コウモリ</edited>
+			<edited>蝙蝠鱼</edited>
 			<subEntries />
 		</entry>
 	</entries>

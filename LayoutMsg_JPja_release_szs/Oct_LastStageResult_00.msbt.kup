@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="T_OppsiteTeam_00" offset="00" relocatable="true" max_length="0">
 			<original>相手のチーム</original>
-			<edited>相手のチーム</edited>
+			<edited>敌方队伍</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_PlayerTeam_00" offset="00" relocatable="true" max_length="0">
 			<original>自分のチーム</original>
-			<edited>自分のチーム</edited>
+			<edited>我方队伍</edited>
 			<subEntries />
 		</entry>
 		<entry name="000" offset="00" relocatable="true" max_length="0">

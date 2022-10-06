@@ -5,37 +5,37 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>マンホールに入る</original>
-			<edited>进入井盖</edited>
+			<edited>进入下水道</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>ハイカラスクエアにもどる</original>
-			<edited>返回ハイカラスクエア</edited>
+			<edited>返回尚兴广场</edited>
 			<subEntries />
 		</entry>
 		<entry name="002" offset="00" relocatable="true" max_length="0">
 			<original>ナマズをとりかえす！</original>
-			<edited>取回ナマズ！</edited>
+			<edited>取回鲶鱼！</edited>
 			<subEntries />
 		</entry>
 		<entry name="003" offset="00" relocatable="true" max_length="0">
 			<original>カンブリボックスを使う</original>
-			<edited>使用カンブリボックス</edited>
+			<edited>使用寒武纪盒子</edited>
 			<subEntries />
 		</entry>
 		<entry name="005" offset="00" relocatable="true" max_length="0">
 			<original>なにか食べていく</original>
-			<edited>吃点什么</edited>
+			<edited>吃点东西</edited>
 			<subEntries />
 		</entry>
 		<entry name="006" offset="00" relocatable="true" max_length="0">
 			<original>ジャッジくんのアドバイス</original>
-			<edited>财判的建议</edited>
+			<edited>评审的建议</edited>
 			<subEntries />
 		</entry>
 		<entry name="007" offset="00" relocatable="true" max_length="0">
 			<original>話しかける</original>
-			<edited>对话</edited>
+			<edited>交谈</edited>
 			<subEntries />
 		</entry>
 		<entry name="008" offset="00" relocatable="true" max_length="0">
@@ -45,7 +45,7 @@
 		</entry>
 		<entry name="009" offset="00" relocatable="true" max_length="0">
 			<original>フェス投票</original>
-			<edited>FES投票</edited>
+			<edited>祭典投票</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
@@ -55,17 +55,17 @@
 		</entry>
 		<entry name="011" offset="00" relocatable="true" max_length="0">
 			<original>スタッフロールを見る</original>
-			<edited>查看制作名单</edited>
+			<edited>观看制作名单</edited>
 			<subEntries />
 		</entry>
 		<entry name="012" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x4;&#x3;&#x4;&#x0;&#x0;&#x5;Íへとぶ</original>
-			<edited>跳到&#xE;&#x4;&#x3;&#x4;&#x0;&#x0;&#x5;Í</edited>
+			<edited>飞到&#xE;&#x4;&#x3;&#x4;&#x0;&#x0;&#x5;Í</edited>
 			<subEntries />
 		</entry>
 		<entry name="013" offset="00" relocatable="true" max_length="0">
 			<original>ハコを開ける</original>
-			<edited>打开盒子</edited>
+			<edited>打开箱子</edited>
 			<subEntries />
 		</entry>
 		<entry name="014" offset="00" relocatable="true" max_length="0">
@@ -80,7 +80,7 @@
 		</entry>
 		<entry name="016" offset="00" relocatable="true" max_length="0">
 			<original>アルバイト募集について</original>
-			<edited>关于兼职招募</edited>
+			<edited>关于招募打工</edited>
 			<subEntries />
 		</entry>
 		<entry name="017" offset="00" relocatable="true" max_length="0">
@@ -120,7 +120,7 @@
 		</entry>
 		<entry name="029" offset="00" relocatable="true" max_length="0">
 			<original>ハイカラスクエアへ想いをはせる</original>
-			<edited>尽情想象ハイカラスクエア</edited>
+			<edited>尽情想象尚兴广场</edited>
 			<subEntries />
 		</entry>
 		<entry name="100" offset="00" relocatable="true" max_length="0">

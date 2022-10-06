@@ -5,72 +5,72 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>たくさんナワバリを確保しろ！</original>
-			<edited>用墨汁占最多的地吧！</edited>
+			<edited>确保占地面积够大！</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>ガチホコを相手ゴールに運べ！</original>
-			<edited>把认真鱼虎送到对手终点处吧！</edited>
+			<edited>将真格鱼虎运送至对手阵地的终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="002" offset="00" relocatable="true" max_length="0">
 			<original>ガチエリアを確保して守りぬけ！</original>
-			<edited>占领并死守认真守地区域！</edited>
+			<edited>确保真格区域并坚守到底！</edited>
 			<subEntries />
 		</entry>
 		<entry name="003" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラを相手ゴールに運べ！</original>
-			<edited>把认真攻城台送到对手终点处吧！</edited>
+			<edited>将真格塔楼运送至对手阵地的终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="004" offset="00" relocatable="true" max_length="0">
 			<original>ガチアサリを相手ゴールに投げ入れろ！</original>
-			<edited>把认真蛤蜊扔进对手的球门吧！</edited>
+			<edited>将真格蛤蜊投入对手阵地的终点！</edited>
 			<subEntries />
 		</entry>
 		<entry name="101" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人のガチホコパワー</original>
-			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的认真鱼虎能量</edited>
+			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的真格鱼虎战力</edited>
 			<subEntries />
 		</entry>
 		<entry name="102" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人のガチエリアパワー</original>
-			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的认真守地能量</edited>
+			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的真格区域战力</edited>
 			<subEntries />
 		</entry>
 		<entry name="103" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人のガチヤグラパワー</original>
-			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的认真攻城台能量</edited>
+			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的真格塔楼战力</edited>
 			<subEntries />
 		</entry>
 		<entry name="104" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人のガチアサリパワー</original>
-			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的认真蛤蜊能量</edited>
+			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的真格蛤蜊战力</edited>
 			<subEntries />
 		</entry>
 		<entry name="201" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人のガチホコＸパワー</original>
-			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的认真鱼虎Ｘ能量</edited>
+			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的真格鱼虎Ｘ战力</edited>
 			<subEntries />
 		</entry>
 		<entry name="202" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人のガチエリアＸパワー</original>
-			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的认真守地Ｘ能量</edited>
+			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的真格区域Ｘ战力</edited>
 			<subEntries />
 		</entry>
 		<entry name="203" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人のガチヤグラＸパワー</original>
-			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的认真攻城台Ｘ能量</edited>
+			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的真格塔楼Ｘ战力</edited>
 			<subEntries />
 		</entry>
 		<entry name="204" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人のガチアサリＸパワー</original>
-			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的认真蛤蜊Ｘ能量</edited>
+			<edited>&#xE;ú&#x0;&#x4;&#x0;&#x0;&#x0;Í人的真格蛤蜊Ｘ战力</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
 			<original>推定 &#xE;ú&#x3;&#x4;&#x0;&#x0;&#x0;Í</original>
-			<edited>评定 &#xE;ú&#x3;&#x4;&#x0;&#x0;&#x0;Í</edited>
+			<edited>预计 &#xE;ú&#x3;&#x4;&#x0;&#x0;&#x0;Í</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Rule_01" offset="00" relocatable="true" max_length="0">
@@ -80,12 +80,12 @@
 		</entry>
 		<entry name="T_100Times_00" offset="00" relocatable="true" max_length="0">
 			<original>１００倍マッチ</original>
-			<edited>１００倍比赛</edited>
+			<edited>100倍比赛</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_10Times_00" offset="00" relocatable="true" max_length="0">
 			<original>１０倍マッチ</original>
-			<edited>１０倍比赛</edited>
+			<edited>10倍比赛</edited>
 			<subEntries />
 		</entry>
 	</entries>

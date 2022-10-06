@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="Shakeup00" offset="00" relocatable="true" max_length="0">
 			<original>シェケナダム</original>
-			<edited>シェケナダム</edited>
+			<edited>鲑坝</edited>
 			<subEntries />
 		</entry>
 		<entry name="Shakeship00" offset="00" relocatable="true" max_length="0">

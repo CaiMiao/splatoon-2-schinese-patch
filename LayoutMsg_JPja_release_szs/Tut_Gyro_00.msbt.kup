@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="T_Gyro_00" offset="00" relocatable="true" max_length="0">
 			<original>ゆっくり下を向こう</original>
-			<edited>慢慢往下移吧</edited>
+			<edited>慢慢朝下</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Gyro_01" offset="00" relocatable="true" max_length="0">
 			<original>ゆっくり上を向こう</original>
-			<edited>慢慢往上移吧</edited>
+			<edited>慢慢朝上</edited>
 			<subEntries />
 		</entry>
 	</entries>

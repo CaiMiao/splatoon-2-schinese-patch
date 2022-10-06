@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="L_Btn_00-T_Join_00" offset="00" relocatable="true" max_length="0">
 			<original>合流可能</original>
-			<edited>可合流</edited>
+			<edited>可会合</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_00-T_Full_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;満員&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;人满&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;成员已满&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BackBtn_00-T_B_00" offset="00" relocatable="true" max_length="0">

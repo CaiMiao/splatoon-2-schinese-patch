@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="L_Button_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>駅のホームからやり直す</original>
-			<edited>从车站站台重来</edited>
+			<edited>从站台重新开始</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Button_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -15,12 +15,12 @@
 		</entry>
 		<entry name="T_text_00" offset="00" relocatable="true" max_length="0">
 			<original>NAMACOポイントが足りません</original>
-			<edited>NAMACO点数不足</edited>
+			<edited>NAMACO点数不够</edited>
 			<subEntries />
 		</entry>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>CONTINUE?</original>
-			<edited>CONTINUE?</edited>
+			<edited>CONTINUE？</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
@@ -30,12 +30,12 @@
 		</entry>
 		<entry name="002" offset="00" relocatable="true" max_length="0">
 			<original>チェックポイントからやり直す</original>
-			<edited>从检查点重来</edited>
+			<edited>从关卡点重新开始</edited>
 			<subEntries />
 		</entry>
 		<entry name="003" offset="00" relocatable="true" max_length="0">
 			<original>クリアしたことにする</original>
-			<edited>标记为已通过</edited>
+			<edited>选择直接通关</edited>
 			<subEntries />
 		</entry>
 		<entry name="004" offset="00" relocatable="true" max_length="0">
@@ -47,7 +47,7 @@
 			<original>やっぱ自力で
 がんばる</original>
 			<edited>还是努力
-自己解决</edited>
+靠自己好了</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Button_00-T_Text_06" offset="00" relocatable="true" max_length="0">
@@ -57,12 +57,12 @@
 		</entry>
 		<entry name="L_KeyIcon_00-T_Info_01" offset="00" relocatable="true" max_length="0">
 			<original>訓練データ集積中</original>
-			<edited>训练数据积蓄中</edited>
+			<edited>正在积存训练数据</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Button_01-T_Btn_01" offset="00" relocatable="true" max_length="0">
 			<original>駅のホームからやり直す</original>
-			<edited>从车站站台重来</edited>
+			<edited>从站台重新开始</edited>
 			<subEntries />
 		</entry>
 	</entries>

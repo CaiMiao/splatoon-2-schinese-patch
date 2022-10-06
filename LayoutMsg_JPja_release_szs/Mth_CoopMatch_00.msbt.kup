@@ -5,17 +5,17 @@
 	<entries>
 		<entry name="T_Progress_00" offset="00" relocatable="true" max_length="0">
 			<original>バイト仲間を待っています</original>
-			<edited>バイト仲間を待っています</edited>
+			<edited>正在等待打工同伴</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_RuleHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>支給ブキ</original>
-			<edited>配给武器</edited>
+			<edited>发放武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_StageHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>ステージ</original>
-			<edited>关卡</edited>
+			<edited>场地</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BackBtn_00-T_Back_00" offset="00" relocatable="true" max_length="0">
@@ -25,7 +25,7 @@
 		</entry>
 		<entry name="L_PlayerName_00-T_Wait_00" offset="00" relocatable="true" max_length="0">
 			<original>募集中…</original>
-			<edited>募集中…</edited>
+			<edited>募集中……</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_PlayerName_00-T_CoopRank_00" offset="00" relocatable="true" max_length="0">
@@ -50,7 +50,7 @@
 		</entry>
 		<entry name="L_OtherBtn_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>他の仲間をあつめる</original>
-			<edited>他の仲間をあつめる</edited>
+			<edited>召集其他同伴</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_OtherBtn_00-T_KeyBtn_00" offset="00" relocatable="true" max_length="0">
@@ -60,12 +60,12 @@
 		</entry>
 		<entry name="T_Start_00" offset="00" relocatable="true" max_length="0">
 			<original>アルバイトの時間です！</original>
-			<edited>アルバイトの時間です！</edited>
+			<edited>打工的时间到了！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Meter_00-T_NextReward_00" offset="00" relocatable="true" max_length="0">
 			<original>次のレアほうしゅうまで あと</original>
-			<edited>次のレアほうしゅうまで あと</edited>
+			<edited>距离下次稀有报酬还需</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_CoopRank_00-T_Num_00" offset="00" relocatable="true" max_length="0">
@@ -75,7 +75,7 @@
 		</entry>
 		<entry name="L_StartBtn_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>バイトを開始する！</original>
-			<edited>バイトを開始する！</edited>
+			<edited>开始打工！</edited>
 			<subEntries />
 		</entry>
 	</entries>

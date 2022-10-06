@@ -15,7 +15,7 @@
 		</entry>
 		<entry name="L_CustomIconBtn_01-T_Category_00" offset="00" relocatable="true" max_length="0">
 			<original>アタマ</original>
-			<edited>头部</edited>
+			<edited>头部装备</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_CustomIconBtn_02-T_Category_00" offset="00" relocatable="true" max_length="0">
@@ -56,7 +56,8 @@
 		<entry name="T_Fes_00" offset="00" relocatable="true" max_length="0">
 			<original>フェス中はフクを
 着替えることができません</original>
-			<edited>FES中无法更换服装</edited>
+			<edited>在祭典举行期间
+无法更换服装。</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ItemBtn_00-T_New_00" offset="00" relocatable="true" max_length="0">
@@ -83,12 +84,12 @@
 		</entry>
 		<entry name="L_Menu_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>携帯モード</original>
-			<edited>便携模式</edited>
+			<edited>掌上模式</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Menu_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>スタイル</original>
-			<edited>风格</edited>
+			<edited>类型</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Menu_03-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -108,7 +109,7 @@
 		</entry>
 		<entry name="L_OptionBtn_00-T_BtnL_00" offset="00" relocatable="true" max_length="0">
 			<original>ノーマル</original>
-			<edited>普通</edited>
+			<edited>正常</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_OptionBtn_00-T_BtnR_00" offset="00" relocatable="true" max_length="0">
@@ -118,12 +119,12 @@
 		</entry>
 		<entry name="L_Scroll_01-T_Header_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;操作感度</original>
-			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;灵敏度</edited>
+			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;操作灵敏度</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Scroll_00-T_Header_00" offset="00" relocatable="true" max_length="0">
 			<original>ジャイロ操作感度</original>
-			<edited>陀螺仪灵敏度</edited>
+			<edited>陀螺仪操作灵敏度</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_OptionBtn_02-T_Header_00" offset="00" relocatable="true" max_length="0">
@@ -133,21 +134,21 @@
 		</entry>
 		<entry name="L_OptionBtn_02-T_BtnL_00" offset="00" relocatable="true" max_length="0">
 			<original>ＯＮ</original>
-			<edited>ＯＮ</edited>
+			<edited>开启</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_OptionBtn_02-T_BtnR_00" offset="00" relocatable="true" max_length="0">
 			<original>ＯＦＦ</original>
-			<edited>ＯＦＦ</edited>
+			<edited>关闭</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_text_00" offset="00" relocatable="true" max_length="0">
 			<original>現在のそうび情報、プレイヤー設定、
 カメラオプションの情報を
 ａｍｉiｂｏに書きこむことができます</original>
-			<edited>现在的防具信息、玩家设置、
-镜头选项的信息
-可以写入ａｍｉiｂｏ内</edited>
+			<edited>可以将目前装备信息、玩家设置
+以及镜头选项的信息
+储存至amiibo。</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_text_01" offset="00" relocatable="true" max_length="0">
@@ -162,27 +163,27 @@
 		</entry>
 		<entry name="L_AmiiboBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>書きこむ！</original>
-			<edited>写入！</edited>
+			<edited>储存至amiibo！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_OptionBtn_00-T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>ジャイロ操作がONの時は無効です</original>
-			<edited>陀螺仪操作为ON时无效</edited>
+			<edited>陀螺仪操作设为开启时无效</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_OptionBtn_03-T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>ジャイロ操作がONの時は無効です</original>
-			<edited>陀螺仪操作为ON时无效</edited>
+			<edited>陀螺仪操作设为开启时无效</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Scroll_00-T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>ジャイロ操作がOFFの時は無効です</original>
-			<edited>陀螺仪操作为OF时无效</edited>
+			<edited>陀螺仪操作设为关闭时无效</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Scroll_02-T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>ジャイロ操作がOFFの時は無効です</original>
-			<edited>陀螺仪操作为OFF时无效</edited>
+			<edited>陀螺仪操作设为关闭时无效</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Back_00-T_Back_00" offset="00" relocatable="true" max_length="0">

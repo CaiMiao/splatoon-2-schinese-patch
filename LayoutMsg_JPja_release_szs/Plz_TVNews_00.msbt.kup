@@ -5,32 +5,32 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>アップデート情報</original>
-			<edited>アップデート情報</edited>
+			<edited>更新信息</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>ステージ紹介</original>
-			<edited>ステージ紹介</edited>
+			<edited>场地介绍</edited>
 			<subEntries />
 		</entry>
 		<entry name="002" offset="00" relocatable="true" max_length="0">
 			<original>フェス告知</original>
-			<edited>フェス告知</edited>
+			<edited>祭典通知</edited>
 			<subEntries />
 		</entry>
 		<entry name="003" offset="00" relocatable="true" max_length="0">
 			<original>フェス開催中！</original>
-			<edited>フェス開催中！</edited>
+			<edited>祭典举行中！</edited>
 			<subEntries />
 		</entry>
 		<entry name="004" offset="00" relocatable="true" max_length="0">
 			<original>フェス終了！</original>
-			<edited>フェス終了！</edited>
+			<edited>祭典结束！</edited>
 			<subEntries />
 		</entry>
 		<entry name="005" offset="00" relocatable="true" max_length="0">
 			<original>フェス結果発表</original>
-			<edited>フェス結果発表</edited>
+			<edited>祭典结果公布</edited>
 			<subEntries />
 		</entry>
 		<entry name="006" offset="00" relocatable="true" max_length="0">
@@ -40,32 +40,32 @@
 		</entry>
 		<entry name="007" offset="00" relocatable="true" max_length="0">
 			<original>オオデンチナマズ行方不明</original>
-			<edited>オオデンチナマズ去向不明</edited>
+			<edited>大电池鲶鱼失踪</edited>
 			<subEntries />
 		</entry>
 		<entry name="008" offset="00" relocatable="true" max_length="0">
 			<original>アオリちゃんも行方不明？！</original>
-			<edited>小香匙也去向不明？！</edited>
+			<edited>小拟也失踪了？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="009" offset="00" relocatable="true" max_length="0">
 			<original>おかえり オオデンチナマズ！</original>
-			<edited>欢迎回来 オオデンチナマズ！</edited>
+			<edited>欢迎回来，大电池鲶鱼！</edited>
 			<subEntries />
 		</entry>
 		<entry name="010" offset="00" relocatable="true" max_length="0">
 			<original>おかえり アオリちゃん！！</original>
-			<edited>欢迎回来 小香匙！！</edited>
+			<edited>欢迎回来，小拟！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Name_00" offset="00" relocatable="true" max_length="0">
 			<original>ヒメ</original>
-			<edited>ヒメ</edited>
+			<edited>小姬</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Name_01" offset="00" relocatable="true" max_length="0">
 			<original>イイダ</original>
-			<edited>イイダ</edited>
+			<edited>饭田</edited>
 			<subEntries />
 		</entry>
 	</entries>

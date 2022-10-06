@@ -15,7 +15,7 @@
 		</entry>
 		<entry name="NeedRank" offset="00" relocatable="true" max_length="0">
 			<original>ランク&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Íで解放されます</original>
-			<edited>于Rank&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í解锁</edited>
+			<edited>于等级&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x1;Í解锁</edited>
 			<subEntries />
 		</entry>
 		<entry name="TimeStamp" offset="00" relocatable="true" max_length="0">
@@ -25,17 +25,17 @@
 		</entry>
 		<entry name="ClassType" offset="00" relocatable="true" max_length="0">
 			<original>メイン</original>
-			<edited>主</edited>
+			<edited>主要武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="Sub" offset="00" relocatable="true" max_length="0">
 			<original>サブ</original>
-			<edited>副</edited>
+			<edited>次要武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="Special" offset="00" relocatable="true" max_length="0">
 			<original>スペシャル</original>
-			<edited>特殊</edited>
+			<edited>特殊武器</edited>
 			<subEntries />
 		</entry>
 	</entries>

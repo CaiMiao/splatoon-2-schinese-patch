@@ -25,17 +25,17 @@
 		</entry>
 		<entry name="L_Special_00-T_Press_00" offset="00" relocatable="true" max_length="0">
 			<original>押しこみ</original>
-			<edited>按压</edited>
+			<edited>按下</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Special_00-T_Max_00" offset="00" relocatable="true" max_length="0">
 			<original>スペシャルゲット!</original>
-			<edited>特殊获得!</edited>
+			<edited>获得特殊武器！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>カメラリセット</original>
-			<edited>镜头重置</edited>
+			<edited>重置镜头</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_KeyIcon_01-T_Info_00" offset="00" relocatable="true" max_length="0">

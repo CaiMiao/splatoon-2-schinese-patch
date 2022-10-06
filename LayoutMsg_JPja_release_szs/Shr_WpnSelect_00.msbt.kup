@@ -10,27 +10,27 @@
 		</entry>
 		<entry name="L_Item_00-T_SoldOut_00" offset="00" relocatable="true" max_length="0">
 			<original>持ってる</original>
-			<edited>已拥有</edited>
+			<edited>已持有</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ItemDetail_00-T_Sub_00" offset="00" relocatable="true" max_length="0">
 			<original>サブ</original>
-			<edited>副</edited>
+			<edited>次要武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ItemDetail_00-T_Super_00" offset="00" relocatable="true" max_length="0">
 			<original>スペシャル</original>
-			<edited>特殊</edited>
+			<edited>特殊武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ItemDetail_00-T_SpecialPointName_00" offset="00" relocatable="true" max_length="0">
 			<original>スペシャル必要ポイント</original>
-			<edited>特殊必要点数</edited>
+			<edited>特殊武器需要的点数</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_ItemDetail_00-T_TotalScoreName_00" offset="00" relocatable="true" max_length="0">
 			<original>今まで塗った面積</original>
-			<edited>至今涂抹面积</edited>
+			<edited>至今涂墨面积</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Lstick_00-T_Sort_00" offset="00" relocatable="true" max_length="0">
@@ -40,17 +40,17 @@
 		</entry>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>メイン</original>
-			<edited>主</edited>
+			<edited>主要武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>サブ</original>
-			<edited>副</edited>
+			<edited>次要武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="002" offset="00" relocatable="true" max_length="0">
 			<original>スペシャル</original>
-			<edited>特殊</edited>
+			<edited>特殊武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_KeyIcon_00-T_Info_00" offset="00" relocatable="true" max_length="0">
@@ -65,7 +65,7 @@
 		</entry>
 		<entry name="L_Wpn_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>サブ、スペシャルの説明</original>
-			<edited>副武、特殊武的说明</edited>
+			<edited>次要/特殊武器的解说</edited>
 			<subEntries />
 		</entry>
 	</entries>

@@ -5,27 +5,27 @@
 	<entries>
 		<entry name="[CurrentStage]" offset="00" relocatable="true" max_length="0">
 			<original>いま</original>
-			<edited>当前</edited>
+			<edited>目前</edited>
 			<subEntries />
 		</entry>
 		<entry name="[NextStage]" offset="00" relocatable="true" max_length="0">
 			<original>つぎ</original>
-			<edited>下一个</edited>
+			<edited>下次</edited>
 			<subEntries />
 		</entry>
 		<entry name="[CurrentCoopInfo]" offset="00" relocatable="true" max_length="0">
 			<original>オープン！</original>
-			<edited>开幕！</edited>
+			<edited>开放！</edited>
 			<subEntries />
 		</entry>
 		<entry name="[SoonCoopInfo]" offset="00" relocatable="true" max_length="0">
 			<original>もうすぐ</original>
-			<edited>马上</edited>
+			<edited>即将</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Status_00-T_TotalScore_00" offset="00" relocatable="true" max_length="0">
 			<original>今まで塗った面積</original>
-			<edited>至今涂抹面积</edited>
+			<edited>至今涂墨面积</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Status_00-L_Rank_00-T_RankNum_00" offset="00" relocatable="true" max_length="0">
@@ -40,17 +40,17 @@
 		</entry>
 		<entry name="L_Status_00-L_Rank_00-T_RankHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>ランク</original>
-			<edited>Rank</edited>
+			<edited>等级</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Status_00-L_Udemae_00-T_UdemaeHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>ウデマエ</original>
-			<edited>本事</edited>
+			<edited>技术</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_StageBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>レギュラーマッチ</original>
-			<edited>通常比赛</edited>
+			<edited>一般比赛</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_MapBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -70,7 +70,7 @@
 		</entry>
 		<entry name="L_MenuBtn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>ステージ情報</original>
-			<edited>关卡信息</edited>
+			<edited>场地信息</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_MenuBtn_03-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -85,12 +85,12 @@
 		</entry>
 		<entry name="L_MapBtn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>タコツボキャニオン</original>
-			<edited>章鱼谷</edited>
+			<edited>蛸壶谷</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_MapBtn_03-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>イカッチャ</original>
-			<edited>墨潮玩</edited>
+			<edited>鱿乐天地</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_MapBtn_04-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -105,7 +105,7 @@
 		</entry>
 		<entry name="L_MapBtn_06-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>アタマ屋</original>
-			<edited>头饰店</edited>
+			<edited>头部装备店</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_MapBtn_07-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -125,17 +125,17 @@
 		</entry>
 		<entry name="L_StageBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>ガチマッチ</original>
-			<edited>认真比赛</edited>
+			<edited>真格比赛</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_StageBtn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>リーグマッチ</original>
-			<edited>联盟比赛</edited>
+			<edited>リーグマッチ</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_StageBtn_03-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>フェスマッチ</original>
-			<edited>FES比赛</edited>
+			<edited>祭典比赛</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_OptionBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -147,17 +147,17 @@
 		</entry>
 		<entry name="L_OptionBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>携帯モード</original>
-			<edited>便携模式</edited>
+			<edited>掌上模式</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_01-T_Header_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;操作感度</original>
-			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;灵敏度</edited>
+			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;操作灵敏度</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_00-T_Header_00" offset="00" relocatable="true" max_length="0">
 			<original>ジャイロ操作感度</original>
-			<edited>陀螺仪灵敏度</edited>
+			<edited>陀螺仪操作灵敏度</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_02-T_Header_00" offset="00" relocatable="true" max_length="0">
@@ -167,7 +167,7 @@
 		</entry>
 		<entry name="L_Option_02-T_BtnL_00" offset="00" relocatable="true" max_length="0">
 			<original>ノーマル</original>
-			<edited>普通</edited>
+			<edited>正常</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_02-T_BtnR_00" offset="00" relocatable="true" max_length="0">
@@ -187,26 +187,26 @@
 		</entry>
 		<entry name="L_Option_04-T_BtnL_00" offset="00" relocatable="true" max_length="0">
 			<original>ON</original>
-			<edited>ON</edited>
+			<edited>开启</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_04-T_BtnR_00" offset="00" relocatable="true" max_length="0">
 			<original>OFF</original>
-			<edited>OFF</edited>
+			<edited>关闭</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Message_00" offset="00" relocatable="true" max_length="0">
 			<original>プレイヤーの性別、ハダの色、目の色、
 ヘアスタイル、ボトムスの設定を変更しますか？
 （おカネ、ブキ、ギアなどのデータは受け継がれます）</original>
-			<edited>要更改玩家性别、肤色、瞳色、
-发型与裤子的设定吗？
-（金钱、武器、防具等数据将会被继承）</edited>
+			<edited>要更改玩家的性别、肤色、瞳色、
+发型和裤子的设置吗？
+（金钱、武器、装备等数据将会继承。）</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_No_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Yes_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -236,7 +236,7 @@
 		</entry>
 		<entry name="L_Status_00-T_RankHeader_00" offset="00" relocatable="true" max_length="0">
 			<original>ウデマエ</original>
-			<edited>本事</edited>
+			<edited>技术</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_OptionBtn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -246,17 +246,17 @@
 		</entry>
 		<entry name="L_Option_10-T_Header_00" offset="00" relocatable="true" max_length="0">
 			<original>色覚サポート</original>
-			<edited>色觉支援</edited>
+			<edited>色彩辅助辨识</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_10-T_BtnL_00" offset="00" relocatable="true" max_length="0">
 			<original>OFF</original>
-			<edited>OFF</edited>
+			<edited>关闭</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_10-T_BtnR_00" offset="00" relocatable="true" max_length="0">
 			<original>ON</original>
-			<edited>ON</edited>
+			<edited>开启</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_11-T_Header_00" offset="00" relocatable="true" max_length="0">
@@ -266,19 +266,19 @@
 		</entry>
 		<entry name="L_Option_11-T_BtnL_00" offset="00" relocatable="true" max_length="0">
 			<original>表示ON</original>
-			<edited>显示ON</edited>
+			<edited>开启显示</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_11-T_BtnR_00" offset="00" relocatable="true" max_length="0">
 			<original>表示OFF</original>
-			<edited>显示OFF</edited>
+			<edited>关闭显示</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Exp_01" offset="00" relocatable="true" max_length="0">
 			<original>テレビ画面に映したり Switch本体を置いてプレイするときの
 カメラオプションを設定できます</original>
-			<edited>可以设定在电视上显示画面 或放置Switch本体游玩时的
-镜头选项</edited>
+			<edited>可以设置
+以TV模式或桌面模式游玩时的视角</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_EquipBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -288,7 +288,7 @@
 		</entry>
 		<entry name="L_EquipBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>ギアパワー</original>
-			<edited>防具能力</edited>
+			<edited>装备能力</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BackBtn_00-T_Info_00" offset="00" relocatable="true" max_length="0">
@@ -309,22 +309,22 @@
 		<entry name="T_Exp_02" offset="00" relocatable="true" max_length="0">
 			<original>Switch本体を持ってプレイするときの
 カメラオプションを設定できます</original>
-			<edited>可以设定拿着Switch本体游玩时的
-镜头选项</edited>
+			<edited>可以设置
+以掌上模式游玩时的视角</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Exp_03" offset="00" relocatable="true" max_length="0">
 			<original>インターネット対戦などで インクカラーが
 見分けやすくなるよう、色を固定します</original>
-			<edited>在联网对战等场合固定颜色 使得墨汁颜色
-能够更容易分辨</edited>
+			<edited>在互联网对战时，可以固定颜色
+以便更容易识别墨汁颜色</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Exp_04" offset="00" relocatable="true" max_length="0">
 			<original>プレイ中に出る投稿表示の
 ON/OFF を切り替えます</original>
-			<edited>切换在游玩时出现的
-发布内容的 ON/OFF</edited>
+			<edited>开启/关闭游玩时显示的发布内容
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Inkling_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -334,29 +334,29 @@ ON/OFF を切り替えます</original>
 		</entry>
 		<entry name="T_Num_00" offset="00" relocatable="true" max_length="0">
 			<original>持っているかけらの数</original>
-			<edited>拥有的碎片数</edited>
+			<edited>碎片持有数</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_02-T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>ジャイロ操作がONの時は無効です</original>
-			<edited>陀螺仪操作为ON时无效</edited>
+			<edited>陀螺仪操作设为开启时无效</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_07-T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>ジャイロ操作がONの時は無効です</original>
-			<edited>陀螺仪操作为ON时无效</edited>
+			<edited>陀螺仪操作设为开启时无效</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_11-T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>保護者による使用制限が
 設定されています</original>
-			<edited>已设定有监护人所设定的
+			<edited>已设有Parental Controls
 使用限制</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_StageMenuCoop_00-T_Weapon_00" offset="00" relocatable="true" max_length="0">
 			<original>支給ブキ</original>
-			<edited>配给武器</edited>
+			<edited>发放武器</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_StageMenuCoop_00-T_Msg_00" offset="00" relocatable="true" max_length="0">
@@ -366,26 +366,26 @@ ON/OFF を切り替えます</original>
 		</entry>
 		<entry name="L_StageMenuCoop_01-T_Mode_00" offset="00" relocatable="true" max_length="0">
 			<original>つぎ</original>
-			<edited>下一个</edited>
+			<edited>下次</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Mode_00" offset="00" relocatable="true" max_length="0">
 			<original>そのつぎ</original>
-			<edited>在这之后</edited>
+			<edited>下下次</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_00-T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>ジャイロ操作がOFFの時は無効です</original>
-			<edited>陀螺仪操作为OFF时无效</edited>
+			<edited>陀螺仪操作设为关闭时无效</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_OffLine_00" offset="00" relocatable="true" max_length="0">
 			<original>ステージ情報がありません
 このモードを遊ぶには インターネットに接続して
 最新のステージ情報を受信する必要があります</original>
-			<edited>没有关卡信息
-要游玩此模式 必须连接到互联网
-接收最新的关卡信息</edited>
+			<edited>没有场地信息。
+若想游玩该模式，
+必须连接互联网接收最新的场地信息。</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_MapBtn_09-T_Btn_00" offset="00" relocatable="true" max_length="0">

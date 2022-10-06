@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="Get" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Íゲット</original>
-			<edited>&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í入手</edited>
+			<edited>获得&#xE;ú&#x1;&#x4;&#x0;&#x0;&#x0;Í</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Bonus_00" offset="00" relocatable="true" max_length="0">
 			<original>イクラボーナス！</original>
-			<edited>イクラ奖励！</edited>
+			<edited>鲑鱼卵奖励！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Time" offset="00" relocatable="true" max_length="0">
@@ -25,7 +25,7 @@
 		</entry>
 		<entry name="T_New_00" offset="00" relocatable="true" max_length="0">
 			<original>記録更新！</original>
-			<edited>记录更新！</edited>
+			<edited>更新纪录！</edited>
 			<subEntries />
 		</entry>
 	</entries>

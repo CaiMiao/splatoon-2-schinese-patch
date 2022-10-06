@@ -5,17 +5,17 @@
 	<entries>
 		<entry name="L_Btn_00-T_Join_00" offset="00" relocatable="true" max_length="0">
 			<original>合流可能</original>
-			<edited>合流可能</edited>
+			<edited>可会合</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_00-T_Join_01" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;満員&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;満員&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;成员已满&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_AddLoom_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>部屋をつくる</original>
-			<edited>部屋をつくる</edited>
+			<edited>创建房间</edited>
 			<subEntries />
 		</entry>
 	</entries>

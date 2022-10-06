@@ -30,7 +30,7 @@
 		</entry>
 		<entry name="T_CollectionTitle_00" offset="00" relocatable="true" max_length="0">
 			<original>ネリメモリーズ</original>
-			<edited>锻炼记忆</edited>
+			<edited>ネリメモリーズ</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_LogBtn_00-T_Title_00" offset="00" relocatable="true" max_length="0">
@@ -106,18 +106,18 @@
 		<entry name="T_Confirmation_00" offset="00" relocatable="true" max_length="0">
 			<original>チャレンジ料を払えませんが、
 この駅へ行きますか？</original>
-			<edited>虽然付不起挑战费用，
-但要前往这个车站吗？</edited>
+			<edited>チャレンジ料を払えませんが、
+この駅へ行きますか？</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>やめとく</original>
-			<edited>不要了</edited>
+			<edited>取消</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Btn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>行く！</original>
-			<edited>前往！</edited>
+			<edited>出发！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_OptionTitle_00" offset="00" relocatable="true" max_length="0">
@@ -129,14 +129,14 @@
 			<original>プレイヤーの性別、ハダの色、目の色、
 ヘアスタイルの設定を変更しますか？
 (セーブデータは受け継がれます)</original>
-			<edited>要更改玩家性别、肤色、瞳色
-与发型的设定吗？
-(保存数据会被继承)</edited>
+			<edited>要更改玩家的性别、肤色、
+瞳色和发型的设置吗？
+（保存数据将会继承。）</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_LogTitle_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;♪&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;イイダの&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;CHAT&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;★&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x7;&#x0;ROOM&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x6;&#x0;♪&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;♪&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;イイダの&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;CHAT&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;★&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x7;&#x0;ROOM&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x6;&#x0;♪&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#xC;&#x0;♪&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xB;&#x0;饭田的&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x1;&#x0;CHAT&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#xE;&#x0;★&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x7;&#x0;ROOM&#xE;&#x0;&#x3;&#x2;ÿÿ&#xE;&#x0;&#x3;&#x2;&#x6;&#x0;♪&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_KeyIcon_02-T_Info_00" offset="00" relocatable="true" max_length="0">

@@ -25,7 +25,7 @@
 		</entry>
 		<entry name="BrushRush_0002" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しの塗り進みでも マトを破壊できますよ</original>
-			<edited>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しの塗り進みでも マトを破壊できますよ</edited>
+			<edited>&#xE;&#x2;&#30;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しの塗り進みでも マトを破壊できますよ</edited>
 			<subEntries />
 		</entry>
 		<entry name="BrushRush_0003" offset="00" relocatable="true" max_length="0">
@@ -40,7 +40,7 @@
 		</entry>
 		<entry name="BrushRush_0005" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプマットに乗って&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで 高くとべます♪</original>
-			<edited>ジャンプマットに乗って&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで 高くとべます♪</edited>
+			<edited>ジャンプマットに乗って&#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しで 高くとべます♪</edited>
 			<subEntries />
 		</entry>
 	</entries>

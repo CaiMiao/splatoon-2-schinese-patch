@@ -5,14 +5,14 @@
 	<entries>
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>次のバトルから参加します</original>
-			<edited>从下场战斗开始参加</edited>
+			<edited>从下一场对战开始参加</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
 			<original>合流先に空きができるのを待っています
 （空きができたら次のバトルから参加します）</original>
-			<edited>正等待合流处的空位
-（若空出位置，就从下场战斗开始参加）</edited>
+			<edited>正在等待会合点产生空缺
+（如果有空缺，将会从下一场对战开始参加）</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Timer_00-T_Time_00" offset="00" relocatable="true" max_length="0">
@@ -27,17 +27,17 @@
 		</entry>
 		<entry name="L_Timer_00-T_Info_01" offset="00" relocatable="true" max_length="0">
 			<original>結果発表中</original>
-			<edited>发表结果中</edited>
+			<edited>结果公布中</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Timer_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>バトル終了まで</original>
-			<edited>离战斗结束还有</edited>
+			<edited>距对战结束还剩</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Timer_00-T_Extend_00" offset="00" relocatable="true" max_length="0">
 			<original>延長中！</original>
-			<edited>延长中！</edited>
+			<edited>时间延长！</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BackBtn_00-T_Back_00" offset="00" relocatable="true" max_length="0">

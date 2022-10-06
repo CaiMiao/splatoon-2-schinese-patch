@@ -11,12 +11,13 @@
 		<entry name="Mission_02" offset="00" relocatable="true" max_length="0">
 			<original>タコツボキャニオンに
 もどる</original>
-			<edited>返回到章鱼谷</edited>
+			<edited>返回
+蛸壶谷</edited>
 			<subEntries />
 		</entry>
 		<entry name="Mission_01" offset="00" relocatable="true" max_length="0">
 			<original>ステージのはじめから</original>
-			<edited>从关卡的最初开始</edited>
+			<edited>从场地起点开始</edited>
 			<subEntries />
 		</entry>
 		<entry name="WalkThrough_00" offset="00" relocatable="true" max_length="0">
@@ -26,7 +27,7 @@
 		</entry>
 		<entry name="WalkThrough_02" offset="00" relocatable="true" max_length="0">
 			<original>さんぽをやめる</original>
-			<edited>停止散步</edited>
+			<edited>退出散步</edited>
 			<subEntries />
 		</entry>
 		<entry name="ShootingRange_00" offset="00" relocatable="true" max_length="0">
@@ -36,12 +37,12 @@
 		</entry>
 		<entry name="ShootingRange_01" offset="00" relocatable="true" max_length="0">
 			<original>塗り リセット</original>
-			<edited>重置涂抹</edited>
+			<edited>涂墨重置</edited>
 			<subEntries />
 		</entry>
 		<entry name="ShootingRange_02" offset="00" relocatable="true" max_length="0">
 			<original>試しうちをやめる</original>
-			<edited>停止试射</edited>
+			<edited>退出试射</edited>
 			<subEntries />
 		</entry>
 	</entries>

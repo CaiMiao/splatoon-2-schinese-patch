@@ -23,7 +23,7 @@
 		<entry name="Demo01_0002" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;…と言いたいところじゃが、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 おヌシ、どこかでブキを落としたようじゃのゥ</original>
-			<edited>&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;…と言いたいところじゃが、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;…と言いたいところじゃが、&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 おヌシ、どこかでブキを落としたようじゃのゥ</edited>
 			<subEntries />
 		</entry>
@@ -80,7 +80,7 @@
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シオカラ節 &#xE;&#x0;&#x3;&#x2;ÿÿを口ずさんどったぞィ&#xE;&#x0;&#x4;&#x0;もしや おヌシ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 “魂にシオカラ節のグルーヴを宿したタコ” なんか…？</original>
 			<edited>そう言えばおヌシ… &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;気を失っとるあいだ、
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シオカラ節 &#xE;&#x0;&#x3;&#x2;ÿÿを口ずさんどったぞィ&#xE;&#x0;&#x4;&#x0;もしや おヌシ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シオカラ節 &#xE;&#x0;&#x3;&#x2;ÿÿを口ずさんどったぞィ&#xE;&#x0;&#x4;&#x0;もしや おヌシ… &#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 “魂にシオカラ節のグルーヴを宿したタコ” なんか…？</edited>
 			<subEntries />
 		</entry>
@@ -90,7 +90,7 @@
 聞いとったが…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; おヌシもその一人じゃったか…</original>
 			<edited>…だまっとる、っちぅことは YES！ ってことじゃな&#xE;&#x0;&#x4;&#x0;２年前、 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;DJタコワサ将軍 &#xE;&#x0;&#x3;&#x2;ÿÿと &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;３号 &#xE;&#x0;&#x3;&#x2;ÿÿとの戦いで
 シオカラ節をきいた オクタリアンの中に、&#xE;&#x0;&#x4;&#x0;“魂にシオカラ節のグルーヴを宿したタコ” がおると
-聞いとったが…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; おヌシもその一人じゃったか…</edited>
+聞いとったが…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0; おヌシもその一人じゃったか…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo01_0013" offset="00" relocatable="true" max_length="0">
@@ -172,7 +172,7 @@
 		<entry name="Demo02_0011" offset="00" relocatable="true" max_length="0">
 			<original>ソコは 光あふれるユートピア…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 地下住民たちの 理想にみちた花園…</original>
-			<edited>ソコは 光あふれるユートピア…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>ソコは 光あふれるユートピア…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 地下住民たちの 理想にみちた花園…</edited>
 			<subEntries />
 		</entry>
@@ -186,7 +186,7 @@
 		<entry name="Demo02_0013" offset="00" relocatable="true" max_length="0">
 			<original>過去に いどんだのは 10007名…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 アナタは通算 10008番目のチャレンジャーとなりマス</original>
-			<edited>過去に いどんだのは 10007名…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>過去に いどんだのは 10007名…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 アナタは通算 10008番目のチャレンジャーとなりマス</edited>
 			<subEntries />
 		</entry>
@@ -247,18 +247,18 @@
 		<entry name="Demo03_0002" offset="00" relocatable="true" max_length="0">
 			<original>ワタクシ、車掌をつとめさせていただきまス&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ナマコ車掌&#xE;&#x0;&#x3;&#x2;ÿÿ と申しまス</original>
-			<edited>ワタクシ、車掌をつとめさせていただきまス&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>ワタクシ、車掌をつとめさせていただきまス&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ナマコ車掌&#xE;&#x0;&#x3;&#x2;ÿÿ と申しまス</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo03_0003" offset="00" relocatable="true" max_length="0">
 			<original>おヤ？ &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ご利用は初めてでしたカ…？</original>
-			<edited>おヤ？ &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ご利用は初めてでしたカ…？</edited>
+			<edited>おヤ？ &#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;ご利用は初めてでしたカ…？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo03_0004" offset="00" relocatable="true" max_length="0">
 			<original>なッ！ &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;このナマコ、しゃべりよる！</original>
-			<edited>なッ！ &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;このナマコ、しゃべりよる！</edited>
+			<edited>なッ！ &#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;このナマコ、しゃべりよる！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo03_0005" offset="00" relocatable="true" max_length="0">
@@ -303,7 +303,7 @@ NAMACO端末 をお持ちですネ？</edited>
 		<entry name="Demo03_0012" offset="00" relocatable="true" max_length="0">
 			<original>そこへ行くには 各駅の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;チャレンジ &#xE;&#x0;&#x3;&#x2;ÿÿを乗りこえ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 どこかにある &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４つのアレ &#xE;&#x0;&#x3;&#x2;ÿÿを集めてくださイ</original>
-			<edited>そこへ行くには 各駅の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;チャレンジ &#xE;&#x0;&#x3;&#x2;ÿÿを乗りこえ、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>そこへ行くには 各駅の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;チャレンジ &#xE;&#x0;&#x3;&#x2;ÿÿを乗りこえ、&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 どこかにある &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４つのアレ &#xE;&#x0;&#x3;&#x2;ÿÿを集めてくださイ</edited>
 			<subEntries />
 		</entry>
@@ -324,8 +324,8 @@ NAMACO端末 をお持ちですネ？</edited>
 		<entry name="Demo03_0015" offset="00" relocatable="true" max_length="0">
 			<original>おそらク…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; では、最初のチャレンジに ご案内しまス&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
 &#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;NAMACO端末 &#xE;&#x0;&#x3;&#x2;ÿÿを起動してくださイ</original>
-			<edited>おそらク…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; では、最初のチャレンジに ご案内しまス&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
-&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;NAMACO端末 &#xE;&#x0;&#x3;&#x2;ÿÿを起動してくださイ</edited>
+			<edited>おそらク…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0; では、最初のチャレンジに ご案内しまス&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;
+&#xE;&#x2;&#25;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;NAMACO端末 &#xE;&#x0;&#x3;&#x2;ÿÿを起動してくださイ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo04_0000" offset="00" relocatable="true" max_length="0">
@@ -438,7 +438,7 @@ NAMACO端末 をお持ちですネ？</edited>
 		<entry name="Demo04_0017" offset="00" relocatable="true" max_length="0">
 			<original>大変そうなので… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ワタシ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イイダ&#xE;&#x0;&#x3;&#x2;ÿÿ a.k.a.&#xE;&#x0;&#x3;&#x2;&#x0;&#x0; DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿが、
 サポートさせていただきます…！</original>
-			<edited>大変そうなので… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ワタシ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イイダ&#xE;&#x0;&#x3;&#x2;ÿÿ a.k.a.&#xE;&#x0;&#x3;&#x2;&#x0;&#x0; DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿが、
+			<edited>大変そうなので… &#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;ワタシ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;イイダ&#xE;&#x0;&#x3;&#x2;ÿÿ a.k.a.&#xE;&#x0;&#x3;&#x2;&#x0;&#x0; DJ E-DA&#xE;&#x0;&#x3;&#x2;ÿÿが、
 サポートさせていただきます…！</edited>
 			<subEntries />
 		</entry>
@@ -478,14 +478,14 @@ NAMACO端末 をお持ちですネ？</edited>
 		<entry name="Demo05_0000" offset="00" relocatable="true" max_length="0">
 			<original>おめでとうございマス！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 １つ目の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アレ &#xE;&#x0;&#x3;&#x2;ÿÿを手に入れましタネ！</original>
-			<edited>おめでとうございマス！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>おめでとうございマス！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 １つ目の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アレ &#xE;&#x0;&#x3;&#x2;ÿÿを手に入れましタネ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo05_0001" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アレ &#xE;&#x0;&#x3;&#x2;ÿÿが４つそろえば、約束の地ヘ 行けマス！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 それでは引き続き アレを探してくださイネ！！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アレ &#xE;&#x0;&#x3;&#x2;ÿÿが４つそろえば、約束の地ヘ 行けマス！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アレ &#xE;&#x0;&#x3;&#x2;ÿÿが４つそろえば、約束の地ヘ 行けマス！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 それでは引き続き アレを探してくださイネ！！</edited>
 			<subEntries />
 		</entry>
@@ -504,7 +504,7 @@ NAMACO端末 をお持ちですネ？</edited>
 		<entry name="Demo06_0000" offset="00" relocatable="true" max_length="0">
 			<original>おめでとうございマス！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 ２つ目の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アレ &#xE;&#x0;&#x3;&#x2;ÿÿを手に入れましタネ！！</original>
-			<edited>おめでとうございマス！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>おめでとうございマス！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 ２つ目の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アレ &#xE;&#x0;&#x3;&#x2;ÿÿを手に入れましタネ！！</edited>
 			<subEntries />
 		</entry>
@@ -512,7 +512,7 @@ NAMACO端末 をお持ちですネ？</edited>
 			<original>もう &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アレ&#xE;&#x0;&#x3;&#x2;ÿÿ 半分も 集めちゃうトハ…
 いやぁ アナタは有能デス！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; のこりも 探してくださイネ！！</original>
 			<edited>もう &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アレ&#xE;&#x0;&#x3;&#x2;ÿÿ 半分も 集めちゃうトハ…
-いやぁ アナタは有能デス！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; のこりも 探してくださイネ！！</edited>
+いやぁ アナタは有能デス！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0; のこりも 探してくださイネ！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo06_0002" offset="00" relocatable="true" max_length="0">
@@ -530,33 +530,33 @@ NAMACO端末 をお持ちですネ？</edited>
 		<entry name="Demo07_0000" offset="00" relocatable="true" max_length="0">
 			<original>おめでとうございマス！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 ３つ目の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アレ &#xE;&#x0;&#x3;&#x2;ÿÿを手に入れましタネ！！！</original>
-			<edited>おめでとうございマス！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>おめでとうございマス！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 ３つ目の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アレ &#xE;&#x0;&#x3;&#x2;ÿÿを手に入れましタネ！！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo07_0001" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アレ &#xE;&#x0;&#x3;&#x2;ÿÿが あと１つそろえば、 約束の地ヘ 行けマス！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 それデハ 引き続き ガンバってくださイネ！！</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アレ &#xE;&#x0;&#x3;&#x2;ÿÿが あと１つそろえば、 約束の地ヘ 行けマス！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アレ &#xE;&#x0;&#x3;&#x2;ÿÿが あと１つそろえば、 約束の地ヘ 行けマス！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 それデハ 引き続き ガンバってくださイネ！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo08_0000" offset="00" relocatable="true" max_length="0">
 			<original>おめでとうございマス！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 最後の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アレ&#xE;&#x0;&#x3;&#x2;ÿÿ を手に入れましタネ！！！！</original>
-			<edited>おめでとうございマス！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>おめでとうございマス！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 最後の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アレ&#xE;&#x0;&#x3;&#x2;ÿÿ を手に入れましタネ！！！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo08_0001" offset="00" relocatable="true" max_length="0">
 			<original>いや～、まいっタ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ホントに そろえちゃうトハ！</original>
-			<edited>いや～、まいっタ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ホントに そろえちゃうトハ！</edited>
+			<edited>いや～、まいっタ！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0; ホントに そろえちゃうトハ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo08_0002" offset="00" relocatable="true" max_length="0">
 			<original>それデハ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;約束の地&#xE;&#x0;&#x3;&#x2;ÿÿ へ案内しますので、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 こちらへ来てくだサイ！</original>
-			<edited>それデハ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;約束の地&#xE;&#x0;&#x3;&#x2;ÿÿ へ案内しますので、&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>それデハ &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;約束の地&#xE;&#x0;&#x3;&#x2;ÿÿ へ案内しますので、&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 こちらへ来てくだサイ！</edited>
 			<subEntries />
 		</entry>
@@ -580,7 +580,7 @@ NAMACO端末 をお持ちですネ？</edited>
 		<entry name="Demo09_0000" offset="00" relocatable="true" max_length="0">
 			<original>おめでとうございマス、No.10008！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 コレで &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;約束の地 &#xE;&#x0;&#x3;&#x2;ÿÿへの とびらが開放されマス！！！</original>
-			<edited>おめでとうございマス、No.10008！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>おめでとうございマス、No.10008！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 コレで &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;約束の地 &#xE;&#x0;&#x3;&#x2;ÿÿへの とびらが開放されマス！！！</edited>
 			<subEntries />
 		</entry>
@@ -727,28 +727,28 @@ NAMACO端末 をお持ちですネ？</edited>
 		<entry name="Demo10_0000" offset="00" relocatable="true" max_length="0">
 			<original>あの…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; キミが集めているソレ…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ちょっと &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;おじさん &#xE;&#x0;&#x3;&#x2;ÿÿに
 見せてもらっても…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; いいかな…</original>
-			<edited>あの…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; キミが集めているソレ…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ちょっと &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;おじさん &#xE;&#x0;&#x3;&#x2;ÿÿに
+			<edited>あの…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0; キミが集めているソレ…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; ちょっと &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;おじさん &#xE;&#x0;&#x3;&#x2;ÿÿに
 見せてもらっても…&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; いいかな…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo10_0001" offset="00" relocatable="true" max_length="0">
 			<original>あぁ…　いきなり話しかけてしまって　ゴメンね&#xE;&#x6;&#x0;&#x0;…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 &#xF;&#x6;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x6;&#x0;&#x0;（キモチワルイって… 思われてないかな…）&#xF;&#x6;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>あぁ…　いきなり話しかけてしまって　ゴメンね&#xE;&#x6;&#x0;&#x0;…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>あぁ…　いきなり話しかけてしまって　ゴメンね&#xE;&#x6;&#x0;&#x0;…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 &#xF;&#x6;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;&#xE;&#x6;&#x0;&#x0;（キモチワルイって… 思われてないかな…）&#xF;&#x6;&#x0;&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo10_0002" offset="00" relocatable="true" max_length="0">
 			<original>オレは、 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;グソクさん &#xE;&#x0;&#x3;&#x2;ÿÿって 呼ばれてるんだ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 もっとも 本名は 忘れてしまったんだけどね…</original>
-			<edited>オレは、 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;グソクさん &#xE;&#x0;&#x3;&#x2;ÿÿって 呼ばれてるんだ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>オレは、 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;グソクさん &#xE;&#x0;&#x3;&#x2;ÿÿって 呼ばれてるんだ…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 もっとも 本名は 忘れてしまったんだけどね…</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo10_0003" offset="00" relocatable="true" max_length="0">
 			<original>キミの集めている そのキオクのカケラ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 この世界では&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ネリメモリー &#xE;&#x0;&#x3;&#x2;ÿÿって&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 呼ばれているんだけど、</original>
-			<edited>キミの集めている そのキオクのカケラ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>キミの集めている そのキオクのカケラ…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 この世界では&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ネリメモリー &#xE;&#x0;&#x3;&#x2;ÿÿって&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0; 呼ばれているんだけど、</edited>
 			<subEntries />
 		</entry>
@@ -783,7 +783,7 @@ NAMACO端末 をお持ちですネ？</edited>
 		<entry name="Demo10_0008" offset="00" relocatable="true" max_length="0">
 			<original>グソクちゃん ちょっと ヤバそうじゃな…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 悪いヤツには 見えんがのゥ…</original>
-			<edited>グソクちゃん ちょっと ヤバそうじゃな…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>グソクちゃん ちょっと ヤバそうじゃな…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 悪いヤツには 見えんがのゥ…</edited>
 			<subEntries />
 		</entry>
@@ -815,7 +815,7 @@ NAMACO端末 をお持ちですネ？</edited>
 		<entry name="Demo13_0002" offset="00" relocatable="true" max_length="0">
 			<original>ヘリの設備を テンケン！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 ここで生きる 戦場のケイケン！</original>
-			<edited>ヘリの設備を テンケン！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>ヘリの設備を テンケン！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 ここで生きる 戦場のケイケン！</edited>
 			<subEntries />
 		</entry>
@@ -970,7 +970,7 @@ NAMACO端末 をお持ちですネ？</edited>
 		</entry>
 		<entry name="Demo13_0030" offset="00" relocatable="true" max_length="0">
 			<original>え… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;っと</original>
-			<edited>え… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;っと</edited>
+			<edited>え… &#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;っと</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo13_0031" offset="00" relocatable="true" max_length="0">
@@ -1099,7 +1099,7 @@ NAMACO端末 をお持ちですネ？</edited>
 		<entry name="Demo15_0003" offset="00" relocatable="true" max_length="0">
 			<original>さらばだ、No.10008…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 貴様をあの街ごと ネリ返してヤル！</original>
-			<edited>さらばだ、No.10008…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>さらばだ、No.10008…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 貴様をあの街ごと ネリ返してヤル！</edited>
 			<subEntries />
 		</entry>
@@ -1130,7 +1130,7 @@ NAMACO端末 をお持ちですネ？</edited>
 		</entry>
 		<entry name="Demo16_0001_R" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x2;&#x2;&#x0;ハカセ… &#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;イマ、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;アイニ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;イキ &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;マス…&#xE;&#x0;&#x2;&#x2;d&#x0;</original>
-			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;ハカセ… &#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;イマ、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;アイニ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;イキ &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;マス…&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
+			<edited>&#xE;&#x0;&#x2;&#x2;&#x0;ハカセ… &#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;イマ、&#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;アイニ &#xE;&#x1;&#x0;&#x4;&#xF;&#x0;&#x0;&#x0;イキ &#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;マス…&#xE;&#x0;&#x2;&#x2;d&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Demo16_0002_R" offset="00" relocatable="true" max_length="0">
@@ -1166,14 +1166,14 @@ NAMACOポイントのことを指しまス&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x
 NAMACOポイントのことでス&#xE;&#x0;&#x4;&#x0;では &#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で 使うブキを選んでくださイ</original>
 			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;「チャレンジ料」 &#xE;&#x0;&#x3;&#x2;ÿÿとは、この駅をチャレンジするのに必要な
 NAMACOポイントのことを指しまス&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;「クリアほうしゅう」&#xE;&#x0;&#x3;&#x2;ÿÿ とは、この駅をクリアしたらもらえる
-NAMACOポイントのことでス&#xE;&#x0;&#x4;&#x0;では &#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で 使うブキを選んでくださイ</edited>
+NAMACOポイントのことでス&#xE;&#x0;&#x4;&#x0;では &#xE;&#x2;&#23;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で 使うブキを選んでくださイ</edited>
 			<subEntries />
 		</entry>
 		<entry name="WeaponSelectExplanation_MultiWeapon" offset="00" relocatable="true" max_length="0">
 			<original>３つのブキの中から &#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で 使うものを選んでくださイ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;.&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;オススメ&#xE;&#x0;&#x3;&#x2;ÿÿ の印がついてあるブキは、
 ネル社内で 満足度の高かったブキでありまス&#xE;&#x0;&#x4;&#x0;クリア時にもらえる &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリアほうしゅう&#xE;&#x0;&#x3;&#x2;ÿÿ の値段は
 ブキによって変わりまス… ご参考くださイ</original>
-			<edited>３つのブキの中から &#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で 使うものを選んでくださイ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;.&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;オススメ&#xE;&#x0;&#x3;&#x2;ÿÿ の印がついてあるブキは、
+			<edited>３つのブキの中から &#xE;&#x2;&#23;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で 使うものを選んでくださイ&#xE;&#x0;&#x4;&#x0;&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;&#xE;&#x2;.&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;オススメ&#xE;&#x0;&#x3;&#x2;ÿÿ の印がついてあるブキは、
 ネル社内で 満足度の高かったブキでありまス&#xE;&#x0;&#x4;&#x0;クリア時にもらえる &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;クリアほうしゅう&#xE;&#x0;&#x3;&#x2;ÿÿ の値段は
 ブキによって変わりまス… ご参考くださイ</edited>
 			<subEntries />
@@ -1181,7 +1181,7 @@ NAMACOポイントのことでス&#xE;&#x0;&#x4;&#x0;では &#xE;&#x2;&#x17;&#x8
 		<entry name="WeaponSelectExplanation_MultiWeapon_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドレッサー &#xE;&#x0;&#x3;&#x2;ÿÿを &#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で起動すれば、
 ブキを持ちかえることができまス</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドレッサー &#xE;&#x0;&#x3;&#x2;ÿÿを &#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で起動すれば、
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ドレッサー &#xE;&#x0;&#x3;&#x2;ÿÿを &#xE;&#x2;&#23;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で起動すれば、
 ブキを持ちかえることができまス</edited>
 			<subEntries />
 		</entry>
@@ -1189,7 +1189,7 @@ NAMACOポイントのことでス&#xE;&#x0;&#x4;&#x0;では &#xE;&#x2;&#x17;&#x8
 			<original>これは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;改札&#xE;&#x0;&#x3;&#x2;ÿÿ でありまス&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でタッチをすると、NAMACOポイントから
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;チャレンジ料 &#xE;&#x0;&#x3;&#x2;ÿÿが差し引かれ スタートしまス&#xE;&#x0;&#x4;&#x0;NAMACOポイントが足りない場合は、
 チャレンジができないので 出直してきてくださイ</original>
-			<edited>これは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;改札&#xE;&#x0;&#x3;&#x2;ÿÿ でありまス&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でタッチをすると、NAMACOポイントから
+			<edited>これは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;改札&#xE;&#x0;&#x3;&#x2;ÿÿ でありまス&#xE;&#x0;&#x4;&#x0;&#xE;&#x2;&#23;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;でタッチをすると、NAMACOポイントから
 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;チャレンジ料 &#xE;&#x0;&#x3;&#x2;ÿÿが差し引かれ スタートしまス&#xE;&#x0;&#x4;&#x0;NAMACOポイントが足りない場合は、
 チャレンジができないので 出直してきてくださイ</edited>
 			<subEntries />

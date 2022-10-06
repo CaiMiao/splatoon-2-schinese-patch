@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="1" offset="00" relocatable="true" max_length="0">
 			<original>タコトルーパー</original>
-			<edited>タコトルーパー</edited>
+			<edited>章鱼兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="3" offset="00" relocatable="true" max_length="0">
 			<original>タコトルーパー</original>
-			<edited>タコトルーパー</edited>
+			<edited>章鱼兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="4" offset="00" relocatable="true" max_length="0">
@@ -20,12 +20,12 @@
 		</entry>
 		<entry name="5" offset="00" relocatable="true" max_length="0">
 			<original>バイタコトルーパー</original>
-			<edited>バイタコトルーパー</edited>
+			<edited>强化章鱼兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="7" offset="00" relocatable="true" max_length="0">
 			<original>バイタコトルーパー</original>
-			<edited>バイタコトルーパー</edited>
+			<edited>强化章鱼兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="8" offset="00" relocatable="true" max_length="0">
@@ -52,37 +52,37 @@
 		</entry>
 		<entry name="11" offset="00" relocatable="true" max_length="0">
 			<original>タコプター</original>
-			<edited>タコプター</edited>
+			<edited>章鱼螺旋桨兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="12" offset="00" relocatable="true" max_length="0">
 			<original>ボムタコプター</original>
-			<edited>ボムタコプター</edited>
+			<edited>炸弹章鱼螺旋桨兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="13" offset="00" relocatable="true" max_length="0">
 			<original>タコポッド</original>
-			<edited>タコポッド</edited>
+			<edited>章鱼弹舱兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="14" offset="00" relocatable="true" max_length="0">
 			<original>タコドーザー</original>
-			<edited>タコドーザー</edited>
+			<edited>章鱼推进洒墨机</edited>
 			<subEntries />
 		</entry>
 		<entry name="15" offset="00" relocatable="true" max_length="0">
 			<original>インクリーナー</original>
-			<edited>インクリーナー</edited>
+			<edited>吸墨器</edited>
 			<subEntries />
 		</entry>
 		<entry name="16" offset="00" relocatable="true" max_length="0">
 			<original>タコスタンプ</original>
-			<edited>タコスタンプ</edited>
+			<edited>章鱼印章兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="18" offset="00" relocatable="true" max_length="0">
 			<original>タコゾネス</original>
-			<edited>タコゾネス</edited>
+			<edited>章鱼女战士</edited>
 			<subEntries />
 		</entry>
 		<entry name="19" offset="00" relocatable="true" max_length="0">
@@ -92,7 +92,7 @@
 		</entry>
 		<entry name="20" offset="00" relocatable="true" max_length="0">
 			<original>タコスナイパー</original>
-			<edited>タコスナイパー</edited>
+			<edited>章鱼狙击兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="23" offset="00" relocatable="true" max_length="0">
@@ -107,22 +107,22 @@
 		</entry>
 		<entry name="28" offset="00" relocatable="true" max_length="0">
 			<original>デンチナマズ</original>
-			<edited>デンチナマズ</edited>
+			<edited>电池鲶鱼</edited>
 			<subEntries />
 		</entry>
 		<entry name="30" offset="00" relocatable="true" max_length="0">
 			<original>スタート地点</original>
-			<edited>スタート地点</edited>
+			<edited>开始地点</edited>
 			<subEntries />
 		</entry>
 		<entry name="31" offset="00" relocatable="true" max_length="0">
 			<original>チェックポイント</original>
-			<edited>チェックポイント</edited>
+			<edited>关卡点</edited>
 			<subEntries />
 		</entry>
 		<entry name="32" offset="00" relocatable="true" max_length="0">
 			<original>イクラ</original>
-			<edited>イクラ</edited>
+			<edited>鲑鱼卵</edited>
 			<subEntries />
 		</entry>
 		<entry name="33" offset="00" relocatable="true" max_length="0">
@@ -132,12 +132,12 @@
 		</entry>
 		<entry name="34" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラ</original>
-			<edited>ガチヤグラ</edited>
+			<edited>真格塔楼</edited>
 			<subEntries />
 		</entry>
 		<entry name="35" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプポイント</original>
-			<edited>ジャンプポイント</edited>
+			<edited>跳跃点</edited>
 			<subEntries />
 		</entry>
 		<entry name="36" offset="00" relocatable="true" max_length="0">
@@ -147,22 +147,22 @@
 		</entry>
 		<entry name="37" offset="00" relocatable="true" max_length="0">
 			<original>カギ</original>
-			<edited>カギ</edited>
+			<edited>钥匙</edited>
 			<subEntries />
 		</entry>
 		<entry name="38" offset="00" relocatable="true" max_length="0">
 			<original>ボム風船</original>
-			<edited>ボム風船</edited>
+			<edited>炸弹气球</edited>
 			<subEntries />
 		</entry>
 		<entry name="39" offset="00" relocatable="true" max_length="0">
 			<original>スイッチ</original>
-			<edited>スイッチ</edited>
+			<edited>开关</edited>
 			<subEntries />
 		</entry>
 		<entry name="40" offset="00" relocatable="true" max_length="0">
 			<original>でんちゃん</original>
-			<edited>でんちゃん</edited>
+			<edited>电仔</edited>
 			<subEntries />
 		</entry>
 		<entry name="41" offset="00" relocatable="true" max_length="0">
@@ -172,17 +172,17 @@
 		</entry>
 		<entry name="42" offset="00" relocatable="true" max_length="0">
 			<original>キャノン</original>
-			<edited>キャノン</edited>
+			<edited>大炮 </edited>
 			<subEntries />
 		</entry>
 		<entry name="43" offset="00" relocatable="true" max_length="0">
 			<original>キャノン</original>
-			<edited>キャノン</edited>
+			<edited>大炮 </edited>
 			<subEntries />
 		</entry>
 		<entry name="45" offset="00" relocatable="true" max_length="0">
 			<original>ヤカン</original>
-			<edited>ヤカン</edited>
+			<edited>茶壶</edited>
 			<subEntries />
 		</entry>
 		<entry name="46" offset="00" relocatable="true" max_length="0">
@@ -197,12 +197,12 @@
 		</entry>
 		<entry name="48" offset="00" relocatable="true" max_length="0">
 			<original>プロペラ</original>
-			<edited>プロペラ</edited>
+			<edited>螺旋桨</edited>
 			<subEntries />
 		</entry>
 		<entry name="49" offset="00" relocatable="true" max_length="0">
 			<original>マト</original>
-			<edited>マト</edited>
+			<edited>标靶</edited>
 			<subEntries />
 		</entry>
 		<entry name="52" offset="00" relocatable="true" max_length="0">
@@ -242,12 +242,12 @@
 		</entry>
 		<entry name="65" offset="00" relocatable="true" max_length="0">
 			<original>インクレール</original>
-			<edited>インクレール</edited>
+			<edited>墨汁轨道</edited>
 			<subEntries />
 		</entry>
 		<entry name="67" offset="00" relocatable="true" max_length="0">
 			<original>ガチホコ</original>
-			<edited>ガチホコ</edited>
+			<edited>真格鱼虎</edited>
 			<subEntries />
 		</entry>
 		<entry name="70" offset="00" relocatable="true" max_length="0">
@@ -257,7 +257,7 @@
 		</entry>
 		<entry name="72" offset="00" relocatable="true" max_length="0">
 			<original>ミステリーファイル</original>
-			<edited>ミステリーファイル</edited>
+			<edited>神秘档案</edited>
 			<subEntries />
 		</entry>
 		<entry name="76" offset="00" relocatable="true" max_length="0">
@@ -272,7 +272,7 @@
 		</entry>
 		<entry name="79" offset="00" relocatable="true" max_length="0">
 			<original>ガチエリア</original>
-			<edited>ガチエリア</edited>
+			<edited>真格区域</edited>
 			<subEntries />
 		</entry>
 		<entry name="81" offset="00" relocatable="true" max_length="0">
@@ -287,7 +287,7 @@
 		</entry>
 		<entry name="85" offset="00" relocatable="true" max_length="0">
 			<original>カンケツセン</original>
-			<edited>カンケツセン</edited>
+			<edited>喷泉</edited>
 			<subEntries />
 		</entry>
 		<entry name="89" offset="00" relocatable="true" max_length="0">
@@ -314,22 +314,22 @@
 		</entry>
 		<entry name="123" offset="00" relocatable="true" max_length="0">
 			<original>オクタリアン</original>
-			<edited>オクタリアン</edited>
+			<edited>章鱼族</edited>
 			<subEntries />
 		</entry>
 		<entry name="NPC_01" offset="00" relocatable="true" max_length="0">
 			<original>ジャッジくん</original>
-			<edited>ジャッジくん</edited>
+			<edited>评审</edited>
 			<subEntries />
 		</entry>
 		<entry name="NPC_02" offset="00" relocatable="true" max_length="0">
 			<original>アオリ</original>
-			<edited>アオリ</edited>
+			<edited>小拟</edited>
 			<subEntries />
 		</entry>
 		<entry name="NPC_03" offset="00" relocatable="true" max_length="0">
 			<original>ホタル</original>
-			<edited>ホタル</edited>
+			<edited>小萤</edited>
 			<subEntries />
 		</entry>
 		<entry name="NPC_04" offset="00" relocatable="true" max_length="0">
@@ -346,7 +346,7 @@
 		</entry>
 		<entry name="OBJ_01" offset="00" relocatable="true" max_length="0">
 			<original>スペシャルカンヅメ</original>
-			<edited>スペシャルカンヅメ</edited>
+			<edited>特殊罐头</edited>
 			<subEntries />
 		</entry>
 		<entry name="OBJ_02" offset="00" relocatable="true" max_length="0">
@@ -406,7 +406,7 @@
 		</entry>
 		<entry name="MSN_01" offset="00" relocatable="true" max_length="0">
 			<original>タココマンダー</original>
-			<edited>タココマンダー</edited>
+			<edited>章鱼指挥官</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_02" offset="00" relocatable="true" max_length="0">
@@ -416,7 +416,7 @@
 		</entry>
 		<entry name="MSN_03" offset="00" relocatable="true" max_length="0">
 			<original>タコストライク</original>
-			<edited>タコストライク</edited>
+			<edited>章鱼保龄球兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_04" offset="00" relocatable="true" max_length="0">
@@ -441,7 +441,7 @@
 		</entry>
 		<entry name="MSN_08" offset="00" relocatable="true" max_length="0">
 			<original>タコトルーパー</original>
-			<edited>タコトルーパー</edited>
+			<edited>章鱼兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_09" offset="00" relocatable="true" max_length="0">
@@ -451,7 +451,7 @@
 		</entry>
 		<entry name="MSN_10" offset="00" relocatable="true" max_length="0">
 			<original>バイタコトルーパー</original>
-			<edited>バイタコトルーパー</edited>
+			<edited>强化章鱼兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_11" offset="00" relocatable="true" max_length="0">
@@ -461,7 +461,7 @@
 		</entry>
 		<entry name="MSN_12" offset="00" relocatable="true" max_length="0">
 			<original>タテタコトルーパー</original>
-			<edited>タテタコトルーパー</edited>
+			<edited>盾牌章鱼兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_13" offset="00" relocatable="true" max_length="0">
@@ -491,17 +491,17 @@
 		</entry>
 		<entry name="MSN_18" offset="00" relocatable="true" max_length="0">
 			<original>タコッペリン号</original>
-			<edited>タコッペリン号</edited>
+			<edited>章鱼柏林号</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_19" offset="00" relocatable="true" max_length="0">
 			<original>スタート地点</original>
-			<edited>スタート地点</edited>
+			<edited>开始地点</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_20" offset="00" relocatable="true" max_length="0">
 			<original>タコミサイル</original>
-			<edited>タコミサイル</edited>
+			<edited>章鱼导弹兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_21" offset="00" relocatable="true" max_length="0">
@@ -521,7 +521,7 @@
 		</entry>
 		<entry name="MSN_24" offset="00" relocatable="true" max_length="0">
 			<original>スタコラー</original>
-			<edited>スタコラー</edited>
+			<edited>章鱼溜兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_25" offset="00" relocatable="true" max_length="0">
@@ -555,12 +555,12 @@
 		</entry>
 		<entry name="MSN_30" offset="00" relocatable="true" max_length="0">
 			<original>イリコニウム</original>
-			<edited>イリコニウム</edited>
+			<edited>小鱼干</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_31" offset="00" relocatable="true" max_length="0">
 			<original>ライドレール</original>
-			<edited>ライドレール</edited>
+			<edited>输送轨道</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_32" offset="00" relocatable="true" max_length="0">
@@ -570,7 +570,7 @@
 		</entry>
 		<entry name="MSN_33" offset="00" relocatable="true" max_length="0">
 			<original>ヌリヌリ棒</original>
-			<edited>ヌリヌリ棒</edited>
+			<edited>涂涂棒</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_34" offset="00" relocatable="true" max_length="0">
@@ -580,7 +580,7 @@
 		</entry>
 		<entry name="MSN_35" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプマット</original>
-			<edited>ジャンプマット</edited>
+			<edited>跳跃垫</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_36" offset="00" relocatable="true" max_length="0">
@@ -595,17 +595,17 @@
 		</entry>
 		<entry name="MSN_38" offset="00" relocatable="true" max_length="0">
 			<original>スプリンクラー</original>
-			<edited>スプリンクラー</edited>
+			<edited>洒墨器</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_39" offset="00" relocatable="true" max_length="0">
 			<original>ポイズンミスト</original>
-			<edited>ポイズンミスト</edited>
+			<edited>毒雾</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_40" offset="00" relocatable="true" max_length="0">
 			<original>スプラッシュシールド</original>
-			<edited>スプラッシュシールド</edited>
+			<edited>斯普拉防护墙</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_41" offset="00" relocatable="true" max_length="0">
@@ -630,7 +630,7 @@
 		</entry>
 		<entry name="MSN_45" offset="00" relocatable="true" max_length="0">
 			<original>ピロピロ</original>
-			<edited>ピロピロ</edited>
+			<edited>吹吹卷</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_46" offset="00" relocatable="true" max_length="0">
@@ -645,7 +645,7 @@
 		</entry>
 		<entry name="MSN_48" offset="00" relocatable="true" max_length="0">
 			<original>ビンイクラ</original>
-			<edited>ビンイクラ</edited>
+			<edited>瓶装鲑鱼卵</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_49" offset="00" relocatable="true" max_length="0">
@@ -675,12 +675,12 @@
 		</entry>
 		<entry name="MSN_55" offset="00" relocatable="true" max_length="0">
 			<original>イカフライ</original>
-			<edited>イカフライ</edited>
+			<edited>炸鱿鱼圈</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_56" offset="00" relocatable="true" max_length="0">
 			<original>でんでんスイッチ</original>
-			<edited>でんでんスイッチ</edited>
+			<edited>转转开关</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_57" offset="00" relocatable="true" max_length="0">
@@ -755,7 +755,7 @@
 		</entry>
 		<entry name="MSN_71" offset="00" relocatable="true" max_length="0">
 			<original>ヌリヌリ棒</original>
-			<edited>ヌリヌリ棒</edited>
+			<edited>涂涂棒</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_72" offset="00" relocatable="true" max_length="0">
@@ -820,7 +820,7 @@
 		</entry>
 		<entry name="MSN_84" offset="00" relocatable="true" max_length="0">
 			<original>スピナー</original>
-			<edited>スピナー</edited>
+			<edited>旋转枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_85" offset="00" relocatable="true" max_length="0">
@@ -835,17 +835,17 @@
 		</entry>
 		<entry name="MSN_87" offset="00" relocatable="true" max_length="0">
 			<original>チャージャー</original>
-			<edited>チャージャー</edited>
+			<edited>蓄力狙击枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_88" offset="00" relocatable="true" max_length="0">
 			<original>スピナー</original>
-			<edited>スピナー</edited>
+			<edited>旋转枪</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_89" offset="00" relocatable="true" max_length="0">
 			<original>ハイパープレッサー</original>
-			<edited>ハイパープレッサー</edited>
+			<edited>高压水枪 </edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_90" offset="00" relocatable="true" max_length="0">
@@ -860,7 +860,7 @@
 		</entry>
 		<entry name="MSN_92" offset="00" relocatable="true" max_length="0">
 			<original>タコプター</original>
-			<edited>タコプター</edited>
+			<edited>章鱼螺旋桨兵</edited>
 			<subEntries />
 		</entry>
 		<entry name="MSN_93" offset="00" relocatable="true" max_length="0">

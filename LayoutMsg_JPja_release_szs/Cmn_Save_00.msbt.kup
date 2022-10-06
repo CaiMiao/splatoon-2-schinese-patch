@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="T_Save_00" offset="00" relocatable="true" max_length="0">
 			<original>セーブ完了</original>
-			<edited>保存结束</edited>
+			<edited>保存完毕</edited>
 			<subEntries />
 		</entry>
 	</entries>

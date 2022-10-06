@@ -6,69 +6,69 @@
 		<entry name="Greeting_Girl" offset="00" relocatable="true" max_length="0">
 			<original>元気？
 調子はどうかな？</original>
-			<edited>元気？
-調子はどうかな？</edited>
+			<edited>最近过得怎么样？
+状态如何？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Greeting_Boy" offset="00" relocatable="true" max_length="0">
 			<original>よっ！
 今日の調子はどう？</original>
-			<edited>よっ！
-今日の調子はどう？</edited>
+			<edited>嗨！
+今天状态如何？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Greeting_Squid" offset="00" relocatable="true" max_length="0">
 			<original>まいど おおきに～
 調子 どないどす？</original>
-			<edited>まいど おおきに～
-調子 どないどす？</edited>
+			<edited>承蒙关照～
+今天状态如何？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Greeting_Aori" offset="00" relocatable="true" max_length="0">
 			<original>ヤッホー！
 今日の調子はどう？</original>
-			<edited>ヤッホー！
-今日の調子はどう？</edited>
+			<edited>嗨——！
+今天状态如何？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Greeting_Hotaru" offset="00" relocatable="true" max_length="0">
 			<original>ども～ 調子どう？</original>
-			<edited>ども～ 調子どう？</edited>
+			<edited>嗨～状态如何？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Greeting_Pearl" offset="00" relocatable="true" max_length="0">
 			<original>Ｙｏ！
 調子はどうだ？</original>
-			<edited>Ｙｏ！
-調子はどうだ？</edited>
+			<edited>Yo！
+状态如何？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Greeting_Marina" offset="00" relocatable="true" max_length="0">
 			<original>こんにちは～
 今日の調子はどうですか？</original>
-			<edited>こんにちは～
-今日の調子はどうですか？</edited>
+			<edited>你好～
+今天状态如何？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Greeting_OctoGirl" offset="00" relocatable="true" max_length="0">
 			<original>ゲンキハ ドウデスカ？
 チョーシモ イイデショウ？</original>
-			<edited>ゲンキハ ドウデスカ？
-チョーシモ イイデショウ？</edited>
+			<edited>你过得怎么样？
+状态也不错吧？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Greeting_OctoBoy" offset="00" relocatable="true" max_length="0">
 			<original>オゲンキデスカ…？
 キョウハ チョーシサイコーニ ナレマスカ？</original>
-			<edited>オゲンキデスカ…？
-キョウハ チョーシサイコーニ ナレマスカ？</edited>
+			<edited>你过得怎么样……？
+今天能状态绝佳吗？</edited>
 			<subEntries />
 		</entry>
 		<entry name="Greeting_Octo" offset="00" relocatable="true" max_length="0">
 			<original>… … …
 チョーシハ ドウダ？</original>
-			<edited>… … …
-チョーシハ ドウダ？</edited>
+			<edited>……
+状态如何？</edited>
 			<subEntries />
 		</entry>
 		<entry name="OtherGreeting_Girl" offset="00" relocatable="true" max_length="0">
@@ -164,71 +164,71 @@
 		<entry name="GearGet_Girl" offset="00" relocatable="true" max_length="0">
 			<original>最近、バトルがんばってるみたいだね！
 じゃあコレ、プレゼント！</original>
-			<edited>最近、バトルがんばってるみたいだね！
-じゃあコレ、プレゼント！</edited>
+			<edited>你最近好像对战很努力啊！
+那这个就送给你吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GearGet_Boy" offset="00" relocatable="true" max_length="0">
 			<original>最近、バトルがんばってるみたいだな！
 じゃあコレ、プレゼントだ！</original>
-			<edited>最近、バトルがんばってるみたいだな！
-じゃあコレ、プレゼントだ！</edited>
+			<edited>你最近好像对战很努力啊！
+那这个就送给你吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GearGet_Squid" offset="00" relocatable="true" max_length="0">
 			<original>最近、バトル きばってはるみたいどすね～
 ほなコレ、プレゼントどす</original>
-			<edited>最近、バトル きばってはるみたいどすね～
-ほなコレ、プレゼントどす</edited>
+			<edited>你最近好像对战很努力呢～
+来，这个送给你。</edited>
 			<subEntries />
 		</entry>
 		<entry name="GearGet_Aori" offset="00" relocatable="true" max_length="0">
 			<original>最近、バトルがんばってるよね！
 それじゃあコレ、プレゼントだよ！</original>
-			<edited>最近、バトルがんばってるよね！
-それじゃあコレ、プレゼントだよ！</edited>
+			<edited>你最近对战好像很努力呢！
+那这个就送给你吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GearGet_Hotaru" offset="00" relocatable="true" max_length="0">
 			<original>バトルがんばってるみたいやね～
 じゃ これ、プレゼントね</original>
-			<edited>バトルがんばってるみたいやね～
-じゃ これ、プレゼントね</edited>
+			<edited>你好像对战很努力呢～
+那这个就送给你吧。</edited>
 			<subEntries />
 		</entry>
 		<entry name="GearGet_Pearl" offset="00" relocatable="true" max_length="0">
 			<original>バトルがんばってるみたいだな！
 そんじゃー これ、プレゼントだ！</original>
-			<edited>バトルがんばってるみたいだな！
-そんじゃー これ、プレゼントだ！</edited>
+			<edited>你好像对战很努力啊！
+那这个就送给你吧！</edited>
 			<subEntries />
 		</entry>
 		<entry name="GearGet_Marina" offset="00" relocatable="true" max_length="0">
 			<original>バトルがんばってるみたいですね～
 これ、プレゼントです♪</original>
-			<edited>バトルがんばってるみたいですね～
-これ、プレゼントです♪</edited>
+			<edited>你好像对战很努力呢～
+这是送给你的礼物♪</edited>
 			<subEntries />
 		</entry>
 		<entry name="GearGet_OctoGirl" offset="00" relocatable="true" max_length="0">
 			<original>バトル ガンバルノハ ヨイコト！
 コレ、 オクリモノダヨ？</original>
-			<edited>バトル ガンバルノハ ヨイコト！
-コレ、 オクリモノダヨ？</edited>
+			<edited>努力对战很棒哦！
+这是送给你的哦？</edited>
 			<subEntries />
 		</entry>
 		<entry name="GearGet_OctoBoy" offset="00" relocatable="true" max_length="0">
 			<original>イマモ ムカシモ バトル ガンバッテマスネ！
 コレデ、 バトル モットガンバッテクダサイ</original>
-			<edited>イマモ ムカシモ バトル ガンバッテマスネ！
-コレデ、 バトル モットガンバッテクダサイ</edited>
+			<edited>你好像一直在努力地对战呢！
+这个送给你，今后请继续加油对战。</edited>
 			<subEntries />
 		</entry>
 		<entry name="GearGet_Octo" offset="00" relocatable="true" max_length="0">
 			<original>バトルニ アケクレテイル ミタイダナ
 ドウダ、コレヲ ツカッテミナイカ？</original>
-			<edited>バトルニ アケクレテイル ミタイダナ
-ドウダ、コレヲ ツカッテミナイカ？</edited>
+			<edited>你好像很专心于对战啊。
+怎么样？要不要用这个试试？</edited>
 			<subEntries />
 		</entry>
 		<entry name="ShotMenu_Girl" offset="00" relocatable="true" max_length="0">

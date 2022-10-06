@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="FirstEntryDemo_00" offset="00" relocatable="true" max_length="0">
 			<original>タ…</original>
-			<edited>墨…</edited>
+			<edited>章……</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_01" offset="00" relocatable="true" max_length="0">
 			<original>タコが 来とる…</original>
-			<edited>墨鱼来了…</edited>
+			<edited>章鱼要来了…</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_02" offset="00" relocatable="true" max_length="0">
@@ -22,22 +22,22 @@
 			<original>やっぱ 来てくれたね～&#xE;&#x0;&#x4;&#x0;キミのこと、街で見かけたときから
 他の人とはちがう目 してると思ってたんよ&#xE;&#x0;&#x4;&#x0;あ、 メンゴメンゴ
 アタシは &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ホタル&#xE;&#x0;&#x3;&#x2;ÿÿ</original>
-			<edited>终于来了～&#xE;&#x0;&#x4;&#x0;在街上见到你的时候
-就觉得你的眼睛和别的不同&#xE;&#x0;&#x4;&#x0;啊！歉抱歉抱
-我是 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ホタル&#xE;&#x0;&#x3;&#x2;ÿÿ</edited>
+			<edited>你终于来了～&#xE;&#x0;&#x4;&#x0;在街上见到你的时候，
+我就觉得你的眼睛和别人不一样呢。&#xE;&#x0;&#x4;&#x0;啊！歉抱歉抱。
+我是 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;小萤&#xE;&#x0;&#x3;&#x2;ÿÿ。</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_04" offset="00" relocatable="true" max_length="0">
 			<original>そう、みなさんごぞんじ 有名アイドル
 「&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;シオカラーズ&#xE;&#x0;&#x3;&#x2;ÿÿ」の &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ホタル&#xE;&#x0;&#x3;&#x2;ÿÿで～す</original>
-			<edited>是啦，是大家都熟悉的知名偶像
-「&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;墨鱼姐妹&#xE;&#x0;&#x3;&#x2;ÿÿ」的 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;萤火&#xE;&#x0;&#x3;&#x2;ÿÿ啦～</edited>
+			<edited>对，就是大家都熟悉的知名偶像
+“&amp;#xE;&amp;#x0;&amp;#x3;&amp;#x2;&amp;#x0;&amp;#x0;麻辣鱿物&amp;#xE;&amp;#x0;&amp;#x3;&amp;#x2;ÿÿ”的 &amp;#xE;&amp;#x0;&amp;#x3;&amp;#x2;&amp;#x0;&amp;#x0;小萤&amp;#xE;&amp;#x0;&amp;#x3;&amp;#x2;ÿÿ啦～</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_05" offset="00" relocatable="true" max_length="0">
 			<original>えっ、知らない？！
 &#xE;&#x1;&#x0;&#x4;K&#x0;&#x0;&#x0;マジで？！</original>
-			<edited>诶，你不知道！？
+			<edited>诶，你不知道？！
 &#xE;&#x1;&#x0;&#x4;K&#x0;&#x0;&#x0;真的吗？！</edited>
 			<subEntries />
 		</entry>
@@ -102,7 +102,7 @@ New！カラストンビ部隊、２号なんよ～！&#xE;&#x0;&#x4;&#x0;…て
 		</entry>
 		<entry name="FirstEntryDemo_15" offset="00" relocatable="true" max_length="0">
 			<original>だまってる、ってことは 「YES」ってことやんね</original>
-			<edited>だまってる、ってことは 「YES」ってことやんね</edited>
+			<edited>保持沉默的话，我就当你的回答是“YES”了。</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_16" offset="00" relocatable="true" max_length="0">
@@ -135,7 +135,7 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		</entry>
 		<entry name="FirstEntryDemo_00_2nd" offset="00" relocatable="true" max_length="0">
 			<original>ん…</original>
-			<edited>ん…</edited>
+			<edited>嗯……</edited>
 			<subEntries />
 		</entry>
 		<entry name="FirstEntryDemo_01_2nd" offset="00" relocatable="true" max_length="0">
@@ -297,7 +297,7 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		<entry name="BossSmashFadeTalk_1_00_HT" offset="00" relocatable="true" max_length="0">
 			<original>グッジョブ、４号～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 アタシが、見こんでた通りのカツヤクだったね</original>
-			<edited>グッジョブ、４号～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>グッジョブ、４号～&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 アタシが、見こんでた通りのカツヤクだったね</edited>
 			<subEntries />
 		</entry>
@@ -311,7 +311,7 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		<entry name="BossSmashFadeTalk_1_02_HT" offset="00" relocatable="true" max_length="0">
 			<original>しかし！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; こ～なることを予想して、
 強力な助っ人を たのんどいたんよね</original>
-			<edited>しかし！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; こ～なることを予想して、
+			<edited>しかし！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0; こ～なることを予想して、
 強力な助っ人を たのんどいたんよね</edited>
 			<subEntries />
 		</entry>
@@ -388,7 +388,7 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		<entry name="BossSmashFadeTalk_1_13_HT" offset="00" relocatable="true" max_length="0">
 			<original>え～と、もう 説明ダイジョブだよね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 ありがと～、ブキチくん</original>
-			<edited>え～と、もう 説明ダイジョブだよね&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>え～と、もう 説明ダイジョブだよね&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 ありがと～、ブキチくん</edited>
 			<subEntries />
 		</entry>
@@ -402,7 +402,7 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		<entry name="BossSmashFadeTalk_2_00_HT" offset="00" relocatable="true" max_length="0">
 			<original>ふ～、ちょっとアセったわ～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 ともあれ ４号、おつかれさま～</original>
-			<edited>ふ～、ちょっとアセったわ～&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>ふ～、ちょっとアセったわ～&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 ともあれ ４号、おつかれさま～</edited>
 			<subEntries />
 		</entry>
@@ -415,13 +415,13 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		</entry>
 		<entry name="BossSmashFadeTalk_2_02_AOS" offset="00" relocatable="true" max_length="0">
 			<original>……… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ヒキ… &#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;ヒキ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;セ…</original>
-			<edited>……… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ヒキ… &#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;ヒキ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;セ…</edited>
+			<edited>……… &#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;ヒキ… &#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0;ヒキ… &#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;セ…</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_2_03_HT" offset="00" relocatable="true" max_length="0">
 			<original>ん？ なんね？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 無線の調子が、悪いのかな？</original>
-			<edited>ん？ なんね？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>ん？ なんね？&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 無線の調子が、悪いのかな？</edited>
 			<subEntries />
 		</entry>
@@ -442,7 +442,7 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		<entry name="BossSmashFadeTalk_2_06_HT" offset="00" relocatable="true" max_length="0">
 			<original>はいはい…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; じゃ、使わない時は
 無線の電源も 切っとかんとね～</original>
-			<edited>はいはい…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; じゃ、使わない時は
+			<edited>はいはい…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0; じゃ、使わない時は
 無線の電源も 切っとかんとね～</edited>
 			<subEntries />
 		</entry>
@@ -475,14 +475,14 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		<entry name="BossSmashFadeTalk_3_04_HT" offset="00" relocatable="true" max_length="0">
 			<original>アタシ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;オオデンチナマズが消えた日に いなくなった
 もう一人のシオカラーズ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アオリ&#xE;&#x0;&#x3;&#x2;ÿÿちゃんも 探してるんよ！</original>
-			<edited>アタシ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;オオデンチナマズが消えた日に いなくなった
+			<edited>アタシ… &#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;オオデンチナマズが消えた日に いなくなった
 もう一人のシオカラーズ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;アオリ&#xE;&#x0;&#x3;&#x2;ÿÿちゃんも 探してるんよ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_3_05_HT" offset="00" relocatable="true" max_length="0">
 			<original>……えっ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 知ってた？！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 ええっ！！ あ、そう…</original>
-			<edited>……えっ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 知ってた？！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>……えっ！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0; 知ってた？！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 ええっ！！ あ、そう…</edited>
 			<subEntries />
 		</entry>
@@ -510,32 +510,32 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		<entry name="BossSmashFadeTalk_3_09_HT" offset="00" relocatable="true" max_length="0">
 			<original>今まで だまってて メンゴね…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 でも ４号がいたから ここまで来れたんよ</original>
-			<edited>今まで だまってて メンゴね…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>今まで だまってて メンゴね…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 でも ４号がいたから ここまで来れたんよ</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_3_10_HT" offset="00" relocatable="true" max_length="0">
 			<original>あとちょっとで きっと アオリちゃんも見つかるはず！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 お願い、もうちょっとだけ アタシにつきあってくれる？</original>
-			<edited>あとちょっとで きっと アオリちゃんも見つかるはず！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>あとちょっとで きっと アオリちゃんも見つかるはず！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 お願い、もうちょっとだけ アタシにつきあってくれる？</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_3_11_AOS" offset="00" relocatable="true" max_length="0">
 			<original>ヒキ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;セ…&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; ヒキカエセ……！！</original>
-			<edited>ヒキ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;セ…&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; ヒキカエセ……！！</edited>
+			<edited>ヒキ… &#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;セ…&#xE;&#x1;&#x0;&#x4;&lt;&#x0;&#x0;&#x0; ヒキカエセ……！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_3_12_HT" offset="00" relocatable="true" max_length="0">
 			<original>なんね？ また 無線が乗っ取られてる？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 ジャマするなら とっちめるよ～、４号が！</original>
-			<edited>なんね？ また 無線が乗っ取られてる？&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>なんね？ また 無線が乗っ取られてる？&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 ジャマするなら とっちめるよ～、４号が！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_4_00_AOS_R" offset="00" relocatable="true" max_length="0">
 			<original>ヒキカエセ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ココカラ ヒキカエセ…</original>
-			<edited>ヒキカエセ… &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ココカラ ヒキカエセ…</edited>
+			<edited>ヒキカエセ… &#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;ココカラ ヒキカエセ…</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_4_01_HT" offset="00" relocatable="true" max_length="0">
@@ -545,7 +545,7 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		</entry>
 		<entry name="BossSmashFadeTalk_4_02_AOS" offset="00" relocatable="true" max_length="0">
 			<original>ア！ &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ホント ダ！</original>
-			<edited>ア！ &#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;ホント ダ！</edited>
+			<edited>ア！ &#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;ホント ダ！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_4_03_HT" offset="00" relocatable="true" max_length="0">
@@ -556,7 +556,7 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		<entry name="BossSmashFadeTalk_4_04_AOS" offset="00" relocatable="true" max_length="0">
 			<original>アッ… アオリ デハナイッ！ イイカラ ヒキカエスノダ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 アブナイシ、キケンダゾ…！</original>
-			<edited>アッ… アオリ デハナイッ！ イイカラ ヒキカエスノダ…&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>アッ… アオリ デハナイッ！ イイカラ ヒキカエスノダ…&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 アブナイシ、キケンダゾ…！</edited>
 			<subEntries />
 		</entry>
@@ -568,21 +568,21 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		<entry name="BossSmashFadeTalk_4_06_AOS" offset="00" relocatable="true" max_length="0">
 			<original>ト、トニカク ヒキカエスノダーッ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 モウ カケナイカラ！！</original>
-			<edited>ト、トニカク ヒキカエスノダーッ！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>ト、トニカク ヒキカエスノダーッ！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 モウ カケナイカラ！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_4_07_HT" offset="00" relocatable="true" max_length="0">
 			<original>ちょ、ちょっと！ 待って！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 アオリちゃん！ アオリちゃん？！</original>
-			<edited>ちょ、ちょっと！ 待って！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>ちょ、ちょっと！ 待って！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 アオリちゃん！ アオリちゃん？！</edited>
 			<subEntries />
 		</entry>
 		<entry name="BossSmashFadeTalk_4_08_HT" offset="00" relocatable="true" max_length="0">
 			<original>…どうやら、アオリちゃんが タコ達に協力してるみたい&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 ４号、アオリちゃんを連れもどすの 手伝ってくれる？</original>
-			<edited>…どうやら、アオリちゃんが タコ達に協力してるみたい&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>…どうやら、アオリちゃんが タコ達に協力してるみたい&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 ４号、アオリちゃんを連れもどすの 手伝ってくれる？</edited>
 			<subEntries />
 		</entry>
@@ -594,7 +594,7 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		<entry name="BossSmashFadeTalk_4_10_HT" offset="00" relocatable="true" max_length="0">
 			<original>だまってるってことは、YESってことやね！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
 やっぱイカしてる！ それじゃ、レッツゴ～！</original>
-			<edited>だまってるってことは、YESってことやね！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0;
+			<edited>だまってるってことは、YESってことやね！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0;
 やっぱイカしてる！ それじゃ、レッツゴ～！</edited>
 			<subEntries />
 		</entry>
@@ -625,12 +625,12 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		</entry>
 		<entry name="StageClearTalk_02_01" offset="00" relocatable="true" max_length="0">
 			<original>おつ～！ …そだ、&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マップ&#xE;&#x0;&#x3;&#x2;ÿÿで エリアを移動できるよ</original>
-			<edited>おつ～！ …そだ、&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マップ&#xE;&#x0;&#x3;&#x2;ÿÿで エリアを移動できるよ</edited>
+			<edited>おつ～！ …そだ、&#xE;&#x2;&#25;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;の&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;マップ&#xE;&#x0;&#x3;&#x2;ÿÿで エリアを移動できるよ</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_02_02" offset="00" relocatable="true" max_length="0">
 			<original>おつ～！ …そだ、&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;から 今までの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;きろく&#xE;&#x0;&#x3;&#x2;ÿÿも見れるよ</original>
-			<edited>おつ～！ …そだ、&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;から 今までの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;きろく&#xE;&#x0;&#x3;&#x2;ÿÿも見れるよ</edited>
+			<edited>おつ～！ …そだ、&#xE;&#x2;&#25;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;から 今までの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;きろく&#xE;&#x0;&#x3;&#x2;ÿÿも見れるよ</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_02_03" offset="00" relocatable="true" max_length="0">
@@ -640,7 +640,7 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		</entry>
 		<entry name="StageClearTalk_02_04" offset="00" relocatable="true" max_length="0">
 			<original>…そだ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイカラスクエアへもどる&#xE;&#x0;&#x3;&#x2;ÿÿなら &#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;からの&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ね</original>
-			<edited>…そだ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイカラスクエアへもどる&#xE;&#x0;&#x3;&#x2;ÿÿなら &#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;からの&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ね</edited>
+			<edited>…そだ、&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイカラスクエアへもどる&#xE;&#x0;&#x3;&#x2;ÿÿなら &#xE;&#x2;&#25;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;からの&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ね</edited>
 			<subEntries />
 		</entry>
 		<entry name="StageClearTalk_02_05" offset="00" relocatable="true" max_length="0">
@@ -1182,17 +1182,17 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		</entry>
 		<entry name="Talk_Free_911" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;エリアを移動&#xE;&#x0;&#x3;&#x2;ÿÿしたいなら、&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して えらんでね</original>
-			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;エリアを移動&#xE;&#x0;&#x3;&#x2;ÿÿしたいなら、&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して えらんでね</edited>
+			<edited>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;エリアを移動&#xE;&#x0;&#x3;&#x2;ÿÿしたいなら、&#xE;&#x2;&#25;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;押して えらんでね</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_912" offset="00" relocatable="true" max_length="0">
 			<original>今までの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;きろく&#xE;&#x0;&#x3;&#x2;ÿÿ見たいなら&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;からね</original>
-			<edited>今までの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;きろく&#xE;&#x0;&#x3;&#x2;ÿÿ見たいなら&#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;からね</edited>
+			<edited>今までの&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;きろく&#xE;&#x0;&#x3;&#x2;ÿÿ見たいなら&#xE;&#x2;&#25;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;からね</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_913" offset="00" relocatable="true" max_length="0">
 			<original>すぐに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイカラスクエアへもどる&#xE;&#x0;&#x3;&#x2;ÿÿなら &#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;からの&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ね</original>
-			<edited>すぐに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイカラスクエアへもどる&#xE;&#x0;&#x3;&#x2;ÿÿなら &#xE;&#x2;&#x19;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;からの&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ね</edited>
+			<edited>すぐに&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;ハイカラスクエアへもどる&#xE;&#x0;&#x3;&#x2;ÿÿなら &#xE;&#x2;&#25;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;からの&#xE;&#x2; &#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;ね</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_914" offset="00" relocatable="true" max_length="0">
@@ -1207,7 +1207,7 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		</entry>
 		<entry name="Talk_Free_916" offset="00" relocatable="true" max_length="0">
 			<original>「カベなら&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打で素早く登る！」 戦場の鉄則ゥ</original>
-			<edited>「カベなら&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打で素早く登る！」 戦場の鉄則ゥ</edited>
+			<edited>「カベなら&#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;連打で素早く登る！」 戦場の鉄則ゥ</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Free_917" offset="00" relocatable="true" max_length="0">
@@ -1272,7 +1272,7 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		</entry>
 		<entry name="Talk_Uza_901" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…チラッ）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（…チラッ）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（……偷瞄。）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Uza_902" offset="00" relocatable="true" max_length="0">
@@ -1287,7 +1287,7 @@ New！カラストンビ部隊 隊員&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;４号&#xE;&#
 		</entry>
 		<entry name="Talk_Uza_904" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（カフェオレ飲もっかな～…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</original>
-			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（カフェオレ飲もっかな～…）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
+			<edited>&#xE;&#x6;&#x0;&#x0;&#xE;&#x0;&#x3;&#x2;&#x2;&#x0;（要不要喝欧蕾咖啡呢～）&#xE;&#x0;&#x3;&#x2;ÿÿ&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="Talk_Uza_905" offset="00" relocatable="true" max_length="0">

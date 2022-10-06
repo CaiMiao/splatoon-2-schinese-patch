@@ -5,12 +5,12 @@
 	<entries>
 		<entry name="L_CircleTimer_00-T_Ok_00" offset="00" relocatable="true" max_length="0">
 			<original>OK!</original>
-			<edited>OK!</edited>
+			<edited>OK！</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Keep_00" offset="00" relocatable="true" max_length="0">
 			<original>そのまま！</original>
-			<edited>就是这样！</edited>
+			<edited>维持这样！</edited>
 			<subEntries />
 		</entry>
 	</entries>

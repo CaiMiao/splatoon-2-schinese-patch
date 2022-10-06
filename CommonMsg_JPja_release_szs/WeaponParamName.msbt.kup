@@ -20,17 +20,17 @@
 		</entry>
 		<entry name="Explosion" offset="00" relocatable="true" max_length="0">
 			<original>爆発力</original>
-			<edited>爆炸力</edited>
+			<edited>爆发力</edited>
 			<subEntries />
 		</entry>
 		<entry name="PaintSpeed" offset="00" relocatable="true" max_length="0">
 			<original>塗り進み速度</original>
-			<edited>涂抹速度</edited>
+			<edited>涂墨前进速度</edited>
 			<subEntries />
 		</entry>
 		<entry name="Weight" offset="00" relocatable="true" max_length="0">
 			<original>軽さ</original>
-			<edited>重量</edited>
+			<edited>轻巧度</edited>
 			<subEntries />
 		</entry>
 		<entry name="Charge" offset="00" relocatable="true" max_length="0">

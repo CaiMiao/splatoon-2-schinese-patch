@@ -5,66 +5,67 @@
 	<entries>
 		<entry name="cPnt" offset="00" relocatable="true" max_length="0">
 			<original>ナワバリバトル</original>
-			<edited>地盘战</edited>
+			<edited>占地对战</edited>
 			<subEntries />
 		</entry>
 		<entry name="cPnt_2L" offset="00" relocatable="true" max_length="0">
 			<original>ナワバリ
 バトル</original>
-			<edited>地盘战</edited>
+			<edited>占地
+对战</edited>
 			<subEntries />
 		</entry>
 		<entry name="cVgl" offset="00" relocatable="true" max_length="0">
 			<original>ガチホコバトル</original>
-			<edited>认真鱼虎战</edited>
+			<edited>真格鱼虎对战</edited>
 			<subEntries />
 		</entry>
 		<entry name="cVgl_2L" offset="00" relocatable="true" max_length="0">
 			<original>ガチホコ
 バトル</original>
-			<edited>认真
-鱼虎战</edited>
+			<edited>真格鱼虎
+对战</edited>
 			<subEntries />
 		</entry>
 		<entry name="cVar" offset="00" relocatable="true" max_length="0">
 			<original>ガチエリア</original>
-			<edited>认真守地战</edited>
+			<edited>真格区域</edited>
 			<subEntries />
 		</entry>
 		<entry name="cVar_2L" offset="00" relocatable="true" max_length="0">
 			<original>ガチ
 エリア</original>
-			<edited>认真
-守地战</edited>
+			<edited>真格
+区域</edited>
 			<subEntries />
 		</entry>
 		<entry name="cVlf" offset="00" relocatable="true" max_length="0">
 			<original>ガチヤグラ</original>
-			<edited>认真攻城战</edited>
+			<edited>真格塔楼</edited>
 			<subEntries />
 		</entry>
 		<entry name="cVlf_2L" offset="00" relocatable="true" max_length="0">
 			<original>ガチ
 ヤグラ</original>
-			<edited>认真
-攻城战</edited>
+			<edited>真格
+塔楼</edited>
 			<subEntries />
 		</entry>
 		<entry name="cVcl" offset="00" relocatable="true" max_length="0">
 			<original>ガチアサリ</original>
-			<edited>认真投蛤战</edited>
+			<edited>真格蛤蜊</edited>
 			<subEntries />
 		</entry>
 		<entry name="cVcl_2L" offset="00" relocatable="true" max_length="0">
 			<original>ガチ
 アサリ</original>
-			<edited>认真
-投蛤战</edited>
+			<edited>真格
+蛤蜊</edited>
 			<subEntries />
 		</entry>
 		<entry name="cFes" offset="00" relocatable="true" max_length="0">
 			<original>ナワバリバトル（フェス）</original>
-			<edited>地盘战（FES）</edited>
+			<edited>占地对战（祭典）</edited>
 			<subEntries />
 		</entry>
 	</entries>

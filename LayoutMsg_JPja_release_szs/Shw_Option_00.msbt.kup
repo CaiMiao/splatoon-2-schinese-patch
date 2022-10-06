@@ -5,14 +5,14 @@
 	<entries>
 		<entry name="L_Option_06-T_Header_00" offset="00" relocatable="true" max_length="0">
 			<original>色覚サポート</original>
-			<edited>色觉支援</edited>
+			<edited>色彩辅助辨识</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_Exp_01" offset="00" relocatable="true" max_length="0">
 			<original>インターネット対戦などで インクカラーが 見分けやすくなるよう
 色を固定します</original>
-			<edited>在联网对战等场合固定颜色 使得墨汁颜色
-能够更容易分辨</edited>
+			<edited>在互联网对战时，可以固定颜色以便更容易识别墨汁颜色
+</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_05-T_Header_00" offset="00" relocatable="true" max_length="0">
@@ -22,12 +22,12 @@
 		</entry>
 		<entry name="L_Option_05-T_BtnL_00" offset="00" relocatable="true" max_length="0">
 			<original>ON</original>
-			<edited>ON</edited>
+			<edited>开启</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_05-T_BtnR_00" offset="00" relocatable="true" max_length="0">
 			<original>OFF</original>
-			<edited>OFF</edited>
+			<edited>关闭</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_04-T_Header_00" offset="00" relocatable="true" max_length="0">
@@ -42,7 +42,7 @@
 		</entry>
 		<entry name="L_Option_03-T_BtnL_00" offset="00" relocatable="true" max_length="0">
 			<original>ノーマル</original>
-			<edited>普通</edited>
+			<edited>正常</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_03-T_BtnR_00" offset="00" relocatable="true" max_length="0">
@@ -52,12 +52,12 @@
 		</entry>
 		<entry name="L_Option_02-T_Header_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;操作感度</original>
-			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;灵敏度</edited>
+			<edited>&#xE;&#x2;#&#x8;&lt;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;操作灵敏度</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_01-T_Header_00" offset="00" relocatable="true" max_length="0">
 			<original>ジャイロ操作感度</original>
-			<edited>陀螺仪灵敏度</edited>
+			<edited>陀螺仪操作灵敏度</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_OptionBtn_00-T_Btn_00" offset="00" relocatable="true" max_length="0">
@@ -67,12 +67,12 @@
 		</entry>
 		<entry name="L_OptionBtn_01-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>色覚サポート</original>
-			<edited>色觉支援</edited>
+			<edited>色彩辅助辨识</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_OptionBtn_02-T_Btn_00" offset="00" relocatable="true" max_length="0">
 			<original>設定完了</original>
-			<edited>设定结束</edited>
+			<edited>设置完毕</edited>
 			<subEntries />
 		</entry>
 		<entry name="T_CameraOption_00" offset="00" relocatable="true" max_length="0">
@@ -82,17 +82,17 @@
 		</entry>
 		<entry name="L_Option_03-T_Msg_00" offset="00" relocatable="true" max_length="0">
 			<original>ジャイロ操作がONの時は無効です</original>
-			<edited>陀螺仪操作为ON时无效</edited>
+			<edited>陀螺仪操作设为开启时无效</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_06-T_BtnL_00" offset="00" relocatable="true" max_length="0">
 			<original>OFF</original>
-			<edited>OFF</edited>
+			<edited>关闭</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Option_06-T_BtnR_00" offset="00" relocatable="true" max_length="0">
 			<original>ON</original>
-			<edited>ON</edited>
+			<edited>开启</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_BackBtn_01-T_Info_00" offset="00" relocatable="true" max_length="0">

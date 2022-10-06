@@ -16,8 +16,8 @@
 		<entry name="T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x1F;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押しながら&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で
  スーパージャンプ</original>
-			<edited>&#xE;&#x2;&#x1F;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を押しながら&#xE;&#x2;&#x17;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;で
- スーパージャンプ</edited>
+			<edited>按住&#xE;&#x2;&#31;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;用&#xE;&#x2;&#23;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;来
+超级跳跃</edited>
 			<subEntries />
 		</entry>
 	</entries>

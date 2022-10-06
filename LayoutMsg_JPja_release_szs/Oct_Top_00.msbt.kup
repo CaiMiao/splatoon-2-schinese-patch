@@ -10,7 +10,7 @@
 		</entry>
 		<entry name="L_RespawnCountOcta_00-T_Point_00" offset="00" relocatable="true" max_length="0">
 			<original>NAMACOポイントが足りません</original>
-			<edited>NAMACOポイントが足りません</edited>
+			<edited>NAMACO点数不够</edited>
 			<subEntries />
 		</entry>
 	</entries>

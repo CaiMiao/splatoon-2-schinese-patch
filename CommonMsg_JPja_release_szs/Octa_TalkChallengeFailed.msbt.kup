@@ -75,17 +75,17 @@
 		</entry>
 		<entry name="Obj_DefenceGoalLastBossOcta_00" offset="00" relocatable="true" max_length="0">
 			<original>ああっ……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; エネルギーコア、限界です…！！</original>
-			<edited>ああっ……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; エネルギーコア、限界です…！！</edited>
+			<edited>ああっ……&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0; エネルギーコア、限界です…！！</edited>
 			<subEntries />
 		</entry>
 		<entry name="Obj_DefenceGoalLastBossOcta_01" offset="00" relocatable="true" max_length="0">
 			<original>ハチーーーーーッ&#xE;&#x6;&#x0;&#x0;！&#xF;&#x6;&#x0;&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; エネルギーコアがぁーーーーーーー&#xE;&#x6;&#x0;&#x0;！！&#xF;&#x6;&#x0;</original>
-			<edited>ハチーーーーーッ&#xE;&#x6;&#x0;&#x0;！&#xF;&#x6;&#x0;&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; エネルギーコアがぁーーーーーーー&#xE;&#x6;&#x0;&#x0;！！&#xF;&#x6;&#x0;</edited>
+			<edited>ハチーーーーーッ&#xE;&#x6;&#x0;&#x0;！&#xF;&#x6;&#x0;&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0; エネルギーコアがぁーーーーーーー&#xE;&#x6;&#x0;&#x0;！！&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBossApproachStageDie_00" offset="00" relocatable="true" max_length="0">
 			<original>８号、応答されたし？！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 応答されたしーーーーーーーッ&#xE;&#x6;&#x0;&#x0;！！！&#xF;&#x6;&#x0;</original>
-			<edited>８号、応答されたし？！&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; 応答されたしーーーーーーーッ&#xE;&#x6;&#x0;&#x0;！！！&#xF;&#x6;&#x0;</edited>
+			<edited>８号、応答されたし？！&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0; 応答されたしーーーーーーーッ&#xE;&#x6;&#x0;&#x0;！！！&#xF;&#x6;&#x0;</edited>
 			<subEntries />
 		</entry>
 		<entry name="LastBossApproachStageDie_01" offset="00" relocatable="true" max_length="0">
@@ -95,7 +95,7 @@
 		</entry>
 		<entry name="LastBossApproachStageDie_02" offset="00" relocatable="true" max_length="0">
 			<original>そんな……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ８号さん……？！ </original>
-			<edited>そんな……&#xE;&#x1;&#x0;&#x4;&#x1E;&#x0;&#x0;&#x0; ８号さん……？！ </edited>
+			<edited>そんな……&#xE;&#x1;&#x0;&#x4;&#30;&#x0;&#x0;&#x0; ８号さん……？！ </edited>
 			<subEntries />
 		</entry>
 	</entries>

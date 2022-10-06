@@ -5,7 +5,7 @@
 	<entries>
 		<entry name="Syasyo_0000" offset="00" relocatable="true" max_length="0">
 			<original>ジャンプマットの上で&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を長押しするのでス</original>
-			<edited>ジャンプマットの上で&#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を長押しするのでス</edited>
+			<edited>ジャンプマットの上で&#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;を長押しするのでス</edited>
 			<subEntries />
 		</entry>
 		<entry name="Syasyo_0001" offset="00" relocatable="true" max_length="0">
@@ -25,7 +25,7 @@
 		</entry>
 		<entry name="FireBar_0001" offset="00" relocatable="true" max_length="0">
 			<original>ナイスじゃ！</original>
-			<edited>ナイスじゃ！</edited>
+			<edited>干得漂亮！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FireBar_0002" offset="00" relocatable="true" max_length="0">
@@ -70,7 +70,7 @@
 		</entry>
 		<entry name="FireBar_0010" offset="00" relocatable="true" max_length="0">
 			<original>あ、ヌリヌリ棒です！ &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しして よけましょう！</original>
-			<edited>あ、ヌリヌリ棒です！ &#xE;&#x2;&#x18;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しして よけましょう！</edited>
+			<edited>あ、ヌリヌリ棒です！ &#xE;&#x2;&#24;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;長押しして よけましょう！</edited>
 			<subEntries />
 		</entry>
 		<entry name="FireBar_0011" offset="00" relocatable="true" max_length="0">
@@ -85,7 +85,7 @@
 		</entry>
 		<entry name="FireBar_0013" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;インクショットで、ゴールポイントを起動させましょう！</original>
-			<edited>&#xE;&#x2;&#x1E;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;インクショットで、ゴールポイントを起動させましょう！</edited>
+			<edited>&#xE;&#x2;&#30;&#x8;F&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;インクショットで、ゴールポイントを起動させましょう！</edited>
 			<subEntries />
 		</entry>
 	</entries>

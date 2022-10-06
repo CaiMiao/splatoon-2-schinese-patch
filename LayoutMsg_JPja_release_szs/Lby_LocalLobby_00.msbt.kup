@@ -6,8 +6,8 @@
 		<entry name="000" offset="00" relocatable="true" max_length="0">
 			<original>&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;プライベートマッチ &#xE;&#x0;&#x3;&#x2;ÿÿや &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;SALMON RUN&#xE;&#x0;&#x3;&#x2;ÿÿ で
 遊ぶ仲間を募集している 近くの人をさがします</original>
-			<edited>寻找身边正招募 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;私人比赛 &#xE;&#x0;&#x3;&#x2;ÿÿ或
-&#xE;&#x0;&#x3;&#x2;&#x0;&#x0;SALMON RUN&#xE;&#x0;&#x3;&#x2;ÿÿ 游玩同伴的人</edited>
+			<edited>寻找身边正召集 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;私人比赛&#xE;&#x0;&#x3;&#x2;ÿÿ
+或 &#xE;&#x0;&#x3;&#x2;&#x0;&#x0;SALMON RUN&#xE;&#x0;&#x3;&#x2;ÿÿ 游玩同伴的人</edited>
 			<subEntries />
 		</entry>
 		<entry name="001" offset="00" relocatable="true" max_length="0">
@@ -73,12 +73,12 @@
 		</entry>
 		<entry name="T_LocalTitle_00" offset="00" relocatable="true" max_length="0">
 			<original>イカッチャ</original>
-			<edited>墨潮玩</edited>
+			<edited>鱿乐天地</edited>
 			<subEntries />
 		</entry>
 		<entry name="L_Manual_00-T_Info_00" offset="00" relocatable="true" max_length="0">
 			<original>あそびかた説明</original>
-			<edited>游玩方法说明</edited>
+			<edited>玩法说明</edited>
 			<subEntries />
 		</entry>
 	</entries>
